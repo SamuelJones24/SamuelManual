@@ -10,7 +10,7 @@
             "discount_percent": 33.3338888981483,
             "priority_score": 814.1155808908793,
             "reviews": 953,
-            "image_url": "/images/6532530.jpg"
+            "image_url": "images/6532530.jpg"
         },
         {
             "category": "TVs and Home Theater",
@@ -21,7 +21,7 @@
             "discount_percent": 20.80083203328133,
             "priority_score": 581.2501062571428,
             "reviews": 1745,
-            "image_url": "/images/6278202.jpg"
+            "image_url": "images/6278202.jpg"
         }
     ]
 }

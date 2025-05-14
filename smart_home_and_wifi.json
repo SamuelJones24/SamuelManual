@@ -10,7 +10,7 @@
             "discount_percent": 32.001280051202045,
             "priority_score": 572.1266099511192,
             "reviews": 1085,
-            "image_url": "/images/6402543.jpg"
+            "image_url": "images/6402543.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -21,7 +21,7 @@
             "discount_percent": 35.00194455247513,
             "priority_score": 534.3386065201411,
             "reviews": 644,
-            "image_url": "/images/6517757.jpg"
+            "image_url": "images/6517757.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -32,7 +32,7 @@
             "discount_percent": 25.926886180969667,
             "priority_score": 475.5945493879753,
             "reviews": 301,
-            "image_url": "/images/6540360.jpg"
+            "image_url": "images/6540360.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -43,7 +43,7 @@
             "discount_percent": 13.333629636214136,
             "priority_score": 468.2645486709728,
             "reviews": 2458,
-            "image_url": "/images/6559342.jpg"
+            "image_url": "images/6559342.jpg"
         }
     ]
 }

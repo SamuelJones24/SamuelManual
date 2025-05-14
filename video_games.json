@@ -10,7 +10,7 @@
             "discount_percent": 22.857795937026772,
             "priority_score": 535.9026234434824,
             "reviews": 1412,
-            "image_url": "/images/6506344.jpg"
+            "image_url": "images/6506344.jpg"
         },
         {
             "category": "Video Games",
@@ -21,7 +21,7 @@
             "discount_percent": 19.714848995685593,
             "priority_score": 474.7122652058047,
             "reviews": 736,
-            "image_url": "/images/6576926.jpg"
+            "image_url": "images/6576926.jpg"
         },
         {
             "category": "Video Games",
@@ -32,7 +32,7 @@
             "discount_percent": 46.68222740913638,
             "priority_score": 418.3273636129905,
             "reviews": 1031,
-            "image_url": "/images/6472018.jpg"
+            "image_url": "images/6472018.jpg"
         },
         {
             "category": "Video Games",
@@ -43,7 +43,7 @@
             "discount_percent": 10.00020000400008,
             "priority_score": 341.63439794962983,
             "reviews": 202,
-            "image_url": "/images/6538282.jpg"
+            "image_url": "images/6538282.jpg"
         }
     ]
 }

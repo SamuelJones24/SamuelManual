@@ -499,6 +499,7 @@ for product in unique_products:
         "image_url": product[8]
     })
 
+driver.quit()
 # Save each category to its own JSON file
 save_category_jsons(json_ready_products)
 

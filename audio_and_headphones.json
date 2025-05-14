@@ -10,7 +10,7 @@
             "discount_percent": 20.00040000800016,
             "priority_score": 553.5227443093258,
             "reviews": 1128,
-            "image_url": "/images/6514475.jpg"
+            "image_url": "images/6514475.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -21,7 +21,7 @@
             "discount_percent": 50.03335557038026,
             "priority_score": 488.8320561880556,
             "reviews": 7908,
-            "image_url": "/images/5739305.jpg"
+            "image_url": "images/5739305.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -32,7 +32,7 @@
             "discount_percent": 12.500312507812694,
             "priority_score": 459.6249037378075,
             "reviews": 3781,
-            "image_url": "/images/6187502.jpg"
+            "image_url": "images/6187502.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -43,7 +43,7 @@
             "discount_percent": 20.00080003200128,
             "priority_score": 442.5149931135337,
             "reviews": 831,
-            "image_url": "/images/6214340.jpg"
+            "image_url": "images/6214340.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -54,7 +54,7 @@
             "discount_percent": 22.33407780259342,
             "priority_score": 436.0381351158473,
             "reviews": 195,
-            "image_url": "/images/6575080.jpg"
+            "image_url": "images/6575080.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -65,7 +65,7 @@
             "discount_percent": 12.500312507812694,
             "priority_score": 422.3363239751631,
             "reviews": 1344,
-            "image_url": "/images/6370597.jpg"
+            "image_url": "images/6370597.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -76,7 +76,7 @@
             "discount_percent": 25.00125006250312,
             "priority_score": 351.1161032964769,
             "reviews": 32,
-            "image_url": "/images/6620180.jpg"
+            "image_url": "images/6620180.jpg"
         }
     ]
 }

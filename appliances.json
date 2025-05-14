@@ -10,7 +10,7 @@
             "discount_percent": 6.250019531311035,
             "priority_score": 613.3851531281114,
             "reviews": 155,
-            "image_url": "/images/6571681.jpg"
+            "image_url": "images/6571681.jpg"
         },
         {
             "category": "Appliances",
@@ -21,7 +21,7 @@
             "discount_percent": 36.66788892963099,
             "priority_score": 553.8986399738662,
             "reviews": 64,
-            "image_url": "/images/6585782.jpg"
+            "image_url": "images/6585782.jpg"
         },
         {
             "category": "Appliances",
@@ -32,7 +32,7 @@
             "discount_percent": 16.24406710830224,
             "priority_score": 209.2203355415112,
             "reviews": 0,
-            "image_url": "/images/6618892.jpg"
+            "image_url": "images/6618892.jpg"
         }
     ]
 }
