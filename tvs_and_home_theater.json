@@ -1,0 +1,27 @@
+{
+    "last_updated": "2025-05-14T10:55:13.643013",
+    "deals": [
+        {
+            "category": "TVs and Home Theater",
+            "title": "JBL - BAR 500 5.1ch Soundbar with Multibeam and Dolby Atmos - Black",
+            "sku": "6532530",
+            "price": 599.99,
+            "savings": 200.0,
+            "discount_percent": 33.3338888981483,
+            "priority_score": 814.1155808908793,
+            "reviews": 953,
+            "image_url": "/images/6532530.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "Panasonic - Streaming 4K Ultra HD Hi - Res Audio with Dolby Vision 7.1 Channel DVD/CD/3D Wi - Fi Built - In Blu - Ray Player, DP - UB820 - K - Black",
+            "sku": "6278202",
+            "price": 499.98,
+            "savings": 104.0,
+            "discount_percent": 20.80083203328133,
+            "priority_score": 581.2501062571428,
+            "reviews": 1745,
+            "image_url": "/images/6278202.jpg"
+        }
+    ]
+}

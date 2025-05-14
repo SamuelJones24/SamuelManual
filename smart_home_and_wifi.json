@@ -1,0 +1,49 @@
+{
+    "last_updated": "2025-05-14T10:55:13.643013",
+    "deals": [
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Arlo - Pro 3 Floodlight Camera - FB1001 - White",
+            "sku": "6402543",
+            "price": 249.99,
+            "savings": 80.0,
+            "discount_percent": 32.001280051202045,
+            "priority_score": 572.1266099511192,
+            "reviews": 1085,
+            "image_url": "/images/6402543.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Arlo - Pro 5S 2K Indoor/Outdoor Wireless Spotlight Security Camera - White",
+            "sku": "6517757",
+            "price": 179.99,
+            "savings": 63.0,
+            "discount_percent": 35.00194455247513,
+            "priority_score": 534.3386065201411,
+            "reviews": 644,
+            "image_url": "/images/6517757.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Yale - Assure Lock 2 - Smart Lock Wi - Fi Deadbolt with Push Button Keypad | Key Access - Satin Nickel",
+            "sku": "6540360",
+            "price": 269.99,
+            "savings": 70.0,
+            "discount_percent": 25.926886180969667,
+            "priority_score": 475.5945493879753,
+            "reviews": 301,
+            "image_url": "/images/6540360.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
+            "sku": "6559342",
+            "price": 449.99,
+            "savings": 60.0,
+            "discount_percent": 13.333629636214136,
+            "priority_score": 468.2645486709728,
+            "reviews": 2458,
+            "image_url": "/images/6559342.jpg"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "last_updated": "2025-05-14T10:55:13.643013",
+    "deals": [
+        {
+            "category": "Appliances",
+            "title": "Samsung - Bespoke 29 Cu. Ft. 4 - Door Flex French Door Smart Refrigerator with AI Family Hub+ and AI Vision Inside - Stainless Steel",
+            "sku": "6571681",
+            "price": 3199.99,
+            "savings": 200.0,
+            "discount_percent": 6.250019531311035,
+            "priority_score": 613.3851531281114,
+            "reviews": 155,
+            "image_url": "/images/6571681.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Tineco - GO H2O XL Cordless Floor Washer - Grey",
+            "sku": "6585782",
+            "price": 299.99,
+            "savings": 110.0,
+            "discount_percent": 36.66788892963099,
+            "priority_score": 553.8986399738662,
+            "reviews": 64,
+            "image_url": "/images/6585782.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "iRobot - Roomba 105 Combo Vac Robot Vacuum & Mop + AutoEmpty Dock - Black",
+            "sku": "6618892",
+            "price": 393.99,
+            "savings": 64.0,
+            "discount_percent": 16.24406710830224,
+            "priority_score": 209.2203355415112,
+            "reviews": 0,
+            "image_url": "/images/6618892.jpg"
+        }
+    ]
+}

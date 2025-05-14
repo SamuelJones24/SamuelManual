@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Buy Deals</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="nav-container">
+            <h1 id="page-title">Best Buy Deals</h1>
+            <div class="controls">
+                
+                <button class="mobile-menu-toggle">☰</button>
+            </div>
+            <nav id="category-nav"></nav>
+        </div>
+    </header>
+    <div class="filter-container">
+        <button id="filter-btn" class="filter-btn">Filters ▼</button>
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Search deals...">
+            <button id="search-btn">Search</button>
+        </div>
+        <div id="filter-dropdown" class="filter-dropdown">
+            <button data-sort="priority">Best Deals</button>
+            <button data-sort="discount">Most Savings</button>
+            <button data-sort="reviews">Most Popular</button>
+        </div>
+    </div>
+    <div id="last-updated" class="last-updated"></div>
+
+    <div id="deals-container"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>

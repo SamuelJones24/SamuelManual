@@ -1,0 +1,49 @@
+{
+    "last_updated": "2025-05-14T10:55:13.643013",
+    "deals": [
+        {
+            "category": "Video Games",
+            "title": "SteelSeries - Arctis Nova Pro Wireless Multi Gaming Headset for Xbox Series X|S, Xbox One - Black",
+            "sku": "6506344",
+            "price": 349.99,
+            "savings": 80.0,
+            "discount_percent": 22.857795937026772,
+            "priority_score": 535.9026234434824,
+            "reviews": 1412,
+            "image_url": "/images/6506344.jpg"
+        },
+        {
+            "category": "Video Games",
+            "title": "SteelSeries - Arctis Nova Pro Wireless Multi Gaming Headset for PS5, PS4, PC, Switch - White",
+            "sku": "6576926",
+            "price": 349.99,
+            "savings": 69.0,
+            "discount_percent": 19.714848995685593,
+            "priority_score": 474.7122652058047,
+            "reviews": 736,
+            "image_url": "/images/6576926.jpg"
+        },
+        {
+            "category": "Video Games",
+            "title": "PowerA - Dual Charging Station for Xbox Series X|S - Black",
+            "sku": "6472018",
+            "price": 29.99,
+            "savings": 14.0,
+            "discount_percent": 46.68222740913638,
+            "priority_score": 418.3273636129905,
+            "reviews": 1031,
+            "image_url": "/images/6472018.jpg"
+        },
+        {
+            "category": "Video Games",
+            "title": "Arcade1Up - Mortal Kombat II Deluxe Arcade Game - Black",
+            "sku": "6538282",
+            "price": 499.99,
+            "savings": 50.0,
+            "discount_percent": 10.00020000400008,
+            "priority_score": 341.63439794962983,
+            "reviews": 202,
+            "image_url": "/images/6538282.jpg"
+        }
+    ]
+}

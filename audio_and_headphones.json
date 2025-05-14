@@ -1,0 +1,82 @@
+{
+    "last_updated": "2025-05-14T10:55:13.643013",
+    "deals": [
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - Boombox3 Portable Bluetooth Speaker - Black",
+            "sku": "6514475",
+            "price": 499.99,
+            "savings": 100.0,
+            "discount_percent": 20.00040000800016,
+            "priority_score": 553.5227443093258,
+            "reviews": 1128,
+            "image_url": "/images/6514475.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Sony - MDREX14AP Wired Earbud Headphones - Black",
+            "sku": "5739305",
+            "price": 14.99,
+            "savings": 7.5,
+            "discount_percent": 50.03335557038026,
+            "priority_score": 488.8320561880556,
+            "reviews": 7908,
+            "image_url": "/images/5739305.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Sony - STRDH590 - 725W 5.2 - Ch. Hi - Res 4K Ultra HD HDR A/V Home Theater Receiver - Black",
+            "sku": "6187502",
+            "price": 399.99,
+            "savings": 50.0,
+            "discount_percent": 12.500312507812694,
+            "priority_score": 459.6249037378075,
+            "reviews": 3781,
+            "image_url": "/images/6187502.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Logitech - G560 LIGHTSYNC 2.1 Bluetooth Gaming Speakers with Game Driven RGB Lighting (3 - Piece) - Black",
+            "sku": "6214340",
+            "price": 249.99,
+            "savings": 50.0,
+            "discount_percent": 20.00080003200128,
+            "priority_score": 442.5149931135337,
+            "reviews": 831,
+            "image_url": "/images/6214340.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Sennheiser - MOMENTUM True Wireless 4 Earbuds - Black",
+            "sku": "6575080",
+            "price": 299.99,
+            "savings": 67.0,
+            "discount_percent": 22.33407780259342,
+            "priority_score": 436.0381351158473,
+            "reviews": 195,
+            "image_url": "/images/6575080.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Bose - Portable Smart Speaker with built - in WiFi, Bluetooth, Google Assistant and Alexa Voice Control - Triple Black",
+            "sku": "6370597",
+            "price": 399.99,
+            "savings": 50.0,
+            "discount_percent": 12.500312507812694,
+            "priority_score": 422.3363239751631,
+            "reviews": 1344,
+            "image_url": "/images/6370597.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Sony - ULT FIELD 3 Wireless Speaker - Black",
+            "sku": "6620180",
+            "price": 199.99,
+            "savings": 50.0,
+            "discount_percent": 25.00125006250312,
+            "priority_score": 351.1161032964769,
+            "reviews": 32,
+            "image_url": "/images/6620180.jpg"
+        }
+    ]
+}

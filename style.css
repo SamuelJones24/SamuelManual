@@ -1,0 +1,341 @@
+/* Base Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f5f7;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* Header & Navigation */
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: #0046be;
+    position: relative;
+}
+
+#page-title {
+    color: white;
+    margin: 0;
+    font-size: 1.3rem;
+}
+
+.mobile-menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    padding: 5px;
+}
+
+#category-nav {
+    display: flex;
+    gap: 10px;
+}
+
+#category-nav button {
+    padding: 8px 16px;
+    border-radius: 4px;
+    border: none;
+    background: white;
+    color: #0046be;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+#category-nav button:hover {
+    background: #e6f0ff;
+}
+
+#category-nav button.active {
+    background: #002d72;
+    color: white;
+}
+
+/* Filter Button Styles */
+.filter-btn {
+    padding: 8px 16px;
+    border-radius: 4px;
+    border: none;
+    background: white;
+    color: #0046be;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    margin-left: 10px;
+    align-self: flex-start;
+}
+
+.filter-btn:hover {
+    background: #e6f0ff;
+}
+
+.filter-btn.active {
+    background: #0046be;
+    color: white;
+}
+
+.filter-dropdown {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: white;
+    min-width: 200px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    z-index: 1000;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.filter-container {
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.filter-dropdown button {
+    width: 100%;
+    text-align: left;
+    padding: 10px 16px;
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: #333;
+    transition: background 0.2s;
+}
+
+.filter-dropdown button:hover {
+    background: #f0f0f0;
+}
+
+.filter-dropdown.active {
+    display: block;
+}
+
+.priority-badge {
+    display: inline-block;
+    margin-left: 8px;
+    padding: 3px 8px;
+    background: #0046be;
+    color: white;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: bold;
+}
+
+/* Mobile adjustments */
+@media (max-width: 1024px) {
+    .filter-dropdown {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 90%;
+        max-width: 400px;
+    }
+    
+    .filter-btn {
+        padding: 8px 12px;
+        font-size: 0.9rem;
+    }
+}
+
+/* Search Bar Styles */
+.search-container {
+    display: flex;
+    margin-right: 10px;
+    flex-grow: 1;
+    max-width: 400px;
+    height: 100%;
+}
+
+#search-input {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px 0 0 4px;
+    flex-grow: 1;
+    font-size: 0.9rem;
+    height: 100%;
+}
+
+#search-btn {
+    padding: 8px 16px;
+    background: #0046be;
+    color: white;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    transition: background 0.2s;
+    height: fill;
+}
+
+#search-btn:hover {
+    background: #003399;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+    .controls {
+        flex-wrap: wrap;
+    }
+    
+    .search-container {
+        width: 100%;
+        height: 100%;
+        max-width: 300px;
+        margin: 0;
+    }
+}
+
+/* Main Content */
+main {
+    padding: 20px;
+}
+
+.deal-count {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 10px;
+    color: #666;
+    font-size: 0.9rem;
+}
+
+
+.last-updated {
+    grid-column: 1 / -1;
+    text-align: center;
+    color: #666;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    padding: 5px;
+    font-style: italic;
+}
+/* For better performance with many items */
+#deals-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    will-change: transform;
+}
+
+.deal-card {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.deal-card .category {
+    font-size: 0.8rem;
+    color: #666;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+
+.deal-card:hover {
+    transform: translateY(-5px);
+}
+
+.deal-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: contain;
+    padding: 15px;
+    background: #f9f9f9;
+}
+
+.deal-card h2 {
+    font-size: 16px;
+    margin: 15px;
+    color: #333;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.price-info {
+    padding: 0 15px 15px;
+}
+
+.price {
+    font-size: 18px;
+    font-weight: bold;
+    color: #0046be;
+    margin-bottom: 5px;
+}
+
+.savings {
+    color: #bb0628;
+    font-weight: 500;
+}
+
+.reviews, .sku {
+    color: #666;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+    margin-top: 30px;
+}
+
+
+
+/* Mobile Styles */
+@media (max-width: 1024px) {
+    .mobile-menu-toggle {
+        display: block;
+    }
+    
+    #category-nav {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background: #f0f0f0;
+        flex-direction: column;
+        padding: 10px;
+        z-index: 100;
+    }
+    
+    #category-nav.active {
+        display: flex;
+    }
+    
+    #category-nav button {
+        width: 100%;
+        text-align: left;
+        margin: 2px 0;
+    }
+}
+
+/* Utility Classes */
+.loading {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.error, .no-deals {
+    text-align: center;
+    padding: 40px;
+    color: #bb0628;
+}
