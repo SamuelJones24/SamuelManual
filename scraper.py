@@ -91,7 +91,7 @@ def download_image(image_url, sku):
         if response.status_code == 200:
             with open(image_path, "wb") as f:
                 f.write(response.content)
-            return f"/images/{sku}.jpg"
+            return f"images/{sku}.jpg"
         else:
             print(f"❌ Failed to download image for SKU {sku}: Status {response.status_code}")
     except Exception as e:
