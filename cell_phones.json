@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-05-14T10:55:13.643013",
+    "last_updated": "2025-05-16T13:33:11.201122",
     "deals": [
+        {
+            "category": "Cell Phones",
+            "title": "Samsung - Galaxy S25 128GB (Unlocked) - Navy",
+            "sku": "6612706",
+            "price": 799.99,
+            "savings": 85.0,
+            "discount_percent": 10.625132814160176,
+            "priority_score": 346.98057183047274,
+            "reviews": 30,
+            "image_url": "images/6612706.jpg"
+        },
         {
             "category": "Cell Phones",
             "title": "Boost Mobile - Moto G 5G 2024 128GB Prepaid - Sage Green",

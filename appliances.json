@@ -1,16 +1,16 @@
 {
-    "last_updated": "2025-05-14T10:55:13.643013",
+    "last_updated": "2025-05-16T13:33:11.201122",
     "deals": [
         {
             "category": "Appliances",
-            "title": "Samsung - Bespoke 29 Cu. Ft. 4 - Door Flex French Door Smart Refrigerator with AI Family Hub+ and AI Vision Inside - Stainless Steel",
-            "sku": "6571681",
-            "price": 3199.99,
+            "title": "Whirlpool - 24.5 Cu. Ft. French Door Refrigerator with Two - Tier Freezer Storage - Fingerprint Resistant Stainless Steel",
+            "sku": "6595028",
+            "price": 2199.99,
             "savings": 200.0,
-            "discount_percent": 6.250019531311035,
-            "priority_score": 613.3851531281114,
-            "reviews": 155,
-            "image_url": "images/6571681.jpg"
+            "discount_percent": 9.09095041341097,
+            "priority_score": 603.5029544392389,
+            "reviews": 79,
+            "image_url": "images/6595028.jpg"
         },
         {
             "category": "Appliances",
@@ -25,13 +25,35 @@
         },
         {
             "category": "Appliances",
+            "title": "New! - iRobot - Roomba Max 705 Vac Robot Vacuum + AutoEmpty Dock - Black",
+            "sku": "6618888",
+            "price": 899.99,
+            "savings": 200.0,
+            "discount_percent": 22.222469138545982,
+            "priority_score": 511.11234569272995,
+            "reviews": 0,
+            "image_url": "images/6618888.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Samsung - Bespoke 29 Cu. Ft. 4 - Door Flex French Door Smart Refrigerator with AI Family Hub+ and AI Vision Inside - Stainless Steel",
+            "sku": "6571681",
+            "price": 3199.99,
+            "savings": 100.0,
+            "discount_percent": 3.1250097656555176,
+            "priority_score": 398.2195675327051,
+            "reviews": 157,
+            "image_url": "images/6571681.jpg"
+        },
+        {
+            "category": "Appliances",
             "title": "iRobot - Roomba 105 Combo Vac Robot Vacuum & Mop + AutoEmpty Dock - Black",
             "sku": "6618892",
             "price": 393.99,
             "savings": 64.0,
             "discount_percent": 16.24406710830224,
-            "priority_score": 209.2203355415112,
-            "reviews": 0,
+            "priority_score": 248.84439805954008,
+            "reviews": 2,
             "image_url": "images/6618892.jpg"
         }
     ]

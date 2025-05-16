@@ -1,27 +1,16 @@
 {
-    "last_updated": "2025-05-14T10:55:13.643013",
+    "last_updated": "2025-05-16T13:33:11.201122",
     "deals": [
         {
             "category": "Smart Home and Wifi",
-            "title": "Arlo - Pro 3 Floodlight Camera - FB1001 - White",
-            "sku": "6402543",
-            "price": 249.99,
-            "savings": 80.0,
-            "discount_percent": 32.001280051202045,
-            "priority_score": 572.1266099511192,
-            "reviews": 1085,
-            "image_url": "images/6402543.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Arlo - Pro 5S 2K Indoor/Outdoor Wireless Spotlight Security Camera - White",
-            "sku": "6517757",
-            "price": 179.99,
-            "savings": 63.0,
-            "discount_percent": 35.00194455247513,
-            "priority_score": 534.3386065201411,
-            "reviews": 644,
-            "image_url": "images/6517757.jpg"
+            "title": "Spotlight Cam Pro, Battery with 2K Video and Ring Vision, LED Lights, Dual - Band Wifi, and 3D Motion Detection - Black",
+            "sku": "6520141",
+            "price": 229.99,
+            "savings": 70.0,
+            "discount_percent": 30.436105917648593,
+            "priority_score": 509.6047177441001,
+            "reviews": 414,
+            "image_url": "images/6520141.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -30,20 +19,31 @@
             "price": 269.99,
             "savings": 70.0,
             "discount_percent": 25.926886180969667,
-            "priority_score": 475.5945493879753,
-            "reviews": 301,
+            "priority_score": 475.7137804916721,
+            "reviews": 302,
             "image_url": "images/6540360.jpg"
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
-            "sku": "6559342",
-            "price": 449.99,
-            "savings": 60.0,
-            "discount_percent": 13.333629636214136,
-            "priority_score": 468.2645486709728,
-            "reviews": 2458,
-            "image_url": "images/6559342.jpg"
+            "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
+            "sku": "6567807",
+            "price": 319.99,
+            "savings": 50.0,
+            "discount_percent": 15.625488296509266,
+            "priority_score": 394.671893926846,
+            "reviews": 404,
+            "image_url": "images/6567807.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Yale - Assure Lock 2 - Smart Lock Keyless Wi - Fi Deadbolt with APPLE HOME KEYS | Touchscreen Keypad Access - Satin Nickel",
+            "sku": "6563954",
+            "price": 319.99,
+            "savings": 63.0,
+            "discount_percent": 19.688115253601673,
+            "priority_score": 374.4405762680084,
+            "reviews": 63,
+            "image_url": "images/6563954.jpg"
         }
     ]
 }
