@@ -29,14 +29,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install selenium webdriver-manager requests beautifulsoup4 flask pillow
 
-      # - name: Set up Chrome
-      #   run: |
-      #     sudo apt-get update
-      #     # Install Chromium without creating problematic symlinks
-      #     sudo apt-get install -y chromium-browser chromium-chromedriver
-      #     # Verify installation
-      #     chromium-browser --version
-      #     chromedriver --version
 
       - name: Run scraper
         run: |
