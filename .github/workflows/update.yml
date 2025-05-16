@@ -33,10 +33,14 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y chromium-browser chromium-chromedriver
-          # Remove existing symlink if it exists
-          sudo rm -f /usr/bin/google-chrome || true
-          sudo ln -s /usr/bin/chromium-browser /usr/bin/google-chrome
-          echo "Chrome version: $(google-chrome --version)"
+          # Verify existing symlinks
+          echo "Before cleanup:"
+          ls -la /usr/bin/google-chrome || echo "No existing google-chrome link"
+          ls -la /usr/bin/chromium-browser || echo "No chromium-browser found"
+          
+          # Use the snap-installed binary directly (no symlink needed)
+          sudo rm -f /usr/bin/google-chrome 2>/dev/null || true
+          echo "Using chromium-browser directly: $(chromium-browser --version)"
           echo "Chromedriver version: $(chromedriver --version)"
 
       - name: Run scraper
