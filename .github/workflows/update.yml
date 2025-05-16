@@ -1,31 +1,50 @@
+name: Run Scraper and Deploy
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:
+
 jobs:
-  update:
+  scrape-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      # Set up Chrome and WebDriver
+        with:
+          persist-credentials: false
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install exact dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install selenium==4.31.0
+          pip install webdriver-manager
+          pip install requests==2.25.1
+          pip install beautifulsoup4==4.13.4
+          pip install flask==3.1.0
+          pip install pillow==11.2.1
+
       - name: Set up Chrome
         run: |
           sudo apt-get update
           sudo apt-get install -y chromium-browser chromium-chromedriver
           sudo ln -s /usr/bin/chromium-browser /usr/bin/google-chrome
-          chrome --version
+          google-chrome --version
           chromedriver --version
 
-      # Python setup
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.10"
-
-      # Install dependencies
-      - name: Install packages
-        run: |
-          python -m pip install --upgrade pip
-          pip install selenium webdriver-manager
-
-      # Run scraper with headless Chrome
       - name: Run scraper
+        run: python scraper.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push changes
         run: |
-          python scraper/scraper.py
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push

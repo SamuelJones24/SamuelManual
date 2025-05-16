@@ -5,6 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium.common.exceptions import NoSuchElementException
 import requests
 import math
@@ -15,10 +16,60 @@ import datetime
 from selenium.webdriver.chrome.options import Options
 import json
 from collections import defaultdict
+import subprocess
+from datetime import datetime
 
+
+def setup_driver():
+    chrome_options = Options()
+    
+    # Essential headless settings
+    chrome_options.add_argument("--headless=new")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--disable-gpu")
+    
+    # Additional recommended settings
+    chrome_options.add_argument("--window-size=1920,1080")
+    chrome_options.add_argument("--incognito")
+    chrome_options.add_argument("--disable-extensions")
+    chrome_options.add_argument("--disable-infobars")
+    
+    # User agent and headers
+    user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    chrome_options.add_argument(f"user-agent={user_agent}")
+    
+    # Use WebDriver Manager for automatic driver setup
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=chrome_options)
+    
+    return driver
+
+def git_auto_commit():
+    try:
+        # Get current timestamp for commit message
+        now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        
+        # Git commands
+        commands = [
+            'git add *.json',
+            'git add images/*',
+            f'git commit -m "Auto-update: {now}"',
+            'git push'
+        ]
+        
+        # Execute each command
+        for cmd in commands:
+            subprocess.run(cmd, shell=True, check=True)
+            
+        print("Successfully pushed updates to GitHub")
+    except subprocess.CalledProcessError as e:
+        print(f"Git error: {e}")
+    except Exception as e:
+        print(f"Unexpected error: {e}")
 
 def get_current_timestamp():
-    return datetime.datetime.now().isoformat()
+    return datetime.now().isoformat()
 
 def save_category_jsons(products):
     grouped = defaultdict(list)
@@ -36,7 +87,7 @@ def save_category_jsons(products):
         }
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=4)
-        print(f"✅ Saved {len(items)} items to {filename} (updated at {timestamp})")
+        print(f"Saved {len(items)} items to {filename} (updated at {timestamp})")
 
 def start_timer():
     return time.time()
@@ -93,21 +144,12 @@ def download_image(image_url, sku):
                 f.write(response.content)
             return f"images/{sku}.jpg"
         else:
-            print(f"❌ Failed to download image for SKU {sku}: Status {response.status_code}")
+            print(f"Failed to download image for SKU {sku}: Status {response.status_code}")
     except Exception as e:
-        print(f"❌ Exception downloading image for SKU {sku}: {e}")
+        print(f"Exception downloading image for SKU {sku}: {e}")
 
     return "Image Not Available"
 
-
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Referer": "https://www.bestbuy.com/",
-}
-options = Options() 
-options.add_argument("--incognito")
-
-service = Service(r"C:\Program Files\ChromeDriver\chromedriver.exe")
 
 start_time = start_timer()
 
@@ -129,7 +171,7 @@ all_products = {category: [] for category in categories}
 max_retry = 1
 SLOW_METHOD_COUNT = 0
 for retry in range(max_retry):
-    driver = webdriver.Chrome(service=service, options=options)
+    driver = setup_driver()
     driver.get(next(iter(categories.values()), None))
     time.sleep(8)
     try:
@@ -144,20 +186,20 @@ for retry in range(max_retry):
 
 SLOW_METHOD = SLOW_METHOD_COUNT >= max_retry
 if SLOW_METHOD:
-    print("⚠️ Using slow method (clicking each offer button)")
+    print("Using slow method (clicking each offer button)")
 else:
-    print("✅ Using fast method")
+    print("Using fast method")
 
 
 if not SLOW_METHOD:
     for category, base_url in categories.items():
         current_page = 1
-        print(f"\n📂 Scraping Category: {category}")
+        print(f"\nScraping Category: {category}")
 
         while True:
             url = f"{base_url}&cp={current_page}"
             driver.get(url)
-            print(f"🔄 Loading page {current_page} for {category}")
+            print(f"Loading page {current_page} for {category}")
 
             max_attempts, attempts = 50, 0
             previous_items = 0
@@ -174,7 +216,7 @@ if not SLOW_METHOD:
                 previous_items = current_items
 
             if len(items) == 0:
-                print(f"❌ No more items found for {category} on page {current_page}")
+                print(f"No more items found for {category} on page {current_page}")
                 break
 
             for index, item in enumerate(items):
@@ -184,7 +226,7 @@ if not SLOW_METHOD:
                     sku_values = item.find_elements(By.CLASS_NAME, 'sku-value')
                     sku = sku_values[1].text if len(sku_values) > 1 else "N/A"
 
-                    # 📸 Get product image from listing page
+                    # Get product image from listing page
                     try:
                         image_element = item.find_element(By.CLASS_NAME, 'product-image')
                         image_url = image_element.get_attribute("src")
@@ -214,31 +256,31 @@ if not SLOW_METHOD:
 
                     priority_score = calculate_priority(member_savings, regular_price, review_num)
 
-                    if member_savings >= 50 or discount_percentage >= 35:
+                    if member_savings >= 48 or discount_percentage >= 40:
                         local_image_path = download_image(image_url, sku)
                         all_products[category].append([
                             category, title, sku, regular_price, member_savings,
                             discount_percentage, priority_score, review_num, local_image_path
                         ])
-                        print(f"💸 🔥 Added Product -> {title} (${regular_price:.2f} - ${member_savings:.2f} off)")
+                        print(f"Added Product -> {title} (${regular_price:.2f} - ${member_savings:.2f} off)")
 
                 except Exception as e:
-                    print(f"❌ Error scraping item {index+1} on page {current_page}. Error: {e}")
+                    print(f"Error scraping item {index+1} on page {current_page}. Error: {e}")
 
             current_page += 1
 
-    print("\n✅ Scraping finished for member deals!")
+    print("\nScraping finished for member deals!")
 
 else:
-    driver = webdriver.Chrome(service=service, options=options)
+    driver = setup_driver()
     for category, base_url in categories.items():
         current_page = 1
-        print(f"\n📂 Scraping Category: {category}")
+        print(f"\nScraping Category: {category}")
 
         while True:
             url = f"{base_url}&cp={current_page}"
             driver.get(url)
-            print(f"🔄 Loading page {current_page} for {category}")
+            print(f"Loading page {current_page} for {category}")
 
             # Scroll to load all lazy-loaded items
             max_attempts, attempts = 50, 0
@@ -271,7 +313,7 @@ else:
 
             # Check if we got any items at all
             if len(items) == 0:
-                print(f"❌ No items found - ending pagination at page {current_page}")
+                print(f"No items found - ending pagination at page {current_page}")
                 break
 
             for index, item in enumerate(items):
@@ -288,7 +330,7 @@ else:
                             EC.visibility_of_element_located(
                                 (By.CLASS_NAME, 'product-title'))).text
                     except Exception as e:
-                        print(f"  ❌ Primary title selector failed: {str(e)}")
+                        print(f"  Primary title selector failed: {str(e)}")
                         # Fallback selectors
                         try:
                             title = item.find_element(
@@ -299,7 +341,7 @@ else:
                                     By.XPATH, ".//*[contains(@class,'product-title')]").text
                             except:
                                 title = "Unknown Product"
-                                print("  ❌ Could not find product title")
+                                print("   Could not find product title")
 
                     # Get SKU with error handling
                     try:
@@ -324,7 +366,7 @@ else:
                             image_url = None  # Use None instead of text for missing images
                             
                     except Exception as e:
-                        print(f"  ❌ Error getting product image: {str(e)}")
+                        print(f"   Error getting product image: {str(e)}")
                         image_url = None  # Use None for error cases
 
                     # Get regular price with error handling
@@ -339,7 +381,7 @@ else:
                     # Process member offers with robust error handling
                     member_savings = 0.00
                     try:
-                        print(f"\n🔍 Processing item {index+1}: {title[:50]}...")
+                        print(f"\nProcessing item {index+1}: {title[:50]}...")
                         
                         # Click offer button with retry logic
                         try:
@@ -347,7 +389,7 @@ else:
                                 EC.element_to_be_clickable((By.CSS_SELECTOR, '.offer-link')))
                             driver.execute_script("arguments[0].click();", offer_button)
                         except Exception as e:
-                            print(f"  ❌ Couldn't click offer button: {str(e)}")
+                            print(f"   Couldn't click offer button: {str(e)}")
                             raise
 
                         # Wait for panel and get fresh reference
@@ -356,7 +398,7 @@ else:
                                 EC.visibility_of_element_located((By.CSS_SELECTOR, '.c-spoke.active')))
                             offers_panel = driver.find_element(By.CSS_SELECTOR, '.c-spoke.active')
                         except Exception as e:
-                            print(f"  ❌ Couldn't find offers panel: {str(e)}")
+                            print(f"   Couldn't find offers panel: {str(e)}")
                             raise
 
                         # Extract savings with multiple fallbacks
@@ -368,7 +410,7 @@ else:
                             member_savings = extract_number(member_savings_text)
                             print(f"  - Member savings: ${member_savings:.2f}")
                         except Exception as e:
-                            print(f"  ❌ Primary savings selector failed: {str(e)}")
+                            print(f"   Primary savings selector failed: {str(e)}")
                             # Fallback selectors
                             try:
                                 alt_element = offers_panel.find_element(
@@ -380,7 +422,7 @@ else:
                                         By.XPATH, "//*[contains(text(), 'Save an extra')]")
                                     member_savings = extract_number(alt_element.text)
                                 except:
-                                    print("  ❌ Could not extract member savings")
+                                    print("   Could not extract member savings")
                                     offers_panel.screenshot(f"debug_offer_panel_{index}.png")
 
                         # Close panel with multiple fallback methods
@@ -396,7 +438,7 @@ else:
                                 EC.invisibility_of_element_located(
                                     (By.CSS_SELECTOR, '.c-spoke.active')))
                         except Exception as e:
-                            print(f"  ❌ Couldn't close panel normally: {str(e)}")
+                            print(f"   Couldn't close panel normally: {str(e)}")
                             # Fallback 1: ESC key
                             ActionChains(driver).send_keys(Keys.ESCAPE).perform()
                             time.sleep(0.5)
@@ -407,7 +449,7 @@ else:
                                 time.sleep(0.5)
 
                     except Exception as e:
-                        print(f"  ❌ Error processing offers: {str(e)}")
+                        print(f"   Error processing offers: {str(e)}")
                         # Ensure panel is closed if something went wrong
                         if driver.find_elements(By.CSS_SELECTOR, '.c-spoke.active'):
                             ActionChains(driver).send_keys(Keys.ESCAPE).perform()
@@ -428,19 +470,19 @@ else:
                     # Calculate priority and add product if meets criteria
                     priority_score = calculate_priority(member_savings, regular_price, review_num)
 
-                    if member_savings >= 50 or discount_percentage >= 35:
+                    if member_savings >= 48 or discount_percentage >= 40:
                         try:
                             local_image_path = download_image(image_url, sku)
                             all_products[category].append([
                                 category, title, sku, regular_price, member_savings,
                                 discount_percentage, priority_score, review_num, local_image_path
                             ])
-                            print(f"💸 🔥 Added Product -> {title} (${regular_price:.2f} - ${member_savings:.2f} off)")
+                            print(f"Added Product -> {title} (${regular_price:.2f} - ${member_savings:.2f} off)")
                         except Exception as e:
-                            print(f"❌ Error saving product {title}: {str(e)}")
+                            print(f"Error saving product {title}: {str(e)}")
 
                 except Exception as e:
-                    print(f"❌ Error scraping item {index+1} on page {current_page}. Error: {e}")
+                    print(f"Error scraping item {index+1} on page {current_page}. Error: {e}")
                     # Refresh page if we hit multiple consecutive errors
                     if index > 0 and "no such element" in str(e):
                         driver.refresh()
@@ -454,23 +496,23 @@ else:
                 # Check if next button is disabled
                 if 'aria-disabled' in next_button.get_attribute('outerHTML') and \
                 next_button.get_attribute('aria-disabled').lower() == 'true':
-                    print(f"✅ Reached last page of {category} (page {current_page})")
+                    print(f"Reached last page of {category} (page {current_page})")
                     break
                     
                 # Or check if href attribute is missing/empty
                 if not next_button.get_attribute('href'):
-                    print(f"ℹ️ Next button has no href - assuming last page")
+                    print(f"Next button has no href - assuming last page")
                     break
                     
             except NoSuchElementException:
-                print(f"ℹ️ No next page button found - assuming last page")
+                print(f"No next page button found - assuming last page")
                 break
 
 
             current_page += 1
             time.sleep(1)  # Brief pause between pages
 
-    print("\n✅ Scraping finished for member deals!")
+    print("\n Scraping finished for member deals!")
 
 unique_products = []
 seen_skus = set()
@@ -502,5 +544,5 @@ for product in unique_products:
 driver.quit()
 # Save each category to its own JSON file
 save_category_jsons(json_ready_products)
-
+git_auto_commit()
 end_timer(start_time)
