@@ -27,19 +27,28 @@ def setup_driver():
     chrome_options.add_argument("--headless=new")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
+    
+    # GPU/Graphics handling
     chrome_options.add_argument("--disable-gpu")
-    
-    # Additional recommended settings
-    chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument("--incognito")
+    chrome_options.add_argument("--disable-software-rasterizer")
+    chrome_options.add_argument("--disable-webgl")
     chrome_options.add_argument("--disable-extensions")
-    chrome_options.add_argument("--disable-infobars")
     
-    # User agent and headers
-    user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    chrome_options.add_argument(f"user-agent={user_agent}")
+    # Disable various services that trigger GPU usage
+    chrome_options.add_argument("--disable-background-networking")
+    chrome_options.add_argument("--disable-breakpad")
+    chrome_options.add_argument("--disable-component-extensions-with-background-pages")
     
-    # Use WebDriver Manager for automatic driver setup
+    # Logging control (corrected approach)
+    chrome_options.add_argument("--log-level=3")  # Only show fatal errors
+    chrome_options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
+    chrome_options.add_experimental_option('useAutomationExtension', False)
+    
+    # Window size and user agent
+    chrome_options.add_argument("--window-size=1920,1080")
+    chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+    
+    # Use WebDriver Manager
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=chrome_options)
     
@@ -155,12 +164,12 @@ start_time = start_timer()
 
 
 categories = {
-    "Computers and Tablets": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat1690572663027&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~605%5Esoldout_facet%3DAvailability~Exclude%20Out%20of%20Stock%20Items&sc=Global&st=pcmcat1690572663027_categoryid%24abcat0500000&type=page&usc=All%20Categories",
-    "TVs and Home Theater": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat1690571929956&id=pcat17071&iht=n&ks=960&list=y&qp=soldout_facet%3DAvailability~Exclude%20Out%20of%20Stock%20Items%5Estorepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~605&sc=Global&st=pcmcat1690571929956_categoryid%24cat00000&type=page&usc=All%20Categories",
-    "Appliances": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat1690571281709&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~605%5Esoldout_facet%3DAvailability~Exclude%20Out%20of%20Stock%20Items&sc=Global&st=pcmcat1690571281709_categoryid%24abcat0900000&type=page&usc=All%20Categories",
-    "Cell Phones": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat1690572845752&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~605%5Esoldout_facet%3DAvailability~Exclude%20Out%20of%20Stock%20Items&sc=Global&st=pcmcat1690572845752_categoryid%24abcat0800000&type=page&usc=All%20Categories",
-    "Audio & Headphones": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat1690572899458&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~605%5Esoldout_facet%3DAvailability~Exclude%20Out%20of%20Stock%20Items&sc=Global&st=pcmcat1690572899458_categoryid%24cat00000&type=page&usc=All%20Categories",
-    "Smart Home and Wifi": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat1690574156432&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~605%5Esoldout_facet%3DAvailability~Exclude%20Out%20of%20Stock%20Items&sc=Global&st=pcmcat1690574156432_categoryid%24cat00000&type=page&usc=All%20Categories",
+    # "Computers and Tablets": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat1690572663027&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~605%5Esoldout_facet%3DAvailability~Exclude%20Out%20of%20Stock%20Items&sc=Global&st=pcmcat1690572663027_categoryid%24abcat0500000&type=page&usc=All%20Categories",
+    # "TVs and Home Theater": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat1690571929956&id=pcat17071&iht=n&ks=960&list=y&qp=soldout_facet%3DAvailability~Exclude%20Out%20of%20Stock%20Items%5Estorepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~605&sc=Global&st=pcmcat1690571929956_categoryid%24cat00000&type=page&usc=All%20Categories",
+    # "Appliances": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat1690571281709&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~605%5Esoldout_facet%3DAvailability~Exclude%20Out%20of%20Stock%20Items&sc=Global&st=pcmcat1690571281709_categoryid%24abcat0900000&type=page&usc=All%20Categories",
+    # "Cell Phones": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat1690572845752&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~605%5Esoldout_facet%3DAvailability~Exclude%20Out%20of%20Stock%20Items&sc=Global&st=pcmcat1690572845752_categoryid%24abcat0800000&type=page&usc=All%20Categories",
+    # "Audio & Headphones": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat1690572899458&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~605%5Esoldout_facet%3DAvailability~Exclude%20Out%20of%20Stock%20Items&sc=Global&st=pcmcat1690572899458_categoryid%24cat00000&type=page&usc=All%20Categories",
+    # "Smart Home and Wifi": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat1690574156432&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~605%5Esoldout_facet%3DAvailability~Exclude%20Out%20of%20Stock%20Items&sc=Global&st=pcmcat1690574156432_categoryid%24cat00000&type=page&usc=All%20Categories",
   # "Health and Wearable Tech": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat1690575053038&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~605%5Esoldout_facet%3DAvailability~Exclude%20Out%20of%20Stock%20Items&sc=Global&st=pcmcat1690575053038_categoryid%24pcmcat332000050000&type=page&usc=All%20Categories",
    "Video Games": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat1690573093402&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~605%5Esoldout_facet%3DAvailability~Exclude%20Out%20of%20Stock%20Items&sc=Global&st=pcmcat1690573093402_categoryid%24abcat0700000&type=page&usc=All%20Categories"
 }
