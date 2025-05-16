@@ -32,20 +32,11 @@ jobs:
       - name: Set up Chrome
         run: |
           sudo apt-get update
-          sudo apt-get install -y wget unzip
-          
-          # Install Google Chrome
-          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-          echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
-          
-          # Install matching chromedriver
-          CHROME_VERSION=$(google-chrome-stable --version | awk '{print $3}')
-          wget -q https://chromedriver.storage.googleapis.com/${CHROME_VERSION}/chromedriver_linux64.zip
-          sudo unzip chromedriver_linux64.zip -d /usr/local/bin/
-          sudo chmod +x /usr/local/bin/chromedriver
-          rm chromedriver_linux64.zip
+          # Install Chromium without creating problematic symlinks
+          sudo apt-get install -y chromium-browser chromium-chromedriver
+          # Verify installation
+          chromium-browser --version
+          chromedriver --version
 
       - name: Run scraper
         run: |
