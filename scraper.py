@@ -36,28 +36,6 @@ def setup_driver():
     service = Service(ChromeDriverManager().install())
     return webdriver.Chrome(service=service, options=chrome_options)
 
-def git_auto_commit():
-    try:
-        # Get current timestamp for commit message
-        now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        
-        # Git commands
-        commands = [
-            'git add *.json',
-            'git add images/*',
-            f'git commit -m "Auto-update: {now}"',
-            'git push'
-        ]
-        
-        # Execute each command
-        for cmd in commands:
-            subprocess.run(cmd, shell=True, check=True)
-            
-        print("Successfully pushed updates to GitHub")
-    except subprocess.CalledProcessError as e:
-        print(f"Git error: {e}")
-    except Exception as e:
-        print(f"Unexpected error: {e}")
 
 def get_current_timestamp():
     return datetime.now().isoformat()
@@ -535,5 +513,4 @@ for product in unique_products:
 driver.quit()
 # Save each category to its own JSON file
 save_category_jsons(json_ready_products)
-git_auto_commit()
 end_timer(start_time)
