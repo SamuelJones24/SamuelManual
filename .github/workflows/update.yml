@@ -29,20 +29,26 @@ jobs:
           python -m pip install --upgrade pip
           pip install selenium webdriver-manager requests beautifulsoup4 flask pillow
 
-      - name: Set up Chrome (Fixed)
+      - name: Install Google Chrome and Chromedriver
         run: |
           sudo apt-get update
-          sudo apt-get install -y chromium-browser chromium-chromedriver
-          # Verify existing symlinks
-          echo "Before cleanup:"
-          ls -la /usr/bin/google-chrome || echo "No existing google-chrome link"
-          ls -la /usr/bin/chromium-browser || echo "No chromium-browser found"
+          sudo apt-get install -y wget unzip
           
-          # Use the snap-installed binary directly (no symlink needed)
-          sudo rm -f /usr/bin/google-chrome 2>/dev/null || true
-          echo "Using chromium-browser directly: $(chromium-browser --version)"
+          # Install Google Chrome
+          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          
+          # Install matching chromedriver
+          CHROME_VERSION=$(google-chrome-stable --version | awk '{print $3}')
+          wget -q https://chromedriver.storage.googleapis.com/${CHROME_VERSION}/chromedriver_linux64.zip
+          sudo unzip chromedriver_linux64.zip -d /usr/local/bin/
+          sudo chmod +x /usr/local/bin/chromedriver
+          rm chromedriver_linux64.zip
+          
+          echo "Chrome version: $(google-chrome-stable --version)"
           echo "Chromedriver version: $(chromedriver --version)"
-
       - name: Run scraper
         run: |
           python -c "import os; print('Current directory contents:', os.listdir())"

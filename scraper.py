@@ -19,7 +19,6 @@ from collections import defaultdict
 import subprocess
 from datetime import datetime
 
-
 def setup_driver():
     chrome_options = Options()
     
@@ -32,27 +31,26 @@ def setup_driver():
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--disable-software-rasterizer")
     chrome_options.add_argument("--disable-webgl")
-    chrome_options.add_argument("--disable-extensions")
     
-    # Disable various services that trigger GPU usage
+    # Performance optimizations
+    chrome_options.add_argument("--disable-extensions")
     chrome_options.add_argument("--disable-background-networking")
     chrome_options.add_argument("--disable-breakpad")
-    chrome_options.add_argument("--disable-component-extensions-with-background-pages")
     
-    # Logging control (corrected approach)
-    chrome_options.add_argument("--log-level=3")  # Only show fatal errors
+    # Stealth and logging
+    chrome_options.add_argument("--log-level=3")
     chrome_options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
     chrome_options.add_experimental_option('useAutomationExtension', False)
     
-    # Window size and user agent
+    # Window and user agent
     chrome_options.add_argument("--window-size=1920,1080")
     chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
     
-    # Use WebDriver Manager
-    service = Service(ChromeDriverManager().install())
-    driver = webdriver.Chrome(service=service, options=chrome_options)
+    # Point to system Chrome and chromedriver
+    chrome_options.binary_location = '/usr/bin/google-chrome-stable'
+    service = Service(executable_path='/usr/local/bin/chromedriver')
     
-    return driver
+    return webdriver.Chrome(service=service, options=chrome_options)
 
 def git_auto_commit():
     try:
