@@ -29,7 +29,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install selenium webdriver-manager requests beautifulsoup4 flask pillow
 
-      - name: Install Google Chrome and Chromedriver
+      - name: Set up Chrome
         run: |
           sudo apt-get update
           sudo apt-get install -y wget unzip
@@ -46,9 +46,7 @@ jobs:
           sudo unzip chromedriver_linux64.zip -d /usr/local/bin/
           sudo chmod +x /usr/local/bin/chromedriver
           rm chromedriver_linux64.zip
-          
-          echo "Chrome version: $(google-chrome-stable --version)"
-          echo "Chromedriver version: $(chromedriver --version)"
+
       - name: Run scraper
         run: |
           python -c "import os; print('Current directory contents:', os.listdir())"
