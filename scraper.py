@@ -21,26 +21,19 @@ from datetime import datetime
 
 def setup_driver():
     chrome_options = Options()
-    
+
     # Essential settings
     chrome_options.add_argument("--headless=new")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument("--disable-gpu")
-    
-    # Common optimizations
+
+    # Optional: useful for consistent rendering/debugging
     chrome_options.add_argument("--window-size=1920,1080")
     chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
-    
-    # Platform-specific configuration
-    if os.name == 'nt':  # Windows
-        # Use WebDriverManager for local Windows development
-        service = Service(ChromeDriverManager().install())
-    else:  # Linux (GitHub Actions)
-        # Use system-installed Chrome and chromedriver
-        chrome_options.binary_location = '/usr/bin/google-chrome-stable'
-        service = Service(executable_path='/usr/local/bin/chromedriver')
-    
+
+    # Always use WebDriverManager to get the correct ChromeDriver
+    service = Service(ChromeDriverManager().install())
     return webdriver.Chrome(service=service, options=chrome_options)
 
 def git_auto_commit():
