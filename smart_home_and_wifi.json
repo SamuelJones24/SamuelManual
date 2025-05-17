@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-17T01:25:06.513191",
+    "last_updated": "2025-05-17T07:26:03.573741",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -58,14 +58,14 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
-            "sku": "6554318",
-            "price": 599.99,
+            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6612971",
+            "price": 1299.99,
             "savings": 50.0,
-            "discount_percent": 8.333472224537076,
-            "priority_score": 337.8046123962947,
-            "reviews": 229,
-            "image_url": "images/6554318.jpg"
+            "discount_percent": 3.8461834321802475,
+            "priority_score": 169.23091716090124,
+            "reviews": 3,
+            "image_url": "images/6612971.jpg"
         }
     ]
 }

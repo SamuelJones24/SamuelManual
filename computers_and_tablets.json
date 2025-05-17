@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-17T01:25:06.513191",
+    "last_updated": "2025-05-17T07:26:03.573741",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -92,13 +92,13 @@
         {
             "category": "Computers and Tablets",
             "title": "AMD - Ryzen 7 7800X3D 8 - Core - 16 - Thread 4.2 GHz (5.0 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black",
-            "sku": "",
+            "sku": "6537139",
             "price": 449.0,
             "savings": 63.0,
             "discount_percent": 14.03118040089087,
-            "priority_score": 438.5800901603115,
-            "reviews": 829,
-            "image_url": "images/.jpg"
+            "priority_score": 438.66689495798164,
+            "reviews": 831,
+            "image_url": "images/6537139.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -129,8 +129,8 @@
             "price": 1599.0,
             "savings": 79.95,
             "discount_percent": 5.0,
-            "priority_score": 428.6048212397365,
-            "reviews": 859,
+            "priority_score": 428.64673568492105,
+            "reviews": 860,
             "image_url": "images/6602741.jpg"
         },
         {
@@ -223,6 +223,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
+            "sku": "6554318",
+            "price": 599.99,
+            "savings": 50.0,
+            "discount_percent": 8.333472224537076,
+            "priority_score": 337.8046123962947,
+            "reviews": 229,
+            "image_url": "images/6554318.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
             "sku": "6553330",
             "price": 1999.99,
@@ -235,13 +246,13 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6612971",
+            "sku": "",
             "price": 1299.99,
             "savings": 50.0,
             "discount_percent": 3.8461834321802475,
             "priority_score": 169.23091716090124,
             "reviews": 3,
-            "image_url": "images/6612971.jpg"
+            "image_url": "images/.jpg"
         }
     ]
 }
