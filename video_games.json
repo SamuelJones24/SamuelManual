@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-16T13:46:49.362398",
+    "last_updated": "2025-05-16T19:55:02.198080",
     "deals": [
         {
             "category": "Video Games",
@@ -14,24 +14,13 @@
         },
         {
             "category": "Video Games",
-            "title": "SteelSeries - Arctis Nova Pro Wireless Multi Gaming Headset for PS5, PS4, PC, Switch - White",
-            "sku": "6576926",
-            "price": 349.99,
-            "savings": 60.0,
-            "discount_percent": 17.143346952770077,
-            "priority_score": 443.85475499122714,
-            "reviews": 736,
-            "image_url": "images/6576926.jpg"
-        },
-        {
-            "category": "Video Games",
             "title": "PowerA - Dual Charging Station for Xbox Series X|S - Black",
             "sku": "6472018",
             "price": 29.99,
             "savings": 14.0,
             "discount_percent": 46.68222740913638,
-            "priority_score": 418.4320585370764,
-            "reviews": 1034,
+            "priority_score": 418.466889419573,
+            "reviews": 1035,
             "image_url": "images/6472018.jpg"
         },
         {

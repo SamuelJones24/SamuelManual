@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-16T13:33:11.201122",
+    "last_updated": "2025-05-16T19:55:02.198080",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -8,9 +8,20 @@
             "price": 229.99,
             "savings": 70.0,
             "discount_percent": 30.436105917648593,
-            "priority_score": 509.6047177441001,
-            "reviews": 414,
+            "priority_score": 509.77811892435955,
+            "reviews": 416,
             "image_url": "images/6520141.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
+            "sku": "6559342",
+            "price": 379.99,
+            "savings": 60.0,
+            "discount_percent": 15.789889207610727,
+            "priority_score": 480.5605110437187,
+            "reviews": 2459,
+            "image_url": "images/6559342.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -30,8 +41,8 @@
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
-            "priority_score": 394.671893926846,
-            "reviews": 404,
+            "priority_score": 394.76083941217576,
+            "reviews": 405,
             "image_url": "images/6567807.jpg"
         },
         {

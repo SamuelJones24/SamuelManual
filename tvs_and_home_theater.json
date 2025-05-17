@@ -1,6 +1,28 @@
 {
-    "last_updated": "2025-05-16T13:33:11.201122",
+    "last_updated": "2025-05-16T19:55:02.198080",
     "deals": [
+        {
+            "category": "TVs and Home Theater",
+            "title": "Samsung - 65\u201d Class LS03D The Frame Series QLED 4K with Anti - Reflection and Slim Fit Wall Mount Included (2024)",
+            "sku": "6576593",
+            "price": 1999.99,
+            "savings": 350.0,
+            "discount_percent": 17.500087500437502,
+            "priority_score": 979.662950681768,
+            "reviews": 205,
+            "image_url": "images/6576593.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "Panasonic - Streaming 4K Ultra HD Hi - Res Audio with Dolby Vision 7.1 Channel DVD/CD/3D Wi - Fi Built - In Blu - Ray Player, DP - UB820 - K - Black",
+            "sku": "6278202",
+            "price": 499.98,
+            "savings": 99.0,
+            "discount_percent": 19.800792031681265,
+            "priority_score": 566.2911968959213,
+            "reviews": 1747,
+            "image_url": "images/6278202.jpg"
+        },
         {
             "category": "TVs and Home Theater",
             "title": "Samsung - 40\" Class 5 Series LED Full HD Smart Tizen TV (2019)",
@@ -8,8 +30,8 @@
             "price": 249.99,
             "savings": 51.0,
             "discount_percent": 20.400816032641305,
-            "priority_score": 538.7918832308844,
-            "reviews": 10745,
+            "priority_score": 538.7952394283486,
+            "reviews": 10746,
             "image_url": "images/6360291.jpg"
         }
     ]
