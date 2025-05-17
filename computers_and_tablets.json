@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-16T19:55:02.198080",
+    "last_updated": "2025-05-17T01:25:06.513191",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -30,8 +30,8 @@
             "price": 279.99,
             "savings": 83.0,
             "discount_percent": 29.64391585413765,
-            "priority_score": 504.03100520239025,
-            "reviews": 192,
+            "priority_score": 504.21740032536644,
+            "reviews": 193,
             "image_url": "images/6583049.jpg"
         },
         {
@@ -91,25 +91,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Logitech - G560 LIGHTSYNC 2.1 Bluetooth Gaming Speakers with Game Driven RGB Lighting (3 - Piece) - Black",
-            "sku": "6214340",
-            "price": 249.99,
-            "savings": 50.0,
-            "discount_percent": 20.00080003200128,
-            "priority_score": 442.5149931135337,
-            "reviews": 831,
-            "image_url": "images/6214340.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "AMD - Ryzen 7 7800X3D 8 - Core - 16 - Thread 4.2 GHz (5.0 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black",
-            "sku": "6537139",
+            "sku": "",
             "price": 449.0,
             "savings": 63.0,
             "discount_percent": 14.03118040089087,
             "priority_score": 438.5800901603115,
             "reviews": 829,
-            "image_url": "images/6537139.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -140,8 +129,8 @@
             "price": 1599.0,
             "savings": 79.95,
             "discount_percent": 5.0,
-            "priority_score": 428.5208459374886,
-            "reviews": 857,
+            "priority_score": 428.6048212397365,
+            "reviews": 859,
             "image_url": "images/6602741.jpg"
         },
         {
@@ -173,8 +162,8 @@
             "price": 1499.0,
             "savings": 74.95,
             "discount_percent": 5.0,
-            "priority_score": 398.0944490520585,
-            "reviews": 486,
+            "priority_score": 398.2422663738058,
+            "reviews": 488,
             "image_url": "images/6533542.jpg"
         },
         {
@@ -195,8 +184,8 @@
             "price": 999.0,
             "savings": 49.95,
             "discount_percent": 5.0,
-            "priority_score": 364.79417877194504,
-            "reviews": 1020,
+            "priority_score": 364.82948702344055,
+            "reviews": 1021,
             "image_url": "images/5495362.jpg"
         },
         {
@@ -206,8 +195,8 @@
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 362.380200459682,
-            "reviews": 314,
+            "priority_score": 362.49451870442755,
+            "reviews": 315,
             "image_url": "images/6467298.jpg"
         },
         {
@@ -231,17 +220,6 @@
             "priority_score": 342.1185812224565,
             "reviews": 236,
             "image_url": "images/5495364.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
-            "sku": "6554318",
-            "price": 599.99,
-            "savings": 50.0,
-            "discount_percent": 8.333472224537076,
-            "priority_score": 337.8046123962947,
-            "reviews": 229,
-            "image_url": "images/6554318.jpg"
         },
         {
             "category": "Computers and Tablets",
