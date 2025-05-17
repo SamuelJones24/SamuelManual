@@ -1,14 +1,14 @@
 {
-    "last_updated": "2025-05-17T07:26:03.573741",
+    "last_updated": "2025-05-17T13:23:41.887970",
     "deals": [
         {
             "category": "TVs and Home Theater",
             "title": "Samsung - 65\u201d Class LS03D The Frame Series QLED 4K with Anti - Reflection and Slim Fit Wall Mount Included (2024)",
             "sku": "6576593",
             "price": 1999.99,
-            "savings": 350.0,
-            "discount_percent": 17.500087500437502,
-            "priority_score": 979.662950681768,
+            "savings": 460.0,
+            "discount_percent": 23.000115000575004,
+            "priority_score": 1227.1630881824553,
             "reviews": 205,
             "image_url": "images/6576593.jpg"
         },
@@ -17,10 +17,10 @@
             "title": "Panasonic - Streaming 4K Ultra HD Hi - Res Audio with Dolby Vision 7.1 Channel DVD/CD/3D Wi - Fi Built - In Blu - Ray Player, DP - UB820 - K - Black",
             "sku": "6278202",
             "price": 499.98,
-            "savings": 99.0,
-            "discount_percent": 19.800792031681265,
-            "priority_score": 566.2911968959213,
-            "reviews": 1747,
+            "savings": 96.0,
+            "discount_percent": 19.20076803072123,
+            "priority_score": 557.3117045016475,
+            "reviews": 1748,
             "image_url": "images/6278202.jpg"
         },
         {
@@ -33,6 +33,17 @@
             "priority_score": 538.7985953135357,
             "reviews": 10747,
             "image_url": "images/6360291.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "LG - 2.1 Channel S40T Soundbar with Wireless Subwoofer and Bluetooth Connectivity - Black",
+            "sku": "6579923",
+            "price": 229.99,
+            "savings": 50.0,
+            "discount_percent": 21.740075655463283,
+            "priority_score": 393.07636406098953,
+            "reviews": 165,
+            "image_url": "images/6579923.jpg"
         }
     ]
 }

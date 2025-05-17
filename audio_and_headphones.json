@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-17T07:26:03.573741",
+    "last_updated": "2025-05-17T13:23:41.887970",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -19,8 +19,8 @@
             "price": 499.99,
             "savings": 100.0,
             "discount_percent": 20.00040000800016,
-            "priority_score": 553.6821231635565,
-            "reviews": 1133,
+            "priority_score": 553.7139145944577,
+            "reviews": 1134,
             "image_url": "images/6514475.jpg"
         },
         {
@@ -77,6 +77,28 @@
             "priority_score": 422.3363239751631,
             "reviews": 1344,
             "image_url": "images/6370597.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Sony - STR - AN1000 7.2 Channel Dolby Atmos & Dolby Vision 8K HDR Network A/V Receiver - Black",
+            "sku": "6533290",
+            "price": 899.99,
+            "savings": 50.0,
+            "discount_percent": 5.5556172846364955,
+            "priority_score": 339.77259302390996,
+            "reviews": 356,
+            "image_url": "images/6533290.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - PartyBox Club 120 Portable Wireless Party Speaker - Black",
+            "sku": "6576524",
+            "price": 399.99,
+            "savings": 49.0,
+            "discount_percent": 12.250306257656442,
+            "priority_score": 333.46009956258627,
+            "reviews": 246,
+            "image_url": "images/6576524.jpg"
         }
     ]
 }
