@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-17T19:58:33.626800",
+    "last_updated": "2025-05-18T01:24:32.281771",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -14,25 +14,36 @@
         },
         {
             "category": "Smart Home and Wifi",
+            "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
+            "sku": "6559342",
+            "price": 379.99,
+            "savings": 60.0,
+            "discount_percent": 15.789889207610727,
+            "priority_score": 480.57516959950766,
+            "reviews": 2460,
+            "image_url": "images/6559342.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
             "title": "Yale - Assure Lock 2 - Smart Lock Wi - Fi Deadbolt with Push Button Keypad | Key Access - Satin Nickel",
             "sku": "6540360",
             "price": 269.99,
             "savings": 70.0,
             "discount_percent": 25.926886180969667,
-            "priority_score": 475.7137804916721,
-            "reviews": 302,
+            "priority_score": 475.83261874093796,
+            "reviews": 303,
             "image_url": "images/6540360.jpg"
         },
         {
             "category": "Smart Home and Wifi",
             "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
-            "sku": "6567807",
+            "sku": "",
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
             "priority_score": 394.76083941217576,
             "reviews": 405,
-            "image_url": "images/6567807.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -44,17 +55,6 @@
             "priority_score": 374.4405762680084,
             "reviews": 63,
             "image_url": "images/6563954.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
-            "sku": "6554318",
-            "price": 599.99,
-            "savings": 50.0,
-            "discount_percent": 8.333472224537076,
-            "priority_score": 338.1168860008747,
-            "reviews": 231,
-            "image_url": "images/6554318.jpg"
         }
     ]
 }
