@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-17T13:23:41.887970",
+    "last_updated": "2025-05-17T19:58:33.626800",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -11,17 +11,6 @@
             "priority_score": 509.77811892435955,
             "reviews": 416,
             "image_url": "images/6520141.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
-            "sku": "",
-            "price": 379.99,
-            "savings": 60.0,
-            "discount_percent": 15.789889207610727,
-            "priority_score": 480.57516959950766,
-            "reviews": 2460,
-            "image_url": "images/.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -58,14 +47,14 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6553330",
-            "price": 1999.99,
+            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
+            "sku": "6554318",
+            "price": 599.99,
             "savings": 50.0,
-            "discount_percent": 2.5000125000625,
-            "priority_score": 304.31069604959987,
-            "reviews": 203,
-            "image_url": "images/6553330.jpg"
+            "discount_percent": 8.333472224537076,
+            "priority_score": 338.1168860008747,
+            "reviews": 231,
+            "image_url": "images/6554318.jpg"
         }
     ]
 }

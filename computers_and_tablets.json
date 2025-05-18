@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-17T13:23:41.887970",
+    "last_updated": "2025-05-17T19:58:33.626800",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -85,8 +85,8 @@
             "price": 1849.0,
             "savings": 92.45,
             "discount_percent": 5.0,
-            "priority_score": 435.38976820894703,
-            "reviews": 518,
+            "priority_score": 435.45919532571133,
+            "reviews": 519,
             "image_url": "images/6602748.jpg"
         },
         {
@@ -107,20 +107,9 @@
             "price": 1599.0,
             "savings": 79.95,
             "discount_percent": 5.0,
-            "priority_score": 428.6886014772275,
-            "reviews": 861,
+            "priority_score": 428.7721875540867,
+            "reviews": 863,
             "image_url": "images/6602741.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Logitech - Folio Touch Keyboard Case with Trackpad for iPad Air 11 - inch - Latest Model (M2 &M3), iPad Air (4th & 5th gen) - Graphite",
-            "sku": "6435279",
-            "price": 199.99,
-            "savings": 49.0,
-            "discount_percent": 24.501225061253063,
-            "priority_score": 427.8203109950154,
-            "reviews": 1219,
-            "image_url": "images/6435279.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -162,8 +151,8 @@
             "price": 1499.0,
             "savings": 74.95,
             "discount_percent": 5.0,
-            "priority_score": 398.2422663738058,
-            "reviews": 488,
+            "priority_score": 398.31594847506426,
+            "reviews": 489,
             "image_url": "images/6533542.jpg"
         },
         {
@@ -184,8 +173,8 @@
             "price": 999.0,
             "savings": 49.95,
             "discount_percent": 5.0,
-            "priority_score": 364.82948702344055,
-            "reviews": 1021,
+            "priority_score": 364.86476074363327,
+            "reviews": 1022,
             "image_url": "images/5495362.jpg"
         },
         {
@@ -217,20 +206,31 @@
             "price": 1199.0,
             "savings": 59.95,
             "discount_percent": 5.0,
-            "priority_score": 342.1185812224565,
-            "reviews": 236,
+            "priority_score": 342.2704440826986,
+            "reviews": 237,
             "image_url": "images/5495364.jpg"
         },
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
-            "sku": "6554318",
+            "sku": "",
             "price": 599.99,
             "savings": 50.0,
             "discount_percent": 8.333472224537076,
-            "priority_score": 337.9610871580868,
-            "reviews": 230,
-            "image_url": "images/6554318.jpg"
+            "priority_score": 338.1168860008747,
+            "reviews": 231,
+            "image_url": "images/.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6553330",
+            "price": 1999.99,
+            "savings": 50.0,
+            "discount_percent": 2.5000125000625,
+            "priority_score": 304.31069604959987,
+            "reviews": 203,
+            "image_url": "images/6553330.jpg"
         },
         {
             "category": "Computers and Tablets",

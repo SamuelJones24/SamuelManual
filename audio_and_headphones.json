@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-17T13:23:41.887970",
+    "last_updated": "2025-05-17T19:58:33.626800",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -36,14 +36,14 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Sony - MDREX14AP Wired Earbud Headphones - Black",
-            "sku": "5739305",
+            "title": "Sony - MDREX14AP Wired Earbud Headphones - White",
+            "sku": "5739306",
             "price": 14.99,
             "savings": 7.5,
             "discount_percent": 50.03335557038026,
             "priority_score": 488.85485046045835,
             "reviews": 7913,
-            "image_url": "images/5739305.jpg"
+            "image_url": "images/5739306.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -63,8 +63,8 @@
             "price": 299.99,
             "savings": 67.0,
             "discount_percent": 22.33407780259342,
-            "priority_score": 436.4043045149573,
-            "reviews": 197,
+            "priority_score": 436.5860045265583,
+            "reviews": 198,
             "image_url": "images/6575080.jpg"
         },
         {
