@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-18T01:24:32.281771",
+    "last_updated": "2025-05-18T07:27:09.567015",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -36,14 +36,25 @@
         },
         {
             "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6583240",
+            "price": 899.99,
+            "savings": 100.0,
+            "discount_percent": 11.111234569272991,
+            "priority_score": 415.364108415834,
+            "reviews": 83,
+            "image_url": "images/6583240.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
             "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
-            "sku": "",
+            "sku": "6567807",
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
             "priority_score": 394.76083941217576,
             "reviews": 405,
-            "image_url": "images/.jpg"
+            "image_url": "images/6567807.jpg"
         },
         {
             "category": "Smart Home and Wifi",

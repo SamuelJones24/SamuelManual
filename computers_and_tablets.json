@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-18T01:24:32.281771",
+    "last_updated": "2025-05-18T07:27:09.567015",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -125,13 +125,13 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6583240",
+            "sku": "",
             "price": 899.99,
             "savings": 100.0,
             "discount_percent": 11.111234569272991,
             "priority_score": 415.364108415834,
             "reviews": 83,
-            "image_url": "images/6583240.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
