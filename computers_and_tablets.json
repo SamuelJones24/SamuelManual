@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-18T07:27:09.567015",
+    "last_updated": "2025-05-18T13:22:30.427784",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -14,25 +14,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Black",
-            "sku": "6583049",
-            "price": 279.99,
-            "savings": 83.0,
-            "discount_percent": 29.64391585413765,
-            "priority_score": 504.21740032536644,
-            "reviews": 193,
-            "image_url": "images/6583049.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Dell - G2524H 24.5\" IPS LED FHD 280Hz 0.5ms FreeSync and G - SYNC Gaming Monitor (DisplayPort, HDMI) - Ascent Gray",
-            "sku": "6567509",
-            "price": 249.99,
-            "savings": 80.0,
-            "discount_percent": 32.001280051202045,
-            "priority_score": 501.20458809209987,
-            "reviews": 151,
-            "image_url": "images/6567509.jpg"
+            "title": "Logitech - Folio Touch Keyboard Case with Trackpad for iPad Air 11 - inch - Latest Model (M2 &M3), iPad Air (4th & 5th gen) - Graphite",
+            "sku": "6435279",
+            "price": 199.99,
+            "savings": 55.0,
+            "discount_percent": 27.501375068753436,
+            "priority_score": 503.8235111550234,
+            "reviews": 1219,
+            "image_url": "images/6435279.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -113,25 +102,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Logitech - Folio Touch Keyboard Case with Trackpad for iPad Air 11 - inch - Latest Model (M2 &M3), iPad Air (4th & 5th gen) - Graphite",
-            "sku": "6435279",
-            "price": 199.99,
-            "savings": 49.0,
-            "discount_percent": 24.501225061253063,
-            "priority_score": 427.8203109950154,
-            "reviews": 1219,
-            "image_url": "images/6435279.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "",
+            "sku": "6583240",
             "price": 899.99,
             "savings": 100.0,
             "discount_percent": 11.111234569272991,
             "priority_score": 415.364108415834,
             "reviews": 83,
-            "image_url": "images/.jpg"
+            "image_url": "images/6583240.jpg"
         },
         {
             "category": "Computers and Tablets",

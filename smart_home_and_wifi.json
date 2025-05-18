@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-18T07:27:09.567015",
+    "last_updated": "2025-05-18T13:22:30.427784",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -14,17 +14,6 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
-            "sku": "6559342",
-            "price": 379.99,
-            "savings": 60.0,
-            "discount_percent": 15.789889207610727,
-            "priority_score": 480.57516959950766,
-            "reviews": 2460,
-            "image_url": "images/6559342.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
             "title": "Yale - Assure Lock 2 - Smart Lock Wi - Fi Deadbolt with Push Button Keypad | Key Access - Satin Nickel",
             "sku": "6540360",
             "price": 269.99,
@@ -36,17 +25,6 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6583240",
-            "price": 899.99,
-            "savings": 100.0,
-            "discount_percent": 11.111234569272991,
-            "priority_score": 415.364108415834,
-            "reviews": 83,
-            "image_url": "images/6583240.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
             "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
             "sku": "6567807",
             "price": 319.99,
@@ -55,17 +33,6 @@
             "priority_score": 394.76083941217576,
             "reviews": 405,
             "image_url": "images/6567807.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Yale - Assure Lock 2 - Smart Lock Keyless Wi - Fi Deadbolt with APPLE HOME KEYS | Touchscreen Keypad Access - Satin Nickel",
-            "sku": "6563954",
-            "price": 319.99,
-            "savings": 63.0,
-            "discount_percent": 19.688115253601673,
-            "priority_score": 374.4405762680084,
-            "reviews": 63,
-            "image_url": "images/6563954.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "last_updated": "2025-05-18T07:27:09.567015",
+    "last_updated": "2025-05-18T13:22:30.427784",
     "deals": [
         {
             "category": "TVs and Home Theater",
             "title": "Samsung - 65\u201d Class LS03D The Frame Series QLED 4K with Anti - Reflection and Slim Fit Wall Mount Included (2024)",
             "sku": "6576593",
             "price": 1999.99,
-            "savings": 460.0,
-            "discount_percent": 23.000115000575004,
-            "priority_score": 1227.337748940358,
+            "savings": 346.0,
+            "discount_percent": 17.300086500432503,
+            "priority_score": 970.8376064396457,
             "reviews": 206,
             "image_url": "images/6576593.jpg"
         },
@@ -22,17 +22,6 @@
             "priority_score": 557.3117045016475,
             "reviews": 1748,
             "image_url": "images/6278202.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "Samsung - 40\" Class 5 Series LED Full HD Smart Tizen TV (2019)",
-            "sku": "6360291",
-            "price": 249.99,
-            "savings": 51.0,
-            "discount_percent": 20.400816032641305,
-            "priority_score": 538.7985953135357,
-            "reviews": 10747,
-            "image_url": "images/6360291.jpg"
         },
         {
             "category": "TVs and Home Theater",
