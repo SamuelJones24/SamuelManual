@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-18T19:56:25.212677",
+    "last_updated": "2025-05-19T01:24:26.140185",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -11,17 +11,6 @@
             "priority_score": 523.7567257004298,
             "reviews": 145,
             "image_url": "images/6555805.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Logitech - Folio Touch Keyboard Case with Trackpad for iPad Air 11 - inch - Latest Model (M2 &M3), iPad Air (4th & 5th gen) - Graphite",
-            "sku": "6435279",
-            "price": 199.99,
-            "savings": 55.0,
-            "discount_percent": 27.501375068753436,
-            "priority_score": 503.8235111550234,
-            "reviews": 1219,
-            "image_url": "images/6435279.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -52,20 +41,9 @@
             "price": 499.98,
             "savings": 99.0,
             "discount_percent": 19.800792031681265,
-            "priority_score": 452.7244274208034,
-            "reviews": 74,
+            "priority_score": 453.202147994496,
+            "reviews": 75,
             "image_url": "images/6583054.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "SteelSeries - Arctis Nova Pro Wireless Multi Gaming Headset for PS5, PS4, PC, Switch - White",
-            "sku": "6576926",
-            "price": 349.99,
-            "savings": 60.0,
-            "discount_percent": 17.143346952770077,
-            "priority_score": 444.0012712767582,
-            "reviews": 739,
-            "image_url": "images/6576926.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -91,17 +69,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - MacBook Pro 14 - inch Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Space Black",
-            "sku": "6602741",
-            "price": 1599.0,
-            "savings": 79.95,
-            "discount_percent": 5.0,
-            "priority_score": 428.89720458054586,
-            "reviews": 866,
-            "image_url": "images/6602741.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
             "sku": "6583240",
             "price": 899.99,
@@ -124,14 +91,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "6533542",
-            "price": 1499.0,
-            "savings": 74.95,
-            "discount_percent": 5.0,
-            "priority_score": 398.462862633481,
-            "reviews": 491,
-            "image_url": "images/6533542.jpg"
+            "title": "Microsoft - Surface Pro Flex Keyboard for Pro (11th Edition), Pro 9, and Pro 8 with Pen Storage - Black",
+            "sku": "6583062",
+            "price": 399.99,
+            "savings": 80.0,
+            "discount_percent": 20.00050001250031,
+            "priority_score": 399.62656258053045,
+            "reviews": 47,
+            "image_url": "images/6583062.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -140,20 +107,9 @@
             "price": 879.99,
             "savings": 83.0,
             "discount_percent": 9.431925362788213,
-            "priority_score": 387.591624901439,
-            "reviews": 125,
+            "priority_score": 387.8767439832452,
+            "reviews": 126,
             "image_url": "images/6593196.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 256GB with OLED - Space Black",
-            "sku": "5495362",
-            "price": 999.0,
-            "savings": 49.95,
-            "discount_percent": 5.0,
-            "priority_score": 364.93520485982026,
-            "reviews": 1024,
-            "image_url": "images/5495362.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -173,20 +129,9 @@
             "price": 2299.0,
             "savings": 70.0,
             "discount_percent": 3.0448020878642885,
-            "priority_score": 356.33386342328276,
-            "reviews": 263,
+            "priority_score": 356.4702241755855,
+            "reviews": 264,
             "image_url": "images/6602755.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "5495364",
-            "price": 1199.0,
-            "savings": 59.95,
-            "discount_percent": 5.0,
-            "priority_score": 342.2704440826986,
-            "reviews": 237,
-            "image_url": "images/5495364.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -201,25 +146,25 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6553330",
-            "price": 1999.99,
+            "title": "HP - 15.6\" Full HD Touch - Screen Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - Natural Silver",
+            "sku": "6612253",
+            "price": 579.99,
             "savings": 50.0,
-            "discount_percent": 2.5000125000625,
-            "priority_score": 304.31069604959987,
-            "reviews": 203,
-            "image_url": "images/6553330.jpg"
+            "discount_percent": 8.62083829031535,
+            "priority_score": 337.4738679416061,
+            "reviews": 218,
+            "image_url": "images/6612253.jpg"
         },
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6612971",
+            "sku": "",
             "price": 1299.99,
             "savings": 50.0,
             "discount_percent": 3.8461834321802475,
             "priority_score": 169.23091716090124,
             "reviews": 3,
-            "image_url": "images/6612971.jpg"
+            "image_url": "images/.jpg"
         }
     ]
 }
