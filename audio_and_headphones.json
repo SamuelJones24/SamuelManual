@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-18T13:22:30.427784",
+    "last_updated": "2025-05-18T19:56:25.212677",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -36,24 +36,13 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Sony - MDREX14AP Wired Earbud Headphones - White",
-            "sku": "5739306",
-            "price": 14.99,
-            "savings": 7.5,
-            "discount_percent": 50.03335557038026,
-            "priority_score": 488.85485046045835,
-            "reviews": 7913,
-            "image_url": "images/5739306.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "Sony - STRDH590 - 725W 5.2 - Ch. Hi - Res 4K Ultra HD HDR A/V Home Theater Receiver - Black",
             "sku": "6187502",
             "price": 399.99,
             "savings": 50.0,
             "discount_percent": 12.500312507812694,
-            "priority_score": 459.6535021608908,
-            "reviews": 3784,
+            "priority_score": 459.66302993165607,
+            "reviews": 3785,
             "image_url": "images/6187502.jpg"
         },
         {
@@ -66,28 +55,6 @@
             "priority_score": 436.5860045265583,
             "reviews": 198,
             "image_url": "images/6575080.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Bose - Portable Smart Speaker with built - in WiFi, Bluetooth, Google Assistant and Alexa Voice Control - Triple Black",
-            "sku": "6370597",
-            "price": 399.99,
-            "savings": 50.0,
-            "discount_percent": 12.500312507812694,
-            "priority_score": 422.3363239751631,
-            "reviews": 1344,
-            "image_url": "images/6370597.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Sony - STR - AN1000 7.2 Channel Dolby Atmos & Dolby Vision 8K HDR Network A/V Receiver - Black",
-            "sku": "6533290",
-            "price": 899.99,
-            "savings": 50.0,
-            "discount_percent": 5.5556172846364955,
-            "priority_score": 339.8734808547889,
-            "reviews": 357,
-            "image_url": "images/6533290.jpg"
         }
     ]
 }

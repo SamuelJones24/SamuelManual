@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-18T13:22:30.427784",
+    "last_updated": "2025-05-18T19:56:25.212677",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -96,8 +96,8 @@
             "price": 1599.0,
             "savings": 79.95,
             "discount_percent": 5.0,
-            "priority_score": 428.85558036816815,
-            "reviews": 865,
+            "priority_score": 428.89720458054586,
+            "reviews": 866,
             "image_url": "images/6602741.jpg"
         },
         {
@@ -124,24 +124,13 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Pro Flex Keyboard for Pro (11th Edition), Pro 9, and Pro 8 with Pen Storage - Black",
-            "sku": "6583062",
-            "price": 399.99,
-            "savings": 80.0,
-            "discount_percent": 20.00050001250031,
-            "priority_score": 399.62656258053045,
-            "reviews": 47,
-            "image_url": "images/6583062.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
             "sku": "6533542",
             "price": 1499.0,
             "savings": 74.95,
             "discount_percent": 5.0,
-            "priority_score": 398.31594847506426,
-            "reviews": 489,
+            "priority_score": 398.462862633481,
+            "reviews": 491,
             "image_url": "images/6533542.jpg"
         },
         {
