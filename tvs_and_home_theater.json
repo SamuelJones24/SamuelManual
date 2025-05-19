@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-19T07:27:08.024326",
+    "last_updated": "2025-05-19T13:25:17.572074",
     "deals": [
         {
             "category": "TVs and Home Theater",
@@ -11,6 +11,17 @@
             "priority_score": 557.3117045016475,
             "reviews": 1748,
             "image_url": "images/6278202.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "LG - 75\" Class 85 Series QNED 4K UHD Smart webOS TV (2024)",
+            "sku": "6578190",
+            "price": 999.99,
+            "savings": 100.0,
+            "discount_percent": 10.00010000100001,
+            "priority_score": 440.3682461078803,
+            "reviews": 195,
+            "image_url": "images/6578190.jpg"
         },
         {
             "category": "TVs and Home Theater",

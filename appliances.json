@@ -1,6 +1,28 @@
 {
-    "last_updated": "2025-05-19T07:27:08.024326",
+    "last_updated": "2025-05-19T13:25:17.572074",
     "deals": [
+        {
+            "category": "Appliances",
+            "title": "Shark - Robot Vacuum & Mop PowerDetect NeverTouch Pro, Combo, Self - Emptying & Self - Refilling with Self - Clean Pad Wash & Dry - Black",
+            "sku": "6599392",
+            "price": 999.99,
+            "savings": 300.0,
+            "discount_percent": 30.00030000300003,
+            "priority_score": 939.9993210696783,
+            "reviews": 193,
+            "image_url": "images/6599392.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Shark - Pet Cordless Stick Vacuum with XL Dust Cup, LED Headlights - Blue Iris",
+            "sku": "6359269",
+            "price": 299.99,
+            "savings": 120.0,
+            "discount_percent": 40.00133337777926,
+            "priority_score": 723.7801464275572,
+            "reviews": 2611,
+            "image_url": "images/6359269.jpg"
+        },
         {
             "category": "Appliances",
             "title": "Whirlpool - 24.5 Cu. Ft. French Door Refrigerator with Two - Tier Freezer Storage - Fingerprint Resistant Stainless Steel",
@@ -11,6 +33,17 @@
             "priority_score": 604.8307378507279,
             "reviews": 82,
             "image_url": "images/6595028.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Dyson - V15s Detect Submarine Cordless Vacuum with 10 accessories - Yellow/Nickel",
+            "sku": "6552779",
+            "price": 949.99,
+            "savings": 150.0,
+            "discount_percent": 15.78963989094622,
+            "priority_score": 556.6613108741853,
+            "reviews": 137,
+            "image_url": "images/6552779.jpg"
         },
         {
             "category": "Appliances",
@@ -25,14 +58,36 @@
         },
         {
             "category": "Appliances",
-            "title": "Samsung - Bespoke 29 Cu. Ft. 4 - Door Flex French Door Smart Refrigerator with AI Family Hub+ and AI Vision Inside - Stainless Steel",
-            "sku": "6571681",
-            "price": 3199.99,
+            "title": "Vitamix - Explorian E310 Blender - Black",
+            "sku": "6006801",
+            "price": 379.95,
+            "savings": 80.0,
+            "discount_percent": 21.055402026582446,
+            "priority_score": 507.48326786124164,
+            "reviews": 824,
+            "image_url": "images/6006801.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "iRobot - Roomba 105 Combo Vac Robot Vacuum & Mop + AutoEmpty Dock - Black",
+            "sku": "6618892",
+            "price": 469.99,
             "savings": 100.0,
-            "discount_percent": 3.1250097656555176,
-            "priority_score": 398.89797078114304,
-            "reviews": 160,
-            "image_url": "images/6571681.jpg"
+            "discount_percent": 21.277048447839313,
+            "priority_score": 364.43344461138065,
+            "reviews": 4,
+            "image_url": "images/6618892.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "De'Longhi - Linea Classic Espresso Machine - Stainless Steel",
+            "sku": "6615146",
+            "price": 229.95,
+            "savings": 49.0,
+            "discount_percent": 21.308980213089804,
+            "priority_score": 291.17506567532723,
+            "reviews": 35,
+            "image_url": "images/6615146.jpg"
         }
     ]
 }

@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-05-19T07:27:08.024326",
+    "last_updated": "2025-05-19T13:25:17.572074",
     "deals": [
+        {
+            "category": "Computers and Tablets",
+            "title": "HP - ENVY Inspire 7255e Wireless All - In - One Inkjet Photo Printer with 3 months of Instant Ink included with HP+ - White & Sandstone",
+            "sku": "",
+            "price": 209.99,
+            "savings": 60.0,
+            "discount_percent": 28.572789180437162,
+            "priority_score": 533.6070142793374,
+            "reviews": 1819,
+            "image_url": "images/.jpg"
+        },
         {
             "category": "Computers and Tablets",
             "title": "SteelSeries - Alias USB Microphone",
@@ -11,6 +22,28 @@
             "priority_score": 523.7567257004298,
             "reviews": 145,
             "image_url": "images/6555805.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 90.0,
+            "discount_percent": 30.001000033334446,
+            "priority_score": 499.2096082860954,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "CORSAIR - K65 PRO MINI RGB 65% Optical - Mechanical Gaming Keyboard Backlit RGB LED, OPX - Black",
+            "sku": "6547466",
+            "price": 149.99,
+            "savings": 50.0,
+            "discount_percent": 33.335555703713574,
+            "priority_score": 457.77418326293594,
+            "reviews": 199,
+            "image_url": "images/6547466.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -47,28 +80,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - Magic Keyboard Folio for iPad (A16) and iPad 10.9 - inch (10th Generation) - White",
-            "sku": "6340391",
-            "price": 249.0,
-            "savings": 50.0,
-            "discount_percent": 20.080321285140563,
-            "priority_score": 432.2464964060594,
-            "reviews": 618,
-            "image_url": "images/6340391.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6583240",
-            "price": 899.99,
-            "savings": 100.0,
-            "discount_percent": 11.111234569272991,
-            "priority_score": 415.364108415834,
-            "reviews": 83,
-            "image_url": "images/6583240.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Microsoft - Surface Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 with Pen Storage - Black",
             "sku": "6583061",
             "price": 179.99,
@@ -99,6 +110,17 @@
             "priority_score": 387.8767439832452,
             "reviews": 126,
             "image_url": "images/6593196.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Logitech - G735 Aurora Collection Wireless Gaming Headset for PC, Mobile - White Mist",
+            "sku": "6511305",
+            "price": 259.99,
+            "savings": 48.0,
+            "discount_percent": 18.462248548021076,
+            "priority_score": 366.6623655767471,
+            "reviews": 390,
+            "image_url": "images/6511305.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -135,14 +157,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "HP - 15.6\" Full HD Touch - Screen Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - Natural Silver",
-            "sku": "6612253",
-            "price": 579.99,
-            "savings": 50.0,
-            "discount_percent": 8.62083829031535,
-            "priority_score": 337.4738679416061,
-            "reviews": 218,
-            "image_url": "images/6612253.jpg"
+            "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Midnight",
+            "sku": "6534638",
+            "price": 1299.0,
+            "savings": 64.95,
+            "discount_percent": 5.0,
+            "priority_score": 306.0098529839613,
+            "reviews": 65,
+            "image_url": "images/6534638.jpg"
         },
         {
             "category": "Computers and Tablets",

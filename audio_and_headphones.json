@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-19T07:27:08.024326",
+    "last_updated": "2025-05-19T13:25:17.572074",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -30,9 +30,20 @@
             "price": 299.99,
             "savings": 90.0,
             "discount_percent": 30.001000033334446,
-            "priority_score": 530.9779748989798,
-            "reviews": 262,
+            "priority_score": 531.1148531506336,
+            "reviews": 263,
             "image_url": "images/6534102.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Bose - QuietComfort Ultra Wireless Noise Cancelling Over - the - Ear Headphones - Lunar Blue",
+            "sku": "6589916",
+            "price": 429.0,
+            "savings": 80.0,
+            "discount_percent": 18.64801864801865,
+            "priority_score": 524.5338192754947,
+            "reviews": 1847,
+            "image_url": "images/6589916.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -41,8 +52,8 @@
             "price": 249.99,
             "savings": 60.0,
             "discount_percent": 24.000960038401537,
-            "priority_score": 500.0801007813826,
-            "reviews": 1353,
+            "priority_score": 500.1333367704163,
+            "reviews": 1355,
             "image_url": "images/6585614.jpg"
         },
         {
@@ -61,22 +72,22 @@
             "title": "Bose - Portable Smart Speaker with built - in WiFi, Bluetooth, Google Assistant and Alexa Voice Control - Triple Black",
             "sku": "6370597",
             "price": 399.99,
-            "savings": 50.0,
-            "discount_percent": 12.500312507812694,
-            "priority_score": 422.3363239751631,
+            "savings": 59.0,
+            "discount_percent": 14.75036875921898,
+            "priority_score": 451.58660523219453,
             "reviews": 1344,
             "image_url": "images/6370597.jpg"
         },
         {
             "category": "Audio & Headphones",
-            "title": "LG - 2.1 Channel S40T Soundbar with Wireless Subwoofer and Bluetooth Connectivity - Black",
-            "sku": "",
-            "price": 229.99,
+            "title": "Beats - Powerbeats Pro 2 True Wireless Active Noise Canceling Earbuds - Quick Sand",
+            "sku": "6558861",
+            "price": 249.99,
             "savings": 50.0,
-            "discount_percent": 21.740075655463283,
-            "priority_score": 393.07636406098953,
-            "reviews": 165,
-            "image_url": "images/.jpg"
+            "discount_percent": 20.00080003200128,
+            "priority_score": 420.58818116116225,
+            "reviews": 452,
+            "image_url": "images/6558861.jpg"
         }
     ]
 }
