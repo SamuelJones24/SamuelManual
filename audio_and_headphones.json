@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-19T01:24:26.140185",
+    "last_updated": "2025-05-19T07:27:08.024326",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -47,6 +47,17 @@
         },
         {
             "category": "Audio & Headphones",
+            "title": "Sony - STRDH590 - 725W 5.2 - Ch. Hi - Res 4K Ultra HD HDR A/V Home Theater Receiver - Black",
+            "sku": "6187502",
+            "price": 399.99,
+            "savings": 50.0,
+            "discount_percent": 12.500312507812694,
+            "priority_score": 459.66302993165607,
+            "reviews": 3785,
+            "image_url": "images/6187502.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
             "title": "Bose - Portable Smart Speaker with built - in WiFi, Bluetooth, Google Assistant and Alexa Voice Control - Triple Black",
             "sku": "6370597",
             "price": 399.99,
@@ -55,6 +66,17 @@
             "priority_score": 422.3363239751631,
             "reviews": 1344,
             "image_url": "images/6370597.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "LG - 2.1 Channel S40T Soundbar with Wireless Subwoofer and Bluetooth Connectivity - Black",
+            "sku": "",
+            "price": 229.99,
+            "savings": 50.0,
+            "discount_percent": 21.740075655463283,
+            "priority_score": 393.07636406098953,
+            "reviews": 165,
+            "image_url": "images/.jpg"
         }
     ]
 }
