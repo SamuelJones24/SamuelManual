@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-20T01:26:58.691585",
+    "last_updated": "2025-05-20T07:26:59.051651",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -33,6 +33,17 @@
             "priority_score": 394.76083941217576,
             "reviews": 405,
             "image_url": "images/6567807.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
+            "sku": "6554318",
+            "price": 599.99,
+            "savings": 50.0,
+            "discount_percent": 8.333472224537076,
+            "priority_score": 338.2720147390424,
+            "reviews": 232,
+            "image_url": "images/6554318.jpg"
         }
     ]
 }

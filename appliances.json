@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-05-20T01:26:58.691585",
+    "last_updated": "2025-05-20T07:26:59.051651",
     "deals": [
-        {
-            "category": "Appliances",
-            "title": "Shark - Robot Vacuum & Mop PowerDetect NeverTouch Pro, Combo, Self - Emptying & Self - Refilling with Self - Clean Pad Wash & Dry - Black",
-            "sku": "6599392",
-            "price": 999.99,
-            "savings": 300.0,
-            "discount_percent": 30.00030000300003,
-            "priority_score": 940.1847578587403,
-            "reviews": 194,
-            "image_url": "images/6599392.jpg"
-        },
         {
             "category": "Appliances",
             "title": "Shark - Pet Cordless Stick Vacuum with XL Dust Cup, LED Headlights - Blue Iris",
@@ -33,6 +22,17 @@
             "priority_score": 604.8307378507279,
             "reviews": 82,
             "image_url": "images/6595028.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Dyson - V15s Detect Submarine Cordless Vacuum with 10 accessories - Yellow/Nickel",
+            "sku": "6552779",
+            "price": 949.99,
+            "savings": 150.0,
+            "discount_percent": 15.78963989094622,
+            "priority_score": 556.6613108741853,
+            "reviews": 137,
+            "image_url": "images/6552779.jpg"
         },
         {
             "category": "Appliances",
@@ -77,17 +77,6 @@
             "priority_score": 364.43344461138065,
             "reviews": 4,
             "image_url": "images/6618892.jpg"
-        },
-        {
-            "category": "Appliances",
-            "title": "De'Longhi - Linea Classic Espresso Machine - Stainless Steel",
-            "sku": "6615146",
-            "price": 229.95,
-            "savings": 49.0,
-            "discount_percent": 21.308980213089804,
-            "priority_score": 291.17506567532723,
-            "reviews": 35,
-            "image_url": "images/6615146.jpg"
         }
     ]
 }
