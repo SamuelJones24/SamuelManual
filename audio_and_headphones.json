@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-19T13:25:17.572074",
+    "last_updated": "2025-05-19T19:57:26.240210",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -11,6 +11,17 @@
             "priority_score": 585.9078246888088,
             "reviews": 3422,
             "image_url": "images/6492431.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Bose - QuietComfort Ultra Wireless Noise Cancelling Over - the - Ear Headphones - Lunar Blue",
+            "sku": "6589916",
+            "price": 449.0,
+            "savings": 100.0,
+            "discount_percent": 22.271714922049,
+            "priority_score": 582.67181234535,
+            "reviews": 1848,
+            "image_url": "images/6589916.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -36,24 +47,13 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Bose - QuietComfort Ultra Wireless Noise Cancelling Over - the - Ear Headphones - Lunar Blue",
-            "sku": "6589916",
-            "price": 429.0,
-            "savings": 80.0,
-            "discount_percent": 18.64801864801865,
-            "priority_score": 524.5338192754947,
-            "reviews": 1847,
-            "image_url": "images/6589916.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "Samsung - Galaxy Buds3 Pro Wireless Earbud Headphones - Silver",
             "sku": "6585614",
             "price": 249.99,
             "savings": 60.0,
             "discount_percent": 24.000960038401537,
-            "priority_score": 500.1333367704163,
-            "reviews": 1355,
+            "priority_score": 500.2130437111924,
+            "reviews": 1358,
             "image_url": "images/6585614.jpg"
         },
         {
@@ -77,17 +77,6 @@
             "priority_score": 451.58660523219453,
             "reviews": 1344,
             "image_url": "images/6370597.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Beats - Powerbeats Pro 2 True Wireless Active Noise Canceling Earbuds - Quick Sand",
-            "sku": "6558861",
-            "price": 249.99,
-            "savings": 50.0,
-            "discount_percent": 20.00080003200128,
-            "priority_score": 420.58818116116225,
-            "reviews": 452,
-            "image_url": "images/6558861.jpg"
         }
     ]
 }

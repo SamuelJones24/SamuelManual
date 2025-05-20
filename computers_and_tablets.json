@@ -1,16 +1,16 @@
 {
-    "last_updated": "2025-05-19T13:25:17.572074",
+    "last_updated": "2025-05-19T19:57:26.240210",
     "deals": [
         {
             "category": "Computers and Tablets",
             "title": "HP - ENVY Inspire 7255e Wireless All - In - One Inkjet Photo Printer with 3 months of Instant Ink included with HP+ - White & Sandstone",
-            "sku": "",
+            "sku": "6492187",
             "price": 209.99,
             "savings": 60.0,
             "discount_percent": 28.572789180437162,
             "priority_score": 533.6070142793374,
             "reviews": 1819,
-            "image_url": "images/.jpg"
+            "image_url": "images/6492187.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -80,6 +80,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6583240",
+            "price": 899.99,
+            "savings": 100.0,
+            "discount_percent": 11.111234569272991,
+            "priority_score": 415.364108415834,
+            "reviews": 83,
+            "image_url": "images/6583240.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Microsoft - Surface Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 with Pen Storage - Black",
             "sku": "6583061",
             "price": 179.99,
@@ -92,13 +103,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Microsoft - Surface Pro Flex Keyboard for Pro (11th Edition), Pro 9, and Pro 8 with Pen Storage - Black",
-            "sku": "6583062",
+            "sku": "",
             "price": 399.99,
             "savings": 80.0,
             "discount_percent": 20.00050001250031,
             "priority_score": 399.62656258053045,
             "reviews": 47,
-            "image_url": "images/6583062.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -129,8 +140,8 @@
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 362.49451870442755,
-            "reviews": 315,
+            "priority_score": 362.7220738821089,
+            "reviews": 317,
             "image_url": "images/6467298.jpg"
         },
         {
@@ -143,17 +154,6 @@
             "priority_score": 356.4702241755855,
             "reviews": 264,
             "image_url": "images/6602755.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
-            "sku": "6554318",
-            "price": 599.99,
-            "savings": 50.0,
-            "discount_percent": 8.333472224537076,
-            "priority_score": 338.2720147390424,
-            "reviews": 232,
-            "image_url": "images/6554318.jpg"
         },
         {
             "category": "Computers and Tablets",
