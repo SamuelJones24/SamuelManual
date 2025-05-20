@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-19T19:57:26.240210",
+    "last_updated": "2025-05-20T01:26:58.691585",
     "deals": [
         {
             "category": "Appliances",
@@ -36,24 +36,13 @@
         },
         {
             "category": "Appliances",
-            "title": "Dyson - V15s Detect Submarine Cordless Vacuum with 10 accessories - Yellow/Nickel",
-            "sku": "6552779",
-            "price": 949.99,
-            "savings": 150.0,
-            "discount_percent": 15.78963989094622,
-            "priority_score": 556.6613108741853,
-            "reviews": 137,
-            "image_url": "images/6552779.jpg"
-        },
-        {
-            "category": "Appliances",
             "title": "Tineco - GO H2O XL Cordless Floor Washer - Grey",
             "sku": "6585782",
             "price": 299.99,
             "savings": 110.0,
             "discount_percent": 36.66788892963099,
-            "priority_score": 553.8986399738662,
-            "reviews": 64,
+            "priority_score": 554.4492976321162,
+            "reviews": 65,
             "image_url": "images/6585782.jpg"
         },
         {
@@ -66,6 +55,17 @@
             "priority_score": 507.48326786124164,
             "reviews": 824,
             "image_url": "images/6006801.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Samsung - Bespoke 29 Cu. Ft. 4 - Door Flex French Door Smart Refrigerator with AI Family Hub+ and AI Vision Inside - Stainless Steel",
+            "sku": "6571681",
+            "price": 3199.99,
+            "savings": 100.0,
+            "discount_percent": 3.1250097656555176,
+            "priority_score": 399.1212989003932,
+            "reviews": 161,
+            "image_url": "images/6571681.jpg"
         },
         {
             "category": "Appliances",

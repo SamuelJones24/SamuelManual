@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-19T19:57:26.240210",
+    "last_updated": "2025-05-20T01:26:58.691585",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -52,8 +52,8 @@
             "price": 449.0,
             "savings": 69.0,
             "discount_percent": 15.367483296213807,
-            "priority_score": 457.3917336152077,
-            "reviews": 832,
+            "priority_score": 457.43500581718564,
+            "reviews": 833,
             "image_url": "images/6537139.jpg"
         },
         {
@@ -103,13 +103,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Microsoft - Surface Pro Flex Keyboard for Pro (11th Edition), Pro 9, and Pro 8 with Pen Storage - Black",
-            "sku": "",
+            "sku": "6583062",
             "price": 399.99,
             "savings": 80.0,
             "discount_percent": 20.00050001250031,
             "priority_score": 399.62656258053045,
             "reviews": 47,
-            "image_url": "images/.jpg"
+            "image_url": "images/6583062.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -157,6 +157,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
+            "sku": "6554318",
+            "price": 599.99,
+            "savings": 50.0,
+            "discount_percent": 8.333472224537076,
+            "priority_score": 338.2720147390424,
+            "reviews": 232,
+            "image_url": "images/6554318.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Midnight",
             "sku": "6534638",
             "price": 1299.0,
@@ -169,13 +180,13 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6612971",
+            "sku": "",
             "price": 1299.99,
             "savings": 50.0,
             "discount_percent": 3.8461834321802475,
             "priority_score": 169.23091716090124,
             "reviews": 3,
-            "image_url": "images/6612971.jpg"
+            "image_url": "images/.jpg"
         }
     ]
 }
