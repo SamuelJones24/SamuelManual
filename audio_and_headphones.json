@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-05-20T07:26:59.051651",
+    "last_updated": "2025-05-20T13:25:50.758262",
     "deals": [
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - Xtreme 4 Portable Bluetooth Speaker - Black",
+            "sku": "6582050",
+            "price": 379.99,
+            "savings": 130.0,
+            "discount_percent": 34.21142661648991,
+            "priority_score": 610.80274705445,
+            "reviews": 145,
+            "image_url": "images/6582050.jpg"
+        },
         {
             "category": "Audio & Headphones",
             "title": "Shokz - OpenRun Bone Conduction Open - Ear Endurance Headphones - Black",
@@ -14,24 +25,13 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Bose - QuietComfort Ultra Wireless Noise Cancelling Over - the - Ear Headphones - Lunar Blue",
-            "sku": "6589916",
-            "price": 449.0,
-            "savings": 100.0,
-            "discount_percent": 22.271714922049,
-            "priority_score": 582.67181234535,
-            "reviews": 1848,
-            "image_url": "images/6589916.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "Shokz - OpenRun Mini Bone Conduction Open - Ear Endurance Headphones - Black",
             "sku": "6492432",
             "price": 129.95,
             "savings": 50.0,
             "discount_percent": 38.47633705271258,
-            "priority_score": 551.6216189205297,
-            "reviews": 1322,
+            "priority_score": 551.6488704337432,
+            "reviews": 1323,
             "image_url": "images/6492432.jpg"
         },
         {
@@ -48,13 +48,13 @@
         {
             "category": "Audio & Headphones",
             "title": "Samsung - Galaxy Buds3 Pro Wireless Earbud Headphones - Silver",
-            "sku": "6585614",
+            "sku": "",
             "price": 249.99,
             "savings": 60.0,
             "discount_percent": 24.000960038401537,
-            "priority_score": 500.2660839796075,
-            "reviews": 1360,
-            "image_url": "images/6585614.jpg"
+            "priority_score": 500.31904636213795,
+            "reviews": 1362,
+            "image_url": "images/.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -77,6 +77,28 @@
             "priority_score": 451.58660523219453,
             "reviews": 1344,
             "image_url": "images/6370597.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - Live Beam 3 True Wireless Noise Cancelling Earbuds - Black",
+            "sku": "6582671",
+            "price": 199.99,
+            "savings": 50.0,
+            "discount_percent": 25.00125006250312,
+            "priority_score": 370.8285006666341,
+            "reviews": 56,
+            "image_url": "images/6582671.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - Live Buds 3 True Wireless Noise Cancelling Earbuds - Black",
+            "sku": "6582669",
+            "price": 199.99,
+            "savings": 50.0,
+            "discount_percent": 25.00125006250312,
+            "priority_score": 360.662869180068,
+            "reviews": 42,
+            "image_url": "images/6582669.jpg"
         }
     ]
 }

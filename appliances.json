@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-05-20T07:26:59.051651",
+    "last_updated": "2025-05-20T13:25:50.758262",
     "deals": [
-        {
-            "category": "Appliances",
-            "title": "Shark - Pet Cordless Stick Vacuum with XL Dust Cup, LED Headlights - Blue Iris",
-            "sku": "6359269",
-            "price": 299.99,
-            "savings": 120.0,
-            "discount_percent": 40.00133337777926,
-            "priority_score": 723.7801464275572,
-            "reviews": 2611,
-            "image_url": "images/6359269.jpg"
-        },
         {
             "category": "Appliances",
             "title": "Whirlpool - 24.5 Cu. Ft. French Door Refrigerator with Two - Tier Freezer Storage - Fingerprint Resistant Stainless Steel",
@@ -19,20 +8,9 @@
             "price": 2199.99,
             "savings": 200.0,
             "discount_percent": 9.09095041341097,
-            "priority_score": 604.8307378507279,
-            "reviews": 82,
+            "priority_score": 605.2626876365239,
+            "reviews": 83,
             "image_url": "images/6595028.jpg"
-        },
-        {
-            "category": "Appliances",
-            "title": "Dyson - V15s Detect Submarine Cordless Vacuum with 10 accessories - Yellow/Nickel",
-            "sku": "6552779",
-            "price": 949.99,
-            "savings": 150.0,
-            "discount_percent": 15.78963989094622,
-            "priority_score": 556.6613108741853,
-            "reviews": 137,
-            "image_url": "images/6552779.jpg"
         },
         {
             "category": "Appliances",
@@ -44,17 +22,6 @@
             "priority_score": 554.4492976321162,
             "reviews": 65,
             "image_url": "images/6585782.jpg"
-        },
-        {
-            "category": "Appliances",
-            "title": "Vitamix - Explorian E310 Blender - Black",
-            "sku": "6006801",
-            "price": 379.95,
-            "savings": 80.0,
-            "discount_percent": 21.055402026582446,
-            "priority_score": 507.48326786124164,
-            "reviews": 824,
-            "image_url": "images/6006801.jpg"
         },
         {
             "category": "Appliances",

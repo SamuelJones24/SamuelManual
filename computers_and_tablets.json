@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-05-20T07:26:59.051651",
+    "last_updated": "2025-05-20T13:25:50.758262",
     "deals": [
-        {
-            "category": "Computers and Tablets",
-            "title": "HP - ENVY Inspire 7255e Wireless All - In - One Inkjet Photo Printer with 3 months of Instant Ink included with HP+ - White & Sandstone",
-            "sku": "6492187",
-            "price": 209.99,
-            "savings": 60.0,
-            "discount_percent": 28.572789180437162,
-            "priority_score": 533.6070142793374,
-            "reviews": 1819,
-            "image_url": "images/6492187.jpg"
-        },
         {
             "category": "Computers and Tablets",
             "title": "SteelSeries - Alias USB Microphone",
@@ -22,6 +11,17 @@
             "priority_score": 523.7567257004298,
             "reviews": 145,
             "image_url": "images/6555805.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Epson - EcoTank Photo ET - 8550 All - in - One Wide - format Supertank Printer - White",
+            "sku": "6469372",
+            "price": 749.99,
+            "savings": 100.0,
+            "discount_percent": 13.333511113481514,
+            "priority_score": 516.4201546638451,
+            "reviews": 1016,
+            "image_url": "images/6469372.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -47,47 +47,36 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "SteelSeries - Arctis Nova Pro Wired Multi Gaming Headset for PC, PS5, PS4, Switch - Black",
+            "sku": "6506214",
+            "price": 249.99,
+            "savings": 56.0,
+            "discount_percent": 22.400896035841434,
+            "priority_score": 453.8118005409764,
+            "reviews": 584,
+            "image_url": "images/6506214.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "AMD - Ryzen 7 7800X3D 8 - Core - 16 - Thread 4.2 GHz (5.0 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black",
             "sku": "6537139",
             "price": 449.0,
-            "savings": 69.0,
-            "discount_percent": 15.367483296213807,
-            "priority_score": 457.43500581718564,
+            "savings": 64.0,
+            "discount_percent": 14.253897550111358,
+            "priority_score": 441.86707708667336,
             "reviews": 833,
             "image_url": "images/6537139.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Flex Keyboard for Pro (11th Edition), Pro 9, Pro 8 - Sapphire",
-            "sku": "6583054",
-            "price": 499.98,
-            "savings": 99.0,
-            "discount_percent": 19.800792031681265,
-            "priority_score": 453.202147994496,
-            "reviews": 75,
-            "image_url": "images/6583054.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - MacBook Pro 14 - inch Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
-            "sku": "6602748",
-            "price": 1849.0,
-            "savings": 92.45,
-            "discount_percent": 5.0,
-            "priority_score": 435.5284890569627,
-            "reviews": 520,
-            "image_url": "images/6602748.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6583240",
-            "price": 899.99,
-            "savings": 100.0,
-            "discount_percent": 11.111234569272991,
-            "priority_score": 415.364108415834,
-            "reviews": 83,
-            "image_url": "images/6583240.jpg"
+            "title": "CORSAIR - MM200 Gaming Mouse Pad - Medium - Black",
+            "sku": "4384400",
+            "price": 16.99,
+            "savings": 7.0,
+            "discount_percent": 41.20070629782225,
+            "priority_score": 418.81513401692746,
+            "reviews": 2432,
+            "image_url": "images/4384400.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -102,17 +91,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Pro Flex Keyboard for Pro (11th Edition), Pro 9, and Pro 8 with Pen Storage - Black",
-            "sku": "6583062",
-            "price": 399.99,
-            "savings": 80.0,
-            "discount_percent": 20.00050001250031,
-            "priority_score": 399.62656258053045,
-            "reviews": 47,
-            "image_url": "images/6583062.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Samsung - Galaxy Tab S10+ - 12.4\" 256GB - Wi - Fi - with S - Pen - Moonstone Gray",
             "sku": "6593196",
             "price": 879.99,
@@ -124,25 +102,25 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Logitech - G735 Aurora Collection Wireless Gaming Headset for PC, Mobile - White Mist",
-            "sku": "6511305",
-            "price": 259.99,
-            "savings": 48.0,
-            "discount_percent": 18.462248548021076,
-            "priority_score": 366.6623655767471,
-            "reviews": 390,
-            "image_url": "images/6511305.jpg"
+            "title": "Apple - MacBook Pro 14 - inch Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
+            "sku": "6602748",
+            "price": 1849.0,
+            "savings": 70.0,
+            "discount_percent": 3.785830178474851,
+            "priority_score": 384.55763994933693,
+            "reviews": 520,
+            "image_url": "images/6602748.jpg"
         },
         {
             "category": "Computers and Tablets",
             "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver",
-            "sku": "",
+            "sku": "6467298",
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
             "priority_score": 362.7220738821089,
             "reviews": 317,
-            "image_url": "images/.jpg"
+            "image_url": "images/6467298.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -157,14 +135,36 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Midnight",
-            "sku": "6534638",
-            "price": 1299.0,
-            "savings": 64.95,
-            "discount_percent": 5.0,
-            "priority_score": 306.5522297614443,
-            "reviews": 66,
-            "image_url": "images/6534638.jpg"
+            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
+            "sku": "6554318",
+            "price": 599.99,
+            "savings": 50.0,
+            "discount_percent": 8.333472224537076,
+            "priority_score": 338.2720147390424,
+            "reviews": 232,
+            "image_url": "images/6554318.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
+            "sku": "6553443",
+            "price": 429.99,
+            "savings": 50.0,
+            "discount_percent": 11.628177399474406,
+            "priority_score": 310.32745802863053,
+            "reviews": 67,
+            "image_url": "images/6553443.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
+            "sku": "6598715",
+            "price": 349.99,
+            "savings": 50.0,
+            "discount_percent": 14.286122460641732,
+            "priority_score": 291.61448535464876,
+            "reviews": 27,
+            "image_url": "images/6598715.jpg"
         },
         {
             "category": "Computers and Tablets",
