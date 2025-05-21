@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-21T01:26:29.596650",
+    "last_updated": "2025-05-21T07:28:02.007721",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -19,20 +19,9 @@
             "price": 749.99,
             "savings": 100.0,
             "discount_percent": 13.333511113481514,
-            "priority_score": 516.4201546638451,
-            "reviews": 1016,
+            "priority_score": 516.4556017192999,
+            "reviews": 1017,
             "image_url": "images/6469372.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
-            "sku": "6537888",
-            "price": 299.99,
-            "savings": 90.0,
-            "discount_percent": 30.001000033334446,
-            "priority_score": 499.2096082860954,
-            "reviews": 108,
-            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -107,8 +96,8 @@
             "price": 1849.0,
             "savings": 70.0,
             "discount_percent": 3.785830178474851,
-            "priority_score": 384.62680080662136,
-            "reviews": 521,
+            "priority_score": 384.6958292985478,
+            "reviews": 522,
             "image_url": "images/6602748.jpg"
         },
         {
@@ -118,8 +107,8 @@
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 362.7220738821089,
-            "reviews": 317,
+            "priority_score": 362.83531534412174,
+            "reviews": 318,
             "image_url": "images/6467298.jpg"
         },
         {
@@ -169,13 +158,13 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "",
+            "sku": "6612971",
             "price": 1299.99,
             "savings": 50.0,
             "discount_percent": 3.8461834321802475,
             "priority_score": 177.2791195330853,
             "reviews": 4,
-            "image_url": "images/.jpg"
+            "image_url": "images/6612971.jpg"
         }
     ]
 }
