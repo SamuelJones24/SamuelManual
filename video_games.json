@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-05-21T07:28:02.007721",
+    "last_updated": "2025-05-21T13:25:30.886468",
     "deals": [
+        {
+            "category": "Video Games",
+            "title": "SteelSeries - Arctis Nova 7X Wireless Gaming Headset for Xbox Series X|S, Xbox One - Black",
+            "sku": "6515689",
+            "price": 179.99,
+            "savings": 56.0,
+            "discount_percent": 31.112839602200122,
+            "priority_score": 518.6056768019309,
+            "reviews": 1053,
+            "image_url": "images/6515689.jpg"
+        },
         {
             "category": "Video Games",
             "title": "PowerA - Dual Charging Station for Xbox Series X|S - Black",
@@ -11,17 +22,6 @@
             "priority_score": 418.5016866977398,
             "reviews": 1036,
             "image_url": "images/6472018.jpg"
-        },
-        {
-            "category": "Video Games",
-            "title": "Arcade1Up - Mortal Kombat II Deluxe Arcade Game - Black",
-            "sku": "6538282",
-            "price": 499.99,
-            "savings": 50.0,
-            "discount_percent": 10.00020000400008,
-            "priority_score": 341.8116335692878,
-            "reviews": 203,
-            "image_url": "images/6538282.jpg"
         }
     ]
 }

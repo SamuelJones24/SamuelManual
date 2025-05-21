@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-21T07:28:02.007721",
+    "last_updated": "2025-05-21T13:25:30.886468",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -19,8 +19,8 @@
             "price": 129.95,
             "savings": 50.0,
             "discount_percent": 38.47633705271258,
-            "priority_score": 585.9078246888088,
-            "reviews": 3422,
+            "priority_score": 585.9183599235915,
+            "reviews": 3423,
             "image_url": "images/6492431.jpg"
         },
         {
@@ -72,11 +72,22 @@
             "title": "Bose - Portable Smart Speaker with built - in WiFi, Bluetooth, Google Assistant and Alexa Voice Control - Triple Black",
             "sku": "6370597",
             "price": 399.99,
-            "savings": 59.0,
-            "discount_percent": 14.75036875921898,
-            "priority_score": 451.58660523219453,
-            "reviews": 1344,
+            "savings": 50.0,
+            "discount_percent": 12.500312507812694,
+            "priority_score": 422.3631299043214,
+            "reviews": 1345,
             "image_url": "images/6370597.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - Live 770NC Wireless Over - Ear Headphones with True Adaptive Noise Cancelling - Black",
+            "sku": "6572447",
+            "price": 199.99,
+            "savings": 50.0,
+            "discount_percent": 25.00125006250312,
+            "priority_score": 402.1928213437741,
+            "reviews": 135,
+            "image_url": "images/6572447.jpg"
         },
         {
             "category": "Audio & Headphones",

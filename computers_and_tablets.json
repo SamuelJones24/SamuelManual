@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-21T07:28:02.007721",
+    "last_updated": "2025-05-21T13:25:30.886468",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -14,58 +14,36 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Epson - EcoTank Photo ET - 8550 All - in - One Wide - format Supertank Printer - White",
-            "sku": "6469372",
-            "price": 749.99,
-            "savings": 100.0,
-            "discount_percent": 13.333511113481514,
-            "priority_score": 516.4556017192999,
-            "reviews": 1017,
-            "image_url": "images/6469372.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "CORSAIR - K65 PRO MINI RGB 65% Optical - Mechanical Gaming Keyboard Backlit RGB LED, OPX - Black",
-            "sku": "6547466",
-            "price": 149.99,
-            "savings": 50.0,
-            "discount_percent": 33.335555703713574,
-            "priority_score": 457.77418326293594,
-            "reviews": 199,
-            "image_url": "images/6547466.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "SteelSeries - Arctis Nova Pro Wired Multi Gaming Headset for PC, PS5, PS4, Switch - Black",
-            "sku": "6506214",
+            "title": "Dell - G2524H 24.5\" IPS LED FHD 280Hz 0.5ms FreeSync and G - SYNC Gaming Monitor (DisplayPort, HDMI) - Ascent Gray",
+            "sku": "6567509",
             "price": 249.99,
-            "savings": 56.0,
-            "discount_percent": 22.400896035841434,
-            "priority_score": 453.8118005409764,
-            "reviews": 584,
-            "image_url": "images/6506214.jpg"
+            "savings": 80.0,
+            "discount_percent": 32.001280051202045,
+            "priority_score": 501.6760637733828,
+            "reviews": 153,
+            "image_url": "images/6567509.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 90.0,
+            "discount_percent": 30.001000033334446,
+            "priority_score": 499.2096082860954,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
             "title": "AMD - Ryzen 7 7800X3D 8 - Core - 16 - Thread 4.2 GHz (5.0 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black",
             "sku": "6537139",
             "price": 449.0,
-            "savings": 64.0,
-            "discount_percent": 14.253897550111358,
-            "priority_score": 441.86707708667336,
+            "savings": 63.0,
+            "discount_percent": 14.03118040089087,
+            "priority_score": 438.7534913405709,
             "reviews": 833,
             "image_url": "images/6537139.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "CORSAIR - MM200 Gaming Mouse Pad - Medium - Black",
-            "sku": "4384400",
-            "price": 16.99,
-            "savings": 7.0,
-            "discount_percent": 41.20070629782225,
-            "priority_score": 418.81513401692746,
-            "reviews": 2432,
-            "image_url": "images/4384400.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -85,8 +63,8 @@
             "price": 879.99,
             "savings": 83.0,
             "discount_percent": 9.431925362788213,
-            "priority_score": 387.8767439832452,
-            "reviews": 126,
+            "priority_score": 388.15962681394103,
+            "reviews": 127,
             "image_url": "images/6593196.jpg"
         },
         {
@@ -96,8 +74,8 @@
             "price": 1849.0,
             "savings": 70.0,
             "discount_percent": 3.785830178474851,
-            "priority_score": 384.6958292985478,
-            "reviews": 522,
+            "priority_score": 384.7647259308105,
+            "reviews": 523,
             "image_url": "images/6602748.jpg"
         },
         {
@@ -107,8 +85,8 @@
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 362.83531534412174,
-            "reviews": 318,
+            "priority_score": 362.948202372184,
+            "reviews": 319,
             "image_url": "images/6467298.jpg"
         },
         {
@@ -118,20 +96,9 @@
             "price": 2299.0,
             "savings": 70.0,
             "discount_percent": 3.0448020878642885,
-            "priority_score": 356.4702241755855,
-            "reviews": 264,
+            "priority_score": 356.6060713268512,
+            "reviews": 265,
             "image_url": "images/6602755.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (2 - pack) - White",
-            "sku": "6553442",
-            "price": 299.99,
-            "savings": 50.0,
-            "discount_percent": 16.66722224074136,
-            "priority_score": 343.99273007125925,
-            "reviews": 85,
-            "image_url": "images/6553442.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -146,14 +113,25 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
-            "sku": "6598715",
-            "price": 349.99,
+            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
+            "sku": "6553443",
+            "price": 429.99,
             "savings": 50.0,
-            "discount_percent": 14.286122460641732,
-            "priority_score": 291.61448535464876,
-            "reviews": 27,
-            "image_url": "images/6598715.jpg"
+            "discount_percent": 11.628177399474406,
+            "priority_score": 310.32745802863053,
+            "reviews": 67,
+            "image_url": "images/6553443.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Midnight",
+            "sku": "6534638",
+            "price": 1299.0,
+            "savings": 53.0,
+            "discount_percent": 4.080061585835258,
+            "priority_score": 278.05253769062057,
+            "reviews": 66,
+            "image_url": "images/6534638.jpg"
         },
         {
             "category": "Computers and Tablets",
