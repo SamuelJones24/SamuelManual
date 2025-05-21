@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-20T13:25:50.758262",
+    "last_updated": "2025-05-20T19:55:29.783766",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -81,13 +81,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Microsoft - Surface Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 with Pen Storage - Black",
-            "sku": "6583061",
+            "sku": "",
             "price": 179.99,
             "savings": 50.0,
             "discount_percent": 27.779321073392964,
             "priority_score": 400.38239583289726,
             "reviews": 87,
-            "image_url": "images/6583061.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -107,8 +107,8 @@
             "price": 1849.0,
             "savings": 70.0,
             "discount_percent": 3.785830178474851,
-            "priority_score": 384.55763994933693,
-            "reviews": 520,
+            "priority_score": 384.62680080662136,
+            "reviews": 521,
             "image_url": "images/6602748.jpg"
         },
         {
@@ -165,17 +165,6 @@
             "priority_score": 291.61448535464876,
             "reviews": 27,
             "image_url": "images/6598715.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6612971",
-            "price": 1299.99,
-            "savings": 50.0,
-            "discount_percent": 3.8461834321802475,
-            "priority_score": 169.23091716090124,
-            "reviews": 3,
-            "image_url": "images/6612971.jpg"
         }
     ]
 }
