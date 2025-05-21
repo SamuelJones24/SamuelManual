@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-20T19:55:29.783766",
+    "last_updated": "2025-05-21T01:26:29.596650",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -11,17 +11,6 @@
             "priority_score": 610.80274705445,
             "reviews": 145,
             "image_url": "images/6582050.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Shokz - OpenRun Bone Conduction Open - Ear Endurance Headphones - Black",
-            "sku": "6492431",
-            "price": 129.95,
-            "savings": 50.0,
-            "discount_percent": 38.47633705271258,
-            "priority_score": 585.9078246888088,
-            "reviews": 3422,
-            "image_url": "images/6492431.jpg"
         },
         {
             "category": "Audio & Headphones",

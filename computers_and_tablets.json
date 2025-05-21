@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-20T19:55:29.783766",
+    "last_updated": "2025-05-21T01:26:29.596650",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -81,13 +81,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Microsoft - Surface Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 with Pen Storage - Black",
-            "sku": "",
+            "sku": "6583061",
             "price": 179.99,
             "savings": 50.0,
             "discount_percent": 27.779321073392964,
             "priority_score": 400.38239583289726,
             "reviews": 87,
-            "image_url": "images/.jpg"
+            "image_url": "images/6583061.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -135,6 +135,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (2 - pack) - White",
+            "sku": "6553442",
+            "price": 299.99,
+            "savings": 50.0,
+            "discount_percent": 16.66722224074136,
+            "priority_score": 343.99273007125925,
+            "reviews": 85,
+            "image_url": "images/6553442.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
             "sku": "6554318",
             "price": 599.99,
@@ -146,17 +157,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
-            "sku": "6553443",
-            "price": 429.99,
-            "savings": 50.0,
-            "discount_percent": 11.628177399474406,
-            "priority_score": 310.32745802863053,
-            "reviews": 67,
-            "image_url": "images/6553443.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
             "sku": "6598715",
             "price": 349.99,
@@ -165,6 +165,17 @@
             "priority_score": 291.61448535464876,
             "reviews": 27,
             "image_url": "images/6598715.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "",
+            "price": 1299.99,
+            "savings": 50.0,
+            "discount_percent": 3.8461834321802475,
+            "priority_score": 177.2791195330853,
+            "reviews": 4,
+            "image_url": "images/.jpg"
         }
     ]
 }
