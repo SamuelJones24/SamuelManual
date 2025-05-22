@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-22T01:24:52.948059",
+    "last_updated": "2025-05-22T07:29:05.153293",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -96,8 +96,8 @@
             "price": 1849.0,
             "savings": 70.0,
             "discount_percent": 3.785830178474851,
-            "priority_score": 384.7647259308105,
-            "reviews": 523,
+            "priority_score": 384.8334912062114,
+            "reviews": 524,
             "image_url": "images/6602748.jpg"
         },
         {
@@ -135,14 +135,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (2 - pack) - White",
-            "sku": "6553442",
-            "price": 299.99,
+            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
+            "sku": "6554318",
+            "price": 599.99,
             "savings": 50.0,
-            "discount_percent": 16.66722224074136,
-            "priority_score": 343.99273007125925,
-            "reviews": 85,
-            "image_url": "images/6553442.jpg"
+            "discount_percent": 8.333472224537076,
+            "priority_score": 338.2720147390424,
+            "reviews": 232,
+            "image_url": "images/6554318.jpg"
         },
         {
             "category": "Computers and Tablets",
