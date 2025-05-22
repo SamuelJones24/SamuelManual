@@ -1,28 +1,6 @@
 {
-    "last_updated": "2025-05-21T19:53:58.684835",
+    "last_updated": "2025-05-22T01:24:52.948059",
     "deals": [
-        {
-            "category": "Appliances",
-            "title": "Whirlpool - 24.5 Cu. Ft. French Door Refrigerator with Two - Tier Freezer Storage - Fingerprint Resistant Stainless Steel",
-            "sku": "6595028",
-            "price": 2199.99,
-            "savings": 200.0,
-            "discount_percent": 9.09095041341097,
-            "priority_score": 605.2626876365239,
-            "reviews": 83,
-            "image_url": "images/6595028.jpg"
-        },
-        {
-            "category": "Appliances",
-            "title": "Tineco - GO H2O XL Cordless Floor Washer - Grey",
-            "sku": "6585782",
-            "price": 299.99,
-            "savings": 110.0,
-            "discount_percent": 36.66788892963099,
-            "priority_score": 554.4492976321162,
-            "reviews": 65,
-            "image_url": "images/6585782.jpg"
-        },
         {
             "category": "Appliances",
             "title": "Samsung - Bespoke 29 Cu. Ft. 4 - Door Flex French Door Smart Refrigerator with AI Family Hub+ and AI Vision Inside - Stainless Steel",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-21T19:53:58.684835",
+    "last_updated": "2025-05-22T01:24:52.948059",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -22,6 +22,17 @@
             "priority_score": 508.3236361612737,
             "reviews": 1219,
             "image_url": "images/6435279.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Dell - G2524H 24.5\" IPS LED FHD 280Hz 0.5ms FreeSync and G - SYNC Gaming Monitor (DisplayPort, HDMI) - Ascent Gray",
+            "sku": "6567509",
+            "price": 249.99,
+            "savings": 80.0,
+            "discount_percent": 32.001280051202045,
+            "priority_score": 501.90951038786613,
+            "reviews": 154,
+            "image_url": "images/6567509.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -59,13 +70,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Microsoft - Surface Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 with Pen Storage - Black",
-            "sku": "6583061",
+            "sku": "",
             "price": 179.99,
             "savings": 50.0,
             "discount_percent": 27.779321073392964,
             "priority_score": 400.38239583289726,
             "reviews": 87,
-            "image_url": "images/6583061.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -125,24 +136,13 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (2 - pack) - White",
-            "sku": "",
+            "sku": "6553442",
             "price": 299.99,
             "savings": 50.0,
             "discount_percent": 16.66722224074136,
             "priority_score": 343.99273007125925,
             "reviews": 85,
-            "image_url": "images/.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
-            "sku": "6554318",
-            "price": 599.99,
-            "savings": 50.0,
-            "discount_percent": 8.333472224537076,
-            "priority_score": 338.2720147390424,
-            "reviews": 232,
-            "image_url": "images/6554318.jpg"
+            "image_url": "images/6553442.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -151,8 +151,8 @@
             "price": 579.99,
             "savings": 50.0,
             "discount_percent": 8.62083829031535,
-            "priority_score": 337.80175543636255,
-            "reviews": 220,
+            "priority_score": 337.9645881103294,
+            "reviews": 221,
             "image_url": "images/6612253.jpg"
         },
         {
