@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-21T13:25:30.886468",
+    "last_updated": "2025-05-21T19:53:58.684835",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -14,14 +14,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Dell - G2524H 24.5\" IPS LED FHD 280Hz 0.5ms FreeSync and G - SYNC Gaming Monitor (DisplayPort, HDMI) - Ascent Gray",
-            "sku": "6567509",
-            "price": 249.99,
-            "savings": 80.0,
-            "discount_percent": 32.001280051202045,
-            "priority_score": 501.6760637733828,
-            "reviews": 153,
-            "image_url": "images/6567509.jpg"
+            "title": "Logitech - Folio Touch Keyboard Case with Trackpad for iPad Air 11 - inch - Latest Model (M2 &M3), iPad Air (4th & 5th gen) - Graphite",
+            "sku": "6435279",
+            "price": 199.99,
+            "savings": 56.0,
+            "discount_percent": 28.001400070003502,
+            "priority_score": 508.3236361612737,
+            "reviews": 1219,
+            "image_url": "images/6435279.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -33,6 +33,17 @@
             "priority_score": 499.2096082860954,
             "reviews": 108,
             "image_url": "images/6537888.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Logitech - G560 LIGHTSYNC 2.1 Bluetooth Gaming Speakers with Game Driven RGB Lighting (3 - Piece) - Black",
+            "sku": "6214340",
+            "price": 249.99,
+            "savings": 50.0,
+            "discount_percent": 20.00080003200128,
+            "priority_score": 442.5149931135337,
+            "reviews": 831,
+            "image_url": "images/6214340.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -80,6 +91,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Speck - Balance Folio Case for Apple iPad Air 13\" (latest model/M3/M2 chip) - Black/White",
+            "sku": "6579533",
+            "price": 64.99,
+            "savings": 35.0,
+            "discount_percent": 53.85443914448377,
+            "priority_score": 383.7498884647098,
+            "reviews": 67,
+            "image_url": "images/6579533.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver",
             "sku": "6467298",
             "price": 1299.0,
@@ -102,6 +124,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (2 - pack) - White",
+            "sku": "",
+            "price": 299.99,
+            "savings": 50.0,
+            "discount_percent": 16.66722224074136,
+            "priority_score": 343.99273007125925,
+            "reviews": 85,
+            "image_url": "images/.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
             "sku": "6554318",
             "price": 599.99,
@@ -113,14 +146,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
-            "sku": "6553443",
-            "price": 429.99,
+            "title": "HP - 15.6\" Full HD Touch - Screen Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - Natural Silver",
+            "sku": "6612253",
+            "price": 579.99,
             "savings": 50.0,
-            "discount_percent": 11.628177399474406,
-            "priority_score": 310.32745802863053,
-            "reviews": 67,
-            "image_url": "images/6553443.jpg"
+            "discount_percent": 8.62083829031535,
+            "priority_score": 337.80175543636255,
+            "reviews": 220,
+            "image_url": "images/6612253.jpg"
         },
         {
             "category": "Computers and Tablets",

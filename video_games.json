@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-21T13:25:30.886468",
+    "last_updated": "2025-05-21T19:53:58.684835",
     "deals": [
         {
             "category": "Video Games",
@@ -19,8 +19,8 @@
             "price": 29.99,
             "savings": 14.0,
             "discount_percent": 46.68222740913638,
-            "priority_score": 418.5016866977398,
-            "reviews": 1036,
+            "priority_score": 418.5364504363562,
+            "reviews": 1037,
             "image_url": "images/6472018.jpg"
         }
     ]

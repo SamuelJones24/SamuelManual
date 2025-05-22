@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-21T13:25:30.886468",
+    "last_updated": "2025-05-21T19:53:58.684835",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -14,14 +14,25 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
-            "sku": "6567807",
+            "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - Silver",
+            "sku": "6576718",
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
             "priority_score": 394.84956608920254,
             "reviews": 406,
-            "image_url": "images/6567807.jpg"
+            "image_url": "images/6576718.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
+            "sku": "6553443",
+            "price": 429.99,
+            "savings": 50.0,
+            "discount_percent": 11.628177399474406,
+            "priority_score": 310.32745802863053,
+            "reviews": 67,
+            "image_url": "images/6553443.jpg"
         }
     ]
 }
