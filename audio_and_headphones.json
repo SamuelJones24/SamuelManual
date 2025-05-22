@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-22T07:29:05.153293",
+    "last_updated": "2025-05-22T13:22:50.939227",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -8,8 +8,8 @@
             "price": 379.99,
             "savings": 130.0,
             "discount_percent": 34.21142661648991,
-            "priority_score": 610.80274705445,
-            "reviews": 145,
+            "priority_score": 611.0489417033587,
+            "reviews": 146,
             "image_url": "images/6582050.jpg"
         },
         {
@@ -30,8 +30,8 @@
             "price": 129.95,
             "savings": 50.0,
             "discount_percent": 38.47633705271258,
-            "priority_score": 551.6488704337432,
-            "reviews": 1323,
+            "priority_score": 551.676101372011,
+            "reviews": 1324,
             "image_url": "images/6492432.jpg"
         },
         {
@@ -69,14 +69,14 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "JBL - Live 770NC Wireless Over - Ear Headphones with True Adaptive Noise Cancelling - Black",
-            "sku": "6572447",
-            "price": 199.99,
+            "title": "JBL - PartyBox On - The - Go Essential Portable Wireless Party Speaker with Wireless Microphone - Black",
+            "sku": "6576525",
+            "price": 299.99,
             "savings": 50.0,
-            "discount_percent": 25.00125006250312,
-            "priority_score": 402.1928213437741,
-            "reviews": 135,
-            "image_url": "images/6572447.jpg"
+            "discount_percent": 16.66722224074136,
+            "priority_score": 381.30769213557164,
+            "reviews": 241,
+            "image_url": "images/6576525.jpg"
         },
         {
             "category": "Audio & Headphones",

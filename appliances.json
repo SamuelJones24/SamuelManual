@@ -1,6 +1,28 @@
 {
-    "last_updated": "2025-05-22T07:29:05.153293",
+    "last_updated": "2025-05-22T13:22:50.939227",
     "deals": [
+        {
+            "category": "Appliances",
+            "title": "De'Longhi - Digital All - in - One Combination Coffee and Espresso Machine - Black and Stainless Steel",
+            "sku": "6422017",
+            "price": 379.95,
+            "savings": 80.0,
+            "discount_percent": 21.055402026582446,
+            "priority_score": 503.755980410613,
+            "reviews": 743,
+            "image_url": "images/6422017.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Shark - Rotator with PowerFins HairPro and Odor Neutralizer Technology Upright Vacuum - Charcoal",
+            "sku": "6530498",
+            "price": 299.99,
+            "savings": 70.0,
+            "discount_percent": 23.3341111370379,
+            "priority_score": 490.71915002857054,
+            "reviews": 657,
+            "image_url": "images/6530498.jpg"
+        },
         {
             "category": "Appliances",
             "title": "Samsung - Bespoke 29 Cu. Ft. 4 - Door Flex French Door Smart Refrigerator with AI Family Hub+ and AI Vision Inside - Stainless Steel",
