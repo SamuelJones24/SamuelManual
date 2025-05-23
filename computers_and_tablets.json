@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-22T19:53:54.429925",
+    "last_updated": "2025-05-23T01:24:33.437344",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -15,13 +15,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Dell - G2524H 24.5\" IPS LED FHD 280Hz 0.5ms FreeSync and G - SYNC Gaming Monitor (DisplayPort, HDMI) - Ascent Gray",
-            "sku": "",
+            "sku": "6567509",
             "price": 249.99,
             "savings": 80.0,
             "discount_percent": 32.001280051202045,
             "priority_score": 501.90951038786613,
             "reviews": 154,
-            "image_url": "images/.jpg"
+            "image_url": "images/6567509.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -59,13 +59,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Microsoft - Surface Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 with Pen Storage - Black",
-            "sku": "6583061",
+            "sku": "",
             "price": 179.99,
             "savings": 50.0,
             "discount_percent": 27.779321073392964,
             "priority_score": 400.38239583289726,
             "reviews": 87,
-            "image_url": "images/6583061.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
