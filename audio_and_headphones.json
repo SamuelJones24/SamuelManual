@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-23T01:24:33.437344",
+    "last_updated": "2025-05-23T07:26:54.726553",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -44,6 +44,17 @@
             "priority_score": 531.1148531506336,
             "reviews": 263,
             "image_url": "images/6534102.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Samsung - Galaxy Buds3 Pro Wireless Earbud Headphones - Silver",
+            "sku": "",
+            "price": 249.99,
+            "savings": 60.0,
+            "discount_percent": 24.000960038401537,
+            "priority_score": 500.4774684734552,
+            "reviews": 1368,
+            "image_url": "images/.jpg"
         },
         {
             "category": "Audio & Headphones",

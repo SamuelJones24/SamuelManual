@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-23T01:24:33.437344",
+    "last_updated": "2025-05-23T07:26:54.726553",
     "deals": [
         {
             "category": "Appliances",
@@ -14,23 +14,23 @@
         },
         {
             "category": "Appliances",
-            "title": "Shark - Rotator with PowerFins HairPro and Odor Neutralizer Technology Upright Vacuum - Charcoal",
-            "sku": "6530498",
-            "price": 299.99,
-            "savings": 70.0,
-            "discount_percent": 23.3341111370379,
-            "priority_score": 490.71915002857054,
-            "reviews": 657,
-            "image_url": "images/6530498.jpg"
+            "title": "Samsung - Bespoke 29 Cu. Ft. 4 - Door Flex French Door Smart Refrigerator with AI Family Hub+ and AI Vision Inside - Stainless Steel",
+            "sku": "6571681",
+            "price": 3199.99,
+            "savings": 100.0,
+            "discount_percent": 3.1250097656555176,
+            "priority_score": 399.3432526840545,
+            "reviews": 162,
+            "image_url": "images/6571681.jpg"
         },
         {
             "category": "Appliances",
             "title": "iRobot - Roomba 105 Combo Vac Robot Vacuum & Mop + AutoEmpty Dock - Black",
             "sku": "6618892",
-            "price": 419.99,
-            "savings": 50.0,
-            "discount_percent": 11.905045358222814,
-            "priority_score": 229.70909984255417,
+            "price": 446.99,
+            "savings": 77.0,
+            "discount_percent": 17.22633615964563,
+            "priority_score": 310.3155538496683,
             "reviews": 6,
             "image_url": "images/6618892.jpg"
         }
