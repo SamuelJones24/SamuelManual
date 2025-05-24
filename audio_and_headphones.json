@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-23T19:52:32.278854",
+    "last_updated": "2025-05-24T01:21:51.376250",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -47,24 +47,13 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Samsung - Galaxy Buds3 Pro Wireless Earbud Headphones - Silver",
-            "sku": "",
-            "price": 249.99,
-            "savings": 60.0,
-            "discount_percent": 24.000960038401537,
-            "priority_score": 501.181880847249,
-            "reviews": 1395,
-            "image_url": "images/.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "Sony - STRDH590 - 725W 5.2 - Ch. Hi - Res 4K Ultra HD HDR A/V Home Theater Receiver - Black",
             "sku": "6187502",
             "price": 399.99,
             "savings": 50.0,
             "discount_percent": 12.500312507812694,
-            "priority_score": 459.68207792577306,
-            "reviews": 3787,
+            "priority_score": 459.7011158655248,
+            "reviews": 3789,
             "image_url": "images/6187502.jpg"
         },
         {

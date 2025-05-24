@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-23T19:52:32.278854",
+    "last_updated": "2025-05-24T01:21:51.376250",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -8,8 +8,8 @@
             "price": 199.99,
             "savings": 66.0,
             "discount_percent": 33.00165008250413,
-            "priority_score": 553.4134676257054,
-            "reviews": 1222,
+            "priority_score": 553.4429464798369,
+            "reviews": 1223,
             "image_url": "images/6435279.jpg"
         },
         {
@@ -74,8 +74,8 @@
             "price": 879.99,
             "savings": 83.0,
             "discount_percent": 9.431925362788213,
-            "priority_score": 388.7188221396524,
-            "reviews": 129,
+            "priority_score": 388.9952018523773,
+            "reviews": 130,
             "image_url": "images/6593196.jpg"
         },
         {
@@ -85,8 +85,8 @@
             "price": 1849.0,
             "savings": 70.0,
             "discount_percent": 3.785830178474851,
-            "priority_score": 385.514027924587,
-            "reviews": 534,
+            "priority_score": 385.71570995628986,
+            "reviews": 537,
             "image_url": "images/6602748.jpg"
         },
         {
@@ -118,8 +118,8 @@
             "price": 579.99,
             "savings": 50.0,
             "discount_percent": 8.62083829031535,
-            "priority_score": 340.1702676856228,
-            "reviews": 235,
+            "priority_score": 340.9264248573258,
+            "reviews": 240,
             "image_url": "images/6612253.jpg"
         },
         {
@@ -140,20 +140,20 @@
             "price": 349.99,
             "savings": 50.0,
             "discount_percent": 14.286122460641732,
-            "priority_score": 291.61448535464876,
-            "reviews": 27,
+            "priority_score": 292.8801371813979,
+            "reviews": 28,
             "image_url": "images/6598715.jpg"
         },
         {
             "category": "Computers and Tablets",
             "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Midnight",
-            "sku": "6534638",
+            "sku": "",
             "price": 1299.0,
             "savings": 50.0,
             "discount_percent": 3.849114703618168,
             "priority_score": 275.4437613541805,
             "reviews": 75,
-            "image_url": "images/6534638.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
