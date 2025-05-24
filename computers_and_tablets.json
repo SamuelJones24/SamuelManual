@@ -1,27 +1,16 @@
 {
-    "last_updated": "2025-05-23T07:26:54.726553",
+    "last_updated": "2025-05-23T19:52:32.278854",
     "deals": [
         {
             "category": "Computers and Tablets",
-            "title": "SteelSeries - Alias USB Microphone",
-            "sku": "6555805",
-            "price": 179.99,
-            "savings": 72.0,
-            "discount_percent": 40.002222345685865,
-            "priority_score": 523.7567257004298,
-            "reviews": 145,
-            "image_url": "images/6555805.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Dell - G2524H 24.5\" IPS LED FHD 280Hz 0.5ms FreeSync and G - SYNC Gaming Monitor (DisplayPort, HDMI) - Ascent Gray",
-            "sku": "6567509",
-            "price": 249.99,
-            "savings": 80.0,
-            "discount_percent": 32.001280051202045,
-            "priority_score": 501.90951038786613,
-            "reviews": 154,
-            "image_url": "images/6567509.jpg"
+            "title": "Logitech - Folio Touch Keyboard Case with Trackpad for iPad Air 11 - inch - Latest Model (M2 &M3), iPad Air (4th & 5th gen) - Graphite",
+            "sku": "6435279",
+            "price": 199.99,
+            "savings": 66.0,
+            "discount_percent": 33.00165008250413,
+            "priority_score": 553.4134676257054,
+            "reviews": 1222,
+            "image_url": "images/6435279.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -41,8 +30,8 @@
             "price": 159.99,
             "savings": 49.0,
             "discount_percent": 30.62691418213638,
-            "priority_score": 459.8020124280881,
-            "reviews": 1778,
+            "priority_score": 459.8425375739496,
+            "reviews": 1780,
             "image_url": "images/6408723.jpg"
         },
         {
@@ -50,10 +39,10 @@
             "title": "AMD - Ryzen 7 7800X3D 8 - Core - 16 - Thread 4.2 GHz (5.0 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black",
             "sku": "6537139",
             "price": 449.0,
-            "savings": 63.0,
-            "discount_percent": 14.03118040089087,
-            "priority_score": 438.7967116884897,
-            "reviews": 834,
+            "savings": 67.0,
+            "discount_percent": 14.92204899777283,
+            "priority_score": 451.4234199998598,
+            "reviews": 838,
             "image_url": "images/6537139.jpg"
         },
         {
@@ -63,8 +52,8 @@
             "price": 179.99,
             "savings": 50.0,
             "discount_percent": 27.779321073392964,
-            "priority_score": 400.38239583289726,
-            "reviews": 87,
+            "priority_score": 401.1929327752067,
+            "reviews": 89,
             "image_url": "images/6583061.jpg"
         },
         {
@@ -74,8 +63,8 @@
             "price": 64.99,
             "savings": 37.0,
             "discount_percent": 56.9318356670257,
-            "priority_score": 396.9820780323356,
-            "reviews": 67,
+            "priority_score": 398.0275824247013,
+            "reviews": 69,
             "image_url": "images/6579533.jpg"
         },
         {
@@ -85,8 +74,8 @@
             "price": 879.99,
             "savings": 83.0,
             "discount_percent": 9.431925362788213,
-            "priority_score": 388.15962681394103,
-            "reviews": 127,
+            "priority_score": 388.7188221396524,
+            "reviews": 129,
             "image_url": "images/6593196.jpg"
         },
         {
@@ -96,20 +85,20 @@
             "price": 1849.0,
             "savings": 70.0,
             "discount_percent": 3.785830178474851,
-            "priority_score": 384.9706296833046,
-            "reviews": 526,
+            "priority_score": 385.514027924587,
+            "reviews": 534,
             "image_url": "images/6602748.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver",
-            "sku": "6467298",
+            "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Blue",
+            "sku": "6467301",
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 362.948202372184,
-            "reviews": 319,
-            "image_url": "images/6467298.jpg"
+            "priority_score": 363.3962500721156,
+            "reviews": 323,
+            "image_url": "images/6467301.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -118,9 +107,20 @@
             "price": 2299.0,
             "savings": 70.0,
             "discount_percent": 3.0448020878642885,
-            "priority_score": 356.7414087315103,
-            "reviews": 266,
+            "priority_score": 356.8762402007657,
+            "reviews": 267,
             "image_url": "images/6602755.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "HP - 15.6\" Full HD Touch - Screen Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - Natural Silver",
+            "sku": "6612253",
+            "price": 579.99,
+            "savings": 50.0,
+            "discount_percent": 8.62083829031535,
+            "priority_score": 340.1702676856228,
+            "reviews": 235,
+            "image_url": "images/6612253.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -135,14 +135,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "HP - 15.6\" Full HD Touch - Screen Laptop - Intel Core i7 - 16GB Memory - 512GB SSD - Natural Silver",
-            "sku": "6612253",
-            "price": 579.99,
+            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
+            "sku": "6598715",
+            "price": 349.99,
             "savings": 50.0,
-            "discount_percent": 8.62083829031535,
-            "priority_score": 337.9645881103294,
-            "reviews": 221,
-            "image_url": "images/6612253.jpg"
+            "discount_percent": 14.286122460641732,
+            "priority_score": 291.61448535464876,
+            "reviews": 27,
+            "image_url": "images/6598715.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -151,8 +151,8 @@
             "price": 1299.0,
             "savings": 50.0,
             "discount_percent": 3.849114703618168,
-            "priority_score": 271.4321445493493,
-            "reviews": 67,
+            "priority_score": 275.4437613541805,
+            "reviews": 75,
             "image_url": "images/6534638.jpg"
         },
         {

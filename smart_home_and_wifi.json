@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-23T07:26:54.726553",
+    "last_updated": "2025-05-23T19:52:32.278854",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -8,20 +8,9 @@
             "price": 379.99,
             "savings": 60.0,
             "discount_percent": 15.789889207610727,
-            "priority_score": 480.5898222001651,
-            "reviews": 2461,
+            "priority_score": 480.6337443196855,
+            "reviews": 2464,
             "image_url": "images/6559342.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Philips - Hue A19 75W Smart LED Starter Kit - White and Color Ambiance",
-            "sku": "6472224",
-            "price": 199.99,
-            "savings": 50.0,
-            "discount_percent": 25.00125006250312,
-            "priority_score": 411.49204077844803,
-            "reviews": 175,
-            "image_url": "images/6472224.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -30,8 +19,8 @@
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
-            "priority_score": 394.84956608920254,
-            "reviews": 406,
+            "priority_score": 395.20230607458836,
+            "reviews": 410,
             "image_url": "images/6576718.jpg"
         }
     ]
