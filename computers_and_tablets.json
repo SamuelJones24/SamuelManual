@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-05-24T07:24:51.734777",
+    "last_updated": "2025-05-24T13:22:44.990127",
     "deals": [
-        {
-            "category": "Computers and Tablets",
-            "title": "Logitech - Folio Touch Keyboard Case with Trackpad for iPad Air 11 - inch - Latest Model (M2 &M3), iPad Air (4th & 5th gen) - Graphite",
-            "sku": "6435279",
-            "price": 199.99,
-            "savings": 66.0,
-            "discount_percent": 33.00165008250413,
-            "priority_score": 553.4429464798369,
-            "reviews": 1223,
-            "image_url": "images/6435279.jpg"
-        },
         {
             "category": "Computers and Tablets",
             "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
@@ -25,23 +14,12 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Logitech - Combo Touch Keyboard Folio for Apple iPad 10.2\" (7th, 8th & 9th Gen) with Detachable Backlit Keyboard - Graphite",
-            "sku": "6408723",
-            "price": 159.99,
-            "savings": 49.0,
-            "discount_percent": 30.62691418213638,
-            "priority_score": 459.8425375739496,
-            "reviews": 1780,
-            "image_url": "images/6408723.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "AMD - Ryzen 7 7800X3D 8 - Core - 16 - Thread 4.2 GHz (5.0 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black",
             "sku": "6537139",
             "price": 449.0,
-            "savings": 67.0,
-            "discount_percent": 14.92204899777283,
-            "priority_score": 451.4234199998598,
+            "savings": 65.0,
+            "discount_percent": 14.476614699331849,
+            "priority_score": 445.19624850765484,
             "reviews": 838,
             "image_url": "images/6537139.jpg"
         },
@@ -69,24 +47,13 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Samsung - Galaxy Tab S10+ - 12.4\" 256GB - Wi - Fi - with S - Pen - Moonstone Gray",
-            "sku": "6593196",
-            "price": 879.99,
-            "savings": 83.0,
-            "discount_percent": 9.431925362788213,
-            "priority_score": 388.9952018523773,
-            "reviews": 130,
-            "image_url": "images/6593196.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Apple - MacBook Pro 14 - inch Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
             "sku": "6602748",
             "price": 1849.0,
             "savings": 70.0,
             "discount_percent": 3.785830178474851,
-            "priority_score": 385.71570995628986,
-            "reviews": 537,
+            "priority_score": 385.7826874611869,
+            "reviews": 538,
             "image_url": "images/6602748.jpg"
         },
         {
@@ -96,20 +63,20 @@
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 363.3962500721156,
-            "reviews": 323,
+            "priority_score": 363.5073976978954,
+            "reviews": 324,
             "image_url": "images/6467301.jpg"
         },
         {
             "category": "Computers and Tablets",
             "title": "Apple - MacBook Pro 16 - inch Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
-            "sku": "6602755",
+            "sku": "",
             "price": 2299.0,
             "savings": 70.0,
             "discount_percent": 3.0448020878642885,
             "priority_score": 356.8762402007657,
             "reviews": 267,
-            "image_url": "images/6602755.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -118,8 +85,8 @@
             "price": 579.99,
             "savings": 50.0,
             "discount_percent": 8.62083829031535,
-            "priority_score": 340.9264248573258,
-            "reviews": 240,
+            "priority_score": 341.07577238344163,
+            "reviews": 241,
             "image_url": "images/6612253.jpg"
         },
         {
@@ -147,13 +114,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Midnight",
-            "sku": "",
+            "sku": "6534638",
             "price": 1299.0,
             "savings": 50.0,
             "discount_percent": 3.849114703618168,
             "priority_score": 275.4437613541805,
             "reviews": 75,
-            "image_url": "images/.jpg"
+            "image_url": "images/6534638.jpg"
         },
         {
             "category": "Computers and Tablets",

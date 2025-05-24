@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-24T07:24:51.734777",
+    "last_updated": "2025-05-24T13:22:44.990127",
     "deals": [
         {
             "category": "Appliances",
@@ -27,10 +27,10 @@
             "category": "Appliances",
             "title": "iRobot - Roomba 105 Combo Vac Robot Vacuum & Mop + AutoEmpty Dock - Black",
             "sku": "6618892",
-            "price": 446.99,
-            "savings": 77.0,
-            "discount_percent": 17.22633615964563,
-            "priority_score": 315.13168079822816,
+            "price": 469.99,
+            "savings": 100.0,
+            "discount_percent": 21.277048447839313,
+            "priority_score": 381.3852422391966,
             "reviews": 7,
             "image_url": "images/6618892.jpg"
         }
