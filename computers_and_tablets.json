@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-25T07:25:00.967762",
+    "last_updated": "2025-05-25T13:21:54.543151",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -17,22 +17,33 @@
             "title": "AMD - Ryzen 7 7800X3D 8 - Core - 16 - Thread 4.2 GHz (5.0 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black",
             "sku": "6537139",
             "price": 449.0,
-            "savings": 65.0,
-            "discount_percent": 14.476614699331849,
-            "priority_score": 445.19624850765484,
+            "savings": 67.0,
+            "discount_percent": 14.92204899777283,
+            "priority_score": 451.4234199998598,
             "reviews": 838,
             "image_url": "images/6537139.jpg"
         },
         {
             "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Black",
+            "sku": "6583049",
+            "price": 279.99,
+            "savings": 57.0,
+            "discount_percent": 20.357869923925854,
+            "priority_score": 406.15709572250944,
+            "reviews": 195,
+            "image_url": "images/6583049.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Microsoft - Surface Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 with Pen Storage - Black",
-            "sku": "6583061",
+            "sku": "",
             "price": 179.99,
             "savings": 50.0,
             "discount_percent": 27.779321073392964,
             "priority_score": 401.1929327752067,
             "reviews": 89,
-            "image_url": "images/6583061.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -44,17 +55,6 @@
             "priority_score": 398.0275824247013,
             "reviews": 69,
             "image_url": "images/6579533.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Logitech - G515 LIGHTSPEED TKL Wireless Mechanical Tactile (Brown) Switch Gaming Keyboard with LIGHTSYNC RGB - Black",
-            "sku": "6586064",
-            "price": 159.99,
-            "savings": 51.0,
-            "discount_percent": 31.876992312019496,
-            "priority_score": 386.3849615600975,
-            "reviews": 31,
-            "image_url": "images/6586064.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -85,8 +85,8 @@
             "price": 2299.0,
             "savings": 70.0,
             "discount_percent": 3.0448020878642885,
-            "priority_score": 356.8762402007657,
-            "reviews": 267,
+            "priority_score": 357.010569503237,
+            "reviews": 268,
             "image_url": "images/6602755.jpg"
         },
         {
@@ -96,8 +96,8 @@
             "price": 579.99,
             "savings": 50.0,
             "discount_percent": 8.62083829031535,
-            "priority_score": 341.2245040417213,
-            "reviews": 242,
+            "priority_score": 341.3726248906489,
+            "reviews": 243,
             "image_url": "images/6612253.jpg"
         },
         {
@@ -121,17 +121,6 @@
             "priority_score": 292.8801371813979,
             "reviews": 28,
             "image_url": "images/6598715.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Midnight",
-            "sku": "6534638",
-            "price": 1299.0,
-            "savings": 50.0,
-            "discount_percent": 3.849114703618168,
-            "priority_score": 276.38062898964705,
-            "reviews": 77,
-            "image_url": "images/6534638.jpg"
         },
         {
             "category": "Computers and Tablets",

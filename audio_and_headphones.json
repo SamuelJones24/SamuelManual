@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-25T07:25:00.967762",
+    "last_updated": "2025-05-25T13:21:54.543151",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -8,8 +8,8 @@
             "price": 379.99,
             "savings": 130.0,
             "discount_percent": 34.21142661648991,
-            "priority_score": 612.0172515655765,
-            "reviews": 150,
+            "priority_score": 612.2553209185392,
+            "reviews": 151,
             "image_url": "images/6582050.jpg"
         },
         {
@@ -52,8 +52,8 @@
             "price": 249.99,
             "savings": 60.0,
             "discount_percent": 24.000960038401537,
-            "priority_score": 501.33656604227326,
-            "reviews": 1401,
+            "priority_score": 501.36228253250516,
+            "reviews": 1402,
             "image_url": "images/6585614.jpg"
         },
         {
@@ -72,9 +72,9 @@
             "title": "Sony - STRDH790 - 7.2 - Ch. with Dolby Atmos & Dolby Vision 4K Ultra HD HDR A/V Home Theater Receiver - Black",
             "sku": "6219445",
             "price": 499.99,
-            "savings": 50.0,
-            "discount_percent": 10.00020000400008,
-            "priority_score": 428.8556302516328,
+            "savings": 51.0,
+            "discount_percent": 10.200204004080081,
+            "priority_score": 431.85565025203283,
             "reviews": 2278,
             "image_url": "images/6219445.jpg"
         },
@@ -118,8 +118,8 @@
             "price": 199.99,
             "savings": 50.0,
             "discount_percent": 25.00125006250312,
-            "priority_score": 362.3025777207574,
-            "reviews": 44,
+            "priority_score": 363.0952992139409,
+            "reviews": 45,
             "image_url": "images/6582669.jpg"
         },
         {
@@ -129,8 +129,8 @@
             "price": 199.99,
             "savings": 48.0,
             "discount_percent": 24.001200060003,
-            "priority_score": 300.1386556515653,
-            "reviews": 38,
+            "priority_score": 301.05180255219307,
+            "reviews": 39,
             "image_url": "images/6620177.jpg"
         }
     ]
