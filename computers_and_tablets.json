@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-24T19:59:07.262417",
+    "last_updated": "2025-05-25T01:21:40.009604",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -47,6 +47,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Logitech - G515 LIGHTSPEED TKL Wireless Mechanical Tactile (Brown) Switch Gaming Keyboard with LIGHTSYNC RGB - Black",
+            "sku": "6586064",
+            "price": 159.99,
+            "savings": 51.0,
+            "discount_percent": 31.876992312019496,
+            "priority_score": 386.3849615600975,
+            "reviews": 31,
+            "image_url": "images/6586064.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Apple - MacBook Pro 14 - inch Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
             "sku": "6602748",
             "price": 1849.0,
@@ -59,13 +70,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Blue",
-            "sku": "",
+            "sku": "6467301",
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
             "priority_score": 363.6182038557769,
             "reviews": 325,
-            "image_url": "images/.jpg"
+            "image_url": "images/6467301.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -85,9 +96,20 @@
             "price": 579.99,
             "savings": 50.0,
             "discount_percent": 8.62083829031535,
-            "priority_score": 341.07577238344163,
-            "reviews": 241,
+            "priority_score": 341.2245040417213,
+            "reviews": 242,
             "image_url": "images/6612253.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
+            "sku": "6554318",
+            "price": 599.99,
+            "savings": 50.0,
+            "discount_percent": 8.333472224537076,
+            "priority_score": 338.4264791122705,
+            "reviews": 233,
+            "image_url": "images/6554318.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -107,8 +129,8 @@
             "price": 1299.0,
             "savings": 50.0,
             "discount_percent": 3.849114703618168,
-            "priority_score": 275.4437613541805,
-            "reviews": 75,
+            "priority_score": 276.38062898964705,
+            "reviews": 77,
             "image_url": "images/6534638.jpg"
         },
         {
