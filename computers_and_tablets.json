@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-24T13:22:44.990127",
+    "last_updated": "2025-05-24T19:59:07.262417",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -59,24 +59,24 @@
         {
             "category": "Computers and Tablets",
             "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Blue",
-            "sku": "6467301",
+            "sku": "",
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 363.5073976978954,
-            "reviews": 324,
-            "image_url": "images/6467301.jpg"
+            "priority_score": 363.6182038557769,
+            "reviews": 325,
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
             "title": "Apple - MacBook Pro 16 - inch Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
-            "sku": "",
+            "sku": "6602755",
             "price": 2299.0,
             "savings": 70.0,
             "discount_percent": 3.0448020878642885,
             "priority_score": 356.8762402007657,
             "reviews": 267,
-            "image_url": "images/.jpg"
+            "image_url": "images/6602755.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -88,17 +88,6 @@
             "priority_score": 341.07577238344163,
             "reviews": 241,
             "image_url": "images/6612253.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
-            "sku": "6554318",
-            "price": 599.99,
-            "savings": 50.0,
-            "discount_percent": 8.333472224537076,
-            "priority_score": 338.2720147390424,
-            "reviews": 232,
-            "image_url": "images/6554318.jpg"
         },
         {
             "category": "Computers and Tablets",

@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-05-24T13:22:44.990127",
+    "last_updated": "2025-05-24T19:59:07.262417",
     "deals": [
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
-            "sku": "6559342",
-            "price": 379.99,
-            "savings": 60.0,
-            "discount_percent": 15.789889207610727,
-            "priority_score": 480.6483731481246,
-            "reviews": 2465,
-            "image_url": "images/6559342.jpg"
-        },
         {
             "category": "Smart Home and Wifi",
             "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - Silver",
@@ -19,9 +8,20 @@
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
-            "priority_score": 395.2899546621268,
-            "reviews": 411,
+            "priority_score": 395.4646154200295,
+            "reviews": 413,
             "image_url": "images/6576718.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
+            "sku": "6554318",
+            "price": 599.99,
+            "savings": 50.0,
+            "discount_percent": 8.333472224537076,
+            "priority_score": 338.2720147390424,
+            "reviews": 232,
+            "image_url": "images/6554318.jpg"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-24T13:22:44.990127",
+    "last_updated": "2025-05-24T19:59:07.262417",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -52,8 +52,8 @@
             "price": 249.99,
             "savings": 60.0,
             "discount_percent": 24.000960038401537,
-            "priority_score": 501.2850779878159,
-            "reviews": 1399,
+            "priority_score": 501.33656604227326,
+            "reviews": 1401,
             "image_url": "images/6585614.jpg"
         },
         {
@@ -66,17 +66,6 @@
             "priority_score": 459.7011158655248,
             "reviews": 3789,
             "image_url": "images/6187502.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Sony - STRDH790 - 7.2 - Ch. with Dolby Atmos & Dolby Vision 4K Ultra HD HDR A/V Home Theater Receiver - Black",
-            "sku": "6219445",
-            "price": 499.99,
-            "savings": 50.0,
-            "discount_percent": 10.00020000400008,
-            "priority_score": 428.82396442341593,
-            "reviews": 2276,
-            "image_url": "images/6219445.jpg"
         },
         {
             "category": "Audio & Headphones",
