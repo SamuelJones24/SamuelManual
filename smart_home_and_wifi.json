@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-25T01:21:40.009604",
+    "last_updated": "2025-05-25T07:25:00.967762",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -19,8 +19,8 @@
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
-            "priority_score": 395.6384344360736,
-            "reviews": 415,
+            "priority_score": 395.7250308186629,
+            "reviews": 416,
             "image_url": "images/6576718.jpg"
         }
     ]
