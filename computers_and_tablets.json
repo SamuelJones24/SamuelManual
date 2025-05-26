@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-26T01:24:24.276457",
+    "last_updated": "2025-05-26T07:26:20.963725",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -74,20 +74,20 @@
             "price": 1849.0,
             "savings": 70.0,
             "discount_percent": 3.785830178474851,
-            "priority_score": 385.84954081864504,
-            "reviews": 539,
+            "priority_score": 385.9162704880447,
+            "reviews": 540,
             "image_url": "images/6602748.jpg"
         },
         {
             "category": "Computers and Tablets",
             "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Blue",
-            "sku": "6467301",
+            "sku": "",
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
             "priority_score": 363.6182038557769,
             "reviews": 325,
-            "image_url": "images/6467301.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
