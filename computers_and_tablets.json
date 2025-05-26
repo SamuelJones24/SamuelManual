@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-25T19:54:53.484809",
+    "last_updated": "2025-05-26T01:24:24.276457",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -11,6 +11,17 @@
             "priority_score": 499.2096082860954,
             "reviews": 108,
             "image_url": "images/6537888.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "CORSAIR - MM300 PRO Gaming Mouse Pad with Premium Spill - Proof Cloth - Extended - Black",
+            "sku": "6428299",
+            "price": 32.99,
+            "savings": 18.0,
+            "discount_percent": 54.56198848135798,
+            "priority_score": 459.17042462085544,
+            "reviews": 1331,
+            "image_url": "images/6428299.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -63,20 +74,20 @@
             "price": 1849.0,
             "savings": 70.0,
             "discount_percent": 3.785830178474851,
-            "priority_score": 385.7826874611869,
-            "reviews": 538,
+            "priority_score": 385.84954081864504,
+            "reviews": 539,
             "image_url": "images/6602748.jpg"
         },
         {
             "category": "Computers and Tablets",
             "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Blue",
-            "sku": "",
+            "sku": "6467301",
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
             "priority_score": 363.6182038557769,
             "reviews": 325,
-            "image_url": "images/.jpg"
+            "image_url": "images/6467301.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -102,17 +113,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
-            "sku": "6554318",
-            "price": 599.99,
-            "savings": 50.0,
-            "discount_percent": 8.333472224537076,
-            "priority_score": 338.4264791122705,
-            "reviews": 233,
-            "image_url": "images/6554318.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
             "sku": "6598715",
             "price": 349.99,
@@ -129,8 +129,8 @@
             "price": 1299.0,
             "savings": 55.0,
             "discount_percent": 4.234026173979984,
-            "priority_score": 288.3051863414562,
-            "reviews": 77,
+            "priority_score": 288.7646495743275,
+            "reviews": 78,
             "image_url": "images/6534638.jpg"
         },
         {

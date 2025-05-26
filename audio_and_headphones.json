@@ -1,39 +1,6 @@
 {
-    "last_updated": "2025-05-25T19:54:53.484809",
+    "last_updated": "2025-05-26T01:24:24.276457",
     "deals": [
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - Xtreme 4 Portable Bluetooth Speaker - Black",
-            "sku": "6582050",
-            "price": 379.99,
-            "savings": 130.0,
-            "discount_percent": 34.21142661648991,
-            "priority_score": 612.2553209185392,
-            "reviews": 151,
-            "image_url": "images/6582050.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Shokz - OpenRun Bone Conduction Open - Ear Endurance Headphones - Black",
-            "sku": "6492431",
-            "price": 129.95,
-            "savings": 50.0,
-            "discount_percent": 38.47633705271258,
-            "priority_score": 585.9183599235915,
-            "reviews": 3423,
-            "image_url": "images/6492431.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Shokz - OpenRun Mini Bone Conduction Open - Ear Endurance Headphones - Black",
-            "sku": "6492432",
-            "price": 129.95,
-            "savings": 50.0,
-            "discount_percent": 38.47633705271258,
-            "priority_score": 551.676101372011,
-            "reviews": 1324,
-            "image_url": "images/6492432.jpg"
-        },
         {
             "category": "Audio & Headphones",
             "title": "Marshall - Middleton Portable Bluetooth Speaker - Black and Brass",
@@ -58,6 +25,17 @@
         },
         {
             "category": "Audio & Headphones",
+            "title": "Sony - STRDH790 - 7.2 - Ch. with Dolby Atmos & Dolby Vision 4K Ultra HD HDR A/V Home Theater Receiver - Black",
+            "sku": "6219445",
+            "price": 499.99,
+            "savings": 51.0,
+            "discount_percent": 10.200204004080081,
+            "priority_score": 431.85565025203283,
+            "reviews": 2278,
+            "image_url": "images/6219445.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
             "title": "JBL - Live 770NC Wireless Over - Ear Headphones with True Adaptive Noise Cancelling - Black",
             "sku": "6572447",
             "price": 199.99,
@@ -74,8 +52,8 @@
             "price": 299.99,
             "savings": 50.0,
             "discount_percent": 16.66722224074136,
-            "priority_score": 381.75205967877105,
-            "reviews": 244,
+            "priority_score": 381.8989738371878,
+            "reviews": 245,
             "image_url": "images/6576525.jpg"
         },
         {

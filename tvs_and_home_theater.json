@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-25T19:54:53.484809",
+    "last_updated": "2025-05-26T01:24:24.276457",
     "deals": [
         {
             "category": "TVs and Home Theater",
@@ -11,17 +11,6 @@
             "priority_score": 557.3323203215984,
             "reviews": 1749,
             "image_url": "images/6278202.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "LG - 2.1 Channel S40T Soundbar with Wireless Subwoofer and Bluetooth Connectivity - Black",
-            "sku": "6579923",
-            "price": 229.99,
-            "savings": 50.0,
-            "discount_percent": 21.740075655463283,
-            "priority_score": 393.07636406098953,
-            "reviews": 165,
-            "image_url": "images/6579923.jpg"
         }
     ]
 }
