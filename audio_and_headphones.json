@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-26T07:26:20.963725",
+    "last_updated": "2025-05-26T13:23:17.985288",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -26,13 +26,13 @@
         {
             "category": "Audio & Headphones",
             "title": "Sony - STRDH790 - 7.2 - Ch. with Dolby Atmos & Dolby Vision 4K Ultra HD HDR A/V Home Theater Receiver - Black",
-            "sku": "6219445",
+            "sku": "",
             "price": 499.99,
-            "savings": 51.0,
-            "discount_percent": 10.200204004080081,
-            "priority_score": 431.85565025203283,
+            "savings": 50.0,
+            "discount_percent": 10.00020000400008,
+            "priority_score": 428.8556302516328,
             "reviews": 2278,
-            "image_url": "images/6219445.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -47,28 +47,6 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "JBL - PartyBox On - The - Go Essential Portable Wireless Party Speaker with Wireless Microphone - Black",
-            "sku": "6576525",
-            "price": 299.99,
-            "savings": 50.0,
-            "discount_percent": 16.66722224074136,
-            "priority_score": 381.8989738371878,
-            "reviews": 245,
-            "image_url": "images/6576525.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - Live Beam 3 True Wireless Noise Cancelling Earbuds - Black",
-            "sku": "6582671",
-            "price": 199.99,
-            "savings": 50.0,
-            "discount_percent": 25.00125006250312,
-            "priority_score": 372.0723265465616,
-            "reviews": 58,
-            "image_url": "images/6582671.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "JBL - Live Buds 3 True Wireless Noise Cancelling Earbuds - Black",
             "sku": "6582669",
             "price": 199.99,
@@ -77,17 +55,6 @@
             "priority_score": 363.0952992139409,
             "reviews": 45,
             "image_url": "images/6582669.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Sony - ULT FIELD 3 Wireless Speaker - Forest Gray",
-            "sku": "6620177",
-            "price": 199.99,
-            "savings": 48.0,
-            "discount_percent": 24.001200060003,
-            "priority_score": 301.05180255219307,
-            "reviews": 39,
-            "image_url": "images/6620177.jpg"
         }
     ]
 }

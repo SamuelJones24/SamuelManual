@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-26T07:26:20.963725",
+    "last_updated": "2025-05-26T13:23:17.985288",
     "deals": [
         {
             "category": "TVs and Home Theater",
@@ -11,6 +11,39 @@
             "priority_score": 557.3323203215984,
             "reviews": 1749,
             "image_url": "images/6278202.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "Samsung - 50\u201d Class Q7F Series QLED 4K UHD SamsungVision AI Smart Tizen TV (2025)",
+            "sku": "6619441",
+            "price": 449.99,
+            "savings": 52.0,
+            "discount_percent": 11.555812351385587,
+            "priority_score": 271.58699732639695,
+            "reviews": 20,
+            "image_url": "images/6619441.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "Samsung - 43\u201d Class Q7F Series QLED 4K UHD SamsungVision AI Smart Tizen TV (2025)",
+            "sku": "6619443",
+            "price": 399.99,
+            "savings": 52.0,
+            "discount_percent": 13.000325008125202,
+            "priority_score": 261.5126179941533,
+            "reviews": 12,
+            "image_url": "images/6619443.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "Samsung - 50\u201d Class Q8F Series QLED 4K UHD SamsungVision AI Smart Tizen TV (2025)",
+            "sku": "6617419",
+            "price": 649.99,
+            "savings": 50.0,
+            "discount_percent": 7.69242603732365,
+            "priority_score": 178.08619270464715,
+            "reviews": 2,
+            "image_url": "images/6617419.jpg"
         }
     ]
 }

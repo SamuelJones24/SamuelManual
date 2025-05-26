@@ -1,16 +1,38 @@
 {
-    "last_updated": "2025-05-26T07:26:20.963725",
+    "last_updated": "2025-05-26T13:23:17.985288",
     "deals": [
         {
             "category": "Appliances",
-            "title": "De'Longhi - Digital All - in - One Combination Coffee and Espresso Machine - Black and Stainless Steel",
-            "sku": "6422017",
-            "price": 379.95,
-            "savings": 80.0,
-            "discount_percent": 21.055402026582446,
-            "priority_score": 503.8044255166503,
-            "reviews": 744,
-            "image_url": "images/6422017.jpg"
+            "title": "iRobot - Roomba Max 705 Vac Robot Vacuum + AutoEmpty Dock - Black",
+            "sku": "6618888",
+            "price": 899.99,
+            "savings": 200.0,
+            "discount_percent": 22.222469138545982,
+            "priority_score": 536.11234569273,
+            "reviews": 1,
+            "image_url": "images/6618888.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Samsung - Bespoke 29 Cu. Ft. 4 - Door Flex French Door Smart Refrigerator with AI Family Hub+ and AI Vision Inside - Stainless Steel",
+            "sku": "6571681",
+            "price": 3199.99,
+            "savings": 100.0,
+            "discount_percent": 3.1250097656555176,
+            "priority_score": 400.0010346119507,
+            "reviews": 165,
+            "image_url": "images/6571681.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Shark - CarpetXpert with Stainstriker Technology Corded Upright Deep Carpet and Upholstery Cleaner with Built - in Spot Remover - White",
+            "sku": "6549768",
+            "price": 299.99,
+            "savings": 50.0,
+            "discount_percent": 16.66722224074136,
+            "priority_score": 389.53429903979645,
+            "reviews": 303,
+            "image_url": "images/6549768.jpg"
         }
     ]
 }
