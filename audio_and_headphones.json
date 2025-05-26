@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-25T13:21:54.543151",
+    "last_updated": "2025-05-25T19:54:53.484809",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -47,17 +47,6 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Samsung - Galaxy Buds3 Pro Wireless Earbud Headphones - Silver",
-            "sku": "6585614",
-            "price": 249.99,
-            "savings": 60.0,
-            "discount_percent": 24.000960038401537,
-            "priority_score": 501.36228253250516,
-            "reviews": 1402,
-            "image_url": "images/6585614.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "Sony - STRDH590 - 725W 5.2 - Ch. Hi - Res 4K Ultra HD HDR A/V Home Theater Receiver - Black",
             "sku": "6187502",
             "price": 399.99,
@@ -69,24 +58,13 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Sony - STRDH790 - 7.2 - Ch. with Dolby Atmos & Dolby Vision 4K Ultra HD HDR A/V Home Theater Receiver - Black",
-            "sku": "6219445",
-            "price": 499.99,
-            "savings": 51.0,
-            "discount_percent": 10.200204004080081,
-            "priority_score": 431.85565025203283,
-            "reviews": 2278,
-            "image_url": "images/6219445.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "JBL - Live 770NC Wireless Over - Ear Headphones with True Adaptive Noise Cancelling - Black",
             "sku": "6572447",
             "price": 199.99,
             "savings": 50.0,
             "discount_percent": 25.00125006250312,
-            "priority_score": 402.7193617319698,
-            "reviews": 137,
+            "priority_score": 402.9797771306033,
+            "reviews": 138,
             "image_url": "images/6572447.jpg"
         },
         {
@@ -96,8 +74,8 @@
             "price": 299.99,
             "savings": 50.0,
             "discount_percent": 16.66722224074136,
-            "priority_score": 381.60454464277893,
-            "reviews": 243,
+            "priority_score": 381.75205967877105,
+            "reviews": 244,
             "image_url": "images/6576525.jpg"
         },
         {
@@ -107,8 +85,8 @@
             "price": 199.99,
             "savings": 50.0,
             "discount_percent": 25.00125006250312,
-            "priority_score": 371.4557751907049,
-            "reviews": 57,
+            "priority_score": 372.0723265465616,
+            "reviews": 58,
             "image_url": "images/6582671.jpg"
         },
         {
