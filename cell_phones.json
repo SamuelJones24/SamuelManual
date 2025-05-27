@@ -1,16 +1,16 @@
 {
-    "last_updated": "2025-05-27T07:27:10.821781",
+    "last_updated": "2025-05-27T13:22:35.152205",
     "deals": [
         {
             "category": "Cell Phones",
-            "title": "Boost Mobile - Moto G 5G 2024 128GB Prepaid - Sage Green",
-            "sku": "6593785",
-            "price": 99.99,
-            "savings": 40.0,
-            "discount_percent": 40.004000400040006,
-            "priority_score": 283.0602035723041,
-            "reviews": 9,
-            "image_url": "images/6593785.jpg"
+            "title": "Google - Pixel 9 Pro 128GB (Unlocked) - Obsidian",
+            "sku": "6587887",
+            "price": 999.0,
+            "savings": 200.0,
+            "discount_percent": 20.02002002002002,
+            "priority_score": 705.0919087210092,
+            "reviews": 293,
+            "image_url": "images/6587887.jpg"
         }
     ]
 }

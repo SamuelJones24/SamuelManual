@@ -1,60 +1,38 @@
 {
-    "last_updated": "2025-05-27T07:27:10.821781",
+    "last_updated": "2025-05-27T13:22:35.152205",
     "deals": [
         {
             "category": "Computers and Tablets",
-            "title": "Apple - MacBook Pro 16 - inch Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
-            "sku": "6602755",
-            "price": 2499.0,
-            "savings": 270.0,
-            "discount_percent": 10.804321728691477,
-            "priority_score": 795.9419985697282,
-            "reviews": 269,
-            "image_url": "images/6602755.jpg"
+            "title": "eero - 6+ AX3000 Dual - Band Mesh Wi - Fi 6 System (2 - pack) - White",
+            "sku": "6495772",
+            "price": 239.99,
+            "savings": 60.0,
+            "discount_percent": 25.001041710071252,
+            "priority_score": 530.292983250658,
+            "reviews": 2723,
+            "image_url": "images/6495772.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - MacBook Pro 14 - inch Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
-            "sku": "6602748",
-            "price": 1999.0,
-            "savings": 220.0,
-            "discount_percent": 11.005502751375689,
-            "priority_score": 722.0812397907252,
-            "reviews": 541,
-            "image_url": "images/6602748.jpg"
+            "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
+            "sku": "6515590",
+            "price": 299.99,
+            "savings": 90.0,
+            "discount_percent": 30.001000033334446,
+            "priority_score": 514.8129357361413,
+            "reviews": 167,
+            "image_url": "images/6515590.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight",
-            "sku": "6565862",
-            "price": 999.0,
-            "savings": 144.95,
-            "discount_percent": 14.509509509509508,
-            "priority_score": 591.1276706711033,
-            "reviews": 566,
-            "image_url": "images/6565862.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Logitech - Combo Touch Keyboard Folio for Apple iPad Pro 12.9\" (5th & 6th Gen) with Detachable Backlit Keyboard - Oxford Gray",
-            "sku": "6461997",
-            "price": 259.99,
-            "savings": 70.0,
-            "discount_percent": 26.92411246586407,
-            "priority_score": 531.6688130032064,
-            "reviews": 1244,
-            "image_url": "images/6461997.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Midnight",
-            "sku": "6534638",
-            "price": 1399.0,
-            "savings": 155.0,
-            "discount_percent": 11.079342387419585,
-            "priority_score": 522.9912306415255,
-            "reviews": 78,
-            "image_url": "images/6534638.jpg"
+            "title": "Speck - Balance Folio Case for Apple iPad Air 11\"(latest M3/M2), iPad Pro 11\"(3rd/2nd/1st Gen) & iPad Air 10.9\"(5th/4th Gen) - Black/White",
+            "sku": "6514563",
+            "price": 49.99,
+            "savings": 32.0,
+            "discount_percent": 64.0128025605121,
+            "priority_score": 500.8581650390629,
+            "reviews": 886,
+            "image_url": "images/6514563.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -69,69 +47,25 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Logitech - Folio Touch Keyboard Case with Trackpad for iPad Air 11 - inch - Latest Model (M2 &M3), iPad Air (4th & 5th gen) - Graphite",
-            "sku": "6435279",
-            "price": 199.99,
-            "savings": 50.0,
-            "discount_percent": 25.00125006250312,
-            "priority_score": 481.44094637983187,
-            "reviews": 1223,
-            "image_url": "images/6435279.jpg"
+            "title": "CORSAIR - MM300 PRO Gaming Mouse Pad with Premium Spill - Proof Cloth - Extended - Black",
+            "sku": "6428299",
+            "price": 32.99,
+            "savings": 18.0,
+            "discount_percent": 54.56198848135798,
+            "priority_score": 459.17042462085544,
+            "reviews": 1331,
+            "image_url": "images/6428299.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
-            "sku": "",
-            "price": 99.99,
-            "savings": 40.0,
-            "discount_percent": 40.004000400040006,
-            "priority_score": 442.30558917940186,
-            "reviews": 826,
-            "image_url": "images/.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "AMD - Ryzen 7 7800X3D 8 - Core - 16 - Thread 4.2 GHz (5.0 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black",
-            "sku": "6537139",
-            "price": 449.0,
-            "savings": 63.0,
-            "discount_percent": 14.03118040089087,
-            "priority_score": 438.9690770154499,
-            "reviews": 838,
-            "image_url": "images/6537139.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 with Pen Storage - Black",
-            "sku": "6583061",
-            "price": 179.99,
-            "savings": 50.0,
-            "discount_percent": 27.779321073392964,
-            "priority_score": 401.1929327752067,
-            "reviews": 89,
-            "image_url": "images/6583061.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Logitech - Astro A50 X LIGHTSPEED Wireless with PLAYSYNC Gaming Headset + Base Station for Xbox Series X|S, PS5, PC/MAC - White",
-            "sku": "6572625",
-            "price": 399.99,
-            "savings": 51.0,
-            "discount_percent": 12.750318757968948,
-            "priority_score": 400.55952935931373,
-            "reviews": 671,
-            "image_url": "images/6572625.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Speck - Balance Folio Case for Apple iPad Air 13\" (latest model/M3/M2 chip) - Black/White",
-            "sku": "6579533",
+            "title": "Speck - Balance Folio Case for Apple iPad Pro 13\" (Latest Model/M4 chip) - Black/White",
+            "sku": "6579532",
             "price": 64.99,
-            "savings": 37.0,
-            "discount_percent": 56.9318356670257,
-            "priority_score": 398.0275824247013,
-            "reviews": 69,
-            "image_url": "images/6579533.jpg"
+            "savings": 34.0,
+            "discount_percent": 52.315740883212804,
+            "priority_score": 368.8194102037251,
+            "reviews": 53,
+            "image_url": "images/6579532.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -146,14 +80,25 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Targus - Ergonomic Foldable Bluetooth Antimicrobial Keyboard - Black",
+            "sku": "6499392",
+            "price": 49.99,
+            "savings": 20.0,
+            "discount_percent": 40.008001600320064,
+            "priority_score": 335.58320012667156,
+            "reviews": 129,
+            "image_url": "images/6499392.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
-            "sku": "6598715",
+            "sku": "",
             "price": 349.99,
             "savings": 50.0,
             "discount_percent": 14.286122460641732,
             "priority_score": 294.1028771934216,
             "reviews": 29,
-            "image_url": "images/6598715.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
