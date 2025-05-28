@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-28T01:24:52.760938",
+    "last_updated": "2025-05-28T07:28:23.003199",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -11,6 +11,17 @@
             "priority_score": 530.292983250658,
             "reviews": 2723,
             "image_url": "images/6495772.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
+            "sku": "6515590",
+            "price": 299.99,
+            "savings": 90.0,
+            "discount_percent": 30.001000033334446,
+            "priority_score": 514.8129357361413,
+            "reviews": 167,
+            "image_url": "images/6515590.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -38,10 +49,10 @@
             "category": "Computers and Tablets",
             "title": "CORSAIR - MM300 PRO Gaming Mouse Pad with Premium Spill - Proof Cloth - Extended - Black",
             "sku": "6428299",
-            "price": 32.99,
-            "savings": 18.0,
-            "discount_percent": 54.56198848135798,
-            "priority_score": 459.17042462085544,
+            "price": 30.99,
+            "savings": 16.0,
+            "discount_percent": 51.6295579219103,
+            "priority_score": 446.37313294251237,
             "reviews": 1331,
             "image_url": "images/6428299.jpg"
         },
