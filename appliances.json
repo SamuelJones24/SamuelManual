@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-28T07:28:23.003199",
+    "last_updated": "2025-05-28T13:25:05.073068",
     "deals": [
         {
             "category": "Appliances",
@@ -37,13 +37,13 @@
         {
             "category": "Appliances",
             "title": "Samsung - Bespoke 29 Cu. Ft. 4 - Door Flex French Door Smart Refrigerator with AI Family Hub+ and AI Vision Inside - Stainless Steel",
-            "sku": "",
+            "sku": "6571681",
             "price": 3199.99,
             "savings": 100.0,
             "discount_percent": 3.1250097656555176,
             "priority_score": 400.0010346119507,
             "reviews": 165,
-            "image_url": "images/.jpg"
+            "image_url": "images/6571681.jpg"
         }
     ]
 }
