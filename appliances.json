@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-05-27T19:53:47.792790",
+    "last_updated": "2025-05-28T01:24:52.760938",
     "deals": [
+        {
+            "category": "Appliances",
+            "title": "Tineco - Floor Washer Pet Cordless Mop & Vacuum Cleaner - 5 Series - Black",
+            "sku": "6585781",
+            "price": 499.99,
+            "savings": 180.0,
+            "discount_percent": 36.00072001440029,
+            "priority_score": 715.8391751104376,
+            "reviews": 130,
+            "image_url": "images/6585781.jpg"
+        },
         {
             "category": "Appliances",
             "title": "Tineco - GO H2O XL Cordless Floor Washer - Grey",
@@ -26,13 +37,13 @@
         {
             "category": "Appliances",
             "title": "Samsung - Bespoke 29 Cu. Ft. 4 - Door Flex French Door Smart Refrigerator with AI Family Hub+ and AI Vision Inside - Stainless Steel",
-            "sku": "6571681",
+            "sku": "",
             "price": 3199.99,
             "savings": 100.0,
             "discount_percent": 3.1250097656555176,
             "priority_score": 400.0010346119507,
             "reviews": 165,
-            "image_url": "images/6571681.jpg"
+            "image_url": "images/.jpg"
         }
     ]
 }
