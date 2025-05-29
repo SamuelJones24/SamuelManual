@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-29T01:26:37.479129",
+    "last_updated": "2025-05-29T07:29:22.608987",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -8,8 +8,8 @@
             "price": 299.0,
             "savings": 70.0,
             "discount_percent": 23.411371237458194,
-            "priority_score": 532.5813546598963,
-            "reviews": 2077,
+            "priority_score": 532.5987072587502,
+            "reviews": 2078,
             "image_url": "images/6589910.jpg"
         },
         {
@@ -66,6 +66,17 @@
             "priority_score": 391.9910026476425,
             "reviews": 204,
             "image_url": "images/6575080.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - PartyBox On - The - Go Essential Portable Wireless Party Speaker with Wireless Microphone - Black",
+            "sku": "6576525",
+            "price": 299.99,
+            "savings": 50.0,
+            "discount_percent": 16.66722224074136,
+            "priority_score": 382.04529199332376,
+            "reviews": 246,
+            "image_url": "images/6576525.jpg"
         },
         {
             "category": "Audio & Headphones",

@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-05-29T01:26:37.479129",
+    "last_updated": "2025-05-29T07:29:22.608987",
     "deals": [
-        {
-            "category": "Computers and Tablets",
-            "title": "Epson - WorkForce Pro WF - 3820 Wireless All - in - One Printer - Black",
-            "sku": "6426722",
-            "price": 199.99,
-            "savings": 70.0,
-            "discount_percent": 35.00175008750438,
-            "priority_score": 593.9266290431394,
-            "reviews": 2282,
-            "image_url": "images/6426722.jpg"
-        },
         {
             "category": "Computers and Tablets",
             "title": "Samsung - Galaxy Tab S10+ - 12.4\" 256GB - Wi - Fi - with S - Pen - Moonstone Gray",
@@ -25,17 +14,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "SteelSeries - Alias USB Microphone",
-            "sku": "6555805",
-            "price": 179.99,
-            "savings": 72.0,
-            "discount_percent": 40.002222345685865,
-            "priority_score": 524.0029203493384,
-            "reviews": 146,
-            "image_url": "images/6555805.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
             "sku": "6515590",
             "price": 299.99,
@@ -44,6 +22,17 @@
             "priority_score": 514.8129357361413,
             "reviews": 167,
             "image_url": "images/6515590.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "SteelSeries - Alias USB Microphone",
+            "sku": "6555805",
+            "price": 173.99,
+            "savings": 66.0,
+            "discount_percent": 37.93321455256049,
+            "priority_score": 501.6578813837116,
+            "reviews": 146,
+            "image_url": "images/6555805.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -70,13 +59,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Apple - MacBook Pro 16 - inch Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
-            "sku": "6602755",
+            "sku": "",
             "price": 2499.0,
             "savings": 124.95,
             "discount_percent": 5.0,
             "priority_score": 476.95372603384675,
             "reviews": 270,
-            "image_url": "images/6602755.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -173,8 +162,8 @@
             "price": 999.0,
             "savings": 49.95,
             "discount_percent": 5.0,
-            "priority_score": 344.64561397200043,
-            "reviews": 583,
+            "priority_score": 344.7073203617692,
+            "reviews": 584,
             "image_url": "images/6565862.jpg"
         },
         {
@@ -191,13 +180,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "",
+            "sku": "5495364",
             "price": 1199.0,
             "savings": 59.95,
             "discount_percent": 5.0,
             "priority_score": 343.462862633481,
             "reviews": 245,
-            "image_url": "images/.jpg"
+            "image_url": "images/5495364.jpg"
         },
         {
             "category": "Computers and Tablets",
