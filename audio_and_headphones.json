@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-28T19:55:15.746084",
+    "last_updated": "2025-05-29T01:26:37.479129",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -25,17 +25,6 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
-            "sku": "",
-            "price": 299.99,
-            "savings": 90.0,
-            "discount_percent": 30.001000033334446,
-            "priority_score": 514.8129357361413,
-            "reviews": 167,
-            "image_url": "images/.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "Sony - STRDH590 - 725W 5.2 - Ch. Hi - Res 4K Ultra HD HDR A/V Home Theater Receiver - Black",
             "sku": "6187502",
             "price": 399.99,
@@ -58,6 +47,17 @@
         },
         {
             "category": "Audio & Headphones",
+            "title": "JBL - Live 770NC Wireless Over - Ear Headphones with True Adaptive Noise Cancelling - Black",
+            "sku": "6572447",
+            "price": 199.99,
+            "savings": 50.0,
+            "discount_percent": 25.00125006250312,
+            "priority_score": 403.23832573613976,
+            "reviews": 139,
+            "image_url": "images/6572447.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
             "title": "Sennheiser - MOMENTUM True Wireless 4 Earbuds - Black",
             "sku": "6575080",
             "price": 249.99,
@@ -66,17 +66,6 @@
             "priority_score": 391.9910026476425,
             "reviews": 204,
             "image_url": "images/6575080.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - PartyBox On - The - Go Essential Portable Wireless Party Speaker with Wireless Microphone - Black",
-            "sku": "6576525",
-            "price": 299.99,
-            "savings": 50.0,
-            "discount_percent": 16.66722224074136,
-            "priority_score": 382.04529199332376,
-            "reviews": 246,
-            "image_url": "images/6576525.jpg"
         },
         {
             "category": "Audio & Headphones",

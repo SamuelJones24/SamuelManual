@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-28T19:55:15.746084",
+    "last_updated": "2025-05-29T01:26:37.479129",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -22,6 +22,17 @@
             "priority_score": 503.74941689070414,
             "reviews": 1498,
             "image_url": "images/6456123.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Ring Floodlight Cam Pro with 2K Video and Ring Vision, 2 LED Lights, Dual Band Wi - Fi, and 3D Motion Detection - White",
+            "sku": "6456121",
+            "price": 249.99,
+            "savings": 60.0,
+            "discount_percent": 24.000960038401537,
+            "priority_score": 503.74941689070414,
+            "reviews": 1498,
+            "image_url": "images/6456121.jpg"
         },
         {
             "category": "Smart Home and Wifi",
