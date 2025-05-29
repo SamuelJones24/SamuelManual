@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-28T13:25:05.073068",
+    "last_updated": "2025-05-28T19:55:15.746084",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -8,8 +8,8 @@
             "price": 199.99,
             "savings": 70.0,
             "discount_percent": 35.00175008750438,
-            "priority_score": 593.9108273447389,
-            "reviews": 2281,
+            "priority_score": 593.9266290431394,
+            "reviews": 2282,
             "image_url": "images/6426722.jpg"
         },
         {
@@ -33,17 +33,6 @@
             "priority_score": 524.0029203493384,
             "reviews": 146,
             "image_url": "images/6555805.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
-            "sku": "6515590",
-            "price": 299.99,
-            "savings": 90.0,
-            "discount_percent": 30.001000033334446,
-            "priority_score": 514.8129357361413,
-            "reviews": 167,
-            "image_url": "images/6515590.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -85,8 +74,8 @@
             "price": 1999.0,
             "savings": 99.95,
             "discount_percent": 5.0,
-            "priority_score": 451.9537260338468,
-            "reviews": 541,
+            "priority_score": 452.0202096951091,
+            "reviews": 542,
             "image_url": "images/6602748.jpg"
         },
         {
@@ -99,6 +88,17 @@
             "priority_score": 446.37313294251237,
             "reviews": 1331,
             "image_url": "images/6428299.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
+            "sku": "6398057",
+            "price": 499.99,
+            "savings": 50.0,
+            "discount_percent": 10.00020000400008,
+            "priority_score": 409.131721251289,
+            "reviews": 1318,
+            "image_url": "images/6398057.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -125,13 +125,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Speck - Balance Folio Case for Apple iPad Pro 13\" (Latest Model/M4 chip) - Black/White",
-            "sku": "",
+            "sku": "6579532",
             "price": 64.99,
             "savings": 34.0,
             "discount_percent": 52.315740883212804,
             "priority_score": 368.8194102037251,
             "reviews": 53,
-            "image_url": "images/.jpg"
+            "image_url": "images/6579532.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -140,20 +140,31 @@
             "price": 999.0,
             "savings": 49.95,
             "discount_percent": 5.0,
-            "priority_score": 365.56308606299416,
-            "reviews": 1042,
+            "priority_score": 365.5976499142471,
+            "reviews": 1043,
             "image_url": "images/5495362.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Blue",
-            "sku": "6467301",
+            "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver",
+            "sku": "6467298",
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
             "priority_score": 363.72867063745207,
             "reviews": 326,
-            "image_url": "images/6467301.jpg"
+            "image_url": "images/6467298.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight",
+            "sku": "6565862",
+            "price": 999.0,
+            "savings": 49.95,
+            "discount_percent": 5.0,
+            "priority_score": 344.5838018300124,
+            "reviews": 582,
+            "image_url": "images/6565862.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -165,17 +176,6 @@
             "priority_score": 344.47483936735773,
             "reviews": 252,
             "image_url": "images/6565869.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight",
-            "sku": "6565862",
-            "price": 999.0,
-            "savings": 49.95,
-            "discount_percent": 5.0,
-            "priority_score": 344.4598588351132,
-            "reviews": 580,
-            "image_url": "images/6565862.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -206,8 +206,8 @@
             "price": 1199.0,
             "savings": 59.95,
             "discount_percent": 5.0,
-            "priority_score": 326.3346960673163,
-            "reviews": 152,
+            "priority_score": 326.56966351737253,
+            "reviews": 153,
             "image_url": "images/6565863.jpg"
         },
         {
