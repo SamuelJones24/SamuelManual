@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-29T07:29:22.608987",
+    "last_updated": "2025-05-29T13:17:35.430180",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -8,8 +8,8 @@
             "price": 299.0,
             "savings": 70.0,
             "discount_percent": 23.411371237458194,
-            "priority_score": 532.5987072587502,
-            "reviews": 2078,
+            "priority_score": 532.6333874306744,
+            "reviews": 2080,
             "image_url": "images/6589910.jpg"
         },
         {
@@ -22,6 +22,17 @@
             "priority_score": 531.2512139029363,
             "reviews": 264,
             "image_url": "images/6534102.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
+            "sku": "6515590",
+            "price": 299.99,
+            "savings": 90.0,
+            "discount_percent": 30.001000033334446,
+            "priority_score": 514.8129357361413,
+            "reviews": 167,
+            "image_url": "images/6515590.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -47,28 +58,6 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "JBL - Live 770NC Wireless Over - Ear Headphones with True Adaptive Noise Cancelling - Black",
-            "sku": "6572447",
-            "price": 199.99,
-            "savings": 50.0,
-            "discount_percent": 25.00125006250312,
-            "priority_score": 403.23832573613976,
-            "reviews": 139,
-            "image_url": "images/6572447.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Sennheiser - MOMENTUM True Wireless 4 Earbuds - Black",
-            "sku": "6575080",
-            "price": 249.99,
-            "savings": 50.0,
-            "discount_percent": 20.00080003200128,
-            "priority_score": 391.9910026476425,
-            "reviews": 204,
-            "image_url": "images/6575080.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "JBL - PartyBox On - The - Go Essential Portable Wireless Party Speaker with Wireless Microphone - Black",
             "sku": "6576525",
             "price": 299.99,
@@ -80,6 +69,17 @@
         },
         {
             "category": "Audio & Headphones",
+            "title": "JBL - Live Beam 3 True Wireless Noise Cancelling Earbuds - Black",
+            "sku": "",
+            "price": 199.99,
+            "savings": 50.0,
+            "discount_percent": 25.00125006250312,
+            "priority_score": 372.0723265465616,
+            "reviews": 58,
+            "image_url": "images/.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
             "title": "JBL - Live Buds 3 True Wireless Noise Cancelling Earbuds - Black",
             "sku": "6582669",
             "price": 199.99,
@@ -88,17 +88,6 @@
             "priority_score": 363.87097160445654,
             "reviews": 46,
             "image_url": "images/6582669.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Sony - ULT FIELD 3 Wireless Speaker - Forest Gray",
-            "sku": "6620177",
-            "price": 199.99,
-            "savings": 49.0,
-            "discount_percent": 24.501225061253063,
-            "priority_score": 304.5518775559433,
-            "reviews": 39,
-            "image_url": "images/6620177.jpg"
         }
     ]
 }
