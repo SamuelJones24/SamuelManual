@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-30T01:26:03.233059",
+    "last_updated": "2025-05-30T07:27:41.369858",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -11,17 +11,6 @@
             "priority_score": 532.6680342883071,
             "reviews": 2082,
             "image_url": "images/6589910.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Marshall - Middleton Portable Bluetooth Speaker - Black and Brass",
-            "sku": "6534102",
-            "price": 299.99,
-            "savings": 90.0,
-            "discount_percent": 30.001000033334446,
-            "priority_score": 531.2512139029363,
-            "reviews": 264,
-            "image_url": "images/6534102.jpg"
         },
         {
             "category": "Audio & Headphones",
