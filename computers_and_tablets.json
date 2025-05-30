@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-29T20:03:48.989355",
+    "last_updated": "2025-05-30T01:26:03.233059",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -15,24 +15,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Logitech - Folio Touch Keyboard Case with Trackpad for iPad Air 11 - inch - Latest Model (M2 &M3), iPad Air (4th & 5th gen) - Graphite",
-            "sku": "N/A",
+            "sku": "",
             "price": 199.99,
             "savings": 64.0,
             "discount_percent": 32.001600080004,
             "priority_score": 544.4426964673363,
             "reviews": 1223,
-            "image_url": "Image Not Available"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
-            "sku": "6515590",
-            "price": 299.99,
-            "savings": 90.0,
-            "discount_percent": 30.001000033334446,
-            "priority_score": 514.8129357361413,
-            "reviews": 167,
-            "image_url": "images/6515590.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -47,14 +36,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Logitech - Combo Touch Keyboard Folio for Apple iPad 10.2\" (7th, 8th & 9th Gen) with Detachable Backlit Keyboard - Graphite",
-            "sku": "6408723",
-            "price": 159.99,
-            "savings": 49.0,
-            "discount_percent": 30.62691418213638,
-            "priority_score": 459.883017237034,
-            "reviews": 1782,
-            "image_url": "images/6408723.jpg"
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 90.0,
+            "discount_percent": 30.001000033334446,
+            "priority_score": 499.2096082860954,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -69,6 +58,28 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "CORSAIR - MM300 PRO Gaming Mouse Pad with Premium Spill - Proof Cloth - Extended - Black",
+            "sku": "6428299",
+            "price": 30.99,
+            "savings": 16.0,
+            "discount_percent": 51.6295579219103,
+            "priority_score": 446.37313294251237,
+            "reviews": 1331,
+            "image_url": "images/6428299.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "TP - Link - Deco X25 AX1800 Dual - Band Whole Home Mesh Wi - Fi 6 System (3 - Pack) - White",
+            "sku": "6506830",
+            "price": 179.99,
+            "savings": 50.0,
+            "discount_percent": 27.779321073392964,
+            "priority_score": 417.38538917693467,
+            "reviews": 140,
+            "image_url": "images/6506830.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
             "sku": "6398057",
             "price": 499.99,
@@ -77,6 +88,28 @@
             "priority_score": 409.131721251289,
             "reviews": 1318,
             "image_url": "images/6398057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
+            "sku": "6533542",
+            "price": 1499.0,
+            "savings": 74.95,
+            "discount_percent": 5.0,
+            "priority_score": 399.40348944097894,
+            "reviews": 504,
+            "image_url": "images/6533542.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Speck - Balance Folio Case for Apple iPad Pro 13\" (Latest Model/M4 chip) - Black/White",
+            "sku": "6579532",
+            "price": 64.99,
+            "savings": 34.0,
+            "discount_percent": 52.315740883212804,
+            "priority_score": 368.8194102037251,
+            "reviews": 53,
+            "image_url": "images/6579532.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -91,13 +124,24 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver",
+            "sku": "6467298",
+            "price": 1299.0,
+            "savings": 64.95,
+            "discount_percent": 5.0,
+            "priority_score": 363.72867063745207,
+            "reviews": 326,
+            "image_url": "images/6467298.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight",
             "sku": "6565862",
             "price": 999.0,
             "savings": 49.95,
             "discount_percent": 5.0,
-            "priority_score": 344.8918086209091,
-            "reviews": 587,
+            "priority_score": 344.9530955957615,
+            "reviews": 588,
             "image_url": "images/6565862.jpg"
         },
         {
@@ -113,6 +157,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
+            "sku": "5495364",
+            "price": 1199.0,
+            "savings": 59.95,
+            "discount_percent": 5.0,
+            "priority_score": 343.462862633481,
+            "reviews": 245,
+            "image_url": "images/5495364.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Midnight",
             "sku": "6534638",
             "price": 1399.0,
@@ -121,6 +176,28 @@
             "priority_score": 322.4945187044276,
             "reviews": 78,
             "image_url": "images/6534638.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
+            "sku": "6598715",
+            "price": 349.99,
+            "savings": 50.0,
+            "discount_percent": 14.286122460641732,
+            "priority_score": 294.1028771934216,
+            "reviews": 29,
+            "image_url": "images/6598715.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6612971",
+            "price": 1299.99,
+            "savings": 50.0,
+            "discount_percent": 3.8461834321802475,
+            "priority_score": 177.2791195330853,
+            "reviews": 4,
+            "image_url": "images/6612971.jpg"
         }
     ]
 }

@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-05-29T13:17:35.430180",
+    "last_updated": "2025-05-30T01:26:03.233059",
     "deals": [
-        {
-            "category": "TVs and Home Theater",
-            "title": "Toshiba - 75\" Class C350 Series LED 4K UHD Smart Fire TV",
-            "sku": "6560922",
-            "price": 599.99,
-            "savings": 200.0,
-            "discount_percent": 33.3338888981483,
-            "priority_score": 808.3472330426172,
-            "reviews": 812,
-            "image_url": "images/6560922.jpg"
-        },
         {
             "category": "TVs and Home Theater",
             "title": "Panasonic - Streaming 4K Ultra HD Hi - Res Audio with Dolby Vision 7.1 Channel DVD/CD/3D Wi - Fi Built - In Blu - Ray Player, DP - UB820 - K - Black",
@@ -22,6 +11,17 @@
             "priority_score": 575.3325603311988,
             "reviews": 1749,
             "image_url": "images/6278202.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "Toshiba - 75\" Class C350 Series LED 4K UHD Smart Fire TV",
+            "sku": "6560922",
+            "price": 479.99,
+            "savings": 80.0,
+            "discount_percent": 16.667013896122835,
+            "priority_score": 485.0571940872704,
+            "reviews": 813,
+            "image_url": "images/6560922.jpg"
         },
         {
             "category": "TVs and Home Theater",
