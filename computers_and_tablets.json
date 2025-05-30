@@ -1,6 +1,94 @@
 {
-    "last_updated": "2025-05-29T13:17:35.430180",
+    "last_updated": "2025-05-29T20:03:48.989355",
     "deals": [
+        {
+            "category": "Computers and Tablets",
+            "title": "Samsung - Galaxy Tab S10+ - 12.4\" 256GB - Wi - Fi - with S - Pen - Moonstone Gray",
+            "sku": "6593196",
+            "price": 999.99,
+            "savings": 150.0,
+            "discount_percent": 15.000150001500016,
+            "priority_score": 551.9211399337709,
+            "reviews": 134,
+            "image_url": "images/6593196.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Logitech - Folio Touch Keyboard Case with Trackpad for iPad Air 11 - inch - Latest Model (M2 &M3), iPad Air (4th & 5th gen) - Graphite",
+            "sku": "N/A",
+            "price": 199.99,
+            "savings": 64.0,
+            "discount_percent": 32.001600080004,
+            "priority_score": 544.4426964673363,
+            "reviews": 1223,
+            "image_url": "Image Not Available"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
+            "sku": "6515590",
+            "price": 299.99,
+            "savings": 90.0,
+            "discount_percent": 30.001000033334446,
+            "priority_score": 514.8129357361413,
+            "reviews": 167,
+            "image_url": "images/6515590.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Speck - Balance Folio Case for Apple iPad Air 11\"(latest M3/M2), iPad Pro 11\"(3rd/2nd/1st Gen) & iPad Air 10.9\"(5th/4th Gen) - Black/White",
+            "sku": "6514563",
+            "price": 49.99,
+            "savings": 32.0,
+            "discount_percent": 64.0128025605121,
+            "priority_score": 500.8988043402889,
+            "reviews": 887,
+            "image_url": "images/6514563.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Logitech - Combo Touch Keyboard Folio for Apple iPad 10.2\" (7th, 8th & 9th Gen) with Detachable Backlit Keyboard - Graphite",
+            "sku": "6408723",
+            "price": 159.99,
+            "savings": 49.0,
+            "discount_percent": 30.62691418213638,
+            "priority_score": 459.883017237034,
+            "reviews": 1782,
+            "image_url": "images/6408723.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - MacBook Pro 14 - inch Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
+            "sku": "6602748",
+            "price": 1999.0,
+            "savings": 99.95,
+            "discount_percent": 5.0,
+            "priority_score": 452.0865710312585,
+            "reviews": 543,
+            "image_url": "images/6602748.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
+            "sku": "6398057",
+            "price": 499.99,
+            "savings": 50.0,
+            "discount_percent": 10.00020000400008,
+            "priority_score": 409.131721251289,
+            "reviews": 1318,
+            "image_url": "images/6398057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 256GB with OLED - Space Black",
+            "sku": "5495362",
+            "price": 999.0,
+            "savings": 49.95,
+            "discount_percent": 5.0,
+            "priority_score": 365.66667840617356,
+            "reviews": 1045,
+            "image_url": "images/5495362.jpg"
+        },
         {
             "category": "Computers and Tablets",
             "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight",
@@ -8,8 +96,8 @@
             "price": 999.0,
             "savings": 49.95,
             "discount_percent": 5.0,
-            "priority_score": 344.7073203617692,
-            "reviews": 584,
+            "priority_score": 344.8918086209091,
+            "reviews": 587,
             "image_url": "images/6565862.jpg"
         },
         {
@@ -19,20 +107,9 @@
             "price": 1199.0,
             "savings": 59.95,
             "discount_percent": 5.0,
-            "priority_score": 344.47483936735773,
-            "reviews": 252,
+            "priority_score": 344.7588359214715,
+            "reviews": 254,
             "image_url": "images/6565869.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Midnight",
-            "sku": "6565863",
-            "price": 1199.0,
-            "savings": 59.95,
-            "discount_percent": 5.0,
-            "priority_score": 326.80311013185593,
-            "reviews": 154,
-            "image_url": "images/6565863.jpg"
         },
         {
             "category": "Computers and Tablets",
