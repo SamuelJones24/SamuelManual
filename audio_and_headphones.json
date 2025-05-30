@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-30T07:27:41.369858",
+    "last_updated": "2025-05-30T13:32:46.651005",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -8,20 +8,20 @@
             "price": 299.0,
             "savings": 70.0,
             "discount_percent": 23.411371237458194,
-            "priority_score": 532.6680342883071,
-            "reviews": 2082,
+            "priority_score": 532.8062898520304,
+            "reviews": 2090,
             "image_url": "images/6589910.jpg"
         },
         {
             "category": "Audio & Headphones",
-            "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
-            "sku": "6515590",
+            "title": "Marshall - Middleton Portable Bluetooth Speaker - Black and Brass",
+            "sku": "6534102",
             "price": 299.99,
             "savings": 90.0,
             "discount_percent": 30.001000033334446,
-            "priority_score": 514.8129357361413,
-            "reviews": 167,
-            "image_url": "images/6515590.jpg"
+            "priority_score": 531.3870610542019,
+            "reviews": 265,
+            "image_url": "images/6534102.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -52,8 +52,8 @@
             "price": 299.99,
             "savings": 50.0,
             "discount_percent": 16.66722224074136,
-            "priority_score": 382.04529199332376,
-            "reviews": 246,
+            "priority_score": 382.19101896337867,
+            "reviews": 247,
             "image_url": "images/6576525.jpg"
         },
         {
@@ -63,20 +63,9 @@
             "price": 199.99,
             "savings": 50.0,
             "discount_percent": 25.00125006250312,
-            "priority_score": 372.0723265465616,
-            "reviews": 58,
+            "priority_score": 373.86115807218744,
+            "reviews": 61,
             "image_url": "images/6582671.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - Live Buds 3 True Wireless Noise Cancelling Earbuds - Black",
-            "sku": "6582669",
-            "price": 199.99,
-            "savings": 50.0,
-            "discount_percent": 25.00125006250312,
-            "priority_score": 363.87097160445654,
-            "reviews": 46,
-            "image_url": "images/6582669.jpg"
         }
     ]
 }
