@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-30T19:59:27.031191",
+    "last_updated": "2025-05-31T07:32:02.322214",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -8,20 +8,20 @@
             "price": 449.99,
             "savings": 60.0,
             "discount_percent": 13.333629636214136,
-            "priority_score": 468.5130381614273,
-            "reviews": 2475,
+            "priority_score": 468.52760201222975,
+            "reviews": 2476,
             "image_url": "images/6559342.jpg"
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "TP - Link - Deco X25 AX1800 Dual - Band Whole Home Mesh Wi - Fi 6 System (3 - Pack) - White",
-            "sku": "6506830",
-            "price": 179.99,
+            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
+            "sku": "6398057",
+            "price": 499.99,
             "savings": 50.0,
-            "discount_percent": 27.779321073392964,
-            "priority_score": 417.89338878642457,
-            "reviews": 142,
-            "image_url": "images/6506830.jpg"
+            "discount_percent": 10.00020000400008,
+            "priority_score": 409.1590553761458,
+            "reviews": 1319,
+            "image_url": "images/6398057.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -30,9 +30,20 @@
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
-            "priority_score": 396.74828742003496,
-            "reviews": 428,
+            "priority_score": 396.83226272228285,
+            "reviews": 429,
             "image_url": "images/6576718.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
+            "sku": "6598715",
+            "price": 349.99,
+            "savings": 50.0,
+            "discount_percent": 14.286122460641732,
+            "priority_score": 294.1028771934216,
+            "reviews": 29,
+            "image_url": "images/6598715.jpg"
         },
         {
             "category": "Smart Home and Wifi",
