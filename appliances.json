@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-30T07:27:41.369858",
+    "last_updated": "2025-05-30T19:59:27.031191",
     "deals": [
         {
             "category": "Appliances",
@@ -8,8 +8,8 @@
             "price": 499.99,
             "savings": 180.0,
             "discount_percent": 36.00072001440029,
-            "priority_score": 716.1134530559627,
-            "reviews": 131,
+            "priority_score": 716.3856609595312,
+            "reviews": 132,
             "image_url": "images/6585781.jpg"
         },
         {
@@ -25,24 +25,13 @@
         },
         {
             "category": "Appliances",
-            "title": "iRobot - Roomba Max 705 Vac Robot Vacuum + AutoEmpty Dock - Black",
-            "sku": "6618888",
-            "price": 899.99,
-            "savings": 200.0,
-            "discount_percent": 22.222469138545982,
-            "priority_score": 550.7364082107589,
-            "reviews": 2,
-            "image_url": "images/6618888.jpg"
-        },
-        {
-            "category": "Appliances",
             "title": "LG - 4.5 Cu. Ft. High - Efficiency Stackable Smart Front Load Washer with Steam and Built - In Intelligence - White",
             "sku": "6419621",
             "price": 849.99,
             "savings": 50.0,
             "discount_percent": 5.882422146142896,
-            "priority_score": 413.91010617187794,
-            "reviews": 2664,
+            "priority_score": 413.9371634694876,
+            "reviews": 2666,
             "image_url": "images/6419621.jpg"
         },
         {
@@ -52,8 +41,8 @@
             "price": 3199.99,
             "savings": 100.0,
             "discount_percent": 3.1250097656555176,
-            "priority_score": 400.0010346119507,
-            "reviews": 165,
+            "priority_score": 400.4329843977466,
+            "reviews": 167,
             "image_url": "images/6571681.jpg"
         }
     ]

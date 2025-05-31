@@ -1,27 +1,16 @@
 {
-    "last_updated": "2025-05-30T13:32:46.651005",
+    "last_updated": "2025-05-30T19:59:27.031191",
     "deals": [
         {
             "category": "Audio & Headphones",
             "title": "Bose - QuietComfort Ultra True Wireless Noise Cancelling In - Ear Earbuds - Lunar Blue",
-            "sku": "6589910",
+            "sku": "",
             "price": 299.0,
             "savings": 70.0,
             "discount_percent": 23.411371237458194,
-            "priority_score": 532.8062898520304,
-            "reviews": 2090,
-            "image_url": "images/6589910.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Marshall - Middleton Portable Bluetooth Speaker - Black and Brass",
-            "sku": "6534102",
-            "price": 299.99,
-            "savings": 90.0,
-            "discount_percent": 30.001000033334446,
-            "priority_score": 531.3870610542019,
-            "reviews": 265,
-            "image_url": "images/6534102.jpg"
+            "priority_score": 532.9096348397059,
+            "reviews": 2096,
+            "image_url": "images/.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -63,9 +52,20 @@
             "price": 199.99,
             "savings": 50.0,
             "discount_percent": 25.00125006250312,
-            "priority_score": 373.86115807218744,
-            "reviews": 61,
+            "priority_score": 375.0062503125156,
+            "reviews": 63,
             "image_url": "images/6582671.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - Live Buds 3 True Wireless Noise Cancelling Earbuds - Black",
+            "sku": "6582669",
+            "price": 199.99,
+            "savings": 50.0,
+            "discount_percent": 25.00125006250312,
+            "priority_score": 365.3739964153958,
+            "reviews": 48,
+            "image_url": "images/6582669.jpg"
         }
     ]
 }
