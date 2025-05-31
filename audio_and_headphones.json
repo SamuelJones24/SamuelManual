@@ -1,60 +1,16 @@
 {
-    "last_updated": "2025-05-30T19:59:27.031191",
+    "last_updated": "2025-05-31T01:32:13.075087",
     "deals": [
         {
             "category": "Audio & Headphones",
-            "title": "Bose - QuietComfort Ultra True Wireless Noise Cancelling In - Ear Earbuds - Lunar Blue",
+            "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
             "sku": "",
-            "price": 299.0,
-            "savings": 70.0,
-            "discount_percent": 23.411371237458194,
-            "priority_score": 532.9096348397059,
-            "reviews": 2096,
-            "image_url": "images/.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Sony - STRDH590 - 725W 5.2 - Ch. Hi - Res 4K Ultra HD HDR A/V Home Theater Receiver - Black",
-            "sku": "6187502",
-            "price": 399.99,
-            "savings": 50.0,
-            "discount_percent": 12.500312507812694,
-            "priority_score": 459.7011158655248,
-            "reviews": 3789,
-            "image_url": "images/6187502.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Sony - STRDH790 - 7.2 - Ch. with Dolby Atmos & Dolby Vision 4K Ultra HD HDR A/V Home Theater Receiver - Black",
-            "sku": "6219445",
-            "price": 499.99,
-            "savings": 51.0,
-            "discount_percent": 10.200204004080081,
-            "priority_score": 431.87147274670303,
-            "reviews": 2279,
-            "image_url": "images/6219445.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - PartyBox On - The - Go Essential Portable Wireless Party Speaker with Wireless Microphone - Black",
-            "sku": "6576525",
             "price": 299.99,
-            "savings": 50.0,
-            "discount_percent": 16.66722224074136,
-            "priority_score": 382.19101896337867,
-            "reviews": 247,
-            "image_url": "images/6576525.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - Live Beam 3 True Wireless Noise Cancelling Earbuds - Black",
-            "sku": "6582671",
-            "price": 199.99,
-            "savings": 50.0,
-            "discount_percent": 25.00125006250312,
-            "priority_score": 375.0062503125156,
-            "reviews": 63,
-            "image_url": "images/6582671.jpg"
+            "savings": 90.0,
+            "discount_percent": 30.001000033334446,
+            "priority_score": 515.2397735701147,
+            "reviews": 169,
+            "image_url": "images/.jpg"
         },
         {
             "category": "Audio & Headphones",

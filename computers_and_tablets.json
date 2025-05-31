@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-30T19:59:27.031191",
+    "last_updated": "2025-05-31T01:32:13.075087",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -19,42 +19,9 @@
             "price": 1999.0,
             "savings": 99.95,
             "discount_percent": 5.0,
-            "priority_score": 452.547712714279,
-            "reviews": 550,
+            "priority_score": 452.6131114194542,
+            "reviews": 551,
             "image_url": "images/6602748.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "CORSAIR - MM300 PRO Gaming Mouse Pad with Premium Spill - Proof Cloth - Extended - Black",
-            "sku": "6428299",
-            "price": 30.99,
-            "savings": 16.0,
-            "discount_percent": 51.6295579219103,
-            "priority_score": 446.4002003929552,
-            "reviews": 1332,
-            "image_url": "images/6428299.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 256GB with OLED - Space Black",
-            "sku": "5495362",
-            "price": 999.0,
-            "savings": 49.95,
-            "discount_percent": 5.0,
-            "priority_score": 366.00985298396137,
-            "reviews": 1055,
-            "image_url": "images/5495362.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver",
-            "sku": "6467298",
-            "price": 1299.0,
-            "savings": 64.95,
-            "discount_percent": 5.0,
-            "priority_score": 364.707935569469,
-            "reviews": 335,
-            "image_url": "images/6467298.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -63,8 +30,8 @@
             "price": 999.0,
             "savings": 49.95,
             "discount_percent": 5.0,
-            "priority_score": 349.4926073118513,
-            "reviews": 667,
+            "priority_score": 349.8685922984548,
+            "reviews": 674,
             "image_url": "images/6565862.jpg"
         },
         {
@@ -74,8 +41,8 @@
             "price": 1199.0,
             "savings": 59.95,
             "discount_percent": 5.0,
-            "priority_score": 348.51645607079706,
-            "reviews": 282,
+            "priority_score": 348.8967834194597,
+            "reviews": 285,
             "image_url": "images/6565869.jpg"
         },
         {
@@ -85,8 +52,8 @@
             "price": 1399.0,
             "savings": 69.95,
             "discount_percent": 5.0,
-            "priority_score": 325.9735873962182,
-            "reviews": 86,
+            "priority_score": 326.7933357741599,
+            "reviews": 88,
             "image_url": "images/6534638.jpg"
         }
     ]
