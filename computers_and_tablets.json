@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-05-31T20:05:09.789261",
+    "last_updated": "2025-06-01T01:23:48.029888",
     "deals": [
+        {
+            "category": "Computers and Tablets",
+            "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
+            "sku": "6515590",
+            "price": 379.99,
+            "savings": 170.0,
+            "discount_percent": 44.73801942156372,
+            "priority_score": 748.9248705112611,
+            "reviews": 169,
+            "image_url": "images/6515590.jpg"
+        },
         {
             "category": "Computers and Tablets",
             "title": "Epson - WorkForce Pro WF - 3820 Wireless All - in - One Printer - Black",
@@ -8,8 +19,8 @@
             "price": 199.99,
             "savings": 70.0,
             "discount_percent": 35.00175008750438,
-            "priority_score": 593.9266290431394,
-            "reviews": 2282,
+            "priority_score": 593.9424238215929,
+            "reviews": 2283,
             "image_url": "images/6426722.jpg"
         },
         {
@@ -25,24 +36,13 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
-            "sku": "6515590",
-            "price": 299.99,
-            "savings": 90.0,
-            "discount_percent": 30.001000033334446,
-            "priority_score": 515.2397735701147,
-            "reviews": 169,
-            "image_url": "images/6515590.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Apple - MacBook Pro 14 - inch Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
             "sku": "6602748",
             "price": 1999.0,
             "savings": 99.95,
             "discount_percent": 5.0,
-            "priority_score": 452.6131114194542,
-            "reviews": 551,
+            "priority_score": 452.67839175586766,
+            "reviews": 552,
             "image_url": "images/6602748.jpg"
         },
         {
@@ -96,8 +96,8 @@
             "price": 1499.0,
             "savings": 74.95,
             "discount_percent": 5.0,
-            "priority_score": 400.11071555176454,
-            "reviews": 514,
+            "priority_score": 400.18068138558135,
+            "reviews": 515,
             "image_url": "images/6533542.jpg"
         },
         {
@@ -124,14 +124,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight",
-            "sku": "6565862",
-            "price": 999.0,
-            "savings": 49.95,
-            "discount_percent": 5.0,
-            "priority_score": 350.8697963144565,
-            "reviews": 693,
-            "image_url": "images/6565862.jpg"
+            "title": "GIGABYTE - Z790 AORUS ELITE AX (Socket LGA 1700) Intel Z790 ATX DDR5 Wi - Fi 6E Motherboard - Black",
+            "sku": "6582204",
+            "price": 239.99,
+            "savings": 50.0,
+            "discount_percent": 20.834201425059376,
+            "priority_score": 361.7655258297244,
+            "reviews": 78,
+            "image_url": "images/6582204.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -143,17 +143,6 @@
             "priority_score": 343.7549077596719,
             "reviews": 247,
             "image_url": "images/5495364.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Midnight",
-            "sku": "6534638",
-            "price": 1399.0,
-            "savings": 69.95,
-            "discount_percent": 5.0,
-            "priority_score": 327.59486600496746,
-            "reviews": 90,
-            "image_url": "images/6534638.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -169,13 +158,13 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "",
+            "sku": "6612971",
             "price": 1299.99,
             "savings": 50.0,
             "discount_percent": 3.8461834321802475,
             "priority_score": 177.2791195330853,
             "reviews": 4,
-            "image_url": "images/.jpg"
+            "image_url": "images/6612971.jpg"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-31T20:05:09.789261",
+    "last_updated": "2025-06-01T01:23:48.029888",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -44,17 +44,6 @@
             "priority_score": 382.3361595054088,
             "reviews": 248,
             "image_url": "images/6576525.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - Live Beam 3 True Wireless Noise Cancelling Earbuds - Black",
-            "sku": "6582671",
-            "price": 199.99,
-            "savings": 50.0,
-            "discount_percent": 25.00125006250312,
-            "priority_score": 375.0062503125156,
-            "reviews": 63,
-            "image_url": "images/6582671.jpg"
         },
         {
             "category": "Audio & Headphones",
