@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-30T19:59:27.031191",
+    "last_updated": "2025-05-31T20:05:09.789261",
     "deals": [
         {
             "category": "Appliances",
@@ -11,6 +11,17 @@
             "priority_score": 716.3856609595312,
             "reviews": 132,
             "image_url": "images/6585781.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Whirlpool - 24.5 Cu. Ft. French Door Refrigerator with Two - Tier Freezer Storage - Fingerprint Resistant Stainless Steel",
+            "sku": "6595028",
+            "price": 2199.99,
+            "savings": 200.0,
+            "discount_percent": 9.09095041341097,
+            "priority_score": 606.528339463273,
+            "reviews": 86,
+            "image_url": "images/6595028.jpg"
         },
         {
             "category": "Appliances",
@@ -41,8 +52,8 @@
             "price": 3199.99,
             "savings": 100.0,
             "discount_percent": 3.1250097656555176,
-            "priority_score": 400.4329843977466,
-            "reviews": 167,
+            "priority_score": 401.07136170042503,
+            "reviews": 170,
             "image_url": "images/6571681.jpg"
         }
     ]

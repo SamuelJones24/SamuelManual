@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-05-31T07:32:02.322214",
+    "last_updated": "2025-05-31T20:05:09.789261",
     "deals": [
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Google - Nest Cam Indoor/Outdoor Wire Free Security Camera - Snow",
+            "sku": "6473262",
+            "price": 179.99,
+            "savings": 50.0,
+            "discount_percent": 27.779321073392964,
+            "priority_score": 520.7560591981239,
+            "reviews": 2476,
+            "image_url": "images/6473262.jpg"
+        },
         {
             "category": "Smart Home and Wifi",
             "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
@@ -11,39 +22,6 @@
             "priority_score": 468.52760201222975,
             "reviews": 2476,
             "image_url": "images/6559342.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
-            "sku": "6398057",
-            "price": 499.99,
-            "savings": 50.0,
-            "discount_percent": 10.00020000400008,
-            "priority_score": 409.1590553761458,
-            "reviews": 1319,
-            "image_url": "images/6398057.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - Silver",
-            "sku": "6576718",
-            "price": 319.99,
-            "savings": 50.0,
-            "discount_percent": 15.625488296509266,
-            "priority_score": 396.83226272228285,
-            "reviews": 429,
-            "image_url": "images/6576718.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
-            "sku": "6598715",
-            "price": 349.99,
-            "savings": 50.0,
-            "discount_percent": 14.286122460641732,
-            "priority_score": 294.1028771934216,
-            "reviews": 29,
-            "image_url": "images/6598715.jpg"
         },
         {
             "category": "Smart Home and Wifi",

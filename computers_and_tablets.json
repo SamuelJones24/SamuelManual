@@ -1,16 +1,38 @@
 {
-    "last_updated": "2025-05-31T13:31:59.506920",
+    "last_updated": "2025-05-31T20:05:09.789261",
     "deals": [
         {
             "category": "Computers and Tablets",
             "title": "Epson - WorkForce Pro WF - 3820 Wireless All - in - One Printer - Black",
-            "sku": "N/A",
+            "sku": "6426722",
             "price": 199.99,
             "savings": 70.0,
             "discount_percent": 35.00175008750438,
             "priority_score": 593.9266290431394,
             "reviews": 2282,
-            "image_url": "Image Not Available"
+            "image_url": "images/6426722.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Samsung - Galaxy Tab S10+ - 12.4\" 256GB - Wi - Fi - with S - Pen - Moonstone Gray",
+            "sku": "6593196",
+            "price": 999.99,
+            "savings": 150.0,
+            "discount_percent": 15.000150001500016,
+            "priority_score": 552.7138614269543,
+            "reviews": 137,
+            "image_url": "images/6593196.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
+            "sku": "6515590",
+            "price": 299.99,
+            "savings": 90.0,
+            "discount_percent": 30.001000033334446,
+            "priority_score": 515.2397735701147,
+            "reviews": 169,
+            "image_url": "images/6515590.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -25,14 +47,102 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "CORSAIR - MM300 PRO Gaming Mouse Pad with Premium Spill - Proof Cloth - Extended - Black",
+            "sku": "6428299",
+            "price": 30.99,
+            "savings": 16.0,
+            "discount_percent": 51.6295579219103,
+            "priority_score": 446.4272475453455,
+            "reviews": 1333,
+            "image_url": "images/6428299.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 70.0,
+            "discount_percent": 23.3341111370379,
+            "priority_score": 425.8751638046126,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "TP - Link - Deco X25 AX1800 Dual - Band Whole Home Mesh Wi - Fi 6 System (3 - Pack) - White",
+            "sku": "6506830",
+            "price": 179.99,
+            "savings": 50.0,
+            "discount_percent": 27.779321073392964,
+            "priority_score": 417.89338878642457,
+            "reviews": 142,
+            "image_url": "images/6506830.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
+            "sku": "6398057",
+            "price": 499.99,
+            "savings": 50.0,
+            "discount_percent": 10.00020000400008,
+            "priority_score": 409.1590553761458,
+            "reviews": 1319,
+            "image_url": "images/6398057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
+            "sku": "6533542",
+            "price": 1499.0,
+            "savings": 74.95,
+            "discount_percent": 5.0,
+            "priority_score": 400.11071555176454,
+            "reviews": 514,
+            "image_url": "images/6533542.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 256GB with OLED - Space Black",
+            "sku": "5495362",
+            "price": 999.0,
+            "savings": 49.95,
+            "discount_percent": 5.0,
+            "priority_score": 366.18022352286914,
+            "reviews": 1060,
+            "image_url": "images/5495362.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver",
+            "sku": "6467298",
+            "price": 1299.0,
+            "savings": 64.95,
+            "discount_percent": 5.0,
+            "priority_score": 364.9219859070546,
+            "reviews": 337,
+            "image_url": "images/6467298.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Apple - MacBook Air 13 - inch Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight",
             "sku": "6565862",
             "price": 999.0,
             "savings": 49.95,
             "discount_percent": 5.0,
-            "priority_score": 350.55661886755246,
-            "reviews": 687,
+            "priority_score": 350.8697963144565,
+            "reviews": 693,
             "image_url": "images/6565862.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
+            "sku": "5495364",
+            "price": 1199.0,
+            "savings": 59.95,
+            "discount_percent": 5.0,
+            "priority_score": 343.7549077596719,
+            "reviews": 247,
+            "image_url": "images/5495364.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -41,20 +151,31 @@
             "price": 1399.0,
             "savings": 69.95,
             "discount_percent": 5.0,
-            "priority_score": 326.7933357741599,
-            "reviews": 88,
+            "priority_score": 327.59486600496746,
+            "reviews": 90,
             "image_url": "images/6534638.jpg"
         },
         {
             "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
+            "sku": "6598715",
+            "price": 349.99,
+            "savings": 50.0,
+            "discount_percent": 14.286122460641732,
+            "priority_score": 295.28552006288055,
+            "reviews": 30,
+            "image_url": "images/6598715.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6612971",
+            "sku": "",
             "price": 1299.99,
             "savings": 50.0,
             "discount_percent": 3.8461834321802475,
             "priority_score": 177.2791195330853,
             "reviews": 4,
-            "image_url": "images/6612971.jpg"
+            "image_url": "images/.jpg"
         }
     ]
 }
