@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-01T01:23:48.029888",
+    "last_updated": "2025-06-01T07:26:04.161097",
     "deals": [
+        {
+            "category": "Audio & Headphones",
+            "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
+            "sku": "",
+            "price": 379.99,
+            "savings": 170.0,
+            "discount_percent": 44.73801942156372,
+            "priority_score": 748.9248705112611,
+            "reviews": 169,
+            "image_url": "images/.jpg"
+        },
         {
             "category": "Audio & Headphones",
             "title": "Marshall - Middleton Portable Bluetooth Speaker - Black and Brass",
