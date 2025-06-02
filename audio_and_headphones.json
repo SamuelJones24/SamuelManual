@@ -1,27 +1,27 @@
 {
-    "last_updated": "2025-06-01T07:26:04.161097",
+    "last_updated": "2025-06-01T20:06:42.055025",
     "deals": [
         {
             "category": "Audio & Headphones",
             "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
-            "sku": "",
+            "sku": "6515590",
             "price": 379.99,
             "savings": 170.0,
             "discount_percent": 44.73801942156372,
             "priority_score": 748.9248705112611,
             "reviews": 169,
-            "image_url": "images/.jpg"
+            "image_url": "images/6515590.jpg"
         },
         {
             "category": "Audio & Headphones",
-            "title": "Marshall - Middleton Portable Bluetooth Speaker - Black and Brass",
-            "sku": "6534102",
-            "price": 299.99,
-            "savings": 90.0,
-            "discount_percent": 30.001000033334446,
-            "priority_score": 531.5223984588611,
-            "reviews": 266,
-            "image_url": "images/6534102.jpg"
+            "title": "Audio - Technica - AT - LP70XBT - BS - Black/Silver",
+            "sku": "6585264",
+            "price": 349.0,
+            "savings": 80.0,
+            "discount_percent": 22.922636103151863,
+            "priority_score": 462.70222941718464,
+            "reviews": 183,
+            "image_url": "images/6585264.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -33,6 +33,17 @@
             "priority_score": 459.7201437615199,
             "reviews": 3791,
             "image_url": "images/6187502.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Audio - Technica - ATLP120XBT Bluetooth Stereo Turntable - Black",
+            "sku": "6405424",
+            "price": 499.0,
+            "savings": 70.0,
+            "discount_percent": 14.02805611222445,
+            "priority_score": 456.35585407185573,
+            "reviews": 921,
+            "image_url": "images/6405424.jpg"
         },
         {
             "category": "Audio & Headphones",
