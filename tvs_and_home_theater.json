@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-01T07:26:04.161097",
+    "last_updated": "2025-06-02T07:27:04.166818",
     "deals": [
         {
             "category": "TVs and Home Theater",
@@ -11,17 +11,6 @@
             "priority_score": 557.352924364445,
             "reviews": 1750,
             "image_url": "images/6278202.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "Toshiba - 75\" Class C350 Series LED 4K UHD Smart Fire TV",
-            "sku": "6560922",
-            "price": 479.99,
-            "savings": 80.0,
-            "discount_percent": 16.667013896122835,
-            "priority_score": 485.40993407265626,
-            "reviews": 821,
-            "image_url": "images/6560922.jpg"
         }
     ]
 }

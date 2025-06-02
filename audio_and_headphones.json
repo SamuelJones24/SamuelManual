@@ -1,16 +1,49 @@
 {
-    "last_updated": "2025-06-01T20:06:42.055025",
+    "last_updated": "2025-06-02T07:27:04.166818",
     "deals": [
         {
             "category": "Audio & Headphones",
             "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
-            "sku": "6515590",
+            "sku": "",
             "price": 379.99,
             "savings": 170.0,
             "discount_percent": 44.73801942156372,
             "priority_score": 748.9248705112611,
             "reviews": 169,
-            "image_url": "images/6515590.jpg"
+            "image_url": "images/.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - Tune 235NC True Wireless Noise Cancelling In - Ear Earbuds - Black",
+            "sku": "6535036",
+            "price": 99.99,
+            "savings": 50.0,
+            "discount_percent": 50.00500050005001,
+            "priority_score": 624.1154679363493,
+            "reviews": 1996,
+            "image_url": "images/6535036.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Marshall - Middleton Portable Bluetooth Speaker - Black and Brass",
+            "sku": "6534102",
+            "price": 299.99,
+            "savings": 90.0,
+            "discount_percent": 30.001000033334446,
+            "priority_score": 531.5223984588611,
+            "reviews": 266,
+            "image_url": "images/6534102.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Bose - Portable Smart Speaker with built - in WiFi, Bluetooth, Google Assistant and Alexa Voice Control - Triple Black",
+            "sku": "6370597",
+            "price": 399.99,
+            "savings": 80.0,
+            "discount_percent": 20.00050001250031,
+            "priority_score": 519.917619592048,
+            "reviews": 1347,
+            "image_url": "images/6370597.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -52,20 +85,9 @@
             "price": 499.99,
             "savings": 51.0,
             "discount_percent": 10.200204004080081,
-            "priority_score": 431.87147274670303,
-            "reviews": 2279,
+            "priority_score": 431.88728830320383,
+            "reviews": 2280,
             "image_url": "images/6219445.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - PartyBox On - The - Go Essential Portable Wireless Party Speaker with Wireless Microphone - Black",
-            "sku": "6576525",
-            "price": 299.99,
-            "savings": 50.0,
-            "discount_percent": 16.66722224074136,
-            "priority_score": 382.3361595054088,
-            "reviews": 248,
-            "image_url": "images/6576525.jpg"
         },
         {
             "category": "Audio & Headphones",
