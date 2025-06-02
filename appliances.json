@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-02T07:27:04.166818",
+    "last_updated": "2025-06-02T13:23:48.425722",
     "deals": [
         {
             "category": "Appliances",
@@ -11,6 +11,28 @@
             "priority_score": 716.3856609595312,
             "reviews": 132,
             "image_url": "images/6585781.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Dyson - V8 Cordless Vacuum with 6 accessories - Silver/Nickel",
+            "sku": "6500879",
+            "price": 469.99,
+            "savings": 120.0,
+            "discount_percent": 25.532458137407176,
+            "priority_score": 685.1407563189337,
+            "reviews": 6649,
+            "image_url": "images/6500879.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Shark - Navigator Lift - Away Deluxe Upright Vacuum with Anti - Allergen Complete Seal - Blue",
+            "sku": "7775211",
+            "price": 199.99,
+            "savings": 70.0,
+            "discount_percent": 35.00175008750438,
+            "priority_score": 635.3632975422788,
+            "reviews": 7201,
+            "image_url": "images/7775211.jpg"
         },
         {
             "category": "Appliances",

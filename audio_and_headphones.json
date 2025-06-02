@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-06-02T07:27:04.166818",
+    "last_updated": "2025-06-02T13:23:48.425722",
     "deals": [
-        {
-            "category": "Audio & Headphones",
-            "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
-            "sku": "",
-            "price": 379.99,
-            "savings": 170.0,
-            "discount_percent": 44.73801942156372,
-            "priority_score": 748.9248705112611,
-            "reviews": 169,
-            "image_url": "images/.jpg"
-        },
         {
             "category": "Audio & Headphones",
             "title": "JBL - Tune 235NC True Wireless Noise Cancelling In - Ear Earbuds - Black",
@@ -80,17 +69,6 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Sony - STRDH790 - 7.2 - Ch. with Dolby Atmos & Dolby Vision 4K Ultra HD HDR A/V Home Theater Receiver - Black",
-            "sku": "6219445",
-            "price": 499.99,
-            "savings": 51.0,
-            "discount_percent": 10.200204004080081,
-            "priority_score": 431.88728830320383,
-            "reviews": 2280,
-            "image_url": "images/6219445.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "JBL - Live Buds 3 True Wireless Noise Cancelling Earbuds - Black",
             "sku": "6582669",
             "price": 199.99,
@@ -99,17 +77,6 @@
             "priority_score": 365.3739964153958,
             "reviews": 48,
             "image_url": "images/6582669.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Denon - AVR - S770H (75W X 7) 7.2 - Ch. with HEOS and Dolby Atmos 8K Ultra HD HDR Compatible AV Home Theater Receiver with Alexa - Black",
-            "sku": "6551305",
-            "price": 649.0,
-            "savings": 49.0,
-            "discount_percent": 7.550077041602465,
-            "priority_score": 288.5063690664605,
-            "reviews": 104,
-            "image_url": "images/6551305.jpg"
         }
     ]
 }

@@ -1,16 +1,27 @@
 {
-    "last_updated": "2025-05-28T07:28:23.003199",
+    "last_updated": "2025-06-02T13:23:48.425722",
     "deals": [
         {
             "category": "Cell Phones",
-            "title": "Google - Pixel 9 Pro 128GB (Unlocked) - Obsidian",
-            "sku": "6587887",
-            "price": 999.0,
-            "savings": 200.0,
-            "discount_percent": 20.02002002002002,
-            "priority_score": 705.0919087210092,
-            "reviews": 293,
-            "image_url": "images/6587887.jpg"
+            "title": "Bracketron - TripGrip Window & Vent Mount for Most Cell Phones - Black",
+            "sku": "6411257",
+            "price": 24.99,
+            "savings": 10.0,
+            "discount_percent": 40.016006402561025,
+            "priority_score": 405.96363472127433,
+            "reviews": 1591,
+            "image_url": "images/6411257.jpg"
+        },
+        {
+            "category": "Cell Phones",
+            "title": "OtterBox - Symmetry Series Hard Shell for Google Pixel 8 - Clear",
+            "sku": "6559558",
+            "price": 49.99,
+            "savings": 21.0,
+            "discount_percent": 42.008401680336064,
+            "priority_score": 314.47472991919744,
+            "reviews": 57,
+            "image_url": "images/6559558.jpg"
         }
     ]
 }

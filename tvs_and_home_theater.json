@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-02T07:27:04.166818",
+    "last_updated": "2025-06-02T13:23:48.425722",
     "deals": [
+        {
+            "category": "TVs and Home Theater",
+            "title": "TCL - 65\" Class A300W NXTVISION Series 4K QLED Lifestyle TV with Ultra Matte Screen and Flush Wall Mount (2024)",
+            "sku": "6590123",
+            "price": 1199.99,
+            "savings": 300.0,
+            "discount_percent": 25.000208335069456,
+            "priority_score": 913.8657629672882,
+            "reviews": 187,
+            "image_url": "images/6590123.jpg"
+        },
         {
             "category": "TVs and Home Theater",
             "title": "Panasonic - Streaming 4K Ultra HD Hi - Res Audio with Dolby Vision 7.1 Channel DVD/CD/3D Wi - Fi Built - In Blu - Ray Player, DP - UB820 - K - Black",
@@ -11,6 +22,17 @@
             "priority_score": 557.352924364445,
             "reviews": 1750,
             "image_url": "images/6278202.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "TCL - 55\" Class A300W NXTVISION Series 4K QLED Lifestyle TV with Ultra Matte Screen and Flush Wall Mount (2024)",
+            "sku": "6590118",
+            "price": 799.99,
+            "savings": 114.0,
+            "discount_percent": 14.25017812722659,
+            "priority_score": 471.31696687017904,
+            "reviews": 117,
+            "image_url": "images/6590118.jpg"
         }
     ]
 }
