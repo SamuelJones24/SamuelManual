@@ -1,49 +1,16 @@
 {
-    "last_updated": "2025-06-02T19:55:55.943698",
+    "last_updated": "2025-06-03T01:35:23.573718",
     "deals": [
         {
             "category": "Computers and Tablets",
             "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
-            "sku": "6515590",
+            "sku": "N/A",
             "price": 379.99,
             "savings": 170.0,
             "discount_percent": 44.73801942156372,
             "priority_score": 748.9248705112611,
             "reviews": 169,
-            "image_url": "images/6515590.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
-            "sku": "6485246",
-            "price": 119.99,
-            "savings": 60.0,
-            "discount_percent": 50.00416701391784,
-            "priority_score": 612.5318280231165,
-            "reviews": 831,
-            "image_url": "images/6485246.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "HP - OfficeJet Pro 9125e Wireless All - In - One Inkjet Printer with 3 months of Instant Ink Included with HP+ - White",
-            "sku": "6565475",
-            "price": 299.99,
-            "savings": 90.0,
-            "discount_percent": 30.001000033334446,
-            "priority_score": 577.8272335724213,
-            "reviews": 963,
-            "image_url": "images/6565475.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "HP - OfficeJet Pro 9135e Wireless All - In - One Inkjet Printer with 3 months of Instant Ink Included with HP+ - White",
-            "sku": "6565473",
-            "price": 419.99,
-            "savings": 110.0,
-            "discount_percent": 26.191099788090195,
-            "priority_score": 553.4063010144641,
-            "reviews": 273,
-            "image_url": "images/6565473.jpg"
+            "image_url": "Image Not Available"
         },
         {
             "category": "Computers and Tablets",
@@ -52,53 +19,9 @@
             "price": 259.99,
             "savings": 70.0,
             "discount_percent": 26.92411246586407,
-            "priority_score": 528.077357333626,
-            "reviews": 1126,
+            "priority_score": 528.1413065986454,
+            "reviews": 1128,
             "image_url": "images/6527565.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "HP - LaserJet Pro MFP 4101fdw Wireless Black - and - White All - in - One Laser Printer - White",
-            "sku": "6517854",
-            "price": 599.99,
-            "savings": 110.0,
-            "discount_percent": 18.333638893981565,
-            "priority_score": 520.7167888132889,
-            "reviews": 328,
-            "image_url": "images/6517854.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "SteelSeries - Arctis Nova Pro Wireless Multi Gaming Headset for PS5, PS4, PC, Switch - White",
-            "sku": "6576926",
-            "price": 379.99,
-            "savings": 70.0,
-            "discount_percent": 18.42153740887918,
-            "priority_score": 470.5866573220967,
-            "reviews": 743,
-            "image_url": "images/6576926.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
-            "sku": "5900264",
-            "price": 29.99,
-            "savings": 12.0,
-            "discount_percent": 40.01333777925976,
-            "priority_score": 434.6027497048627,
-            "reviews": 3152,
-            "image_url": "images/5900264.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
-            "sku": "6537888",
-            "price": 299.99,
-            "savings": 70.0,
-            "discount_percent": 23.3341111370379,
-            "priority_score": 425.8751638046126,
-            "reviews": 108,
-            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -107,64 +30,9 @@
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 413.8937390080582,
-            "reviews": 1313,
+            "priority_score": 413.92117710449156,
+            "reviews": 1314,
             "image_url": "images/6533540.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
-            "sku": "6398057",
-            "price": 499.99,
-            "savings": 50.0,
-            "discount_percent": 10.00020000400008,
-            "priority_score": 409.1590553761458,
-            "reviews": 1319,
-            "image_url": "images/6398057.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "",
-            "price": 1499.0,
-            "savings": 74.95,
-            "discount_percent": 5.0,
-            "priority_score": 400.18068138558135,
-            "reviews": 515,
-            "image_url": "images/.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Logitech - Astro A50 X LIGHTSPEED Wireless with PLAYSYNC Gaming Headset + Base Station for Xbox Series X|S, PS5, PC/MAC - Black",
-            "sku": "6572603",
-            "price": 399.99,
-            "savings": 50.0,
-            "discount_percent": 12.500312507812694,
-            "priority_score": 397.52354844611807,
-            "reviews": 675,
-            "image_url": "images/6572603.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Speck - Balance Folio Case for Apple iPad Pro 13\" (Latest Model/M4 chip) - Black/White",
-            "sku": "6579532",
-            "price": 64.99,
-            "savings": 34.0,
-            "discount_percent": 52.315740883212804,
-            "priority_score": 368.8194102037251,
-            "reviews": 53,
-            "image_url": "images/6579532.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver",
-            "sku": "6467298",
-            "price": 1299.0,
-            "savings": 64.95,
-            "discount_percent": 5.0,
-            "priority_score": 365.1347734034426,
-            "reviews": 339,
-            "image_url": "images/6467298.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -173,53 +41,9 @@
             "price": 999.0,
             "savings": 49.0,
             "discount_percent": 4.904904904904905,
-            "priority_score": 364.0628617529924,
-            "reviews": 1062,
+            "priority_score": 364.0967756022444,
+            "reviews": 1063,
             "image_url": "images/5495362.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "5495364",
-            "price": 1199.0,
-            "savings": 59.95,
-            "discount_percent": 5.0,
-            "priority_score": 343.7549077596719,
-            "reviews": 247,
-            "image_url": "images/5495364.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
-            "sku": "6598715",
-            "price": 349.99,
-            "savings": 50.0,
-            "discount_percent": 14.286122460641732,
-            "priority_score": 295.28552006288055,
-            "reviews": 30,
-            "image_url": "images/6598715.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6583240",
-            "price": 899.99,
-            "savings": 50.0,
-            "discount_percent": 5.5556172846364955,
-            "priority_score": 289.26387688911495,
-            "reviews": 87,
-            "image_url": "images/6583240.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6612971",
-            "price": 1299.99,
-            "savings": 50.0,
-            "discount_percent": 3.8461834321802475,
-            "priority_score": 177.2791195330853,
-            "reviews": 4,
-            "image_url": "images/6612971.jpg"
         }
     ]
 }
