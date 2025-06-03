@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-02T13:23:48.425722",
+    "last_updated": "2025-06-02T19:55:55.943698",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -8,8 +8,8 @@
             "price": 179.99,
             "savings": 50.0,
             "discount_percent": 27.779321073392964,
-            "priority_score": 520.7560591981239,
-            "reviews": 2476,
+            "priority_score": 520.7851692691329,
+            "reviews": 2478,
             "image_url": "images/6473262.jpg"
         },
         {
@@ -19,8 +19,8 @@
             "price": 449.99,
             "savings": 60.0,
             "discount_percent": 13.333629636214136,
-            "priority_score": 468.52760201222975,
-            "reviews": 2476,
+            "priority_score": 468.5567120832387,
+            "reviews": 2478,
             "image_url": "images/6559342.jpg"
         },
         {
@@ -36,14 +36,14 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - Silver",
-            "sku": "6576718",
+            "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
+            "sku": "6567807",
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
-            "priority_score": 396.9160429597738,
-            "reviews": 430,
-            "image_url": "images/6576718.jpg"
+            "priority_score": 396.999629036633,
+            "reviews": 431,
+            "image_url": "images/6567807.jpg"
         }
     ]
 }

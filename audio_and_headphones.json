@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-02T13:23:48.425722",
+    "last_updated": "2025-06-02T19:55:55.943698",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -8,8 +8,8 @@
             "price": 99.99,
             "savings": 50.0,
             "discount_percent": 50.00500050005001,
-            "priority_score": 624.1154679363493,
-            "reviews": 1996,
+            "priority_score": 624.1515714188657,
+            "reviews": 1998,
             "image_url": "images/6535036.jpg"
         },
         {
@@ -58,14 +58,14 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Audio - Technica - ATLP120XBT Bluetooth Stereo Turntable - Black",
-            "sku": "6405424",
-            "price": 499.0,
-            "savings": 70.0,
-            "discount_percent": 14.02805611222445,
-            "priority_score": 456.35585407185573,
-            "reviews": 921,
-            "image_url": "images/6405424.jpg"
+            "title": "Sony - STRDH790 - 7.2 - Ch. with Dolby Atmos & Dolby Vision 4K Ultra HD HDR A/V Home Theater Receiver - Black",
+            "sku": "6219445",
+            "price": 499.99,
+            "savings": 51.0,
+            "discount_percent": 10.200204004080081,
+            "priority_score": 431.88728830320383,
+            "reviews": 2280,
+            "image_url": "images/6219445.jpg"
         },
         {
             "category": "Audio & Headphones",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-02T13:23:48.425722",
+    "last_updated": "2025-06-02T19:55:55.943698",
     "deals": [
         {
             "category": "Cell Phones",
@@ -8,20 +8,9 @@
             "price": 24.99,
             "savings": 10.0,
             "discount_percent": 40.016006402561025,
-            "priority_score": 405.96363472127433,
-            "reviews": 1591,
+            "priority_score": 405.9862829958158,
+            "reviews": 1592,
             "image_url": "images/6411257.jpg"
-        },
-        {
-            "category": "Cell Phones",
-            "title": "OtterBox - Symmetry Series Hard Shell for Google Pixel 8 - Clear",
-            "sku": "6559558",
-            "price": 49.99,
-            "savings": 21.0,
-            "discount_percent": 42.008401680336064,
-            "priority_score": 314.47472991919744,
-            "reviews": 57,
-            "image_url": "images/6559558.jpg"
         }
     ]
 }
