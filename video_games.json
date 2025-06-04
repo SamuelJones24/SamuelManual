@@ -1,16 +1,38 @@
 {
-    "last_updated": "2025-06-03T01:35:23.573718",
+    "last_updated": "2025-06-03T19:54:54.372707",
     "deals": [
         {
             "category": "Video Games",
-            "title": "SteelSeries - Arctis Nova Pro Wireless Multi Gaming Headset for PS5, PS4, PC, Switch - White",
-            "sku": "6576926",
-            "price": 379.99,
-            "savings": 70.0,
-            "discount_percent": 18.42153740887918,
-            "priority_score": 470.5866573220967,
-            "reviews": 743,
-            "image_url": "images/6576926.jpg"
+            "title": "Turtle Beach - Stealth Ultra Wireless Controller with Charge Dock, 30 - Hour Battery, Designed for Xbox Series X|S, Windows PC, Android - Black",
+            "sku": "6562064",
+            "price": 219.99,
+            "savings": 50.0,
+            "discount_percent": 22.728305832083276,
+            "priority_score": 445.42810485802573,
+            "reviews": 617,
+            "image_url": "images/6562064.jpg"
+        },
+        {
+            "category": "Video Games",
+            "title": "PowerA - Dual Charging Station for Xbox Series X|S - Black",
+            "sku": "6472018",
+            "price": 29.99,
+            "savings": 14.0,
+            "discount_percent": 46.68222740913638,
+            "priority_score": 419.0196569597167,
+            "reviews": 1051,
+            "image_url": "images/6472018.jpg"
+        },
+        {
+            "category": "Video Games",
+            "title": "SteelSeries - Arctis Nova 7P Wireless Gaming Headset for PS5, PS4 - White",
+            "sku": "6557038",
+            "price": 199.99,
+            "savings": 49.0,
+            "discount_percent": 24.501225061253063,
+            "priority_score": 408.1938139358341,
+            "reviews": 707,
+            "image_url": "images/6557038.jpg"
         }
     ]
 }

@@ -1,27 +1,49 @@
 {
-    "last_updated": "2025-06-03T01:35:23.573718",
+    "last_updated": "2025-06-03T19:54:54.372707",
     "deals": [
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Google - Nest Cam Indoor/Outdoor Wire Free Security Camera - Snow",
+            "sku": "6473262",
+            "price": 179.99,
+            "savings": 50.0,
+            "discount_percent": 27.779321073392964,
+            "priority_score": 520.7851692691329,
+            "reviews": 2478,
+            "image_url": "images/6473262.jpg"
+        },
         {
             "category": "Smart Home and Wifi",
             "title": "Philips - Hue Ambiance Gradient Bluetooth Lightstrip 80 - inch Base Kit - Multi",
             "sku": "6478171",
             "price": 179.99,
-            "savings": 56.0,
-            "discount_percent": 31.112839602200122,
-            "priority_score": 434.374831560288,
+            "savings": 60.0,
+            "discount_percent": 33.33518528807156,
+            "priority_score": 453.4865599896452,
             "reviews": 101,
             "image_url": "images/6478171.jpg"
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
-            "sku": "6598715",
-            "price": 349.99,
+            "title": "ARRIS - Surfboard Wi - Fi 7 Router with DOCSIS 3.1 Cable Modem - black",
+            "sku": "6561663",
+            "price": 599.0,
+            "savings": 100.0,
+            "discount_percent": 16.69449081803005,
+            "priority_score": 437.21613207776727,
+            "reviews": 70,
+            "image_url": "images/6561663.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - Silver",
+            "sku": "6576718",
+            "price": 319.99,
             "savings": 50.0,
-            "discount_percent": 14.286122460641732,
-            "priority_score": 295.28552006288055,
-            "reviews": 30,
-            "image_url": "images/6598715.jpg"
+            "discount_percent": 15.625488296509266,
+            "priority_score": 397.1662222936583,
+            "reviews": 433,
+            "image_url": "images/6576718.jpg"
         }
     ]
 }

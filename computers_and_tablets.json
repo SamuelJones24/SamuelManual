@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-03T13:34:59.596930",
+    "last_updated": "2025-06-03T19:54:54.372707",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -15,13 +15,24 @@
         {
             "category": "Computers and Tablets",
             "title": "Logitech - G735 Aurora Collection Wireless Gaming Headset for PC, Mobile - White Mist",
-            "sku": "N/A",
+            "sku": "6511305",
             "price": 259.99,
             "savings": 117.0,
             "discount_percent": 45.001730835801375,
             "priority_score": 674.7425696809971,
             "reviews": 395,
-            "image_url": "Image Not Available"
+            "image_url": "images/6511305.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
+            "sku": "6485246",
+            "price": 119.99,
+            "savings": 60.0,
+            "discount_percent": 50.00416701391784,
+            "priority_score": 612.5318280231165,
+            "reviews": 831,
+            "image_url": "images/6485246.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -36,6 +47,28 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "SteelSeries - Aerox 5 Ultra Lightweight Honeycomb Water Resistant Wireless RGB Optical Gaming Mouse With 9 Programmable Buttons - Wireless - Black",
+            "sku": "6501461",
+            "price": 169.99,
+            "savings": 54.0,
+            "discount_percent": 31.76657450438261,
+            "priority_score": 464.35454272143176,
+            "reviews": 238,
+            "image_url": "images/6501461.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
+            "sku": "5900264",
+            "price": 29.99,
+            "savings": 12.0,
+            "discount_percent": 40.01333777925976,
+            "priority_score": 434.6027497048627,
+            "reviews": 3152,
+            "image_url": "images/5900264.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Speck - Balance Folio R Case for Apple iPad 11\"(A16 chip 2025) and iPad 10.9\" (10th Generation) - Black/White",
             "sku": "6514559",
             "price": 44.99,
@@ -47,6 +80,28 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 70.0,
+            "discount_percent": 23.3341111370379,
+            "priority_score": 425.8751638046126,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6612971",
+            "price": 1299.99,
+            "savings": 150.0,
+            "discount_percent": 11.538550296540743,
+            "priority_score": 415.7409538548878,
+            "reviews": 4,
+            "image_url": "images/6612971.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
             "sku": "6398057",
             "price": 499.99,
@@ -55,6 +110,50 @@
             "priority_score": 409.1590553761458,
             "reviews": 1319,
             "image_url": "images/6398057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "ASUS - ZenWiFi BE5000 Dual - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
+            "sku": "6594274",
+            "price": 349.99,
+            "savings": 70.0,
+            "discount_percent": 20.000571444898423,
+            "priority_score": 393.74653521210917,
+            "reviews": 70,
+            "image_url": "images/6594274.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Speck - Balance Folio Case for Apple iPad Pro 13\" (Latest Model/M4 chip) - Black/White",
+            "sku": "6579532",
+            "price": 64.99,
+            "savings": 34.0,
+            "discount_percent": 52.315740883212804,
+            "priority_score": 368.8194102037251,
+            "reviews": 53,
+            "image_url": "images/6579532.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
+            "sku": "6598715",
+            "price": 349.99,
+            "savings": 50.0,
+            "discount_percent": 14.286122460641732,
+            "priority_score": 295.28552006288055,
+            "reviews": 30,
+            "image_url": "images/6598715.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6583240",
+            "price": 899.99,
+            "savings": 50.0,
+            "discount_percent": 5.5556172846364955,
+            "priority_score": 289.26387688911495,
+            "reviews": 87,
+            "image_url": "images/6583240.jpg"
         }
     ]
 }

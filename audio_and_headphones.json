@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-06-03T07:35:33.582371",
+    "last_updated": "2025-06-03T19:54:54.372707",
     "deals": [
-        {
-            "category": "Audio & Headphones",
-            "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
-            "sku": "6515590",
-            "price": 379.99,
-            "savings": 170.0,
-            "discount_percent": 44.73801942156372,
-            "priority_score": 748.9248705112611,
-            "reviews": 169,
-            "image_url": "images/6515590.jpg"
-        },
         {
             "category": "Audio & Headphones",
             "title": "JBL - Tune 235NC True Wireless Noise Cancelling In - Ear Earbuds - Black",
@@ -19,42 +8,31 @@
             "price": 99.99,
             "savings": 50.0,
             "discount_percent": 50.00500050005001,
-            "priority_score": 624.1696096168022,
-            "reviews": 1999,
+            "priority_score": 624.2416723301302,
+            "reviews": 2003,
             "image_url": "images/6535036.jpg"
         },
         {
             "category": "Audio & Headphones",
-            "title": "Audio - Technica - AT - LP70XBT - BS - Black/Silver",
-            "sku": "6585264",
-            "price": 349.0,
-            "savings": 80.0,
-            "discount_percent": 22.922636103151863,
-            "priority_score": 462.70222941718464,
-            "reviews": 183,
-            "image_url": "images/6585264.jpg"
+            "title": "Marshall - Middleton Portable Bluetooth Speaker - Black and Brass",
+            "sku": "6534102",
+            "price": 299.99,
+            "savings": 90.0,
+            "discount_percent": 30.001000033334446,
+            "priority_score": 531.5223984588611,
+            "reviews": 266,
+            "image_url": "images/6534102.jpg"
         },
         {
             "category": "Audio & Headphones",
-            "title": "Sony - STRDH590 - 725W 5.2 - Ch. Hi - Res 4K Ultra HD HDR A/V Home Theater Receiver - Black",
-            "sku": "6187502",
+            "title": "Bose - Portable Smart Speaker with built - in WiFi, Bluetooth, Google Assistant and Alexa Voice Control - Triple Black",
+            "sku": "6370597",
             "price": 399.99,
-            "savings": 50.0,
-            "discount_percent": 12.500312507812694,
-            "priority_score": 459.7201437615199,
-            "reviews": 3791,
-            "image_url": "images/6187502.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Audio - Technica - ATLP120XBT Bluetooth Stereo Turntable - Black",
-            "sku": "6405424",
-            "price": 499.0,
-            "savings": 70.0,
-            "discount_percent": 14.02805611222445,
-            "priority_score": 456.35585407185573,
-            "reviews": 921,
-            "image_url": "images/6405424.jpg"
+            "savings": 73.0,
+            "discount_percent": 18.250456261406534,
+            "priority_score": 497.16740083657913,
+            "reviews": 1347,
+            "image_url": "images/6370597.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -66,6 +44,17 @@
             "priority_score": 431.9030969276174,
             "reviews": 2281,
             "image_url": "images/6219445.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Sony - ULT FIELD 5 Wireless Speaker - Black",
+            "sku": "6620181",
+            "price": 329.99,
+            "savings": 80.0,
+            "discount_percent": 24.243158883602533,
+            "priority_score": 429.4842278570848,
+            "reviews": 60,
+            "image_url": "images/6620181.jpg"
         },
         {
             "category": "Audio & Headphones",
