@@ -1,16 +1,16 @@
 {
-    "last_updated": "2025-06-04T07:26:54.358990",
+    "last_updated": "2025-06-04T13:23:40.438178",
     "deals": [
         {
             "category": "Computers and Tablets",
             "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
-            "sku": "",
+            "sku": "6515590",
             "price": 379.99,
             "savings": 170.0,
             "discount_percent": 44.73801942156372,
             "priority_score": 748.9248705112611,
             "reviews": 169,
-            "image_url": "images/.jpg"
+            "image_url": "images/6515590.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -36,6 +36,28 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 84.0,
+            "discount_percent": 28.00093336444548,
+            "priority_score": 477.2092749416505,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "PNY - Elite Turbo Attache 4 64GB USB 3.2 Flash Drive - Gray",
+            "sku": "1876003",
+            "price": 19.99,
+            "savings": 8.0,
+            "discount_percent": 40.020010005002504,
+            "priority_score": 455.8797873725341,
+            "reviews": 7095,
+            "image_url": "images/1876003.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
             "sku": "5900264",
             "price": 29.99,
@@ -44,28 +66,6 @@
             "priority_score": 434.6027497048627,
             "reviews": 3152,
             "image_url": "images/5900264.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Speck - Balance Folio R Case for Apple iPad 11\"(A16 chip 2025) and iPad 10.9\" (10th Generation) - Black/White",
-            "sku": "6514559",
-            "price": 44.99,
-            "savings": 20.0,
-            "discount_percent": 44.45432318292954,
-            "priority_score": 434.4883406954992,
-            "reviews": 1393,
-            "image_url": "images/6514559.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
-            "sku": "6537888",
-            "price": 299.99,
-            "savings": 70.0,
-            "discount_percent": 23.3341111370379,
-            "priority_score": 425.8751638046126,
-            "reviews": 108,
-            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -91,6 +91,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Speck - Balance Folio Case for Apple iPad Pro 13\" (Latest Model/M4 chip) - Black/White",
+            "sku": "6579532",
+            "price": 64.99,
+            "savings": 39.0,
+            "discount_percent": 60.009232189567626,
+            "priority_score": 401.89988412278956,
+            "reviews": 53,
+            "image_url": "images/6579532.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "ASUS - ZenWiFi BE5000 Dual - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
             "sku": "6594274",
             "price": 349.99,
@@ -99,17 +110,6 @@
             "priority_score": 393.74653521210917,
             "reviews": 70,
             "image_url": "images/6594274.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Speck - Balance Folio Case for Apple iPad Pro 13\" (Latest Model/M4 chip) - Black/White",
-            "sku": "6579532",
-            "price": 64.99,
-            "savings": 34.0,
-            "discount_percent": 52.315740883212804,
-            "priority_score": 368.8194102037251,
-            "reviews": 53,
-            "image_url": "images/6579532.jpg"
         },
         {
             "category": "Computers and Tablets",

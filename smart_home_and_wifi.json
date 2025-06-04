@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-06-04T07:26:54.358990",
+    "last_updated": "2025-06-04T13:23:40.438178",
     "deals": [
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Google - Nest Cam Indoor/Outdoor Wire Free Security Camera - Snow",
-            "sku": "6473262",
-            "price": 179.99,
-            "savings": 50.0,
-            "discount_percent": 27.779321073392964,
-            "priority_score": 520.7997154988208,
-            "reviews": 2479,
-            "image_url": "images/6473262.jpg"
-        },
         {
             "category": "Smart Home and Wifi",
             "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
@@ -21,16 +10,27 @@
             "discount_percent": 13.333629636214136,
             "priority_score": 468.5712583129266,
             "reviews": 2479,
-            "image_url": "Image Not Available"
+            "image_url": "images/6559342.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Yale - Assure Lock 2 - Smart Lock Wi - Fi Deadbolt with Push Button Keypad | Key Access - Black Suede",
+            "sku": "6540358",
+            "price": 259.99,
+            "savings": 61.0,
+            "discount_percent": 23.462440863110118,
+            "priority_score": 445.9818678329232,
+            "reviews": 307,
+            "image_url": "images/6540358.jpg"
         },
         {
             "category": "Smart Home and Wifi",
             "title": "Philips - Hue Ambiance Gradient Bluetooth Lightstrip 80 - inch Base Kit - Multi",
             "sku": "6478171",
             "price": 179.99,
-            "savings": 60.0,
-            "discount_percent": 33.33518528807156,
-            "priority_score": 453.4865599896452,
+            "savings": 56.0,
+            "discount_percent": 31.112839602200122,
+            "priority_score": 434.374831560288,
             "reviews": 101,
             "image_url": "images/6478171.jpg"
         },
