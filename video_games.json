@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-03T19:54:54.372707",
+    "last_updated": "2025-06-04T01:25:48.936388",
     "deals": [
+        {
+            "category": "Video Games",
+            "title": "Logitech - G735 Aurora Collection Wireless Gaming Headset for PC, Mobile - White Mist",
+            "sku": "6511305",
+            "price": 259.99,
+            "savings": 117.0,
+            "discount_percent": 45.001730835801375,
+            "priority_score": 674.7425696809971,
+            "reviews": 395,
+            "image_url": "images/6511305.jpg"
+        },
         {
             "category": "Video Games",
             "title": "Turtle Beach - Stealth Ultra Wireless Controller with Charge Dock, 30 - Hour Battery, Designed for Xbox Series X|S, Windows PC, Android - Black",
@@ -8,8 +19,8 @@
             "price": 219.99,
             "savings": 50.0,
             "discount_percent": 22.728305832083276,
-            "priority_score": 445.42810485802573,
-            "reviews": 617,
+            "priority_score": 445.48641914077297,
+            "reviews": 618,
             "image_url": "images/6562064.jpg"
         },
         {
