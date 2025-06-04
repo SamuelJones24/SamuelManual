@@ -1,26 +1,15 @@
 {
-    "last_updated": "2025-06-04T01:25:48.936388",
+    "last_updated": "2025-06-04T07:26:54.358990",
     "deals": [
         {
             "category": "Computers and Tablets",
             "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
-            "sku": "6515590",
+            "sku": "",
             "price": 379.99,
             "savings": 170.0,
             "discount_percent": 44.73801942156372,
             "priority_score": 748.9248705112611,
             "reviews": 169,
-            "image_url": "images/6515590.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Logitech - G735 Aurora Collection Wireless Gaming Headset for PC, Mobile - White Mist",
-            "sku": "",
-            "price": 259.99,
-            "savings": 117.0,
-            "discount_percent": 45.001730835801375,
-            "priority_score": 674.7425696809971,
-            "reviews": 395,
             "image_url": "images/.jpg"
         },
         {
@@ -36,36 +25,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "SteelSeries - Arctis Nova Pro Wireless Multi Gaming Headset for PS5, PS4, PC, Switch - White",
-            "sku": "6576926",
-            "price": 379.99,
-            "savings": 70.0,
-            "discount_percent": 18.42153740887918,
-            "priority_score": 470.5866573220967,
-            "reviews": 743,
-            "image_url": "images/6576926.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "SteelSeries - Aerox 5 Ultra Lightweight Honeycomb Water Resistant Wireless RGB Optical Gaming Mouse With 9 Programmable Buttons - Wireless - Black",
-            "sku": "6501461",
-            "price": 169.99,
-            "savings": 54.0,
-            "discount_percent": 31.76657450438261,
-            "priority_score": 464.35454272143176,
-            "reviews": 238,
-            "image_url": "images/6501461.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "ARRIS - Surfboard Wi - Fi 7 Router with DOCSIS 3.1 Cable Modem - black",
-            "sku": "6561663",
-            "price": 599.0,
-            "savings": 100.0,
-            "discount_percent": 16.69449081803005,
-            "priority_score": 437.21613207776727,
-            "reviews": 70,
-            "image_url": "images/6561663.jpg"
+            "title": "Logitech - G735 Aurora Collection Wireless Gaming Headset for PC, Mobile - White Mist",
+            "sku": "6511305",
+            "price": 232.99,
+            "savings": 90.0,
+            "discount_percent": 38.62826730760977,
+            "priority_score": 588.8752520400391,
+            "reviews": 395,
+            "image_url": "images/6511305.jpg"
         },
         {
             "category": "Computers and Tablets",
