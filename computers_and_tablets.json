@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-04T13:23:40.438178",
+    "last_updated": "2025-06-04T19:53:36.537256",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -91,17 +91,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Speck - Balance Folio Case for Apple iPad Pro 13\" (Latest Model/M4 chip) - Black/White",
-            "sku": "6579532",
-            "price": 64.99,
-            "savings": 39.0,
-            "discount_percent": 60.009232189567626,
-            "priority_score": 401.89988412278956,
-            "reviews": 53,
-            "image_url": "images/6579532.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "ASUS - ZenWiFi BE5000 Dual - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
             "sku": "6594274",
             "price": 349.99,
@@ -118,8 +107,8 @@
             "price": 349.99,
             "savings": 50.0,
             "discount_percent": 14.286122460641732,
-            "priority_score": 295.28552006288055,
-            "reviews": 30,
+            "priority_score": 296.43061230320865,
+            "reviews": 31,
             "image_url": "images/6598715.jpg"
         },
         {

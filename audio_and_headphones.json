@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-04T13:23:40.438178",
+    "last_updated": "2025-06-04T19:53:36.537256",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -81,13 +81,13 @@
         {
             "category": "Audio & Headphones",
             "title": "Denon - AVR - S770H (75W X 7) 7.2 - Ch. with HEOS and Dolby Atmos 8K Ultra HD HDR Compatible AV Home Theater Receiver with Alexa - Black",
-            "sku": "",
+            "sku": "6551305",
             "price": 649.0,
             "savings": 49.0,
             "discount_percent": 7.550077041602465,
             "priority_score": 288.5063690664605,
             "reviews": 104,
-            "image_url": "images/.jpg"
+            "image_url": "images/6551305.jpg"
         }
     ]
 }
