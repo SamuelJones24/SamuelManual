@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-06-05T01:24:03.506574",
+    "last_updated": "2025-06-05T07:26:47.198173",
     "deals": [
-        {
-            "category": "Computers and Tablets",
-            "title": "SteelSeries - Arena 7 2.1 Bluetooth Gaming Speakers with RGB Lighting (3 Piece) - Black",
-            "sku": "6515590",
-            "price": 379.99,
-            "savings": 170.0,
-            "discount_percent": 44.73801942156372,
-            "priority_score": 748.9248705112611,
-            "reviews": 169,
-            "image_url": "images/6515590.jpg"
-        },
         {
             "category": "Computers and Tablets",
             "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
@@ -22,17 +11,6 @@
             "priority_score": 612.5318280231165,
             "reviews": 831,
             "image_url": "images/6485246.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Logitech - G735 Aurora Collection Wireless Gaming Headset for PC, Mobile - White Mist",
-            "sku": "6511305",
-            "price": 232.99,
-            "savings": 90.0,
-            "discount_percent": 38.62826730760977,
-            "priority_score": 588.8752520400391,
-            "reviews": 395,
-            "image_url": "images/6511305.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -52,8 +30,8 @@
             "price": 19.99,
             "savings": 8.0,
             "discount_percent": 40.020010005002504,
-            "priority_score": 455.8797873725341,
-            "reviews": 7095,
+            "priority_score": 455.8848697900754,
+            "reviews": 7096,
             "image_url": "images/1876003.jpg"
         },
         {
@@ -88,17 +66,6 @@
             "priority_score": 409.1863688011711,
             "reviews": 1320,
             "image_url": "images/6398057.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "ASUS - ZenWiFi BE5000 Dual - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
-            "sku": "6594274",
-            "price": 349.99,
-            "savings": 70.0,
-            "discount_percent": 20.000571444898423,
-            "priority_score": 393.74653521210917,
-            "reviews": 70,
-            "image_url": "images/6594274.jpg"
         },
         {
             "category": "Computers and Tablets",
