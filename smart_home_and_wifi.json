@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-05T19:53:50.070670",
+    "last_updated": "2025-06-06T01:25:02.134705",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -44,50 +44,6 @@
             "priority_score": 397.1662222936583,
             "reviews": 433,
             "image_url": "images/6576718.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "ASUS - ZenWiFi BE5000 Dual - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
-            "sku": "6594274",
-            "price": 349.99,
-            "savings": 70.0,
-            "discount_percent": 20.000571444898423,
-            "priority_score": 393.74653521210917,
-            "reviews": 70,
-            "image_url": "images/6594274.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
-            "sku": "6598715",
-            "price": 349.99,
-            "savings": 50.0,
-            "discount_percent": 14.286122460641732,
-            "priority_score": 296.43061230320865,
-            "reviews": 31,
-            "image_url": "images/6598715.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6583240",
-            "price": 899.99,
-            "savings": 50.0,
-            "discount_percent": 5.5556172846364955,
-            "priority_score": 289.26387688911495,
-            "reviews": 87,
-            "image_url": "images/6583240.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6612971",
-            "price": 1299.99,
-            "savings": 50.0,
-            "discount_percent": 3.8461834321802475,
-            "priority_score": 177.2791195330853,
-            "reviews": 4,
-            "image_url": "images/6612971.jpg"
         }
     ]
 }

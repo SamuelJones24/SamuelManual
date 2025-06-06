@@ -1,16 +1,16 @@
 {
-    "last_updated": "2025-06-05T19:53:50.070670",
+    "last_updated": "2025-06-06T01:25:02.134705",
     "deals": [
         {
             "category": "Computers and Tablets",
             "title": "Speck - Balance Folio Case for Apple iPad Air 11\"(latest M3/M2), iPad Pro 11\"(3rd/2nd/1st Gen) & iPad Air 10.9\"(5th/4th Gen) - Black/White",
-            "sku": "6514563",
+            "sku": "",
             "price": 49.99,
             "savings": 30.0,
             "discount_percent": 60.01200240048009,
             "priority_score": 485.3805369818662,
             "reviews": 899,
-            "image_url": "images/6514563.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -36,6 +36,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 71.0,
+            "discount_percent": 23.667455581852728,
+            "priority_score": 429.5418860286868,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
             "sku": "6398057",
             "price": 499.99,
@@ -47,6 +58,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "ASUS - ZenWiFi BE5000 Dual - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
+            "sku": "6594274",
+            "price": 349.99,
+            "savings": 70.0,
+            "discount_percent": 20.000571444898423,
+            "priority_score": 393.74653521210917,
+            "reviews": 70,
+            "image_url": "images/6594274.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Samsung - 34\" Odyssey OLED G8 Curved Ultra - WQHD 175Hz FreeSync Prem Pro and G - Sync Compatible Smart Glare Free Gaming Monitor - Silver",
             "sku": "6588057",
             "price": 999.99,
@@ -55,6 +77,39 @@
             "priority_score": 349.43234809099795,
             "reviews": 125,
             "image_url": "images/6588057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
+            "sku": "6598715",
+            "price": 349.99,
+            "savings": 50.0,
+            "discount_percent": 14.286122460641732,
+            "priority_score": 296.43061230320865,
+            "reviews": 31,
+            "image_url": "images/6598715.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6583240",
+            "price": 899.99,
+            "savings": 50.0,
+            "discount_percent": 5.5556172846364955,
+            "priority_score": 289.26387688911495,
+            "reviews": 87,
+            "image_url": "images/6583240.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6612971",
+            "price": 1299.99,
+            "savings": 50.0,
+            "discount_percent": 3.8461834321802475,
+            "priority_score": 177.2791195330853,
+            "reviews": 4,
+            "image_url": "images/6612971.jpg"
         }
     ]
 }
