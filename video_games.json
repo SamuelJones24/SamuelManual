@@ -1,27 +1,16 @@
 {
-    "last_updated": "2025-06-05T07:26:47.198173",
+    "last_updated": "2025-06-05T19:53:50.070670",
     "deals": [
         {
             "category": "Video Games",
-            "title": "PowerA - Dual Charging Station for Xbox Series X|S - Black",
-            "sku": "6472018",
-            "price": 29.99,
-            "savings": 14.0,
-            "discount_percent": 46.68222740913638,
-            "priority_score": 419.05392525305206,
-            "reviews": 1052,
-            "image_url": "images/6472018.jpg"
-        },
-        {
-            "category": "Video Games",
-            "title": "PowerA - OPS v3 Pro Wireless Controller for PC & Cloud Gaming with Lumectra - Black",
-            "sku": "6595699",
-            "price": 99.99,
-            "savings": 44.0,
-            "discount_percent": 44.00440044004401,
-            "priority_score": 317.685466210345,
-            "reviews": 14,
-            "image_url": "images/6595699.jpg"
+            "title": "Turtle Beach - Stealth Ultra Wireless Controller with Charge Dock, 30 - Hour Battery, Designed for Xbox Series X|S, Windows PC, Android - Black",
+            "sku": "6562064",
+            "price": 219.99,
+            "savings": 48.0,
+            "discount_percent": 21.819173598799946,
+            "priority_score": 393.3024107767564,
+            "reviews": 618,
+            "image_url": "images/6562064.jpg"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-05T07:26:47.198173",
+    "last_updated": "2025-06-05T19:53:50.070670",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -14,14 +14,14 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Audio - Technica - AT - LP70XBT - BS - Black/Silver",
-            "sku": "6585264",
-            "price": 349.0,
-            "savings": 80.0,
-            "discount_percent": 22.922636103151863,
-            "priority_score": 462.70222941718464,
-            "reviews": 183,
-            "image_url": "images/6585264.jpg"
+            "title": "Marshall - Middleton Portable Bluetooth Speaker - Black and Brass",
+            "sku": "6534102",
+            "price": 299.99,
+            "savings": 90.0,
+            "discount_percent": 30.001000033334446,
+            "priority_score": 531.5223984588611,
+            "reviews": 266,
+            "image_url": "images/6534102.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -36,17 +36,6 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Sony - STRDH790 - 7.2 - Ch. with Dolby Atmos & Dolby Vision 4K Ultra HD HDR A/V Home Theater Receiver - Black",
-            "sku": "6219445",
-            "price": 499.99,
-            "savings": 51.0,
-            "discount_percent": 10.200204004080081,
-            "priority_score": 431.91889862601795,
-            "reviews": 2282,
-            "image_url": "images/6219445.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "Sony - ULT FIELD 5 Wireless Speaker - Black",
             "sku": "6620181",
             "price": 329.99,
@@ -55,6 +44,28 @@
             "priority_score": 429.4842278570848,
             "reviews": 60,
             "image_url": "images/6620181.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - PartyBox On - The - Go Essential Portable Wireless Party Speaker with Wireless Microphone - Black",
+            "sku": "6576525",
+            "price": 299.99,
+            "savings": 50.0,
+            "discount_percent": 16.66722224074136,
+            "priority_score": 382.480718320259,
+            "reviews": 249,
+            "image_url": "images/6576525.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Sony - ULT FIELD 3 Wireless Speaker - Black",
+            "sku": "6620180",
+            "price": 199.99,
+            "savings": 50.0,
+            "discount_percent": 25.00125006250312,
+            "priority_score": 368.8784378666023,
+            "reviews": 53,
+            "image_url": "images/6620180.jpg"
         },
         {
             "category": "Audio & Headphones",
