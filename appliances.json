@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-06T01:25:02.134705",
+    "last_updated": "2025-06-06T13:18:11.229592",
     "deals": [
         {
             "category": "Appliances",
@@ -8,8 +8,8 @@
             "price": 499.99,
             "savings": 180.0,
             "discount_percent": 36.00072001440029,
-            "priority_score": 716.3856609595312,
-            "reviews": 132,
+            "priority_score": 716.9239899982722,
+            "reviews": 134,
             "image_url": "images/6585781.jpg"
         },
         {
@@ -19,8 +19,8 @@
             "price": 299.99,
             "savings": 110.0,
             "discount_percent": 36.66788892963099,
-            "priority_score": 554.9916744095992,
-            "reviews": 66,
+            "priority_score": 555.5260156794134,
+            "reviews": 67,
             "image_url": "images/6585782.jpg"
         },
         {
@@ -30,9 +30,20 @@
             "price": 499.99,
             "savings": 83.0,
             "discount_percent": 16.600332006640134,
-            "priority_score": 500.5528134762129,
-            "reviews": 1068,
+            "priority_score": 500.6202291519571,
+            "reviews": 1070,
             "image_url": "images/6504485.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Dyson - Ball Animal 3 Extra Upright Vacuum with 5 accessories - Copper/Silver",
+            "sku": "",
+            "price": 499.99,
+            "savings": 83.0,
+            "discount_percent": 16.600332006640134,
+            "priority_score": 500.6202291519571,
+            "reviews": 1070,
+            "image_url": "images/.jpg"
         },
         {
             "category": "Appliances",
@@ -41,8 +52,8 @@
             "price": 399.99,
             "savings": 50.0,
             "discount_percent": 12.500312507812694,
-            "priority_score": 394.34645251942004,
-            "reviews": 618,
+            "priority_score": 394.5208317923285,
+            "reviews": 621,
             "image_url": "images/6514613.jpg"
         }
     ]

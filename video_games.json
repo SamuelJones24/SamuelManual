@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-06T07:20:39.091642",
+    "last_updated": "2025-06-06T13:18:11.229592",
     "deals": [
         {
             "category": "Video Games",
@@ -11,17 +11,6 @@
             "priority_score": 419.05392525305206,
             "reviews": 1052,
             "image_url": "images/6472018.jpg"
-        },
-        {
-            "category": "Video Games",
-            "title": "Turtle Beach - Stealth Ultra Wireless Controller with Charge Dock, 30 - Hour Battery, Designed for Xbox Series X|S, Windows PC, Android - Black",
-            "sku": "6562064",
-            "price": 219.99,
-            "savings": 48.0,
-            "discount_percent": 21.819173598799946,
-            "priority_score": 393.3606309282558,
-            "reviews": 619,
-            "image_url": "images/6562064.jpg"
         }
     ]
 }
