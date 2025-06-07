@@ -1,25 +1,14 @@
 {
-    "last_updated": "2025-06-06T13:18:11.229592",
+    "last_updated": "2025-06-07T13:22:05.541699",
     "deals": [
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
-            "sku": "6559342",
-            "price": 379.99,
-            "savings": 60.0,
-            "discount_percent": 15.789889207610727,
-            "priority_score": 480.92519944929484,
-            "reviews": 2484,
-            "image_url": "images/6559342.jpg"
-        },
         {
             "category": "Smart Home and Wifi",
             "title": "Philips - Hue Ambiance Gradient Bluetooth Lightstrip 80 - inch Base Kit - Multi",
             "sku": "6478171",
             "price": 179.99,
-            "savings": 56.0,
-            "discount_percent": 31.112839602200122,
-            "priority_score": 434.374831560288,
+            "savings": 57.0,
+            "discount_percent": 31.66842602366798,
+            "priority_score": 439.1527636676273,
             "reviews": 101,
             "image_url": "images/6478171.jpg"
         },
@@ -36,24 +25,13 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
-            "sku": "6398057",
-            "price": 499.99,
-            "savings": 50.0,
-            "discount_percent": 10.00020000400008,
-            "priority_score": 409.2136615576927,
-            "reviews": 1321,
-            "image_url": "images/6398057.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
             "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - Silver",
             "sku": "6576718",
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
-            "priority_score": 397.8250054673321,
-            "reviews": 441,
+            "priority_score": 398.06897962889036,
+            "reviews": 444,
             "image_url": "images/6576718.jpg"
         },
         {
@@ -80,13 +58,24 @@
         },
         {
             "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6583240",
+            "price": 899.99,
+            "savings": 50.0,
+            "discount_percent": 5.5556172846364955,
+            "priority_score": 289.6714221973424,
+            "reviews": 88,
+            "image_url": "images/6583240.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
             "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
             "sku": "6612971",
             "price": 1299.99,
             "savings": 50.0,
             "discount_percent": 3.8461834321802475,
-            "priority_score": 177.2791195330853,
-            "reviews": 4,
+            "priority_score": 183.85497967893014,
+            "reviews": 5,
             "image_url": "images/6612971.jpg"
         }
     ]

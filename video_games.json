@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-06T13:18:11.229592",
+    "last_updated": "2025-06-07T13:22:05.541699",
     "deals": [
         {
             "category": "Video Games",
@@ -8,9 +8,31 @@
             "price": 29.99,
             "savings": 14.0,
             "discount_percent": 46.68222740913638,
-            "priority_score": 419.05392525305206,
-            "reviews": 1052,
+            "priority_score": 419.0881610183395,
+            "reviews": 1053,
             "image_url": "images/6472018.jpg"
+        },
+        {
+            "category": "Video Games",
+            "title": "PowerA - Wired Controller for Nintendo Switch - Black",
+            "sku": "6323649",
+            "price": 22.99,
+            "savings": 10.0,
+            "discount_percent": 43.49717268377556,
+            "priority_score": 405.8798430449681,
+            "reviews": 1188,
+            "image_url": "images/6323649.jpg"
+        },
+        {
+            "category": "Video Games",
+            "title": "Arcade1Up - NBA Jam Deluxe 2 - Player Control Panel Arcade Machine - Orange",
+            "sku": "6588261",
+            "price": 499.99,
+            "savings": 50.0,
+            "discount_percent": 10.00020000400008,
+            "priority_score": 229.24912505605818,
+            "reviews": 8,
+            "image_url": "images/6588261.jpg"
         }
     ]
 }

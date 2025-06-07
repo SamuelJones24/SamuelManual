@@ -1,16 +1,38 @@
 {
-    "last_updated": "2025-06-06T01:25:02.134705",
+    "last_updated": "2025-06-07T13:22:05.541699",
     "deals": [
         {
             "category": "Computers and Tablets",
-            "title": "Speck - Balance Folio Case for Apple iPad Air 11\"(latest M3/M2), iPad Pro 11\"(3rd/2nd/1st Gen) & iPad Air 10.9\"(5th/4th Gen) - Black/White",
-            "sku": "",
-            "price": 49.99,
-            "savings": 30.0,
-            "discount_percent": 60.01200240048009,
-            "priority_score": 485.3805369818662,
-            "reviews": 899,
-            "image_url": "images/.jpg"
+            "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
+            "sku": "6485246",
+            "price": 119.99,
+            "savings": 60.0,
+            "discount_percent": 50.00416701391784,
+            "priority_score": 612.790995912073,
+            "reviews": 837,
+            "image_url": "images/6485246.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Samsung - 49\" Odyssey OLED G9 (G95SC) DQHD 240Hz 0.03ms G - Sync Compatible Curved Smart Gaming Monitor - Silver",
+            "sku": "6544291",
+            "price": 1099.99,
+            "savings": 93.0,
+            "discount_percent": 8.454622314748315,
+            "priority_score": 475.4536269604512,
+            "reviews": 946,
+            "image_url": "images/6544291.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Samsung - 990 PRO 4TB Internal SSD PCle Gen 4x4 NVMe",
+            "sku": "6559270",
+            "price": 374.99,
+            "savings": 75.0,
+            "discount_percent": 20.000533347555933,
+            "priority_score": 463.09171563920495,
+            "reviews": 367,
+            "image_url": "images/6559270.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -19,8 +41,8 @@
             "price": 19.99,
             "savings": 8.0,
             "discount_percent": 40.020010005002504,
-            "priority_score": 455.8899514915311,
-            "reviews": 7097,
+            "priority_score": 455.895032477103,
+            "reviews": 7098,
             "image_url": "images/1876003.jpg"
         },
         {
@@ -30,20 +52,9 @@
             "price": 29.99,
             "savings": 12.0,
             "discount_percent": 40.01333777925976,
-            "priority_score": 434.6027497048627,
-            "reviews": 3152,
+            "priority_score": 434.62562058452704,
+            "reviews": 3154,
             "image_url": "images/5900264.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
-            "sku": "6537888",
-            "price": 299.99,
-            "savings": 71.0,
-            "discount_percent": 23.667455581852728,
-            "priority_score": 429.5418860286868,
-            "reviews": 108,
-            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -52,20 +63,9 @@
             "price": 499.99,
             "savings": 50.0,
             "discount_percent": 10.00020000400008,
-            "priority_score": 409.2136615576927,
-            "reviews": 1321,
+            "priority_score": 409.2954161284485,
+            "reviews": 1324,
             "image_url": "images/6398057.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "ASUS - ZenWiFi BE5000 Dual - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
-            "sku": "6594274",
-            "price": 349.99,
-            "savings": 70.0,
-            "discount_percent": 20.000571444898423,
-            "priority_score": 393.74653521210917,
-            "reviews": 70,
-            "image_url": "images/6594274.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -74,42 +74,9 @@
             "price": 999.99,
             "savings": 70.0,
             "discount_percent": 7.000070000700006,
-            "priority_score": 349.43234809099795,
-            "reviews": 125,
+            "priority_score": 350.00035000350005,
+            "reviews": 127,
             "image_url": "images/6588057.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
-            "sku": "6598715",
-            "price": 349.99,
-            "savings": 50.0,
-            "discount_percent": 14.286122460641732,
-            "priority_score": 296.43061230320865,
-            "reviews": 31,
-            "image_url": "images/6598715.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6583240",
-            "price": 899.99,
-            "savings": 50.0,
-            "discount_percent": 5.5556172846364955,
-            "priority_score": 289.26387688911495,
-            "reviews": 87,
-            "image_url": "images/6583240.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6612971",
-            "price": 1299.99,
-            "savings": 50.0,
-            "discount_percent": 3.8461834321802475,
-            "priority_score": 177.2791195330853,
-            "reviews": 4,
-            "image_url": "images/6612971.jpg"
         }
     ]
 }
