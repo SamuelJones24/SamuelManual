@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-07T13:22:05.541699",
+    "last_updated": "2025-06-08T01:22:04.255000",
     "deals": [
         {
             "category": "Appliances",
@@ -14,6 +14,17 @@
         },
         {
             "category": "Appliances",
+            "title": "Shark - Stratos MultiFLEX Cordless Stick Vacuum with Clean Sense IQ and Odor Neutralizer, DuoClean Powerfins HairPro - Ash Purple",
+            "sku": "6514613",
+            "price": 499.99,
+            "savings": 150.0,
+            "discount_percent": 30.000600012000238,
+            "priority_score": 682.1958095487374,
+            "reviews": 624,
+            "image_url": "images/6514613.jpg"
+        },
+        {
+            "category": "Appliances",
             "title": "Tineco - GO H2O XL Cordless Floor Washer - Grey",
             "sku": "6585782",
             "price": 299.99,
@@ -22,17 +33,6 @@
             "priority_score": 555.5260156794134,
             "reviews": 67,
             "image_url": "images/6585782.jpg"
-        },
-        {
-            "category": "Appliances",
-            "title": "Shark - Stratos MultiFLEX Cordless Stick Vacuum with Clean Sense IQ and Odor Neutralizer, DuoClean Powerfins HairPro - Ash Purple",
-            "sku": "6514613",
-            "price": 399.99,
-            "savings": 50.0,
-            "discount_percent": 12.500312507812694,
-            "priority_score": 394.5208317923285,
-            "reviews": 621,
-            "image_url": "images/6514613.jpg"
         }
     ]
 }

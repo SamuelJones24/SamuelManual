@@ -1,16 +1,27 @@
 {
-    "last_updated": "2025-06-07T13:22:05.541699",
+    "last_updated": "2025-06-08T01:22:04.255000",
     "deals": [
         {
             "category": "Smart Home and Wifi",
+            "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
+            "sku": "6559342",
+            "price": 379.99,
+            "savings": 60.0,
+            "discount_percent": 15.789889207610727,
+            "priority_score": 480.9542158434763,
+            "reviews": 2486,
+            "image_url": "images/6559342.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
             "title": "Philips - Hue Ambiance Gradient Bluetooth Lightstrip 80 - inch Base Kit - Multi",
-            "sku": "6478171",
+            "sku": "",
             "price": 179.99,
             "savings": 57.0,
             "discount_percent": 31.66842602366798,
             "priority_score": 439.1527636676273,
             "reviews": 101,
-            "image_url": "images/6478171.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -30,53 +41,9 @@
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
-            "priority_score": 398.06897962889036,
-            "reviews": 444,
+            "priority_score": 398.2307170121293,
+            "reviews": 446,
             "image_url": "images/6576718.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "ASUS - ZenWiFi BE5000 Dual - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
-            "sku": "6594274",
-            "price": 349.99,
-            "savings": 70.0,
-            "discount_percent": 20.000571444898423,
-            "priority_score": 393.74653521210917,
-            "reviews": 70,
-            "image_url": "images/6594274.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White - White",
-            "sku": "6598715",
-            "price": 349.99,
-            "savings": 50.0,
-            "discount_percent": 14.286122460641732,
-            "priority_score": 296.43061230320865,
-            "reviews": 31,
-            "image_url": "images/6598715.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6583240",
-            "price": 899.99,
-            "savings": 50.0,
-            "discount_percent": 5.5556172846364955,
-            "priority_score": 289.6714221973424,
-            "reviews": 88,
-            "image_url": "images/6583240.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6612971",
-            "price": 1299.99,
-            "savings": 50.0,
-            "discount_percent": 3.8461834321802475,
-            "priority_score": 183.85497967893014,
-            "reviews": 5,
-            "image_url": "images/6612971.jpg"
         }
     ]
 }
