@@ -1,28 +1,6 @@
 {
-    "last_updated": "2025-06-08T01:22:04.255000",
+    "last_updated": "2025-06-09T13:25:44.324666",
     "deals": [
-        {
-            "category": "Video Games",
-            "title": "PowerA - Dual Charging Station for Xbox Series X|S - Black",
-            "sku": "6472018",
-            "price": 29.99,
-            "savings": 14.0,
-            "discount_percent": 46.68222740913638,
-            "priority_score": 419.0881610183395,
-            "reviews": 1053,
-            "image_url": "images/6472018.jpg"
-        },
-        {
-            "category": "Video Games",
-            "title": "PowerA - Wired Controller for Nintendo Switch - Black",
-            "sku": "6323649",
-            "price": 22.99,
-            "savings": 10.0,
-            "discount_percent": 43.49717268377556,
-            "priority_score": 405.8798430449681,
-            "reviews": 1188,
-            "image_url": "images/6323649.jpg"
-        },
         {
             "category": "Video Games",
             "title": "Arcade1Up - NBA Jam Deluxe 2 - Player Control Panel Arcade Machine - Orange",

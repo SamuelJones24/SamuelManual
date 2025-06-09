@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-08T01:22:04.255000",
+    "last_updated": "2025-06-09T13:25:44.324666",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -8,20 +8,9 @@
             "price": 379.99,
             "savings": 60.0,
             "discount_percent": 15.789889207610727,
-            "priority_score": 480.9542158434763,
-            "reviews": 2486,
+            "priority_score": 480.9687152913187,
+            "reviews": 2487,
             "image_url": "images/6559342.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Philips - Hue Ambiance Gradient Bluetooth Lightstrip 80 - inch Base Kit - Multi",
-            "sku": "",
-            "price": 179.99,
-            "savings": 57.0,
-            "discount_percent": 31.66842602366798,
-            "priority_score": 439.1527636676273,
-            "reviews": 101,
-            "image_url": "images/.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -41,8 +30,8 @@
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
-            "priority_score": 398.2307170121293,
-            "reviews": 446,
+            "priority_score": 398.391732351075,
+            "reviews": 448,
             "image_url": "images/6576718.jpg"
         }
     ]
