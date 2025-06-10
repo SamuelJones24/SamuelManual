@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-10T07:27:44.738699",
+    "last_updated": "2025-06-10T13:24:32.740762",
     "deals": [
+        {
+            "category": "Computers and Tablets",
+            "title": "LG - UltraGear 27\" OLED QHD 480Hz 0.03ms NVIDIA G - SYNC Compatible, AMD Freesync Premium Pro Gaming Monitor - Black",
+            "sku": "6607888",
+            "price": 999.99,
+            "savings": 203.0,
+            "discount_percent": 20.30020300203002,
+            "priority_score": 633.6108679941115,
+            "reviews": 32,
+            "image_url": "images/6607888.jpg"
+        },
         {
             "category": "Computers and Tablets",
             "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
@@ -14,25 +25,25 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "HP - Smart Tank 6001 Wireless All - In - One Supertank Inkjet Printer with up to 2 Years of Ink Included - Basalt",
-            "sku": "6498188",
-            "price": 359.99,
-            "savings": 95.0,
-            "discount_percent": 26.389621933942607,
-            "priority_score": 582.9438817692478,
-            "reviews": 1388,
-            "image_url": "images/6498188.jpg"
+            "title": "CORSAIR - K70 RGB PRO Full - size Wired Mechanical Cherry MX Speed Linear Switch Gaming Keyboard with PBT Double - Shot Keycaps - Black",
+            "sku": "6491897",
+            "price": 159.99,
+            "savings": 60.0,
+            "discount_percent": 37.50234389649353,
+            "priority_score": 540.3337933645765,
+            "reviews": 635,
+            "image_url": "images/6491897.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "HP - Smart Tank 7602 Wireless All - In - One Supertank Inkjet Printer with up to 2 Years of Ink Included - Dark Surf Blue",
-            "sku": "6498190",
-            "price": 469.99,
-            "savings": 100.0,
-            "discount_percent": 21.277048447839313,
-            "priority_score": 566.9893994596491,
-            "reviews": 1373,
-            "image_url": "images/6498190.jpg"
+            "title": "LG - UltraGear 27\" IPS LED 180Hz 1 - ms NVIDIA G - SYNC Compatible and AMD Freesync Gaming Monitor with HDR - Black",
+            "sku": "6575404",
+            "price": 349.99,
+            "savings": 92.0,
+            "discount_percent": 26.28646532758079,
+            "priority_score": 511.09603882017683,
+            "reviews": 226,
+            "image_url": "images/6575404.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -58,14 +69,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Samsung - 34\" Odyssey OLED G8 Curved Ultra - WQHD 175Hz FreeSync Prem Pro and G - Sync Compatible Smart Glare Free Gaming Monitor - Silver",
-            "sku": "6588057",
-            "price": 999.99,
-            "savings": 119.0,
-            "discount_percent": 11.900119001190012,
-            "priority_score": 472.50059500595006,
-            "reviews": 127,
-            "image_url": "images/6588057.jpg"
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 83.0,
+            "discount_percent": 27.667588919630653,
+            "priority_score": 473.5425527175764,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -80,14 +91,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "HP - Envy 6555e Wireless All - in - One Inkjet Printer with 3 Months of Instant Ink with HP+ (+ 1 Bonus Month of Ink with Code) - White",
-            "sku": "6590105",
-            "price": 169.99,
-            "savings": 50.0,
-            "discount_percent": 29.413494911465378,
-            "priority_score": 462.98309007091814,
-            "reviews": 397,
-            "image_url": "images/6590105.jpg"
+            "title": "CORSAIR - K100 Air Wireless Full - Size Bluetooth RGB Mechanical Cherry MX Ultra Low Profile Tactile Switch Gaming Keyboard - Black",
+            "sku": "6518230",
+            "price": 329.99,
+            "savings": 65.0,
+            "discount_percent": 19.697566592927057,
+            "priority_score": 436.7607549175007,
+            "reviews": 321,
+            "image_url": "images/6518230.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -102,14 +113,36 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
-            "sku": "6537888",
-            "price": 299.99,
-            "savings": 72.0,
-            "discount_percent": 24.000800026667555,
-            "priority_score": 433.2086082527609,
-            "reviews": 108,
-            "image_url": "images/6537888.jpg"
+            "title": "Samsung - 34\" Odyssey OLED G8 Curved Ultra - WQHD 175Hz FreeSync Prem Pro and G - Sync Compatible Smart Glare Free Gaming Monitor - Silver",
+            "sku": "6588057",
+            "price": 999.99,
+            "savings": 80.0,
+            "discount_percent": 8.000080000800008,
+            "priority_score": 375.000400004,
+            "reviews": 127,
+            "image_url": "images/6588057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "ASUS - ROG Rapture GT - BE98 Pro BE30000 Quad - Band Wi - Fi 7 Router - Black",
+            "sku": "6578391",
+            "price": 699.99,
+            "savings": 70.0,
+            "discount_percent": 10.000142859183702,
+            "priority_score": 342.18728532717694,
+            "reviews": 67,
+            "image_url": "images/6578391.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
+            "sku": "6553443",
+            "price": 429.99,
+            "savings": 50.0,
+            "discount_percent": 11.628177399474406,
+            "priority_score": 312.3890120334298,
+            "reviews": 71,
+            "image_url": "images/6553443.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -132,6 +165,17 @@
             "priority_score": 289.6714221973424,
             "reviews": 88,
             "image_url": "images/6583240.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "WD - Red Plus 8TB NAS Internal Hard Drive",
+            "sku": "6581897",
+            "price": 209.99,
+            "savings": 48.0,
+            "discount_percent": 22.85823134434973,
+            "priority_score": 277.6637429344745,
+            "reviews": 22,
+            "image_url": "images/6581897.jpg"
         }
     ]
 }

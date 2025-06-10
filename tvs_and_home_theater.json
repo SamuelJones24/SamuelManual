@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-10T07:27:44.738699",
+    "last_updated": "2025-06-10T13:24:32.740762",
     "deals": [
         {
             "category": "TVs and Home Theater",
@@ -11,17 +11,6 @@
             "priority_score": 677.208750437098,
             "reviews": 99,
             "image_url": "images/6575124.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "Hisense - 65\" Class S7 Series CanvasTV 4K QLED TV with Hi - Matte Display and UltraSlim Wall Mount (2024)",
-            "sku": "6577017",
-            "price": 1099.99,
-            "savings": 100.0,
-            "discount_percent": 9.090991736288512,
-            "priority_score": 425.69129282216636,
-            "reviews": 147,
-            "image_url": "images/6577017.jpg"
         }
     ]
 }

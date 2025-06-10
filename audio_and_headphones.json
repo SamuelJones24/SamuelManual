@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-10T07:27:44.738699",
+    "last_updated": "2025-06-10T13:24:32.740762",
     "deals": [
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - Authentics 500 Smart Home Speaker - Black",
+            "sku": "6554782",
+            "price": 699.99,
+            "savings": 200.0,
+            "discount_percent": 28.571836740524866,
+            "priority_score": 713.9964349762338,
+            "reviews": 114,
+            "image_url": "images/6554782.jpg"
+        },
         {
             "category": "Audio & Headphones",
             "title": "JBL - Tune 235NC True Wireless Noise Cancelling In - Ear Earbuds - Black",
@@ -14,14 +25,36 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Marshall - Middleton Portable Bluetooth Speaker - Black and Brass",
-            "sku": "6534102",
-            "price": 299.99,
-            "savings": 90.0,
-            "discount_percent": 30.001000033334446,
-            "priority_score": 531.925390092943,
-            "reviews": 269,
-            "image_url": "images/6534102.jpg"
+            "title": "Sony - STRDH190 - 2 - Ch. Stereo Receiver with Bluetooth & Phono Input for Turntables - Black",
+            "sku": "6187501",
+            "price": 199.99,
+            "savings": 51.0,
+            "discount_percent": 25.501275063753187,
+            "priority_score": 525.5945886840432,
+            "reviews": 3674,
+            "image_url": "images/6187501.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - Authentics 200 Smart Home Speaker - Black",
+            "sku": "6554781",
+            "price": 349.99,
+            "savings": 100.0,
+            "discount_percent": 28.572244921283463,
+            "priority_score": 510.3722175599446,
+            "reviews": 103,
+            "image_url": "images/6554781.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - Authentics 300 Smart Home Speaker - Black",
+            "sku": "6554783",
+            "price": 449.99,
+            "savings": 100.0,
+            "discount_percent": 22.222716060356895,
+            "priority_score": 495.2716356579299,
+            "reviews": 164,
+            "image_url": "images/6554783.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -47,25 +80,36 @@
         },
         {
             "category": "Audio & Headphones",
+            "title": "Audio - Technica - ATLP120XBT Bluetooth Stereo Turntable - Black",
+            "sku": "6405424",
+            "price": 499.0,
+            "savings": 59.0,
+            "discount_percent": 11.823647294589177,
+            "priority_score": 423.3338099836793,
+            "reviews": 921,
+            "image_url": "images/6405424.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - Live Beam 3 True Wireless Noise Cancelling Earbuds - Black",
+            "sku": "6582671",
+            "price": 199.99,
+            "savings": 50.0,
+            "discount_percent": 25.00125006250312,
+            "priority_score": 377.1928213437741,
+            "reviews": 67,
+            "image_url": "images/6582671.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
             "title": "Sony - ULT FIELD 3 Wireless Speaker - Black",
             "sku": "6620180",
             "price": 199.99,
             "savings": 50.0,
             "discount_percent": 25.00125006250312,
-            "priority_score": 375.0062503125156,
-            "reviews": 63,
+            "priority_score": 375.56544563822695,
+            "reviews": 64,
             "image_url": "images/6620180.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - Live Buds 3 True Wireless Noise Cancelling Earbuds - Black",
-            "sku": "6582669",
-            "price": 199.99,
-            "savings": 50.0,
-            "discount_percent": 25.00125006250312,
-            "priority_score": 366.816883861803,
-            "reviews": 50,
-            "image_url": "images/6582669.jpg"
         },
         {
             "category": "Audio & Headphones",
