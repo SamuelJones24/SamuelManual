@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-10T01:23:53.768751",
+    "last_updated": "2025-06-10T07:27:44.738699",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -11,6 +11,17 @@
             "priority_score": 480.9687152913187,
             "reviews": 2487,
             "image_url": "images/6559342.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Yale - Assure Lock 2 - Smart Lock Wi - Fi Deadbolt with Push Button Keypad | Key Access - Black Suede",
+            "sku": "6540358",
+            "price": 259.99,
+            "savings": 56.0,
+            "discount_percent": 21.539289972691257,
+            "priority_score": 426.48302556106563,
+            "reviews": 308,
+            "image_url": "images/6540358.jpg"
         },
         {
             "category": "Smart Home and Wifi",
