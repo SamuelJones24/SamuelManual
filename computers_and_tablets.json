@@ -1,16 +1,16 @@
 {
-    "last_updated": "2025-06-09T13:25:44.324666",
+    "last_updated": "2025-06-10T01:23:53.768751",
     "deals": [
         {
             "category": "Computers and Tablets",
             "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
-            "sku": "",
+            "sku": "6485246",
             "price": 119.99,
             "savings": 60.0,
             "discount_percent": 50.00416701391784,
-            "priority_score": 612.8769730112423,
-            "reviews": 839,
-            "image_url": "images/.jpg"
+            "priority_score": 612.9198848259678,
+            "reviews": 840,
+            "image_url": "images/6485246.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -19,8 +19,8 @@
             "price": 359.99,
             "savings": 95.0,
             "discount_percent": 26.389621933942607,
-            "priority_score": 582.9179059841696,
-            "reviews": 1387,
+            "priority_score": 582.9438817692478,
+            "reviews": 1388,
             "image_url": "images/6498188.jpg"
         },
         {
@@ -30,8 +30,8 @@
             "price": 469.99,
             "savings": 100.0,
             "discount_percent": 21.277048447839313,
-            "priority_score": 566.9368613935169,
-            "reviews": 1371,
+            "priority_score": 566.9893994596491,
+            "reviews": 1373,
             "image_url": "images/6498190.jpg"
         },
         {
@@ -66,6 +66,28 @@
             "priority_score": 472.50059500595006,
             "reviews": 127,
             "image_url": "images/6588057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Samsung - 990 PRO 4TB Internal SSD PCle Gen 4x4 NVMe",
+            "sku": "6559270",
+            "price": 374.99,
+            "savings": 75.0,
+            "discount_percent": 20.000533347555933,
+            "priority_score": 463.09171563920495,
+            "reviews": 367,
+            "image_url": "images/6559270.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "HP - Envy 6555e Wireless All - in - One Inkjet Printer with 3 Months of Instant Ink with HP+ (+ 1 Bonus Month of Ink with Code) - White",
+            "sku": "6590105",
+            "price": 169.99,
+            "savings": 50.0,
+            "discount_percent": 29.413494911465378,
+            "priority_score": 462.98309007091814,
+            "reviews": 397,
+            "image_url": "images/6590105.jpg"
         },
         {
             "category": "Computers and Tablets",
