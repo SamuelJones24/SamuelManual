@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-11T07:27:53.947337",
+    "last_updated": "2025-06-11T13:27:32.134309",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -25,28 +25,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "CORSAIR - K70 RGB PRO Full - size Wired Mechanical Cherry MX Speed Linear Switch Gaming Keyboard with PBT Double - Shot Keycaps - Black",
-            "sku": "6491897",
-            "price": 159.99,
-            "savings": 60.0,
-            "discount_percent": 37.50234389649353,
-            "priority_score": 540.3337933645765,
-            "reviews": 635,
-            "image_url": "images/6491897.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "LG - UltraGear 27\" IPS LED 180Hz 1 - ms NVIDIA G - SYNC Compatible and AMD Freesync Gaming Monitor with HDR - Black",
-            "sku": "6575404",
-            "price": 349.99,
-            "savings": 92.0,
-            "discount_percent": 26.28646532758079,
-            "priority_score": 511.25457699202246,
-            "reviews": 227,
-            "image_url": "images/6575404.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Black",
             "sku": "6583049",
             "price": 279.99,
@@ -69,17 +47,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
-            "sku": "6537888",
-            "price": 299.99,
-            "savings": 83.0,
-            "discount_percent": 27.667588919630653,
-            "priority_score": 473.5425527175764,
-            "reviews": 108,
-            "image_url": "images/6537888.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Samsung - 990 PRO 4TB Internal SSD PCle Gen 4x4 NVMe",
             "sku": "6559270",
             "price": 374.99,
@@ -91,14 +58,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "CORSAIR - K100 Air Wireless Full - Size Bluetooth RGB Mechanical Cherry MX Ultra Low Profile Tactile Switch Gaming Keyboard - Black",
-            "sku": "6518230",
-            "price": 329.99,
-            "savings": 65.0,
-            "discount_percent": 19.697566592927057,
-            "priority_score": 436.8725918319834,
-            "reviews": 322,
-            "image_url": "images/6518230.jpg"
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 75.0,
+            "discount_percent": 25.000833361112036,
+            "priority_score": 444.20877492498335,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -116,9 +83,9 @@
             "title": "Speck - Balance Folio Case for Apple iPad Air 13\" (latest model/M3/M2 chip) - Black/White",
             "sku": "6579533",
             "price": 64.99,
-            "savings": 41.0,
-            "discount_percent": 63.08662871210956,
-            "priority_score": 426.0055001083291,
+            "savings": 42.0,
+            "discount_percent": 64.62532697338052,
+            "priority_score": 432.62159489214196,
             "reviews": 72,
             "image_url": "images/6579533.jpg"
         },
@@ -135,14 +102,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "ASUS - ROG Rapture GT - BE98 Pro BE30000 Quad - Band Wi - Fi 7 Router - Black",
-            "sku": "6578391",
-            "price": 699.99,
-            "savings": 70.0,
-            "discount_percent": 10.000142859183702,
-            "priority_score": 342.18728532717694,
-            "reviews": 67,
-            "image_url": "images/6578391.jpg"
+            "title": "LG - UltraGear 32\" OLED 240Hz 0.03ms G - Sync/FreeSync Premium Pro Gaming Monitor with DisplayHDR 400 TRUE BLACK - Black",
+            "sku": "6619495",
+            "price": 1399.99,
+            "savings": 98.0,
+            "discount_percent": 7.000050000357145,
+            "priority_score": 317.48604046771817,
+            "reviews": 10,
+            "image_url": "images/6619495.jpg"
         },
         {
             "category": "Computers and Tablets",
