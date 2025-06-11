@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-10T13:24:32.740762",
+    "last_updated": "2025-06-10T19:55:03.422908",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -19,8 +19,8 @@
             "price": 99.99,
             "savings": 50.0,
             "discount_percent": 50.00500050005001,
-            "priority_score": 624.7421196695541,
-            "reviews": 2031,
+            "priority_score": 624.7598649963684,
+            "reviews": 2032,
             "image_url": "images/6535036.jpg"
         },
         {
@@ -107,8 +107,8 @@
             "price": 199.99,
             "savings": 50.0,
             "discount_percent": 25.00125006250312,
-            "priority_score": 375.56544563822695,
-            "reviews": 64,
+            "priority_score": 376.1161032964769,
+            "reviews": 65,
             "image_url": "images/6620180.jpg"
         },
         {

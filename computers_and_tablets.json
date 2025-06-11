@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-10T13:24:32.740762",
+    "last_updated": "2025-06-10T19:55:03.422908",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -96,8 +96,8 @@
             "price": 329.99,
             "savings": 65.0,
             "discount_percent": 19.697566592927057,
-            "priority_score": 436.7607549175007,
-            "reviews": 321,
+            "priority_score": 436.8725918319834,
+            "reviews": 322,
             "image_url": "images/6518230.jpg"
         },
         {
@@ -113,14 +113,25 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Speck - Balance Folio Case for Apple iPad Air 13\" (latest model/M3/M2 chip) - Black/White",
+            "sku": "6579533",
+            "price": 64.99,
+            "savings": 41.0,
+            "discount_percent": 63.08662871210956,
+            "priority_score": 426.0055001083291,
+            "reviews": 72,
+            "image_url": "images/6579533.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Samsung - 34\" Odyssey OLED G8 Curved Ultra - WQHD 175Hz FreeSync Prem Pro and G - Sync Compatible Smart Glare Free Gaming Monitor - Silver",
-            "sku": "6588057",
+            "sku": "",
             "price": 999.99,
             "savings": 80.0,
             "discount_percent": 8.000080000800008,
             "priority_score": 375.000400004,
             "reviews": 127,
-            "image_url": "images/6588057.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
