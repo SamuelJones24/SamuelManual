@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-10T19:55:03.422908",
+    "last_updated": "2025-06-11T01:24:41.912791",
     "deals": [
+        {
+            "category": "Video Games",
+            "title": "Turtle Beach - Stealth Ultra Wireless Controller with Charge Dock, 30 - Hour Battery, Designed for Xbox Series X|S, Windows PC, Android - Black",
+            "sku": "",
+            "price": 219.99,
+            "savings": 58.0,
+            "discount_percent": 26.3648347652166,
+            "priority_score": 480.0746449993984,
+            "reviews": 625,
+            "image_url": "images/.jpg"
+        },
         {
             "category": "Video Games",
             "title": "SteelSeries - Arctis Nova Pro Wireless Multi Gaming Headset for Xbox Series X|S, Xbox One - Black",
@@ -22,6 +33,17 @@
             "priority_score": 419.1906737619762,
             "reviews": 1056,
             "image_url": "images/6472018.jpg"
+        },
+        {
+            "category": "Video Games",
+            "title": "Arcade1Up - NBA Jam Deluxe 2 - Player Control Panel Arcade Machine - Orange",
+            "sku": "6588261",
+            "price": 499.99,
+            "savings": 50.0,
+            "discount_percent": 10.00020000400008,
+            "priority_score": 229.24912505605818,
+            "reviews": 8,
+            "image_url": "images/6588261.jpg"
         }
     ]
 }
