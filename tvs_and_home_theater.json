@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-12T01:24:12.737231",
+    "last_updated": "2025-06-12T07:28:37.384175",
     "deals": [
         {
             "category": "TVs and Home Theater",
@@ -33,17 +33,6 @@
             "priority_score": 464.32051059119306,
             "reviews": 429,
             "image_url": "images/6578051.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "Panasonic - Streaming 4K Ultra HD Hi - Res Audio with Dolby Vision 7.1 Channel DVD/CD/3D Wi - Fi Built - In Blu - Ray Player, DP - UB820 - K - Black",
-            "sku": "6278202",
-            "price": 449.98,
-            "savings": 58.0,
-            "discount_percent": 12.889461753855727,
-            "priority_score": 449.8786916490767,
-            "reviews": 1754,
-            "image_url": "images/6278202.jpg"
         }
     ]
 }
