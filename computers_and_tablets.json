@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-11T13:27:32.134309",
+    "last_updated": "2025-06-11T19:56:06.043797",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -22,6 +22,17 @@
             "priority_score": 612.9198848259678,
             "reviews": 840,
             "image_url": "images/6485246.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "CORSAIR - K70 RGB PRO Full - size Wired Mechanical Cherry MX Speed Linear Switch Gaming Keyboard with PBT Double - Shot Keycaps - Black",
+            "sku": "6491897",
+            "price": 159.99,
+            "savings": 60.0,
+            "discount_percent": 37.50234389649353,
+            "priority_score": 540.3337933645765,
+            "reviews": 635,
+            "image_url": "images/6491897.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -80,17 +91,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Speck - Balance Folio Case for Apple iPad Air 13\" (latest model/M3/M2 chip) - Black/White",
-            "sku": "6579533",
-            "price": 64.99,
-            "savings": 42.0,
-            "discount_percent": 64.62532697338052,
-            "priority_score": 432.62159489214196,
-            "reviews": 72,
-            "image_url": "images/6579533.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Samsung - 34\" Odyssey OLED G8 Curved Ultra - WQHD 175Hz FreeSync Prem Pro and G - Sync Compatible Smart Glare Free Gaming Monitor - Silver",
             "sku": "6588057",
             "price": 999.99,
@@ -107,8 +107,8 @@
             "price": 1399.99,
             "savings": 98.0,
             "discount_percent": 7.000050000357145,
-            "priority_score": 317.48604046771817,
-            "reviews": 10,
+            "priority_score": 320.6243125198146,
+            "reviews": 11,
             "image_url": "images/6619495.jpg"
         },
         {
