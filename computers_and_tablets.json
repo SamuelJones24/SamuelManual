@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-12T19:57:15.853637",
+    "last_updated": "2025-06-13T01:24:57.077703",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -26,13 +26,13 @@
         {
             "category": "Computers and Tablets",
             "title": "CORSAIR - K70 RGB PRO Full - size Wired Mechanical Cherry MX Speed Linear Switch Gaming Keyboard with PBT Double - Shot Keycaps - Black",
-            "sku": "6491897",
+            "sku": "",
             "price": 159.99,
             "savings": 60.0,
             "discount_percent": 37.50234389649353,
             "priority_score": 540.3337933645765,
             "reviews": 635,
-            "image_url": "images/6491897.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
