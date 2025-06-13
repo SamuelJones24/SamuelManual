@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-13T07:27:41.154847",
+    "last_updated": "2025-06-13T13:24:30.946266",
     "deals": [
+        {
+            "category": "TVs and Home Theater",
+            "title": "Samsung - 75\u201d Class DU8000 Series Crystal UHD Smart Tizen TV (2024)",
+            "sku": "6575124",
+            "price": 899.99,
+            "savings": 200.0,
+            "discount_percent": 22.222469138545982,
+            "priority_score": 677.5676327615248,
+            "reviews": 100,
+            "image_url": "images/6575124.jpg"
+        },
         {
             "category": "TVs and Home Theater",
             "title": "LG - 65\" Class C4 Series OLED evo 4K UHD Smart webOS TV (2024)",
@@ -8,8 +19,8 @@
             "price": 1499.99,
             "savings": 103.0,
             "discount_percent": 6.8667124447496315,
-            "priority_score": 489.9440236937766,
-            "reviews": 1012,
+            "priority_score": 490.26304924718875,
+            "reviews": 1021,
             "image_url": "images/6578042.jpg"
         },
         {
@@ -19,8 +30,8 @@
             "price": 1299.99,
             "savings": 103.0,
             "discount_percent": 7.92313787029131,
-            "priority_score": 464.32051059119306,
-            "reviews": 429,
+            "priority_score": 464.57126971962464,
+            "reviews": 432,
             "image_url": "images/6578051.jpg"
         },
         {
@@ -28,10 +39,10 @@
             "title": "Panasonic - Streaming 4K Ultra HD Hi - Res Audio with Dolby Vision 7.1 Channel DVD/CD/3D Wi - Fi Built - In Blu - Ray Player, DP - UB820 - K - Black",
             "sku": "6278202",
             "price": 449.98,
-            "savings": 52.0,
-            "discount_percent": 11.556069158629272,
-            "priority_score": 431.21172867294445,
-            "reviews": 1754,
+            "savings": 53.0,
+            "discount_percent": 11.778301257833682,
+            "priority_score": 434.36396818937783,
+            "reviews": 1756,
             "image_url": "images/6278202.jpg"
         }
     ]

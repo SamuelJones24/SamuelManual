@@ -1,27 +1,16 @@
 {
-    "last_updated": "2025-06-13T07:27:41.154847",
+    "last_updated": "2025-06-13T13:24:30.946266",
     "deals": [
         {
             "category": "Video Games",
             "title": "Turtle Beach - Stealth Ultra Wireless Controller with Charge Dock, 30 - Hour Battery, Designed for Xbox Series X|S, Windows PC, Android - Black",
             "sku": "6562064",
             "price": 219.99,
-            "savings": 57.0,
-            "discount_percent": 25.910268648574935,
-            "priority_score": 475.80181441619015,
+            "savings": 55.0,
+            "discount_percent": 25.001136415291604,
+            "priority_score": 467.25615324977343,
             "reviews": 625,
             "image_url": "images/6562064.jpg"
-        },
-        {
-            "category": "Video Games",
-            "title": "SteelSeries - Arctis Nova Pro Wireless Multi Gaming Headset for Xbox Series X|S, Xbox One - Black",
-            "sku": "6506344",
-            "price": 299.99,
-            "savings": 57.0,
-            "discount_percent": 19.00063335444515,
-            "priority_score": 471.22427543365916,
-            "reviews": 1436,
-            "image_url": "images/6506344.jpg"
         },
         {
             "category": "Video Games",

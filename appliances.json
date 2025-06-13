@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-13T07:27:41.154847",
+    "last_updated": "2025-06-13T13:24:30.946266",
     "deals": [
         {
             "category": "Appliances",
@@ -8,9 +8,20 @@
             "price": 499.99,
             "savings": 150.0,
             "discount_percent": 30.000600012000238,
-            "priority_score": 682.3110408800522,
-            "reviews": 626,
+            "priority_score": 682.4259052319835,
+            "reviews": 628,
             "image_url": "images/6514613.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "NutriBullet - Ultra Personal Blender NB50500 - Gray",
+            "sku": "6553390",
+            "price": 164.99,
+            "savings": 55.0,
+            "discount_percent": 33.33535365779744,
+            "priority_score": 446.2107611271037,
+            "reviews": 109,
+            "image_url": "images/6553390.jpg"
         }
     ]
 }
