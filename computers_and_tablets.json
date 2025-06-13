@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-13T01:24:57.077703",
+    "last_updated": "2025-06-13T07:27:41.154847",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -22,17 +22,6 @@
             "priority_score": 612.9198848259678,
             "reviews": 840,
             "image_url": "images/6485246.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "CORSAIR - K70 RGB PRO Full - size Wired Mechanical Cherry MX Speed Linear Switch Gaming Keyboard with PBT Double - Shot Keycaps - Black",
-            "sku": "",
-            "price": 159.99,
-            "savings": 60.0,
-            "discount_percent": 37.50234389649353,
-            "priority_score": 540.3337933645765,
-            "reviews": 635,
-            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -80,6 +69,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Samsung - Galaxy Tab S10+/S9+/S9 FE+ Book Cover Keyboard Slim - Black",
+            "sku": "6599498",
+            "price": 159.99,
+            "savings": 57.0,
+            "discount_percent": 35.62722670166885,
+            "priority_score": 442.69532883405566,
+            "reviews": 64,
+            "image_url": "images/6599498.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
             "sku": "5900264",
             "price": 29.99,
@@ -91,17 +91,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Speck - Balance Folio Case for Apple iPad Air 13\" (latest model/M3/M2 chip) - Black/White",
-            "sku": "6579533",
-            "price": 64.99,
-            "savings": 42.0,
-            "discount_percent": 64.62532697338052,
-            "priority_score": 432.62159489214196,
-            "reviews": 72,
-            "image_url": "images/6579533.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Samsung - 34\" Odyssey OLED G8 Curved Ultra - WQHD 175Hz FreeSync Prem Pro and G - Sync Compatible Smart Glare Free Gaming Monitor - Silver",
             "sku": "6588057",
             "price": 999.99,
@@ -110,17 +99,6 @@
             "priority_score": 375.000400004,
             "reviews": 127,
             "image_url": "images/6588057.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Targus - Ergonomic Foldable Bluetooth Antimicrobial Keyboard - Black",
-            "sku": "6499392",
-            "price": 49.99,
-            "savings": 20.0,
-            "discount_percent": 40.008001600320064,
-            "priority_score": 336.6762345624045,
-            "reviews": 133,
-            "image_url": "images/6499392.jpg"
         },
         {
             "category": "Computers and Tablets",

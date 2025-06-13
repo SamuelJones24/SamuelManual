@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-13T01:24:57.077703",
+    "last_updated": "2025-06-13T07:27:41.154847",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -44,6 +44,17 @@
             "priority_score": 495.4895660854576,
             "reviews": 165,
             "image_url": "images/6554783.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Denon - AVR - S970H 90W 7 Ch Bluetooth Capable HDR Compatible with HEOS and Dolby Atmos 8K Ultra HD AV Home Theater Receiver - Black",
+            "sku": "6519391",
+            "price": 899.0,
+            "savings": 100.0,
+            "discount_percent": 11.123470522803114,
+            "priority_score": 465.42528818348455,
+            "reviews": 335,
+            "image_url": "images/6519391.jpg"
         },
         {
             "category": "Audio & Headphones",
