@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-12T13:23:08.151620",
+    "last_updated": "2025-06-12T19:57:15.853637",
     "deals": [
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - Authentics 500 Smart Home Speaker - Black",
+            "sku": "6554782",
+            "price": 699.99,
+            "savings": 200.0,
+            "discount_percent": 28.571836740524866,
+            "priority_score": 713.9964349762338,
+            "reviews": 114,
+            "image_url": "images/6554782.jpg"
+        },
         {
             "category": "Audio & Headphones",
             "title": "JBL - Tune 235NC True Wireless Noise Cancelling In - Ear Earbuds - Black",
@@ -8,8 +19,8 @@
             "price": 99.99,
             "savings": 50.0,
             "discount_percent": 50.00500050005001,
-            "priority_score": 624.8130486521425,
-            "reviews": 2035,
+            "priority_score": 624.8307591243972,
+            "reviews": 2036,
             "image_url": "images/6535036.jpg"
         },
         {
@@ -47,13 +58,24 @@
         },
         {
             "category": "Audio & Headphones",
+            "title": "Denon - AVR - S770H (75W X 7) 7.2 - Ch. with HEOS and Dolby Atmos 8K Ultra HD HDR Compatible AV Home Theater Receiver with Alexa - Black",
+            "sku": "6551305",
+            "price": 699.0,
+            "savings": 96.0,
+            "discount_percent": 13.733905579399142,
+            "priority_score": 428.52566583864876,
+            "reviews": 104,
+            "image_url": "images/6551305.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
             "title": "JBL - Live Beam 3 True Wireless Noise Cancelling Earbuds - Black",
             "sku": "6582671",
             "price": 199.99,
             "savings": 50.0,
             "discount_percent": 25.00125006250312,
-            "priority_score": 377.7193617319698,
-            "reviews": 68,
+            "priority_score": 378.23832573613976,
+            "reviews": 69,
             "image_url": "images/6582671.jpg"
         },
         {
