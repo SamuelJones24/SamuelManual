@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-13T19:52:51.497040",
+    "last_updated": "2025-06-14T01:21:21.229191",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -52,8 +52,8 @@
             "price": 374.99,
             "savings": 75.0,
             "discount_percent": 20.000533347555933,
-            "priority_score": 463.48163701548043,
-            "reviews": 371,
+            "priority_score": 463.5784622441606,
+            "reviews": 372,
             "image_url": "images/6559270.jpg"
         },
         {
@@ -74,8 +74,8 @@
             "price": 999.99,
             "savings": 80.0,
             "discount_percent": 8.000080000800008,
-            "priority_score": 375.000400004,
-            "reviews": 127,
+            "priority_score": 375.28108138958135,
+            "reviews": 128,
             "image_url": "images/6588057.jpg"
         },
         {
