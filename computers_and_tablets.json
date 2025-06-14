@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-13T13:24:30.946266",
+    "last_updated": "2025-06-13T19:52:51.497040",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -8,8 +8,8 @@
             "price": 119.99,
             "savings": 60.0,
             "discount_percent": 50.00416701391784,
-            "priority_score": 613.0055555931413,
-            "reviews": 842,
+            "priority_score": 613.0483147872687,
+            "reviews": 843,
             "image_url": "images/6485246.jpg"
         },
         {
@@ -41,8 +41,8 @@
             "price": 49.99,
             "savings": 30.0,
             "discount_percent": 60.01200240048009,
-            "priority_score": 485.8582575555588,
-            "reviews": 911,
+            "priority_score": 485.8977834510458,
+            "reviews": 912,
             "image_url": "images/6514563.jpg"
         },
         {
@@ -96,8 +96,8 @@
             "price": 899.99,
             "savings": 50.0,
             "discount_percent": 5.5556172846364955,
-            "priority_score": 289.6714221973424,
-            "reviews": 88,
+            "priority_score": 290.07441383142435,
+            "reviews": 89,
             "image_url": "images/6583240.jpg"
         },
         {
@@ -107,8 +107,8 @@
             "price": 209.99,
             "savings": 48.0,
             "discount_percent": 22.85823134434973,
-            "priority_score": 277.6637429344745,
-            "reviews": 22,
+            "priority_score": 279.1987565510781,
+            "reviews": 23,
             "image_url": "images/6581897.jpg"
         }
     ]
