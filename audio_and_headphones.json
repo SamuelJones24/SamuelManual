@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-14T07:25:51.368944",
+    "last_updated": "2025-06-14T13:22:22.096038",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -52,8 +52,8 @@
             "price": 899.0,
             "savings": 100.0,
             "discount_percent": 11.123470522803114,
-            "priority_score": 465.74588919242416,
-            "reviews": 338,
+            "priority_score": 465.85212601745815,
+            "reviews": 339,
             "image_url": "images/6519391.jpg"
         },
         {
@@ -66,39 +66,6 @@
             "priority_score": 439.3868961676903,
             "reviews": 104,
             "image_url": "images/6551305.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - Live Beam 3 True Wireless Noise Cancelling Earbuds - Black",
-            "sku": "6582671",
-            "price": 199.99,
-            "savings": 50.0,
-            "discount_percent": 25.00125006250312,
-            "priority_score": 379.2543753485734,
-            "reviews": 71,
-            "image_url": "images/6582671.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Sony - ULT FIELD 3 Wireless Speaker - Black",
-            "sku": "6620180",
-            "price": 199.99,
-            "savings": 50.0,
-            "discount_percent": 25.00125006250312,
-            "priority_score": 379.2543753485734,
-            "reviews": 71,
-            "image_url": "images/6620180.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Denon - AVR - S670H (75W X 5) 5.2 - Ch. with HEOS 8K Ultra HD and HDR Compatible AV Home Theater Receiver with Alexa - Black",
-            "sku": "6551304",
-            "price": 599.0,
-            "savings": 50.0,
-            "discount_percent": 8.347245409015025,
-            "priority_score": 305.2151973227759,
-            "reviews": 92,
-            "image_url": "images/6551304.jpg"
         }
     ]
 }

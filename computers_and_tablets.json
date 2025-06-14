@@ -1,39 +1,6 @@
 {
-    "last_updated": "2025-06-14T07:25:51.368944",
+    "last_updated": "2025-06-14T13:22:22.096038",
     "deals": [
-        {
-            "category": "Computers and Tablets",
-            "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
-            "sku": "6485246",
-            "price": 119.99,
-            "savings": 60.0,
-            "discount_percent": 50.00416701391784,
-            "priority_score": 613.0483147872687,
-            "reviews": 843,
-            "image_url": "images/6485246.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Black",
-            "sku": "6583049",
-            "price": 279.99,
-            "savings": 83.0,
-            "discount_percent": 29.64391585413765,
-            "priority_score": 506.73057222421556,
-            "reviews": 207,
-            "image_url": "images/6583049.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
-            "sku": "6537888",
-            "price": 299.99,
-            "savings": 88.0,
-            "discount_percent": 29.334311143704788,
-            "priority_score": 491.87616383794705,
-            "reviews": 108,
-            "image_url": "images/6537888.jpg"
-        },
         {
             "category": "Computers and Tablets",
             "title": "Speck - Balance Folio Case for Apple iPad Air 11\"(latest M3/M2), iPad Pro 11\"(3rd/2nd/1st Gen) & iPad Air 10.9\"(5th/4th Gen) - Black/White",
@@ -41,9 +8,20 @@
             "price": 49.99,
             "savings": 30.0,
             "discount_percent": 60.01200240048009,
-            "priority_score": 485.8977834510458,
-            "reviews": 912,
+            "priority_score": 485.937266077892,
+            "reviews": 913,
             "image_url": "images/6514563.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 86.0,
+            "discount_percent": 28.667622254075138,
+            "priority_score": 484.54271938979883,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -80,6 +58,28 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (2 - pack) - White",
+            "sku": "6553442",
+            "price": 299.99,
+            "savings": 50.0,
+            "discount_percent": 16.66722224074136,
+            "priority_score": 347.2008324956478,
+            "reviews": 93,
+            "image_url": "images/6553442.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "WD - Red Plus 8TB NAS Internal Hard Drive",
+            "sku": "6581897",
+            "price": 209.99,
+            "savings": 52.0,
+            "discount_percent": 24.76308395637887,
+            "priority_score": 342.43948229992327,
+            "reviews": 23,
+            "image_url": "images/6581897.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
             "sku": "6553330",
             "price": 1999.99,
@@ -99,17 +99,6 @@
             "priority_score": 290.07441383142435,
             "reviews": 89,
             "image_url": "images/6583240.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "WD - Red Plus 8TB NAS Internal Hard Drive",
-            "sku": "6581897",
-            "price": 209.99,
-            "savings": 48.0,
-            "discount_percent": 22.85823134434973,
-            "priority_score": 279.1987565510781,
-            "reviews": 23,
-            "image_url": "images/6581897.jpg"
         }
     ]
 }
