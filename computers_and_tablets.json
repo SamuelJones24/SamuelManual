@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-14T13:22:22.096038",
+    "last_updated": "2025-06-14T20:00:07.142224",
     "deals": [
+        {
+            "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Black",
+            "sku": "6583049",
+            "price": 279.99,
+            "savings": 83.0,
+            "discount_percent": 29.64391585413765,
+            "priority_score": 506.73057222421556,
+            "reviews": 207,
+            "image_url": "images/6583049.jpg"
+        },
         {
             "category": "Computers and Tablets",
             "title": "Speck - Balance Folio Case for Apple iPad Air 11\"(latest M3/M2), iPad Pro 11\"(3rd/2nd/1st Gen) & iPad Air 10.9\"(5th/4th Gen) - Black/White",
