@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-15T07:24:32.317645",
+    "last_updated": "2025-06-15T13:24:17.597632",
     "deals": [
         {
             "category": "Appliances",
@@ -17,9 +17,9 @@
             "title": "Levoit - PlasmaPro 400s Smart Air Purifier - White",
             "sku": "6470678",
             "price": 289.99,
-            "savings": 103.0,
-            "discount_percent": 35.51846615400531,
-            "priority_score": 621.9742151855467,
+            "savings": 104.0,
+            "discount_percent": 35.86330563122866,
+            "priority_score": 625.6984125716633,
             "reviews": 741,
             "image_url": "images/6470678.jpg"
         },

@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-15T07:24:32.317645",
+    "last_updated": "2025-06-15T13:24:17.597632",
     "deals": [
+        {
+            "category": "Computers and Tablets",
+            "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
+            "sku": "",
+            "price": 119.99,
+            "savings": 60.0,
+            "discount_percent": 50.00416701391784,
+            "priority_score": 613.0483147872687,
+            "reviews": 843,
+            "image_url": "images/.jpg"
+        },
         {
             "category": "Computers and Tablets",
             "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Black",
@@ -19,20 +30,9 @@
             "price": 49.99,
             "savings": 30.0,
             "discount_percent": 60.01200240048009,
-            "priority_score": 485.937266077892,
-            "reviews": 913,
+            "priority_score": 485.9767055307254,
+            "reviews": 914,
             "image_url": "images/6514563.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
-            "sku": "6537888",
-            "price": 299.99,
-            "savings": 86.0,
-            "discount_percent": 28.667622254075138,
-            "priority_score": 484.54271938979883,
-            "reviews": 108,
-            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -44,6 +44,17 @@
             "priority_score": 463.5784622441606,
             "reviews": 372,
             "image_url": "images/6559270.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 75.0,
+            "discount_percent": 25.000833361112036,
+            "priority_score": 444.20877492498335,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -69,6 +80,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Samsung - 37\" ViewFinity S8 S80UD LED 4K UHD High Resolution Monitor with HDR10, USB - C and Ergonomic Stand - Black",
+            "sku": "6615666",
+            "price": 599.99,
+            "savings": 93.0,
+            "discount_percent": 15.50025833763896,
+            "priority_score": 373.3092272576638,
+            "reviews": 20,
+            "image_url": "images/6615666.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (2 - pack) - White",
             "sku": "6553442",
             "price": 299.99,
@@ -91,14 +113,25 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "OtterBox - Defender Series for Apple iPad Pro 11 - inch (M4) - Black",
-            "sku": "6580001",
-            "price": 99.99,
-            "savings": 40.0,
-            "discount_percent": 40.004000400040006,
-            "priority_score": 329.2601262361778,
-            "reviews": 35,
-            "image_url": "images/6580001.jpg"
+            "title": "Speck - Balance Folio Case for Apple iPad Pro 11\u201d (latest model/M4 chip) - Black/White",
+            "sku": "6579534",
+            "price": 49.99,
+            "savings": 21.0,
+            "discount_percent": 42.008401680336064,
+            "priority_score": 321.25728046463234,
+            "reviews": 69,
+            "image_url": "images/6579534.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Nighthawk BE12000 Tri - Band Wi - Fi 7 Router - Black",
+            "sku": "6598713",
+            "price": 399.99,
+            "savings": 50.0,
+            "discount_percent": 12.500312507812694,
+            "priority_score": 320.096081243491,
+            "reviews": 78,
+            "image_url": "images/6598713.jpg"
         },
         {
             "category": "Computers and Tablets",

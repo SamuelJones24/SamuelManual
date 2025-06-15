@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-15T07:24:32.317645",
+    "last_updated": "2025-06-15T13:24:17.597632",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -61,11 +61,33 @@
             "title": "Denon - AVR - S770H (75W X 7) 7.2 - Ch. with HEOS and Dolby Atmos 8K Ultra HD HDR Compatible AV Home Theater Receiver with Alexa - Black",
             "sku": "6551305",
             "price": 699.0,
-            "savings": 100.0,
-            "discount_percent": 14.306151645207441,
-            "priority_score": 439.3868961676903,
+            "savings": 108.0,
+            "discount_percent": 15.450643776824036,
+            "priority_score": 461.10935682577326,
             "reviews": 104,
             "image_url": "images/6551305.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - PartyBox On - The - Go Essential Portable Wireless Party Speaker with Wireless Microphone - Black",
+            "sku": "6576525",
+            "price": 299.99,
+            "savings": 50.0,
+            "discount_percent": 16.66722224074136,
+            "priority_score": 384.0337611179539,
+            "reviews": 260,
+            "image_url": "images/6576525.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Denon - AVR - S670H (75W X 5) 5.2 - Ch. with HEOS 8K Ultra HD and HDR Compatible AV Home Theater Receiver with Alexa - Black",
+            "sku": "6551304",
+            "price": 599.0,
+            "savings": 50.0,
+            "discount_percent": 8.347245409015025,
+            "priority_score": 305.2151973227759,
+            "reviews": 92,
+            "image_url": "images/6551304.jpg"
         }
     ]
 }
