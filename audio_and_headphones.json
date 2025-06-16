@@ -1,27 +1,16 @@
 {
-    "last_updated": "2025-06-15T19:55:37.186928",
+    "last_updated": "2025-06-16T01:25:05.278652",
     "deals": [
         {
             "category": "Audio & Headphones",
-            "title": "JBL - Authentics 500 Smart Home Speaker - Black",
-            "sku": "6554782",
-            "price": 699.99,
-            "savings": 200.0,
-            "discount_percent": 28.571836740524866,
-            "priority_score": 713.9964349762338,
-            "reviews": 114,
-            "image_url": "images/6554782.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - Tune 235NC True Wireless Noise Cancelling In - Ear Earbuds - Black",
-            "sku": "6535036",
-            "price": 99.99,
-            "savings": 50.0,
-            "discount_percent": 50.00500050005001,
-            "priority_score": 625.2006841725993,
-            "reviews": 2057,
-            "image_url": "images/6535036.jpg"
+            "title": "Sony - WH1000XM4 Wireless Noise - Cancelling Over - the - Ear Headphones - Midnight Blue",
+            "sku": "6428314",
+            "price": 299.99,
+            "savings": 70.0,
+            "discount_percent": 23.3341111370379,
+            "priority_score": 593.7092354402716,
+            "reviews": 11437,
+            "image_url": "images/6428314.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -66,17 +55,6 @@
             "priority_score": 461.10935682577326,
             "reviews": 104,
             "image_url": "images/6551305.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - PartyBox On - The - Go Essential Portable Wireless Party Speaker with Wireless Microphone - Black",
-            "sku": "6576525",
-            "price": 299.99,
-            "savings": 50.0,
-            "discount_percent": 16.66722224074136,
-            "priority_score": 384.0337611179539,
-            "reviews": 260,
-            "image_url": "images/6576525.jpg"
         },
         {
             "category": "Audio & Headphones",

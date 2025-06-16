@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-15T19:55:37.186928",
+    "last_updated": "2025-06-16T01:25:05.278652",
     "deals": [
+        {
+            "category": "Computers and Tablets",
+            "title": "Samsung - 34\" Odyssey OLED G8 Curved Ultra - WQHD 175Hz FreeSync Prem Pro and G - Sync Compatible Smart Glare Free Gaming Monitor - Silver",
+            "sku": "6588057",
+            "price": 1199.99,
+            "savings": 280.0,
+            "discount_percent": 23.33352777939816,
+            "priority_score": 851.9483202825722,
+            "reviews": 128,
+            "image_url": "images/6588057.jpg"
+        },
         {
             "category": "Computers and Tablets",
             "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
@@ -11,6 +22,17 @@
             "priority_score": 613.0483147872687,
             "reviews": 843,
             "image_url": "images/6485246.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Samsung - T7 Shield 4TB External USB 3.2 Gen 2 Rugged SSD IP65 Water Resistant - Black",
+            "sku": "6529365",
+            "price": 404.99,
+            "savings": 115.0,
+            "discount_percent": 28.395762858342184,
+            "priority_score": 602.2151484324347,
+            "reviews": 591,
+            "image_url": "images/6529365.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -36,14 +58,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Samsung - 990 PRO 4TB Internal SSD PCle Gen 4x4 NVMe",
-            "sku": "6559270",
-            "price": 374.99,
-            "savings": 75.0,
-            "discount_percent": 20.000533347555933,
-            "priority_score": 463.5784622441606,
-            "reviews": 372,
-            "image_url": "images/6559270.jpg"
+            "title": "CORSAIR - MM300 PRO Gaming Mouse Pad with Premium Spill - Proof Cloth - Extended - Black",
+            "sku": "6428299",
+            "price": 32.99,
+            "savings": 18.0,
+            "discount_percent": 54.56198848135798,
+            "priority_score": 459.4133034916858,
+            "reviews": 1340,
+            "image_url": "images/6428299.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -59,13 +81,13 @@
         {
             "category": "Computers and Tablets",
             "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
-            "sku": "5900264",
+            "sku": "",
             "price": 29.99,
             "savings": 12.0,
             "discount_percent": 40.01333777925976,
             "priority_score": 434.6370505881157,
             "reviews": 3155,
-            "image_url": "images/5900264.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -80,25 +102,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Samsung - 34\" Odyssey OLED G8 Curved Ultra - WQHD 175Hz FreeSync Prem Pro and G - Sync Compatible Smart Glare Free Gaming Monitor - Silver",
-            "sku": "6588057",
-            "price": 999.99,
-            "savings": 80.0,
-            "discount_percent": 8.000080000800008,
-            "priority_score": 375.28108138958135,
-            "reviews": 128,
-            "image_url": "images/6588057.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Samsung - 37\" ViewFinity S8 S80UD LED 4K UHD High Resolution Monitor with HDR10, USB - C and Ergonomic Stand - Black",
-            "sku": "6615666",
-            "price": 599.99,
-            "savings": 93.0,
-            "discount_percent": 15.50025833763896,
-            "priority_score": 373.3092272576638,
-            "reviews": 20,
-            "image_url": "images/6615666.jpg"
+            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
+            "sku": "6398057",
+            "price": 499.99,
+            "savings": 50.0,
+            "discount_percent": 10.00020000400008,
+            "priority_score": 409.3498164042552,
+            "reviews": 1326,
+            "image_url": "images/6398057.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -113,14 +124,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "WD - Red Plus 8TB NAS Internal Hard Drive",
-            "sku": "6581897",
-            "price": 209.99,
-            "savings": 52.0,
-            "discount_percent": 24.76308395637887,
-            "priority_score": 342.43948229992327,
-            "reviews": 23,
-            "image_url": "images/6581897.jpg"
+            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
+            "sku": "6554318",
+            "price": 599.99,
+            "savings": 50.0,
+            "discount_percent": 8.333472224537076,
+            "priority_score": 339.4895945284344,
+            "reviews": 240,
+            "image_url": "images/6554318.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -135,17 +146,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Nighthawk BE12000 Tri - Band Wi - Fi 7 Router - Black",
-            "sku": "6598713",
-            "price": 399.99,
-            "savings": 50.0,
-            "discount_percent": 12.500312507812694,
-            "priority_score": 320.096081243491,
-            "reviews": 78,
-            "image_url": "images/6598713.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
             "sku": "6553330",
             "price": 1999.99,
@@ -154,17 +154,6 @@
             "priority_score": 305.8678030059585,
             "reviews": 212,
             "image_url": "images/6553330.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6583240",
-            "price": 899.99,
-            "savings": 50.0,
-            "discount_percent": 5.5556172846364955,
-            "priority_score": 290.07441383142435,
-            "reviews": 89,
-            "image_url": "images/6583240.jpg"
         }
     ]
 }
