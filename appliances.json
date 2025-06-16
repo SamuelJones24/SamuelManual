@@ -1,16 +1,16 @@
 {
-    "last_updated": "2025-06-16T01:25:05.278652",
+    "last_updated": "2025-06-16T07:27:51.476689",
     "deals": [
         {
             "category": "Appliances",
             "title": "Shark - Stratos MultiFLEX Cordless Stick Vacuum with Clean Sense IQ and Odor Neutralizer, DuoClean Powerfins HairPro - Ash Purple",
-            "sku": "6514613",
+            "sku": "",
             "price": 499.99,
             "savings": 150.0,
             "discount_percent": 30.000600012000238,
             "priority_score": 682.540404934565,
             "reviews": 630,
-            "image_url": "images/6514613.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Appliances",

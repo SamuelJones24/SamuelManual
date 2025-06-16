@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-16T01:25:05.278652",
+    "last_updated": "2025-06-16T07:27:51.476689",
     "deals": [
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - Authentics 500 Smart Home Speaker - Black",
+            "sku": "6554782",
+            "price": 699.99,
+            "savings": 200.0,
+            "discount_percent": 28.571836740524866,
+            "priority_score": 713.9964349762338,
+            "reviews": 114,
+            "image_url": "images/6554782.jpg"
+        },
         {
             "category": "Audio & Headphones",
             "title": "Sony - WH1000XM4 Wireless Noise - Cancelling Over - the - Ear Headphones - Midnight Blue",
@@ -55,17 +66,6 @@
             "priority_score": 461.10935682577326,
             "reviews": 104,
             "image_url": "images/6551305.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Denon - AVR - S670H (75W X 5) 5.2 - Ch. with HEOS 8K Ultra HD and HDR Compatible AV Home Theater Receiver with Alexa - Black",
-            "sku": "6551304",
-            "price": 599.0,
-            "savings": 50.0,
-            "discount_percent": 8.347245409015025,
-            "priority_score": 305.2151973227759,
-            "reviews": 92,
-            "image_url": "images/6551304.jpg"
         }
     ]
 }
