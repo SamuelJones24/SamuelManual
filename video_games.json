@@ -1,14 +1,14 @@
 {
-    "last_updated": "2025-06-16T07:27:51.476689",
+    "last_updated": "2025-06-16T13:19:49.440379",
     "deals": [
         {
             "category": "Video Games",
             "title": "Turtle Beach - Stealth Ultra Wireless Controller with Charge Dock, 30 - Hour Battery, Designed for Xbox Series X|S, Windows PC, Android - Black",
             "sku": "6562064",
             "price": 219.99,
-            "savings": 57.0,
-            "discount_percent": 25.910268648574935,
-            "priority_score": 475.91686196516537,
+            "savings": 58.0,
+            "discount_percent": 26.3648347652166,
+            "priority_score": 480.1896925483736,
             "reviews": 627,
             "image_url": "images/6562064.jpg"
         },
@@ -19,13 +19,13 @@
             "price": 29.99,
             "savings": 14.0,
             "discount_percent": 46.68222740913638,
-            "priority_score": 419.25885407721756,
-            "reviews": 1058,
-            "image_url": "Image Not Available"
+            "priority_score": 419.29289596367323,
+            "reviews": 1059,
+            "image_url": "images/6472018.jpg"
         },
         {
             "category": "Video Games",
-            "title": "Arcade1Up - NBA Jam Deluxe 2 - Player Control Panel Arcade Machine - Orange",
+            "title": "NBA Jam Deluxe 2 - Player Control Panel Arcade Machine - Other",
             "sku": "6588261",
             "price": 499.99,
             "savings": 50.0,

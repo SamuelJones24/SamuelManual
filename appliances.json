@@ -1,25 +1,25 @@
 {
-    "last_updated": "2025-06-16T07:27:51.476689",
+    "last_updated": "2025-06-16T13:19:49.440379",
     "deals": [
         {
             "category": "Appliances",
             "title": "Shark - Stratos MultiFLEX Cordless Stick Vacuum with Clean Sense IQ and Odor Neutralizer, DuoClean Powerfins HairPro - Ash Purple",
-            "sku": "",
+            "sku": "6514613",
             "price": 499.99,
             "savings": 150.0,
             "discount_percent": 30.000600012000238,
             "priority_score": 682.540404934565,
             "reviews": 630,
-            "image_url": "images/.jpg"
+            "image_url": "images/6514613.jpg"
         },
         {
             "category": "Appliances",
             "title": "Levoit - PlasmaPro 400s Smart Air Purifier - White",
             "sku": "6470678",
             "price": 289.99,
-            "savings": 104.0,
-            "discount_percent": 35.86330563122866,
-            "priority_score": 625.6984125716633,
+            "savings": 105.0,
+            "discount_percent": 36.208145108452015,
+            "priority_score": 629.4226099577802,
             "reviews": 741,
             "image_url": "images/6470678.jpg"
         },

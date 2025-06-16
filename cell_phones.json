@@ -1,27 +1,16 @@
 {
-    "last_updated": "2025-06-16T07:27:51.476689",
+    "last_updated": "2025-06-16T13:19:49.440379",
     "deals": [
         {
             "category": "Cell Phones",
-            "title": "OtterBox - Commuter Series Hard Shell for Samsung Galaxy S23 Ultra - Black",
-            "sku": "6525858",
-            "price": 39.99,
-            "savings": 16.0,
-            "discount_percent": 40.010002500625156,
-            "priority_score": 394.49762417113413,
-            "reviews": 830,
-            "image_url": "images/6525858.jpg"
-        },
-        {
-            "category": "Cell Phones",
-            "title": "OtterBox - Commuter Series Hard Shell for Samsung Galaxy S24 Ultra - Black",
-            "sku": "6567466",
-            "price": 49.99,
-            "savings": 20.0,
-            "discount_percent": 40.008001600320064,
-            "priority_score": 372.32033220920204,
-            "reviews": 359,
-            "image_url": "images/6567466.jpg"
+            "title": "Bracketron - TripGrip Window & Vent Mount for Most Cell Phones - Black",
+            "sku": "",
+            "price": 24.99,
+            "savings": 10.0,
+            "discount_percent": 40.016006402561025,
+            "priority_score": 406.21198696154676,
+            "reviews": 1602,
+            "image_url": "images/.jpg"
         },
         {
             "category": "Cell Phones",
@@ -36,47 +25,25 @@
         },
         {
             "category": "Cell Phones",
-            "title": "OtterBox - Commuter Series Hard Shell for Samsung Galaxy S24+ - Black",
-            "sku": "6567459",
-            "price": 49.99,
-            "savings": 20.0,
-            "discount_percent": 40.008001600320064,
-            "priority_score": 337.47480687497335,
-            "reviews": 136,
-            "image_url": "images/6567459.jpg"
+            "title": "OtterBox - Defender Series Pro XT Hard Shell for MagSafe for Apple iPhone 16 Pro - Black",
+            "sku": "6589198",
+            "price": 79.99,
+            "savings": 35.0,
+            "discount_percent": 43.75546943367921,
+            "priority_score": 348.9386731912506,
+            "reviews": 59,
+            "image_url": "images/6589198.jpg"
         },
         {
             "category": "Cell Phones",
-            "title": "OtterBox - Commuter Series Hard Shell for Samsung Galaxy S24 - Black",
-            "sku": "6567464",
-            "price": 49.99,
-            "savings": 20.0,
-            "discount_percent": 40.008001600320064,
-            "priority_score": 330.52847886133986,
-            "reviews": 112,
-            "image_url": "images/6567464.jpg"
-        },
-        {
-            "category": "Cell Phones",
-            "title": "OtterBox - Commuter Series Hard Shell for Samsung Galaxy S25+ - Black",
-            "sku": "6610275",
-            "price": 49.99,
-            "savings": 20.0,
-            "discount_percent": 40.008001600320064,
-            "priority_score": 289.27212983701804,
-            "reviews": 35,
-            "image_url": "images/6610275.jpg"
-        },
-        {
-            "category": "Cell Phones",
-            "title": "OtterBox - Commuter Series Hard Shell for Samsung Galaxy S25 - Black",
-            "sku": "6610272",
-            "price": 49.99,
-            "savings": 20.0,
-            "discount_percent": 40.008001600320064,
-            "priority_score": 288.25608022458437,
-            "reviews": 34,
-            "image_url": "images/6610272.jpg"
+            "title": "Google - Pixel 9a 128GB (Unlocked) - Obsidian",
+            "sku": "6612957",
+            "price": 499.0,
+            "savings": 50.0,
+            "discount_percent": 10.02004008016032,
+            "priority_score": 273.9551081604735,
+            "reviews": 30,
+            "image_url": "images/6612957.jpg"
         }
     ]
 }

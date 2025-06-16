@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-16T07:27:51.476689",
+    "last_updated": "2025-06-16T13:19:49.440379",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -19,8 +19,8 @@
             "price": 299.99,
             "savings": 70.0,
             "discount_percent": 23.3341111370379,
-            "priority_score": 593.7092354402716,
-            "reviews": 11437,
+            "priority_score": 593.7123885963713,
+            "reviews": 11438,
             "image_url": "images/6428314.jpg"
         },
         {
@@ -66,6 +66,17 @@
             "priority_score": 461.10935682577326,
             "reviews": 104,
             "image_url": "images/6551305.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Denon - AVR - S670H (75W X 5) 5.2 - Ch. with HEOS 8K Ultra HD and HDR Compatible AV Home Theater Receiver with Alexa - Black",
+            "sku": "6551304",
+            "price": 599.0,
+            "savings": 59.0,
+            "discount_percent": 9.84974958263773,
+            "priority_score": 330.7277181908894,
+            "reviews": 92,
+            "image_url": "images/6551304.jpg"
         }
     ]
 }

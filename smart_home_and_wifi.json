@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-06-16T07:27:51.476689",
+    "last_updated": "2025-06-16T13:19:49.440379",
     "deals": [
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Google - Nest Cam Indoor/Outdoor Wire Free Security Camera - Snow",
-            "sku": "6473262",
-            "price": 179.99,
-            "savings": 50.0,
-            "discount_percent": 27.779321073392964,
-            "priority_score": 521.031660838521,
-            "reviews": 2495,
-            "image_url": "images/6473262.jpg"
-        },
         {
             "category": "Smart Home and Wifi",
             "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
@@ -36,6 +25,17 @@
         },
         {
             "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
+            "sku": "6398057",
+            "price": 499.99,
+            "savings": 50.0,
+            "discount_percent": 10.00020000400008,
+            "priority_score": 409.3498164042552,
+            "reviews": 1326,
+            "image_url": "images/6398057.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
             "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - Silver",
             "sku": "6576718",
             "price": 319.99,
@@ -44,6 +44,28 @@
             "priority_score": 399.1862000678915,
             "reviews": 458,
             "image_url": "images/6576718.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (2 - pack) - White",
+            "sku": "6553442",
+            "price": 299.99,
+            "savings": 50.0,
+            "discount_percent": 16.66722224074136,
+            "priority_score": 347.2008324956478,
+            "reviews": 93,
+            "image_url": "images/6553442.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6553330",
+            "price": 1999.99,
+            "savings": 50.0,
+            "discount_percent": 2.5000125000625,
+            "priority_score": 305.8678030059585,
+            "reviews": 212,
+            "image_url": "images/6553330.jpg"
         }
     ]
 }

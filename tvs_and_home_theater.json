@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-16T07:27:51.476689",
+    "last_updated": "2025-06-16T13:19:49.440379",
     "deals": [
         {
             "category": "TVs and Home Theater",
@@ -8,31 +8,9 @@
             "price": 1499.99,
             "savings": 303.0,
             "discount_percent": 20.200134667564452,
-            "priority_score": 957.1763550101715,
-            "reviews": 1028,
+            "priority_score": 957.246388772025,
+            "reviews": 1030,
             "image_url": "images/6578042.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "Samsung - 75\u201d Class DU8000 Series Crystal UHD Smart Tizen TV (2024)",
-            "sku": "6575124",
-            "price": 899.99,
-            "savings": 200.0,
-            "discount_percent": 22.222469138545982,
-            "priority_score": 677.5676327615248,
-            "reviews": 100,
-            "image_url": "images/6575124.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "Panasonic - Streaming 4K Ultra HD Hi - Res Audio with Dolby Vision 7.1 Channel DVD/CD/3D Wi - Fi Built - In Blu - Ray Player, DP - UB820 - K - Black",
-            "sku": "6278202",
-            "price": 499.98,
-            "savings": 103.0,
-            "discount_percent": 20.600824032961317,
-            "priority_score": 578.5176143516055,
-            "reviews": 1758,
-            "image_url": "images/6278202.jpg"
         }
     ]
 }
