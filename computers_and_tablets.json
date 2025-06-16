@@ -1,16 +1,16 @@
 {
-    "last_updated": "2025-06-15T13:24:17.597632",
+    "last_updated": "2025-06-15T19:55:37.186928",
     "deals": [
         {
             "category": "Computers and Tablets",
             "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
-            "sku": "",
+            "sku": "6485246",
             "price": 119.99,
             "savings": 60.0,
             "discount_percent": 50.00416701391784,
             "priority_score": 613.0483147872687,
             "reviews": 843,
-            "image_url": "images/.jpg"
+            "image_url": "images/6485246.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -66,6 +66,17 @@
             "priority_score": 434.6370505881157,
             "reviews": 3155,
             "image_url": "images/5900264.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Speck - Balance Folio R Case for Apple iPad 11\"(A16 chip 2025) and iPad 10.9\" (10th Generation) - Charcoal",
+            "sku": "6514560",
+            "price": 44.99,
+            "savings": 18.0,
+            "discount_percent": 40.008890864636584,
+            "priority_score": 418.24778125534317,
+            "reviews": 1436,
+            "image_url": "images/6514560.jpg"
         },
         {
             "category": "Computers and Tablets",
