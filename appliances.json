@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-17T07:28:47.058544",
+    "last_updated": "2025-06-17T13:24:58.038578",
     "deals": [
         {
             "category": "Appliances",
@@ -8,9 +8,20 @@
             "price": 499.99,
             "savings": 150.0,
             "discount_percent": 30.000600012000238,
-            "priority_score": 682.540404934565,
-            "reviews": 630,
+            "priority_score": 682.5975187644287,
+            "reviews": 631,
             "image_url": "images/6514613.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Dyson - V15 Detect Extra Cordless Vacuum with 10 accessories - Yellow/Nickel",
+            "sku": "6539472",
+            "price": 799.99,
+            "savings": 150.0,
+            "discount_percent": 18.750234377929722,
+            "priority_score": 667.3872677990964,
+            "reviews": 1971,
+            "image_url": "images/6539472.jpg"
         },
         {
             "category": "Appliances",

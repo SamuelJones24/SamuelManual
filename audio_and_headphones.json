@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-17T07:28:47.058544",
+    "last_updated": "2025-06-17T13:24:58.038578",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -14,13 +14,35 @@
         },
         {
             "category": "Audio & Headphones",
+            "title": "Sony - WH1000XM5 Wireless Noise - Canceling Over - the - Ear Headphones - Black",
+            "sku": "6505727",
+            "price": 399.99,
+            "savings": 101.0,
+            "discount_percent": 25.250631265781642,
+            "priority_score": 638.3284569182831,
+            "reviews": 5415,
+            "image_url": "images/6505727.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Bose - QuietComfort Wireless Noise Cancelling Over - the - Ear Headphones - Black",
+            "sku": "6554461",
+            "price": 349.0,
+            "savings": 100.0,
+            "discount_percent": 28.653295128939828,
+            "priority_score": 615.750398717777,
+            "reviews": 1909,
+            "image_url": "images/6554461.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
             "title": "Sony - WH1000XM4 Wireless Noise - Cancelling Over - the - Ear Headphones - Midnight Blue",
             "sku": "6428314",
             "price": 299.99,
             "savings": 70.0,
             "discount_percent": 23.3341111370379,
-            "priority_score": 593.7123885963713,
-            "reviews": 11438,
+            "priority_score": 593.7155414768333,
+            "reviews": 11439,
             "image_url": "images/6428314.jpg"
         },
         {
@@ -36,17 +58,6 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "JBL - Authentics 300 Smart Home Speaker - Black",
-            "sku": "6554783",
-            "price": 449.99,
-            "savings": 100.0,
-            "discount_percent": 22.222716060356895,
-            "priority_score": 495.4895660854576,
-            "reviews": 165,
-            "image_url": "images/6554783.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "Denon - AVR - S970H 90W 7 Ch Bluetooth Capable HDR Compatible with HEOS and Dolby Atmos 8K Ultra HD AV Home Theater Receiver - Black",
             "sku": "6519391",
             "price": 899.0,
@@ -58,25 +69,36 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Denon - AVR - S770H (75W X 7) 7.2 - Ch. with HEOS and Dolby Atmos 8K Ultra HD HDR Compatible AV Home Theater Receiver with Alexa - Black",
-            "sku": "6551305",
-            "price": 699.0,
-            "savings": 108.0,
-            "discount_percent": 15.450643776824036,
-            "priority_score": 461.10935682577326,
-            "reviews": 104,
-            "image_url": "images/6551305.jpg"
+            "title": "Skullcandy - Crusher ANC 2 Over - the - Ear Noise Canceling Wireless Headphones - Black/Tan",
+            "sku": "6580349",
+            "price": 229.99,
+            "savings": 50.0,
+            "discount_percent": 21.740075655463283,
+            "priority_score": 453.2753335003268,
+            "reviews": 880,
+            "image_url": "images/6580349.jpg"
         },
         {
             "category": "Audio & Headphones",
-            "title": "Denon - AVR - S670H (75W X 5) 5.2 - Ch. with HEOS 8K Ultra HD and HDR Compatible AV Home Theater Receiver with Alexa - Black",
-            "sku": "6551304",
-            "price": 599.0,
-            "savings": 59.0,
-            "discount_percent": 9.84974958263773,
-            "priority_score": 330.7277181908894,
-            "reviews": 92,
-            "image_url": "images/6551304.jpg"
+            "title": "Bose - Ultra Open - Ear True Wireless Open Earbuds - Black",
+            "sku": "6568949",
+            "price": 299.0,
+            "savings": 50.0,
+            "discount_percent": 16.722408026755854,
+            "priority_score": 434.8582538700433,
+            "reviews": 1059,
+            "image_url": "images/6568949.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Sony - SA - RS3S Wireless Rear Speaker - Black",
+            "sku": "6467454",
+            "price": 349.99,
+            "savings": 51.0,
+            "discount_percent": 14.571844909854567,
+            "priority_score": 399.8592245492728,
+            "reviews": 511,
+            "image_url": "images/6467454.jpg"
         }
     ]
 }

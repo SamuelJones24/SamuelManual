@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-17T07:28:47.058544",
+    "last_updated": "2025-06-17T13:24:58.038578",
     "deals": [
         {
             "category": "Cell Phones",
@@ -11,17 +11,6 @@
             "priority_score": 352.42980627455415,
             "reviews": 36,
             "image_url": "images/6599394.jpg"
-        },
-        {
-            "category": "Cell Phones",
-            "title": "Google - Pixel 9a 128GB (Unlocked) - Obsidian",
-            "sku": "6612957",
-            "price": 499.0,
-            "savings": 50.0,
-            "discount_percent": 10.02004008016032,
-            "priority_score": 273.9551081604735,
-            "reviews": 30,
-            "image_url": "images/6612957.jpg"
         }
     ]
 }
