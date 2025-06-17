@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-16T13:19:49.440379",
+    "last_updated": "2025-06-16T19:56:42.077351",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -33,6 +33,116 @@
             "priority_score": 485.9767055307254,
             "reviews": 914,
             "image_url": "images/6514563.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 75.0,
+            "discount_percent": 25.000833361112036,
+            "priority_score": 444.20877492498335,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
+            "sku": "5900264",
+            "price": 29.99,
+            "savings": 12.0,
+            "discount_percent": 40.01333777925976,
+            "priority_score": 434.6370505881157,
+            "reviews": 3155,
+            "image_url": "images/5900264.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Speck - Balance Folio R Case for Apple iPad 11\"(A16 chip 2025) and iPad 10.9\" (10th Generation) - Charcoal",
+            "sku": "6514560",
+            "price": 44.99,
+            "savings": 18.0,
+            "discount_percent": 40.008890864636584,
+            "priority_score": 418.2979445124172,
+            "reviews": 1438,
+            "image_url": "images/6514560.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
+            "sku": "6398057",
+            "price": 499.99,
+            "savings": 50.0,
+            "discount_percent": 10.00020000400008,
+            "priority_score": 409.3498164042552,
+            "reviews": 1326,
+            "image_url": "images/6398057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Canon - PP - 301 Photo Plus II Glossy Photo 5.12\" x 7.1\" 20 - Count Paper - white",
+            "sku": "5786342",
+            "price": 10.99,
+            "savings": 5.0,
+            "discount_percent": 45.49590536851683,
+            "priority_score": 381.722489508993,
+            "reviews": 679,
+            "image_url": "images/5786342.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver",
+            "sku": "6467298",
+            "price": 1299.0,
+            "savings": 64.95,
+            "discount_percent": 5.0,
+            "priority_score": 368.4757955063809,
+            "reviews": 372,
+            "image_url": "images/6467298.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (2 - pack) - White",
+            "sku": "6553442",
+            "price": 299.99,
+            "savings": 50.0,
+            "discount_percent": 16.66722224074136,
+            "priority_score": 347.2008324956478,
+            "reviews": 93,
+            "image_url": "images/6553442.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
+            "sku": "6554318",
+            "price": 599.99,
+            "savings": 50.0,
+            "discount_percent": 8.333472224537076,
+            "priority_score": 339.4895945284344,
+            "reviews": 240,
+            "image_url": "images/6554318.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Speck - Balance Folio Case for Apple iPad Pro 11\u201d (latest model/M4 chip) - Black/White",
+            "sku": "6579534",
+            "price": 49.99,
+            "savings": 23.0,
+            "discount_percent": 46.00920184036807,
+            "priority_score": 337.2596809447284,
+            "reviews": 69,
+            "image_url": "images/6579534.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6553330",
+            "price": 1999.99,
+            "savings": 50.0,
+            "discount_percent": 2.5000125000625,
+            "priority_score": 305.8678030059585,
+            "reviews": 212,
+            "image_url": "images/6553330.jpg"
         }
     ]
 }
