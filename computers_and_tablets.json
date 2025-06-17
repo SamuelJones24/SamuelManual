@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-17T01:23:42.426457",
+    "last_updated": "2025-06-17T07:28:47.058544",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -32,7 +32,7 @@
             "discount_percent": 60.01200240048009,
             "priority_score": 485.9767055307254,
             "reviews": 914,
-            "image_url": "images/6514563.jpg"
+            "image_url": "Image Not Available"
         },
         {
             "category": "Computers and Tablets",
@@ -59,13 +59,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Speck - Balance Folio R Case for Apple iPad 11\"(A16 chip 2025) and iPad 10.9\" (10th Generation) - Charcoal",
-            "sku": "",
+            "sku": "6514560",
             "price": 44.99,
             "savings": 18.0,
             "discount_percent": 40.008890864636584,
-            "priority_score": 418.3230000021516,
-            "reviews": 1439,
-            "image_url": "images/.jpg"
+            "priority_score": 418.3480380982785,
+            "reviews": 1440,
+            "image_url": "images/6514560.jpg"
         },
         {
             "category": "Computers and Tablets",

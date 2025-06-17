@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-06-17T01:23:42.426457",
+    "last_updated": "2025-06-17T07:28:47.058544",
     "deals": [
-        {
-            "category": "Cell Phones",
-            "title": "Bracketron - TripGrip Window & Vent Mount for Most Cell Phones - Black",
-            "sku": "6411257",
-            "price": 24.99,
-            "savings": 10.0,
-            "discount_percent": 40.016006402561025,
-            "priority_score": 406.21198696154676,
-            "reviews": 1602,
-            "image_url": "images/6411257.jpg"
-        },
         {
             "category": "Cell Phones",
             "title": "Anker - Prime Power Bank (9.6K, 65W, Fusion) - Black",
@@ -22,17 +11,6 @@
             "priority_score": 352.42980627455415,
             "reviews": 36,
             "image_url": "images/6599394.jpg"
-        },
-        {
-            "category": "Cell Phones",
-            "title": "OtterBox - Defender Series Pro XT Hard Shell for MagSafe for Apple iPhone 16 Pro - Black",
-            "sku": "6589198",
-            "price": 79.99,
-            "savings": 35.0,
-            "discount_percent": 43.75546943367921,
-            "priority_score": 348.9386731912506,
-            "reviews": 59,
-            "image_url": "images/6589198.jpg"
         },
         {
             "category": "Cell Phones",
