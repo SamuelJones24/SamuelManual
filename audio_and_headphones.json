@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-18T07:29:54.820513",
+    "last_updated": "2025-06-18T13:24:29.515249",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -11,17 +11,6 @@
             "priority_score": 714.3087085808137,
             "reviews": 115,
             "image_url": "images/6554782.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Bose - QuietComfort Wireless Noise Cancelling Over - the - Ear Headphones - Black",
-            "sku": "6554461",
-            "price": 359.0,
-            "savings": 110.0,
-            "discount_percent": 30.64066852367688,
-            "priority_score": 645.6872656914622,
-            "reviews": 1909,
-            "image_url": "images/6554461.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -41,20 +30,9 @@
             "price": 299.99,
             "savings": 70.0,
             "discount_percent": 23.3341111370379,
-            "priority_score": 593.7155414768333,
-            "reviews": 11439,
+            "priority_score": 593.7186940817058,
+            "reviews": 11440,
             "image_url": "images/6428314.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - Authentics 200 Smart Home Speaker - Black",
-            "sku": "6554781",
-            "price": 349.99,
-            "savings": 100.0,
-            "discount_percent": 28.572244921283463,
-            "priority_score": 510.3722175599446,
-            "reviews": 103,
-            "image_url": "images/6554781.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -102,14 +80,25 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Bose - Ultra Open - Ear True Wireless Open Earbuds - Black",
-            "sku": "6568949",
-            "price": 299.0,
+            "title": "Bose - Bass Module 700 Wireless Subwoofer - Black",
+            "sku": "6280563",
+            "price": 899.99,
             "savings": 50.0,
-            "discount_percent": 16.722408026755854,
-            "priority_score": 434.92624140388307,
-            "reviews": 1061,
-            "image_url": "images/6568949.jpg"
+            "discount_percent": 5.5556172846364955,
+            "priority_score": 427.57498889826786,
+            "reviews": 4072,
+            "image_url": "images/6280563.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Bose - Bass Module 500 Wireless Subwoofer - Black",
+            "sku": "6280557",
+            "price": 549.99,
+            "savings": 50.0,
+            "discount_percent": 9.091074383170602,
+            "priority_score": 407.7015709268354,
+            "reviews": 1437,
+            "image_url": "images/6280557.jpg"
         },
         {
             "category": "Audio & Headphones",

@@ -1,28 +1,6 @@
 {
-    "last_updated": "2025-06-18T07:29:54.820513",
+    "last_updated": "2025-06-18T13:24:29.515249",
     "deals": [
-        {
-            "category": "Computers and Tablets",
-            "title": "Samsung - 34\" Odyssey OLED G8 Curved Ultra - WQHD 175Hz FreeSync Prem Pro and G - Sync Compatible Smart Glare Free Gaming Monitor - Silver",
-            "sku": "6588057",
-            "price": 1199.99,
-            "savings": 275.0,
-            "discount_percent": 22.916857640480337,
-            "priority_score": 839.8649695879831,
-            "reviews": 128,
-            "image_url": "images/6588057.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
-            "sku": "6485246",
-            "price": 119.99,
-            "savings": 60.0,
-            "discount_percent": 50.00416701391784,
-            "priority_score": 613.0910233488278,
-            "reviews": 844,
-            "image_url": "images/6485246.jpg"
-        },
         {
             "category": "Computers and Tablets",
             "title": "Samsung - T7 Shield 4TB External USB 3.2 Gen 2 Rugged SSD IP65 Water Resistant - Black",
@@ -61,9 +39,9 @@
             "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
             "sku": "6537888",
             "price": 299.99,
-            "savings": 91.0,
-            "discount_percent": 30.334344478149273,
-            "priority_score": 502.8763305101695,
+            "savings": 88.0,
+            "discount_percent": 29.334311143704788,
+            "priority_score": 491.87616383794705,
             "reviews": 108,
             "image_url": "images/6537888.jpg"
         },
@@ -102,25 +80,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - MacBook Pro 14 - inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Space Black",
-            "sku": "6602741",
-            "price": 1599.0,
-            "savings": 79.95,
-            "discount_percent": 5.0,
-            "priority_score": 433.9362423599549,
-            "reviews": 996,
-            "image_url": "images/6602741.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Speck - Balance Folio R Case for Apple iPad 11\"(A16 chip 2025) and iPad 10.9\" (10th Generation) - Charcoal",
-            "sku": "6514560",
-            "price": 44.99,
-            "savings": 18.0,
-            "discount_percent": 40.008890864636584,
-            "priority_score": 418.37305882493035,
-            "reviews": 1441,
-            "image_url": "images/6514560.jpg"
+            "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
+            "sku": "5900264",
+            "price": 29.99,
+            "savings": 12.0,
+            "discount_percent": 40.01333777925976,
+            "priority_score": 434.6370505881157,
+            "reviews": 3155,
+            "image_url": "images/5900264.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -132,6 +99,17 @@
             "priority_score": 409.3498164042552,
             "reviews": 1326,
             "image_url": "images/6398057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
+            "sku": "6533542",
+            "price": 1499.0,
+            "savings": 74.95,
+            "discount_percent": 5.0,
+            "priority_score": 402.0202096951091,
+            "reviews": 542,
+            "image_url": "images/6533542.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -154,17 +132,6 @@
             "priority_score": 368.57236149719097,
             "reviews": 373,
             "image_url": "images/6467298.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (2 - pack) - White",
-            "sku": "6553442",
-            "price": 299.99,
-            "savings": 50.0,
-            "discount_percent": 16.66722224074136,
-            "priority_score": 347.2008324956478,
-            "reviews": 93,
-            "image_url": "images/6553442.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -198,17 +165,6 @@
             "priority_score": 337.2596809447284,
             "reviews": 69,
             "image_url": "images/6579534.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "ARRIS - Surfboard Wi - Fi 7 Router with DOCSIS 3.1 Cable Modem - black",
-            "sku": "6561663",
-            "price": 552.99,
-            "savings": 53.99,
-            "discount_percent": 9.76328685871354,
-            "priority_score": 310.54011228118475,
-            "reviews": 70,
-            "image_url": "images/6561663.jpg"
         },
         {
             "category": "Computers and Tablets",

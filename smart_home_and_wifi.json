@@ -1,28 +1,6 @@
 {
-    "last_updated": "2025-06-18T07:29:54.820513",
+    "last_updated": "2025-06-18T13:24:29.515249",
     "deals": [
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Arlo - Wireless Floodlight Camera - FB1001 - White",
-            "sku": "6402543",
-            "price": 249.99,
-            "savings": 80.0,
-            "discount_percent": 32.001280051202045,
-            "priority_score": 572.1929712872687,
-            "reviews": 1087,
-            "image_url": "images/6402543.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Arlo - Pro 5S 2K Indoor/Outdoor Wireless Spotlight Security Camera - White",
-            "sku": "6517757",
-            "price": 179.99,
-            "savings": 60.0,
-            "discount_percent": 33.33518528807156,
-            "priority_score": 522.437240231996,
-            "reviews": 689,
-            "image_url": "images/6517757.jpg"
-        },
         {
             "category": "Smart Home and Wifi",
             "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
@@ -37,13 +15,13 @@
         {
             "category": "Smart Home and Wifi",
             "title": "Yale - Assure Lock 2 - Smart Lock Wi - Fi Deadbolt with Push Button Keypad | Key Access - Black Suede",
-            "sku": "6540358",
+            "sku": "",
             "price": 259.99,
             "savings": 56.0,
             "discount_percent": 21.539289972691257,
             "priority_score": 426.94692103677176,
             "reviews": 312,
-            "image_url": "images/6540358.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -55,17 +33,6 @@
             "priority_score": 399.2646927561557,
             "reviews": 459,
             "image_url": "images/6576718.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "New! - Arlo - Wired Floodlight Camera - FLW2001 - White",
-            "sku": "6629032",
-            "price": 149.99,
-            "savings": 50.0,
-            "discount_percent": 33.335555703713574,
-            "priority_score": 266.67777851856783,
-            "reviews": 0,
-            "image_url": "images/6629032.jpg"
         }
     ]
 }
