@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-17T19:56:08.967204",
+    "last_updated": "2025-06-18T01:24:33.814899",
     "deals": [
         {
             "category": "Video Games",
@@ -11,17 +11,6 @@
             "priority_score": 480.2470789980652,
             "reviews": 628,
             "image_url": "images/6562064.jpg"
-        },
-        {
-            "category": "Video Games",
-            "title": "PowerA - Dual Charging Station for Xbox Series X|S - Black",
-            "sku": "6472018",
-            "price": 29.99,
-            "savings": 14.0,
-            "discount_percent": 46.68222740913638,
-            "priority_score": 419.3269057502783,
-            "reviews": 1060,
-            "image_url": "images/6472018.jpg"
         },
         {
             "category": "Video Games",
