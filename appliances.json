@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-18T01:24:33.814899",
+    "last_updated": "2025-06-18T07:29:54.820513",
     "deals": [
         {
             "category": "Appliances",
@@ -14,28 +14,6 @@
         },
         {
             "category": "Appliances",
-            "title": "Shark - Stratos MultiFLEX Cordless Stick Vacuum with Clean Sense IQ and Odor Neutralizer, DuoClean Powerfins HairPro - Ash Purple",
-            "sku": "6514613",
-            "price": 499.99,
-            "savings": 150.0,
-            "discount_percent": 30.000600012000238,
-            "priority_score": 682.5975187644287,
-            "reviews": 631,
-            "image_url": "images/6514613.jpg"
-        },
-        {
-            "category": "Appliances",
-            "title": "Dyson - V15 Detect Extra Cordless Vacuum with 10 accessories - Yellow/Nickel",
-            "sku": "6539472",
-            "price": 799.99,
-            "savings": 150.0,
-            "discount_percent": 18.750234377929722,
-            "priority_score": 667.4238287510586,
-            "reviews": 1973,
-            "image_url": "images/6539472.jpg"
-        },
-        {
-            "category": "Appliances",
             "title": "Levoit - PlasmaPro 400s Smart Air Purifier - White",
             "sku": "6470678",
             "price": 289.99,
@@ -47,14 +25,14 @@
         },
         {
             "category": "Appliances",
-            "title": "NutriBullet - Ultra Personal Blender NB50500 - Gray",
-            "sku": "6553390",
-            "price": 164.99,
-            "savings": 55.0,
-            "discount_percent": 33.33535365779744,
-            "priority_score": 446.5371649477398,
-            "reviews": 110,
-            "image_url": "images/6553390.jpg"
+            "title": "Shark - Stratos MultiFLEX Cordless Stick Vacuum with Clean Sense IQ and Odor Neutralizer, DuoClean Powerfins HairPro - Ash Purple",
+            "sku": "",
+            "price": 399.99,
+            "savings": 50.0,
+            "discount_percent": 12.500312507812694,
+            "priority_score": 395.09608124349097,
+            "reviews": 631,
+            "image_url": "images/.jpg"
         }
     ]
 }

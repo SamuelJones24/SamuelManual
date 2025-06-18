@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-18T01:24:33.814899",
+    "last_updated": "2025-06-18T07:29:54.820513",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -102,25 +102,25 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
-            "sku": "5900264",
-            "price": 29.99,
-            "savings": 12.0,
-            "discount_percent": 40.01333777925976,
-            "priority_score": 434.6370505881157,
-            "reviews": 3155,
-            "image_url": "images/5900264.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Apple - MacBook Pro 14 - inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Space Black",
             "sku": "6602741",
             "price": 1599.0,
             "savings": 79.95,
             "discount_percent": 5.0,
-            "priority_score": 433.8638178857753,
-            "reviews": 994,
+            "priority_score": 433.9362423599549,
+            "reviews": 996,
             "image_url": "images/6602741.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Speck - Balance Folio R Case for Apple iPad 11\"(A16 chip 2025) and iPad 10.9\" (10th Generation) - Charcoal",
+            "sku": "6514560",
+            "price": 44.99,
+            "savings": 18.0,
+            "discount_percent": 40.008890864636584,
+            "priority_score": 418.37305882493035,
+            "reviews": 1441,
+            "image_url": "images/6514560.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -201,6 +201,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "ARRIS - Surfboard Wi - Fi 7 Router with DOCSIS 3.1 Cable Modem - black",
+            "sku": "6561663",
+            "price": 552.99,
+            "savings": 53.99,
+            "discount_percent": 9.76328685871354,
+            "priority_score": 310.54011228118475,
+            "reviews": 70,
+            "image_url": "images/6561663.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
             "sku": "6553330",
             "price": 1999.99,
@@ -209,17 +220,6 @@
             "priority_score": 305.8678030059585,
             "reviews": 212,
             "image_url": "images/6553330.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Razer - Kraken V4 Pro Wireless Gaming Headset for PC, Mac, Playstation, Nintendo Switch, Steam Deck, Mobile, and Tablet - Black",
-            "sku": "6589878",
-            "price": 399.99,
-            "savings": 48.0,
-            "discount_percent": 12.000300007500188,
-            "priority_score": 305.5637626559816,
-            "reviews": 122,
-            "image_url": "images/6589878.jpg"
         }
     ]
 }
