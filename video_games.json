@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-19T07:29:05.313333",
+    "last_updated": "2025-06-19T13:24:31.960693",
     "deals": [
         {
             "category": "Video Games",
@@ -22,6 +22,17 @@
             "priority_score": 419.360883497513,
             "reviews": 1061,
             "image_url": "images/6472018.jpg"
+        },
+        {
+            "category": "Video Games",
+            "title": "RDS Industries - Game Traveler Deluxe Zelda Tears of the Kingdom Travel Case for Nintendo Switch - Multi",
+            "sku": "6537255",
+            "price": 19.99,
+            "savings": 9.0,
+            "discount_percent": 45.02251125562782,
+            "priority_score": 332.06431718634315,
+            "reviews": 142,
+            "image_url": "images/6537255.jpg"
         }
     ]
 }
