@@ -1,38 +1,38 @@
 {
-    "last_updated": "2025-06-18T13:24:29.515249",
+    "last_updated": "2025-06-18T19:54:05.249994",
     "deals": [
         {
             "category": "Smart Home and Wifi",
             "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
-            "sku": "6559342",
+            "sku": "",
             "price": 449.99,
             "savings": 60.0,
             "discount_percent": 13.333629636214136,
             "priority_score": 468.80320365262685,
             "reviews": 2495,
-            "image_url": "images/6559342.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Smart Home and Wifi",
             "title": "Yale - Assure Lock 2 - Smart Lock Wi - Fi Deadbolt with Push Button Keypad | Key Access - Black Suede",
-            "sku": "",
+            "sku": "6540358",
             "price": 259.99,
             "savings": 56.0,
             "discount_percent": 21.539289972691257,
             "priority_score": 426.94692103677176,
             "reviews": 312,
-            "image_url": "images/.jpg"
+            "image_url": "images/6540358.jpg"
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - Silver",
-            "sku": "6576718",
+            "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
+            "sku": "6567807",
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
             "priority_score": 399.2646927561557,
             "reviews": 459,
-            "image_url": "images/6576718.jpg"
+            "image_url": "images/6567807.jpg"
         }
     ]
 }
