@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-19T01:24:03.617295",
+    "last_updated": "2025-06-19T07:29:05.313333",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -19,8 +19,8 @@
             "price": 399.99,
             "savings": 101.0,
             "discount_percent": 25.250631265781642,
-            "priority_score": 638.3284569182831,
-            "reviews": 5415,
+            "priority_score": 638.3351157156844,
+            "reviews": 5416,
             "image_url": "images/6505727.jpg"
         },
         {
@@ -85,8 +85,8 @@
             "price": 899.99,
             "savings": 50.0,
             "discount_percent": 5.5556172846364955,
-            "priority_score": 427.57498889826786,
-            "reviews": 4072,
+            "priority_score": 427.58384304732965,
+            "reviews": 4073,
             "image_url": "images/6280563.jpg"
         },
         {
@@ -99,17 +99,6 @@
             "priority_score": 407.7015709268354,
             "reviews": 1437,
             "image_url": "images/6280557.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Sony - SA - RS3S Wireless Rear Speaker - Black",
-            "sku": "6467454",
-            "price": 349.99,
-            "savings": 51.0,
-            "discount_percent": 14.571844909854567,
-            "priority_score": 399.8592245492728,
-            "reviews": 511,
-            "image_url": "images/6467454.jpg"
         }
     ]
 }
