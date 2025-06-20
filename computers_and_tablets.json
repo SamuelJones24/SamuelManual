@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-19T19:54:32.486851",
+    "last_updated": "2025-06-20T01:23:36.253585",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -37,13 +37,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Black",
-            "sku": "",
+            "sku": "6583049",
             "price": 279.99,
             "savings": 83.0,
             "discount_percent": 29.64391585413765,
             "priority_score": 506.73057222421556,
             "reviews": 207,
-            "image_url": "images/.jpg"
+            "image_url": "images/6583049.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -118,8 +118,8 @@
             "price": 1499.0,
             "savings": 74.95,
             "discount_percent": 5.0,
-            "priority_score": 402.0202096951091,
-            "reviews": 542,
+            "priority_score": 402.0865710312585,
+            "reviews": 543,
             "image_url": "images/6533542.jpg"
         },
         {
@@ -165,17 +165,6 @@
             "priority_score": 345.73557503843625,
             "reviews": 261,
             "image_url": "images/5495364.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Speck - Balance Folio Case for Apple iPad Pro 11\u201d (latest model/M4 chip) - Black/White",
-            "sku": "6579534",
-            "price": 49.99,
-            "savings": 24.0,
-            "discount_percent": 48.00960192038408,
-            "priority_score": 345.2608811847764,
-            "reviews": 69,
-            "image_url": "images/6579534.jpg"
         },
         {
             "category": "Computers and Tablets",
