@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-19T13:24:31.960693",
+    "last_updated": "2025-06-19T19:54:32.486851",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -8,8 +8,8 @@
             "price": 119.99,
             "savings": 60.0,
             "discount_percent": 50.00416701391784,
-            "priority_score": 613.0910233488278,
-            "reviews": 844,
+            "priority_score": 613.1762890528942,
+            "reviews": 846,
             "image_url": "images/6485246.jpg"
         },
         {
@@ -37,13 +37,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Black",
-            "sku": "6583049",
+            "sku": "",
             "price": 279.99,
             "savings": 83.0,
             "discount_percent": 29.64391585413765,
             "priority_score": 506.73057222421556,
             "reviews": 207,
-            "image_url": "images/6583049.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -52,8 +52,8 @@
             "price": 49.99,
             "savings": 30.0,
             "discount_percent": 60.01200240048009,
-            "priority_score": 485.9767055307254,
-            "reviews": 914,
+            "priority_score": 486.01610190386384,
+            "reviews": 915,
             "image_url": "images/6514563.jpg"
         },
         {
@@ -102,17 +102,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - MacBook Pro 14 - inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Space Black",
-            "sku": "6602741",
-            "price": 1599.0,
-            "savings": 79.95,
-            "discount_percent": 5.0,
-            "priority_score": 434.0446071165522,
-            "reviews": 999,
-            "image_url": "images/6602741.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
             "sku": "6398057",
             "price": 499.99,
@@ -121,6 +110,17 @@
             "priority_score": 409.3769858036735,
             "reviews": 1327,
             "image_url": "images/6398057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
+            "sku": "6533542",
+            "price": 1499.0,
+            "savings": 74.95,
+            "discount_percent": 5.0,
+            "priority_score": 402.0202096951091,
+            "reviews": 542,
+            "image_url": "images/6533542.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -151,8 +151,8 @@
             "price": 1199.0,
             "savings": 59.95,
             "discount_percent": 5.0,
-            "priority_score": 346.14621373626403,
-            "reviews": 264,
+            "priority_score": 346.2820608875297,
+            "reviews": 265,
             "image_url": "images/6565863.jpg"
         },
         {
@@ -176,6 +176,17 @@
             "priority_score": 345.2608811847764,
             "reviews": 69,
             "image_url": "images/6579534.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - MacBook Air 13 - inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Midnight",
+            "sku": "6534638",
+            "price": 1399.0,
+            "savings": 69.95,
+            "discount_percent": 5.0,
+            "priority_score": 336.3495248781893,
+            "reviews": 115,
+            "image_url": "images/6534638.jpg"
         },
         {
             "category": "Computers and Tablets",
