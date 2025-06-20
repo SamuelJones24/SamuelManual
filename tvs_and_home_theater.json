@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-20T01:23:36.253585",
+    "last_updated": "2025-06-20T07:27:35.275133",
     "deals": [
         {
             "category": "TVs and Home Theater",
@@ -22,17 +22,6 @@
             "priority_score": 554.5377929901226,
             "reviews": 1759,
             "image_url": "images/6278202.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "Bose - Smart Ultra Soundbar with Dolby Atmos and Voice Assistant - Black",
-            "sku": "",
-            "price": 999.99,
-            "savings": 100.0,
-            "discount_percent": 10.00010000100001,
-            "priority_score": 479.0602832239227,
-            "reviews": 572,
-            "image_url": "images/.jpg"
         }
     ]
 }
