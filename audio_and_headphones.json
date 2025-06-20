@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-20T07:27:35.275133",
+    "last_updated": "2025-06-20T13:17:59.145699",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -14,13 +14,24 @@
         },
         {
             "category": "Audio & Headphones",
+            "title": "Sony - STRDH790 - 7.2 - Ch. with Dolby Atmos & Dolby Vision 4K Ultra HD HDR A/V Home Theater Receiver - Black",
+            "sku": "6219445",
+            "price": 499.99,
+            "savings": 121.0,
+            "discount_percent": 24.200484009680192,
+            "priority_score": 641.9676622537629,
+            "reviews": 2285,
+            "image_url": "images/6219445.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
             "title": "Sony - WH1000XM5 Wireless Noise - Canceling Over - the - Ear Headphones - Black",
             "sku": "6505727",
             "price": 399.99,
             "savings": 101.0,
             "discount_percent": 25.250631265781642,
-            "priority_score": 638.3484296235589,
-            "reviews": 5418,
+            "priority_score": 638.4082814643796,
+            "reviews": 5427,
             "image_url": "images/6505727.jpg"
         },
         {
@@ -30,8 +41,8 @@
             "price": 299.99,
             "savings": 70.0,
             "discount_percent": 23.3341111370379,
-            "priority_score": 593.7218464110373,
-            "reviews": 11441,
+            "priority_score": 593.7439050052469,
+            "reviews": 11448,
             "image_url": "images/6428314.jpg"
         },
         {
@@ -63,8 +74,8 @@
             "price": 899.0,
             "savings": 100.0,
             "discount_percent": 11.123470522803114,
-            "priority_score": 465.85212601745815,
-            "reviews": 339,
+            "priority_score": 465.9580508396199,
+            "reviews": 340,
             "image_url": "images/6519391.jpg"
         },
         {
@@ -74,8 +85,8 @@
             "price": 229.99,
             "savings": 50.0,
             "discount_percent": 21.740075655463283,
-            "priority_score": 453.31624941625444,
-            "reviews": 881,
+            "priority_score": 453.43871940157544,
+            "reviews": 884,
             "image_url": "images/6580349.jpg"
         },
         {
@@ -85,9 +96,20 @@
             "price": 329.99,
             "savings": 80.0,
             "discount_percent": 24.243158883602533,
-            "priority_score": 443.1091301921726,
-            "reviews": 88,
+            "priority_score": 445.0805157099536,
+            "reviews": 93,
             "image_url": "images/6620181.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Denon - AVR - S770H (75W X 7) 7.2 - Ch. with HEOS and Dolby Atmos 8K Ultra HD HDR Compatible AV Home Theater Receiver with Alexa - Black",
+            "sku": "6551305",
+            "price": 699.0,
+            "savings": 100.0,
+            "discount_percent": 14.306151645207441,
+            "priority_score": 439.3868961676903,
+            "reviews": 104,
+            "image_url": "images/6551305.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -96,8 +118,8 @@
             "price": 899.99,
             "savings": 50.0,
             "discount_percent": 5.5556172846364955,
-            "priority_score": 427.58384304732965,
-            "reviews": 4073,
+            "priority_score": 427.59269502332756,
+            "reviews": 4074,
             "image_url": "images/6280563.jpg"
         },
         {
@@ -107,8 +129,8 @@
             "price": 199.99,
             "savings": 50.0,
             "discount_percent": 25.00125006250312,
-            "priority_score": 380.72671757491264,
-            "reviews": 74,
+            "priority_score": 382.14130578407185,
+            "reviews": 77,
             "image_url": "images/6620180.jpg"
         }
     ]

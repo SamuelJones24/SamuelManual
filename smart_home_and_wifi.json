@@ -1,6 +1,28 @@
 {
-    "last_updated": "2025-06-20T07:27:35.275133",
+    "last_updated": "2025-06-20T13:17:59.145699",
     "deals": [
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Ring Floodlight Cam Pro with 2K Video and Ring Vision, 2 LED Lights, Dual Band Wi - Fi, and 3D Motion Detection - Black",
+            "sku": "",
+            "price": 249.99,
+            "savings": 70.0,
+            "discount_percent": 28.00112004480179,
+            "priority_score": 543.9661180557255,
+            "reviews": 1507,
+            "image_url": "images/.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Google - Nest Cam 2 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
+            "sku": "6473265",
+            "price": 329.99,
+            "savings": 70.0,
+            "discount_percent": 21.212764023152218,
+            "priority_score": 528.2421997679287,
+            "reviews": 2498,
+            "image_url": "images/6473265.jpg"
+        },
         {
             "category": "Smart Home and Wifi",
             "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
@@ -8,9 +30,31 @@
             "price": 449.99,
             "savings": 60.0,
             "discount_percent": 13.333629636214136,
-            "priority_score": 468.817650829276,
-            "reviews": 2496,
+            "priority_score": 468.84652783323827,
+            "reviews": 2498,
             "image_url": "images/6559342.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Yale - Assure Lock 2 - Smart Lock Wi - Fi Deadbolt with Push Button Keypad | Key Access - Black Suede",
+            "sku": "6540358",
+            "price": 259.99,
+            "savings": 56.0,
+            "discount_percent": 21.539289972691257,
+            "priority_score": 427.06196858574697,
+            "reviews": 313,
+            "image_url": "images/6540358.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
+            "sku": "6398057",
+            "price": 499.99,
+            "savings": 50.0,
+            "discount_percent": 10.00020000400008,
+            "priority_score": 409.40413475190473,
+            "reviews": 1328,
+            "image_url": "images/6398057.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -22,6 +66,17 @@
             "priority_score": 399.2646927561557,
             "reviews": 459,
             "image_url": "images/6567807.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6553330",
+            "price": 1999.99,
+            "savings": 50.0,
+            "discount_percent": 2.5000125000625,
+            "priority_score": 305.8678030059585,
+            "reviews": 212,
+            "image_url": "images/6553330.jpg"
         }
     ]
 }
