@@ -1,16 +1,16 @@
 {
-    "last_updated": "2025-06-20T13:17:59.145699",
+    "last_updated": "2025-06-21T01:23:36.130262",
     "deals": [
         {
             "category": "Smart Home and Wifi",
             "title": "Ring Floodlight Cam Pro with 2K Video and Ring Vision, 2 LED Lights, Dual Band Wi - Fi, and 3D Motion Detection - Black",
-            "sku": "",
+            "sku": "6456123",
             "price": 249.99,
             "savings": 70.0,
             "discount_percent": 28.00112004480179,
-            "priority_score": 543.9661180557255,
-            "reviews": 1507,
-            "image_url": "images/.jpg"
+            "priority_score": 544.0377988531297,
+            "reviews": 1510,
+            "image_url": "images/6456123.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -47,36 +47,14 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
-            "sku": "6398057",
-            "price": 499.99,
-            "savings": 50.0,
-            "discount_percent": 10.00020000400008,
-            "priority_score": 409.40413475190473,
-            "reviews": 1328,
-            "image_url": "images/6398057.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
             "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
             "sku": "6567807",
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
-            "priority_score": 399.2646927561557,
-            "reviews": 459,
+            "priority_score": 399.42116751794777,
+            "reviews": 461,
             "image_url": "images/6567807.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6553330",
-            "price": 1999.99,
-            "savings": 50.0,
-            "discount_percent": 2.5000125000625,
-            "priority_score": 305.8678030059585,
-            "reviews": 212,
-            "image_url": "images/6553330.jpg"
         }
     ]
 }

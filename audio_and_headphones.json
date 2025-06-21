@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-20T13:17:59.145699",
+    "last_updated": "2025-06-21T01:23:36.130262",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -8,8 +8,8 @@
             "price": 699.99,
             "savings": 200.0,
             "discount_percent": 28.571836740524866,
-            "priority_score": 714.3087085808137,
-            "reviews": 115,
+            "priority_score": 714.6183016922095,
+            "reviews": 116,
             "image_url": "images/6554782.jpg"
         },
         {
@@ -19,8 +19,8 @@
             "price": 499.99,
             "savings": 121.0,
             "discount_percent": 24.200484009680192,
-            "priority_score": 641.9676622537629,
-            "reviews": 2285,
+            "priority_score": 641.9834363086927,
+            "reviews": 2286,
             "image_url": "images/6219445.jpg"
         },
         {
@@ -30,20 +30,20 @@
             "price": 399.99,
             "savings": 101.0,
             "discount_percent": 25.250631265781642,
-            "priority_score": 638.4082814643796,
-            "reviews": 5427,
+            "priority_score": 638.4547643267749,
+            "reviews": 5434,
             "image_url": "images/6505727.jpg"
         },
         {
             "category": "Audio & Headphones",
-            "title": "Sony - WH1000XM4 Wireless Noise - Cancelling Over - the - Ear Headphones - Midnight Blue",
-            "sku": "6428314",
+            "title": "Sony - WH1000XM4 Wireless Noise - Cancelling Over - the - Ear Headphones - Black",
+            "sku": "6408356",
             "price": 299.99,
-            "savings": 70.0,
-            "discount_percent": 23.3341111370379,
-            "priority_score": 593.7439050052469,
-            "reviews": 11448,
-            "image_url": "images/6428314.jpg"
+            "savings": 82.0,
+            "discount_percent": 27.334244474815826,
+            "priority_score": 637.7792079651858,
+            "reviews": 11459,
+            "image_url": "images/6408356.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -63,8 +63,8 @@
             "price": 999.99,
             "savings": 100.0,
             "discount_percent": 10.00010000100001,
-            "priority_score": 479.0602832239227,
-            "reviews": 572,
+            "priority_score": 479.12317317189223,
+            "reviews": 573,
             "image_url": "images/6550611.jpg"
         },
         {
@@ -74,8 +74,8 @@
             "price": 899.0,
             "savings": 100.0,
             "discount_percent": 11.123470522803114,
-            "priority_score": 465.9580508396199,
-            "reviews": 340,
+            "priority_score": 466.1689717683359,
+            "reviews": 342,
             "image_url": "images/6519391.jpg"
         },
         {
@@ -85,8 +85,8 @@
             "price": 229.99,
             "savings": 50.0,
             "discount_percent": 21.740075655463283,
-            "priority_score": 453.43871940157544,
-            "reviews": 884,
+            "priority_score": 453.47945049119187,
+            "reviews": 885,
             "image_url": "images/6580349.jpg"
         },
         {
@@ -96,8 +96,8 @@
             "price": 329.99,
             "savings": 80.0,
             "discount_percent": 24.243158883602533,
-            "priority_score": 445.0805157099536,
-            "reviews": 93,
+            "priority_score": 445.83985693604154,
+            "reviews": 95,
             "image_url": "images/6620181.jpg"
         },
         {
@@ -118,8 +118,8 @@
             "price": 899.99,
             "savings": 50.0,
             "discount_percent": 5.5556172846364955,
-            "priority_score": 427.59269502332756,
-            "reviews": 4074,
+            "priority_score": 427.61039246039616,
+            "reviews": 4076,
             "image_url": "images/6280563.jpg"
         },
         {
@@ -129,8 +129,8 @@
             "price": 199.99,
             "savings": 50.0,
             "discount_percent": 25.00125006250312,
-            "priority_score": 382.14130578407185,
-            "reviews": 77,
+            "priority_score": 383.50250038463116,
+            "reviews": 80,
             "image_url": "images/6620180.jpg"
         }
     ]

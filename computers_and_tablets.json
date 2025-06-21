@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-06-20T07:27:35.275133",
+    "last_updated": "2025-06-21T01:23:36.130262",
     "deals": [
-        {
-            "category": "Computers and Tablets",
-            "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
-            "sku": "",
-            "price": 119.99,
-            "savings": 60.0,
-            "discount_percent": 50.00416701391784,
-            "priority_score": 613.1762890528942,
-            "reviews": 846,
-            "image_url": "images/.jpg"
-        },
         {
             "category": "Computers and Tablets",
             "title": "Samsung - T7 Shield 4TB External USB 3.2 Gen 2 Rugged SSD IP65 Water Resistant - Black",
@@ -19,8 +8,8 @@
             "price": 404.99,
             "savings": 115.0,
             "discount_percent": 28.395762858342184,
-            "priority_score": 602.2151484324347,
-            "reviews": 591,
+            "priority_score": 602.2760216553611,
+            "reviews": 592,
             "image_url": "images/6529365.jpg"
         },
         {
@@ -28,10 +17,10 @@
             "title": "Samsung - Galaxy Tab S10+ - 12.4\" 256GB - Wi - Fi - with S - Pen - Moonstone Gray",
             "sku": "6593196",
             "price": 999.99,
-            "savings": 150.0,
-            "discount_percent": 15.000150001500016,
-            "priority_score": 554.9925586284091,
-            "reviews": 146,
+            "savings": 153.0,
+            "discount_percent": 15.300153001530015,
+            "priority_score": 563.2212322700472,
+            "reviews": 149,
             "image_url": "images/6593196.jpg"
         },
         {
@@ -41,9 +30,20 @@
             "price": 279.99,
             "savings": 83.0,
             "discount_percent": 29.64391585413765,
-            "priority_score": 506.73057222421556,
-            "reviews": 207,
+            "priority_score": 507.0757172123413,
+            "reviews": 209,
             "image_url": "images/6583049.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 88.0,
+            "discount_percent": 29.334311143704788,
+            "priority_score": 491.87616383794705,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -52,20 +52,9 @@
             "price": 49.99,
             "savings": 30.0,
             "discount_percent": 60.01200240048009,
-            "priority_score": 486.01610190386384,
-            "reviews": 915,
+            "priority_score": 486.3297332368417,
+            "reviews": 923,
             "image_url": "images/6514563.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
-            "sku": "6537888",
-            "price": 299.99,
-            "savings": 81.0,
-            "discount_percent": 27.000900030001002,
-            "priority_score": 466.20910826942816,
-            "reviews": 108,
-            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -74,42 +63,20 @@
             "price": 32.99,
             "savings": 18.0,
             "discount_percent": 54.56198848135798,
-            "priority_score": 459.4401893490785,
-            "reviews": 1341,
+            "priority_score": 459.46705517976,
+            "reviews": 1342,
             "image_url": "images/6428299.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "CORSAIR - K70 CORE TKL Compact Wireless RGB Pre - Lubed Linear Mechanical Switches Gaming Keyboard with Sound Dampening - Black",
-            "sku": "6589583",
-            "price": 149.99,
-            "savings": 50.0,
-            "discount_percent": 33.335555703713574,
-            "priority_score": 435.54996607265457,
-            "reviews": 107,
-            "image_url": "images/6589583.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
-            "sku": "5900264",
-            "price": 29.99,
-            "savings": 12.0,
-            "discount_percent": 40.01333777925976,
-            "priority_score": 434.6370505881157,
-            "reviews": 3155,
-            "image_url": "images/5900264.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - MacBook Pro 14 - inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Space Black",
-            "sku": "6602741",
-            "price": 1599.0,
-            "savings": 79.95,
-            "discount_percent": 5.0,
-            "priority_score": 434.0446071165522,
-            "reviews": 999,
-            "image_url": "images/6602741.jpg"
+            "title": "ASUS - ROG Swift 32\" OLED Dual mode (4K 240Hz, FHD 480Hz), 0.03ms, G - SYNC/FreeSync Gaming Monitor with HDR (HDMI, DisplayPort) - Black",
+            "sku": "6588545",
+            "price": 1299.99,
+            "savings": 100.0,
+            "discount_percent": 7.692366864360495,
+            "priority_score": 414.5716873057638,
+            "reviews": 131,
+            "image_url": "images/6588545.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -118,31 +85,9 @@
             "price": 499.99,
             "savings": 50.0,
             "discount_percent": 10.00020000400008,
-            "priority_score": 409.3769858036735,
-            "reviews": 1327,
+            "priority_score": 409.40413475190473,
+            "reviews": 1328,
             "image_url": "images/6398057.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "6533542",
-            "price": 1499.0,
-            "savings": 74.95,
-            "discount_percent": 5.0,
-            "priority_score": 402.0865710312585,
-            "reviews": 543,
-            "image_url": "images/6533542.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Canon - PP - 301 Photo Plus II Glossy Photo 5.12\" x 7.1\" 20 - Count Paper - white",
-            "sku": "5786342",
-            "price": 10.99,
-            "savings": 5.0,
-            "discount_percent": 45.49590536851683,
-            "priority_score": 381.722489508993,
-            "reviews": 679,
-            "image_url": "images/5786342.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -151,8 +96,8 @@
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 368.57236149719097,
-            "reviews": 373,
+            "priority_score": 369.0513509542773,
+            "reviews": 378,
             "image_url": "images/6467298.jpg"
         },
         {
@@ -162,8 +107,8 @@
             "price": 1199.0,
             "savings": 59.95,
             "discount_percent": 5.0,
-            "priority_score": 346.2820608875297,
-            "reviews": 265,
+            "priority_score": 349.64561397200043,
+            "reviews": 291,
             "image_url": "images/6565863.jpg"
         },
         {
@@ -173,8 +118,8 @@
             "price": 49.99,
             "savings": 24.0,
             "discount_percent": 48.00960192038408,
-            "priority_score": 345.2608811847764,
-            "reviews": 69,
+            "priority_score": 347.26513990187595,
+            "reviews": 73,
             "image_url": "images/6579534.jpg"
         },
         {
