@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-21T01:23:36.130262",
+    "last_updated": "2025-06-21T07:25:52.543348",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -69,6 +69,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
+            "sku": "5900264",
+            "price": 29.99,
+            "savings": 12.0,
+            "discount_percent": 40.01333777925976,
+            "priority_score": 434.6598997342852,
+            "reviews": 3157,
+            "image_url": "images/5900264.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "ASUS - ROG Swift 32\" OLED Dual mode (4K 240Hz, FHD 480Hz), 0.03ms, G - SYNC/FreeSync Gaming Monitor with HDR (HDMI, DisplayPort) - Black",
             "sku": "6588545",
             "price": 1299.99,
@@ -107,8 +118,8 @@
             "price": 1199.0,
             "savings": 59.95,
             "discount_percent": 5.0,
-            "priority_score": 349.64561397200043,
-            "reviews": 291,
+            "priority_score": 349.7689213605562,
+            "reviews": 292,
             "image_url": "images/6565863.jpg"
         },
         {
