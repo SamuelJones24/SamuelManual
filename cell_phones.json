@@ -1,16 +1,16 @@
 {
-    "last_updated": "2025-06-18T01:24:33.814899",
+    "last_updated": "2025-06-22T13:23:04.927367",
     "deals": [
         {
             "category": "Cell Phones",
-            "title": "Anker - Prime Power Bank (9.6K, 65W, Fusion) - Black",
-            "sku": "6599394",
-            "price": 109.99,
-            "savings": 47.0,
-            "discount_percent": 42.731157377943454,
-            "priority_score": 352.42980627455415,
-            "reviews": 36,
-            "image_url": "images/6599394.jpg"
+            "title": "OtterBox - Commuter Series Hard Shell for Samsung Galaxy S24 - Black",
+            "sku": "6567464",
+            "price": 49.99,
+            "savings": 24.0,
+            "discount_percent": 48.00960192038408,
+            "priority_score": 362.5332798215319,
+            "reviews": 112,
+            "image_url": "images/6567464.jpg"
         }
     ]
 }

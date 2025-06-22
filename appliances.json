@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-22T07:28:18.460391",
+    "last_updated": "2025-06-22T13:23:04.927367",
     "deals": [
         {
             "category": "Appliances",
@@ -8,9 +8,20 @@
             "price": 3299.99,
             "savings": 300.0,
             "discount_percent": 9.090936639201939,
-            "priority_score": 832.5500776276161,
-            "reviews": 178,
+            "priority_score": 832.7510106042515,
+            "reviews": 179,
             "image_url": "images/6571681.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Shark - Pet Cordless Stick Vacuum with XL Dust Cup, LED Headlights - Blue Iris",
+            "sku": "6359269",
+            "price": 299.99,
+            "savings": 120.0,
+            "discount_percent": 40.00133337777926,
+            "priority_score": 725.1617920243677,
+            "reviews": 2713,
+            "image_url": "images/6359269.jpg"
         },
         {
             "category": "Appliances",
@@ -22,17 +33,6 @@
             "priority_score": 636.8710047300137,
             "reviews": 741,
             "image_url": "images/6470678.jpg"
-        },
-        {
-            "category": "Appliances",
-            "title": "Shark - HydroDuo with Dirt - Reveal Technology, Cordless wet & dry hard floor cleaner picks up, mops, & scrubs - Stone Metallic",
-            "sku": "6599424",
-            "price": 149.99,
-            "savings": 50.0,
-            "discount_percent": 33.335555703713574,
-            "priority_score": 440.5326862782397,
-            "reviews": 123,
-            "image_url": "images/6599424.jpg"
         }
     ]
 }

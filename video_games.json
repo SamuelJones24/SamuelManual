@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-22T07:28:18.460391",
+    "last_updated": "2025-06-22T13:23:04.927367",
     "deals": [
+        {
+            "category": "Video Games",
+            "title": "Turtle Beach - Stealth Ultra Wireless Controller with Charge Dock, 30 - Hour Battery, Designed for Xbox Series X|S, Windows PC, Android - Black",
+            "sku": "6562064",
+            "price": 219.99,
+            "savings": 64.0,
+            "discount_percent": 29.092231465066593,
+            "priority_score": 505.94135778501493,
+            "reviews": 629,
+            "image_url": "images/6562064.jpg"
+        },
         {
             "category": "Video Games",
             "title": "PowerA - Dual Charging Station for Xbox Series X|S - Black",
