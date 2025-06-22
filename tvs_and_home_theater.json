@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-22T01:22:37.783436",
+    "last_updated": "2025-06-22T07:28:18.460391",
     "deals": [
         {
             "category": "TVs and Home Theater",
@@ -19,8 +19,8 @@
             "price": 999.99,
             "savings": 100.0,
             "discount_percent": 10.00010000100001,
-            "priority_score": 479.12317317189223,
-            "reviews": 573,
+            "priority_score": 479.1859536507935,
+            "reviews": 574,
             "image_url": "images/6550611.jpg"
         }
     ]

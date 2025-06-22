@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-22T01:22:37.783436",
+    "last_updated": "2025-06-22T07:28:18.460391",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -102,6 +102,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver",
+            "sku": "6467298",
+            "price": 1299.0,
+            "savings": 64.95,
+            "discount_percent": 5.0,
+            "priority_score": 369.24117968733304,
+            "reviews": 380,
+            "image_url": "images/6467298.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Apple - MacBook Air 13 - inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Midnight",
             "sku": "6565863",
             "price": 1199.0,
@@ -110,17 +121,6 @@
             "priority_score": 350.0142786062301,
             "reviews": 294,
             "image_url": "images/6565863.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Speck - Balance Folio Case for Apple iPad Pro 11\u201d (latest model/M4 chip) - Black/White",
-            "sku": "6579534",
-            "price": 49.99,
-            "savings": 24.0,
-            "discount_percent": 48.00960192038408,
-            "priority_score": 347.26513990187595,
-            "reviews": 73,
-            "image_url": "images/6579534.jpg"
         },
         {
             "category": "Computers and Tablets",
