@@ -1,16 +1,16 @@
 {
-    "last_updated": "2025-06-21T13:21:40.906879",
+    "last_updated": "2025-06-21T20:01:51.840502",
     "deals": [
         {
             "category": "Appliances",
-            "title": "Levoit - PlasmaPro 400s Smart Air Purifier - White",
-            "sku": "6470678",
-            "price": 289.99,
-            "savings": 107.0,
-            "discount_percent": 36.89782406289872,
-            "priority_score": 636.8710047300137,
-            "reviews": 741,
-            "image_url": "images/6470678.jpg"
+            "title": "Samsung - Bespoke 29 Cu. Ft. 4 - Door Flex French Door Smart Refrigerator with AI Family Hub+ and AI Vision Inside - Stainless Steel",
+            "sku": "6571681",
+            "price": 3299.99,
+            "savings": 300.0,
+            "discount_percent": 9.090936639201939,
+            "priority_score": 832.5500776276161,
+            "reviews": 178,
+            "image_url": "images/6571681.jpg"
         }
     ]
 }

@@ -1,26 +1,15 @@
 {
-    "last_updated": "2025-06-21T07:25:52.543348",
+    "last_updated": "2025-06-21T20:01:51.840502",
     "deals": [
         {
             "category": "TVs and Home Theater",
             "title": "Panasonic - Streaming 4K Ultra HD Hi - Res Audio with Dolby Vision 7.1 Channel DVD/CD/3D Wi - Fi Built - In Blu - Ray Player, DP - UB820 - K - Black",
-            "sku": "6278202",
+            "sku": "",
             "price": 499.98,
             "savings": 103.0,
             "discount_percent": 20.600824032961317,
             "priority_score": 578.5586000105868,
             "reviews": 1760,
-            "image_url": "images/6278202.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "Bose - Smart Ultra Soundbar with Dolby Atmos and Voice Assistant - Black",
-            "sku": "",
-            "price": 999.99,
-            "savings": 100.0,
-            "discount_percent": 10.00010000100001,
-            "priority_score": 479.12317317189223,
-            "reviews": 573,
             "image_url": "images/.jpg"
         }
     ]
