@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-21T20:01:51.840502",
+    "last_updated": "2025-06-22T01:22:37.783436",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -102,24 +102,13 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver",
-            "sku": "6467298",
-            "price": 1299.0,
-            "savings": 64.95,
-            "discount_percent": 5.0,
-            "priority_score": 369.24117968733304,
-            "reviews": 380,
-            "image_url": "images/6467298.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Apple - MacBook Air 13 - inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Midnight",
             "sku": "6565863",
             "price": 1199.0,
             "savings": 59.95,
             "discount_percent": 5.0,
-            "priority_score": 349.8918086209091,
-            "reviews": 293,
+            "priority_score": 350.0142786062301,
+            "reviews": 294,
             "image_url": "images/6565863.jpg"
         },
         {
