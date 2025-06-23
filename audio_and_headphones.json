@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-22T19:59:39.187099",
+    "last_updated": "2025-06-23T01:25:49.788462",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -8,9 +8,20 @@
             "price": 699.99,
             "savings": 200.0,
             "discount_percent": 28.571836740524866,
-            "priority_score": 714.9252599366704,
-            "reviews": 117,
+            "priority_score": 715.2296277853229,
+            "reviews": 118,
             "image_url": "images/6554782.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Skullcandy - Crusher Evo Over - the - Ear Wireless Headphones - Matte Black",
+            "sku": "6580350",
+            "price": 199.99,
+            "savings": 82.0,
+            "discount_percent": 41.00205010250512,
+            "priority_score": 658.2566407207994,
+            "reviews": 3039,
+            "image_url": "images/6580350.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -30,20 +41,31 @@
             "price": 399.99,
             "savings": 101.0,
             "discount_percent": 25.250631265781642,
-            "priority_score": 638.5011873601502,
-            "reviews": 5441,
+            "priority_score": 638.5078143470355,
+            "reviews": 5442,
             "image_url": "images/6505727.jpg"
         },
         {
             "category": "Audio & Headphones",
-            "title": "Sony - WH1000XM4 Wireless Noise - Cancelling Over - the - Ear Headphones - Midnight Blue",
-            "sku": "6428314",
-            "price": 299.99,
+            "title": "Shokz - OpenRun Pro Premium Bone Conduction Open - Ear Sport Headphones - Steel Blue",
+            "sku": "6520487",
+            "price": 159.99,
+            "savings": 50.0,
+            "discount_percent": 31.25195324707794,
+            "priority_score": 550.66030911671,
+            "reviews": 3506,
+            "image_url": "images/6520487.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Shokz - OpenRun Pro 2 Bone Conduction Open - Ear Sports Headphones - Steel Blue",
+            "sku": "6590116",
+            "price": 179.99,
             "savings": 70.0,
-            "discount_percent": 23.3341111370379,
-            "priority_score": 593.7974197776548,
-            "reviews": 11465,
-            "image_url": "images/6428314.jpg"
+            "discount_percent": 38.89104950275015,
+            "priority_score": 545.1118663813032,
+            "reviews": 343,
+            "image_url": "images/6590116.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -52,8 +74,8 @@
             "price": 299.99,
             "savings": 90.0,
             "discount_percent": 30.001000033334446,
-            "priority_score": 533.1080329624019,
-            "reviews": 278,
+            "priority_score": 533.2370755902964,
+            "reviews": 279,
             "image_url": "images/6534102.jpg"
         },
         {
@@ -80,17 +102,6 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Sony - ULT FIELD 5 Wireless Speaker - Black",
-            "sku": "6620181",
-            "price": 329.99,
-            "savings": 80.0,
-            "discount_percent": 24.243158883602533,
-            "priority_score": 447.31219916238075,
-            "reviews": 99,
-            "image_url": "images/6620181.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "Denon - AVR - S770H (75W X 7) 7.2 - Ch. with HEOS and Dolby Atmos 8K Ultra HD HDR Compatible AV Home Theater Receiver with Alexa - Black",
             "sku": "6551305",
             "price": 699.0,
@@ -110,17 +121,6 @@
             "priority_score": 427.61923792359744,
             "reviews": 4077,
             "image_url": "images/6280563.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Sony - ULT FIELD 3 Wireless Speaker - Black",
-            "sku": "6620180",
-            "price": 199.99,
-            "savings": 50.0,
-            "discount_percent": 25.00125006250312,
-            "priority_score": 384.3822360961887,
-            "reviews": 82,
-            "image_url": "images/6620180.jpg"
         },
         {
             "category": "Audio & Headphones",

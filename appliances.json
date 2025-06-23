@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-22T19:59:39.187099",
+    "last_updated": "2025-06-23T01:25:49.788462",
     "deals": [
         {
             "category": "Appliances",
@@ -33,6 +33,17 @@
             "priority_score": 636.8710047300137,
             "reviews": 741,
             "image_url": "images/6470678.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Tineco - GO H2O XL Cordless Floor Washer - Grey",
+            "sku": "6585782",
+            "price": 299.99,
+            "savings": 110.0,
+            "discount_percent": 36.66788892963099,
+            "priority_score": 556.5715200717791,
+            "reviews": 69,
+            "image_url": "images/6585782.jpg"
         }
     ]
 }

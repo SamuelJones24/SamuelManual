@@ -1,6 +1,28 @@
 {
-    "last_updated": "2025-06-22T19:59:39.187099",
+    "last_updated": "2025-06-23T01:25:49.788462",
     "deals": [
+        {
+            "category": "Computers and Tablets",
+            "title": "Samsung - 49\" Odyssey OLED G9 (G93SD) Dual - QHD 240Hz 0.03ms G - Sync Compatible Curved Glare Free Gaming Monitor - Silver",
+            "sku": "6599654",
+            "price": 1699.99,
+            "savings": 500.0,
+            "discount_percent": 29.41193771728069,
+            "priority_score": 1287.4274346892835,
+            "reviews": 48,
+            "image_url": "images/6599654.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
+            "sku": "6533542",
+            "price": 1499.0,
+            "savings": 169.95,
+            "discount_percent": 11.337558372248164,
+            "priority_score": 624.6908246569706,
+            "reviews": 557,
+            "image_url": "images/6533542.jpg"
+        },
         {
             "category": "Computers and Tablets",
             "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
@@ -14,14 +36,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Samsung - T7 Shield 4TB External USB 3.2 Gen 2 Rugged SSD IP65 Water Resistant - Black",
-            "sku": "6529365",
-            "price": 404.99,
-            "savings": 115.0,
-            "discount_percent": 28.395762858342184,
-            "priority_score": 602.33679231173,
-            "reviews": 593,
-            "image_url": "images/6529365.jpg"
+            "title": "Google - Pixel Tablet - 11\" Android Tablet - 128GB - WiFi - Porcelain",
+            "sku": "6578701",
+            "price": 399.0,
+            "savings": 120.0,
+            "discount_percent": 30.075187969924812,
+            "priority_score": 577.066078601699,
+            "reviews": 176,
+            "image_url": "images/6578701.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -36,6 +58,28 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Samsung - T7 Shield 2TB External USB 3.2 Gen 2 Rugged SSD IP65 Water Resistant - Black",
+            "sku": "6501714",
+            "price": 229.99,
+            "savings": 70.0,
+            "discount_percent": 30.436105917648593,
+            "priority_score": 549.054541391758,
+            "reviews": 1238,
+            "image_url": "images/6501714.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Samsung - Galaxy Tab S9 Ultra - 14.6\" 256GB - Wi - Fi - with S - Pen - Graphite",
+            "sku": "6546675",
+            "price": 799.99,
+            "savings": 100.0,
+            "discount_percent": 12.500156251953149,
+            "priority_score": 495.2092570132509,
+            "reviews": 633,
+            "image_url": "images/6546675.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Speck - Balance Folio Case for Apple iPad Air 11\"(latest M3/M2), iPad Pro 11\"(3rd/2nd/1st Gen) & iPad Air 10.9\"(5th/4th Gen) - Black/White",
             "sku": "6514563",
             "price": 49.99,
@@ -47,6 +91,28 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
+            "sku": "6398057",
+            "price": 499.99,
+            "savings": 75.0,
+            "discount_percent": 15.000300006000119,
+            "priority_score": 484.40463476190496,
+            "reviews": 1328,
+            "image_url": "images/6398057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 80.0,
+            "discount_percent": 26.66755558518617,
+            "priority_score": 462.54238604535396,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "CORSAIR - MM300 PRO Gaming Mouse Pad with Premium Spill - Proof Cloth - Extended - Black",
             "sku": "6428299",
             "price": 32.99,
@@ -55,6 +121,17 @@
             "priority_score": 459.46705517976,
             "reviews": 1342,
             "image_url": "images/6428299.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - MacBook Pro 14 - inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Space Black",
+            "sku": "6602741",
+            "price": 1599.0,
+            "savings": 79.95,
+            "discount_percent": 5.0,
+            "priority_score": 434.7234584041454,
+            "reviews": 1018,
+            "image_url": "images/6602741.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -80,25 +157,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
-            "sku": "6398057",
-            "price": 499.99,
+            "title": "TP - Link - Archer BE6500 Dual - Band Wi - Fi 7 Router - Black",
+            "sku": "6583791",
+            "price": 179.99,
             "savings": 50.0,
-            "discount_percent": 10.00020000400008,
-            "priority_score": 409.40413475190473,
-            "reviews": 1328,
-            "image_url": "images/6398057.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "6533542",
-            "price": 1399.0,
-            "savings": 69.95,
-            "discount_percent": 5.0,
-            "priority_score": 393.0030327957297,
-            "reviews": 557,
-            "image_url": "images/6533542.jpg"
+            "discount_percent": 27.779321073392964,
+            "priority_score": 409.08047841840494,
+            "reviews": 111,
+            "image_url": "images/6583791.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -113,25 +179,25 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - MacBook Air 13 - inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Midnight",
-            "sku": "6565863",
-            "price": 1199.0,
-            "savings": 59.95,
-            "discount_percent": 5.0,
-            "priority_score": 350.37921301155404,
-            "reviews": 297,
-            "image_url": "images/6565863.jpg"
+            "title": "Samsung - T7 4TB External USB 3.2 Gen 2 Portable SSD with Hardware Encryption - Titan Gray",
+            "sku": "6576883",
+            "price": 344.99,
+            "savings": 65.0,
+            "discount_percent": 18.841125829734196,
+            "priority_score": 366.0162626979584,
+            "reviews": 50,
+            "image_url": "images/6576883.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6553330",
-            "price": 1999.99,
-            "savings": 50.0,
-            "discount_percent": 2.5000125000625,
-            "priority_score": 305.8678030059585,
-            "reviews": 212,
-            "image_url": "images/6553330.jpg"
+            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6612971",
+            "price": 1299.99,
+            "savings": 75.0,
+            "discount_percent": 5.7692751482703715,
+            "priority_score": 253.84637574135186,
+            "reviews": 7,
+            "image_url": "images/6612971.jpg"
         }
     ]
 }

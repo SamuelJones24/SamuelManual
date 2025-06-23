@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-06-22T19:59:39.187099",
+    "last_updated": "2025-06-23T01:25:49.788462",
     "deals": [
-        {
-            "category": "TVs and Home Theater",
-            "title": "LG - 65\" Class C4 Series OLED evo 4K UHD Smart webOS TV (2024)",
-            "sku": "6578042",
-            "price": 1499.99,
-            "savings": 303.0,
-            "discount_percent": 20.200134667564452,
-            "priority_score": 958.1787711406729,
-            "reviews": 1057,
-            "image_url": "images/6578042.jpg"
-        },
         {
             "category": "TVs and Home Theater",
             "title": "Panasonic - Streaming 4K Ultra HD Hi - Res Audio with Dolby Vision 7.1 Channel DVD/CD/3D Wi - Fi Built - In Blu - Ray Player, DP - UB820 - K - Black",
@@ -22,6 +11,17 @@
             "priority_score": 554.5582799977863,
             "reviews": 1760,
             "image_url": "images/6278202.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "LG - 65\" Class C4 Series OLED evo 4K UHD Smart webOS TV (2024)",
+            "sku": "6578042",
+            "price": 1299.99,
+            "savings": 103.0,
+            "discount_percent": 7.92313787029131,
+            "priority_score": 496.86190308772063,
+            "reviews": 1059,
+            "image_url": "images/6578042.jpg"
         },
         {
             "category": "TVs and Home Theater",
