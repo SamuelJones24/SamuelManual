@@ -1,28 +1,6 @@
 {
-    "last_updated": "2025-06-23T07:28:52.437928",
+    "last_updated": "2025-06-23T13:27:17.478371",
     "deals": [
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - Authentics 500 Smart Home Speaker - Black",
-            "sku": "6554782",
-            "price": 699.99,
-            "savings": 200.0,
-            "discount_percent": 28.571836740524866,
-            "priority_score": 715.2296277853229,
-            "reviews": 118,
-            "image_url": "images/6554782.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Skullcandy - Crusher Evo Over - the - Ear Wireless Headphones - Matte Black",
-            "sku": "6580350",
-            "price": 199.99,
-            "savings": 82.0,
-            "discount_percent": 41.00205010250512,
-            "priority_score": 658.2566407207994,
-            "reviews": 3039,
-            "image_url": "images/6580350.jpg"
-        },
         {
             "category": "Audio & Headphones",
             "title": "Sony - STRDH790 - 7.2 - Ch. with Dolby Atmos & Dolby Vision 4K Ultra HD HDR A/V Home Theater Receiver - Black",
@@ -30,8 +8,8 @@
             "price": 499.99,
             "savings": 121.0,
             "discount_percent": 24.200484009680192,
-            "priority_score": 641.9834363086927,
-            "reviews": 2286,
+            "priority_score": 641.9992034678608,
+            "reviews": 2287,
             "image_url": "images/6219445.jpg"
         },
         {
@@ -41,8 +19,8 @@
             "price": 399.99,
             "savings": 101.0,
             "discount_percent": 25.250631265781642,
-            "priority_score": 638.514440116508,
-            "reviews": 5443,
+            "priority_score": 638.5210646690149,
+            "reviews": 5444,
             "image_url": "images/6505727.jpg"
         },
         {
@@ -52,8 +30,8 @@
             "price": 159.99,
             "savings": 50.0,
             "discount_percent": 31.25195324707794,
-            "priority_score": 550.66030911671,
-            "reviews": 3506,
+            "priority_score": 550.6705920465081,
+            "reviews": 3507,
             "image_url": "images/6520487.jpg"
         },
         {
@@ -69,50 +47,6 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Marshall - Middleton Portable Bluetooth Speaker - Black and Brass",
-            "sku": "6534102",
-            "price": 299.99,
-            "savings": 90.0,
-            "discount_percent": 30.001000033334446,
-            "priority_score": 533.2370755902964,
-            "reviews": 279,
-            "image_url": "images/6534102.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - Authentics 300 Smart Home Speaker - Black",
-            "sku": "6554783",
-            "price": 449.99,
-            "savings": 100.0,
-            "discount_percent": 22.222716060356895,
-            "priority_score": 495.4895660854576,
-            "reviews": 165,
-            "image_url": "images/6554783.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Denon - AVR - S970H 90W 7 Ch Bluetooth Capable HDR Compatible with HEOS and Dolby Atmos 8K Ultra HD AV Home Theater Receiver - Black",
-            "sku": "6519391",
-            "price": 899.0,
-            "savings": 100.0,
-            "discount_percent": 11.123470522803114,
-            "priority_score": 466.1689717683359,
-            "reviews": 342,
-            "image_url": "images/6519391.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Denon - AVR - S770H (75W X 7) 7.2 - Ch. with HEOS and Dolby Atmos 8K Ultra HD HDR Compatible AV Home Theater Receiver with Alexa - Black",
-            "sku": "6551305",
-            "price": 699.0,
-            "savings": 100.0,
-            "discount_percent": 14.306151645207441,
-            "priority_score": 439.3868961676903,
-            "reviews": 104,
-            "image_url": "images/6551305.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "Bose - Bass Module 700 Wireless Subwoofer - Black",
             "sku": "6280563",
             "price": 899.99,
@@ -121,28 +55,6 @@
             "priority_score": 427.61923792359744,
             "reviews": 4077,
             "image_url": "images/6280563.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - EON ONE Compact Portable Bluetooth Speaker and PA System - Black",
-            "sku": "6407390",
-            "price": 599.0,
-            "savings": 60.0,
-            "discount_percent": 10.01669449081803,
-            "priority_score": 338.9556600081769,
-            "reviews": 107,
-            "image_url": "images/6407390.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Denon - AVR - S670H (75W X 5) 5.2 - Ch. with HEOS 8K Ultra HD and HDR Compatible AV Home Theater Receiver with Alexa - Black",
-            "sku": "6551304",
-            "price": 599.0,
-            "savings": 56.0,
-            "discount_percent": 9.348914858096828,
-            "priority_score": 322.22354456818493,
-            "reviews": 92,
-            "image_url": "images/6551304.jpg"
         }
     ]
 }

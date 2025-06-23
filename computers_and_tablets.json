@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-23T07:28:52.437928",
+    "last_updated": "2025-06-23T13:27:17.478371",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -19,20 +19,9 @@
             "price": 599.99,
             "savings": 200.0,
             "discount_percent": 33.3338888981483,
-            "priority_score": 759.5255824323946,
-            "reviews": 209,
+            "priority_score": 759.6969242084211,
+            "reviews": 210,
             "image_url": "images/6578378.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "6533542",
-            "price": 1499.0,
-            "savings": 169.95,
-            "discount_percent": 11.337558372248164,
-            "priority_score": 624.7554036823205,
-            "reviews": 558,
-            "image_url": "images/6533542.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -58,24 +47,13 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Samsung - Galaxy Tab S10+ - 12.4\" 256GB - Wi - Fi - with S - Pen - Moonstone Gray",
-            "sku": "6593196",
-            "price": 999.99,
-            "savings": 154.0,
-            "discount_percent": 15.400154001540015,
-            "priority_score": 565.721237270097,
-            "reviews": 149,
-            "image_url": "images/6593196.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Samsung - T7 Shield 2TB External USB 3.2 Gen 2 Rugged SSD IP65 Water Resistant - Black",
             "sku": "6501714",
             "price": 229.99,
             "savings": 70.0,
             "discount_percent": 30.436105917648593,
-            "priority_score": 549.054541391758,
-            "reviews": 1238,
+            "priority_score": 549.0254195685995,
+            "reviews": 1237,
             "image_url": "images/6501714.jpg"
         },
         {
@@ -91,28 +69,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Samsung - Galaxy Tab S9 Ultra - 14.6\" 256GB - Wi - Fi - with S - Pen - Graphite",
-            "sku": "6546675",
-            "price": 799.99,
-            "savings": 100.0,
-            "discount_percent": 12.500156251953149,
-            "priority_score": 495.2092570132509,
-            "reviews": 633,
-            "image_url": "images/6546675.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
-            "sku": "",
-            "price": 499.99,
-            "savings": 75.0,
-            "discount_percent": 15.000300006000119,
-            "priority_score": 484.40463476190496,
-            "reviews": 1328,
-            "image_url": "images/.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
             "sku": "6537888",
             "price": 299.99,
@@ -124,25 +80,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "CORSAIR - MM300 PRO Gaming Mouse Pad with Premium Spill - Proof Cloth - Extended - Black",
-            "sku": "6428299",
-            "price": 32.99,
-            "savings": 18.0,
-            "discount_percent": 54.56198848135798,
-            "priority_score": 459.46705517976,
-            "reviews": 1342,
-            "image_url": "images/6428299.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
-            "sku": "5900264",
-            "price": 29.99,
-            "savings": 12.0,
-            "discount_percent": 40.01333777925976,
-            "priority_score": 434.6827344143909,
-            "reviews": 3159,
-            "image_url": "images/5900264.jpg"
+            "title": "TP - Link - Archer BE6500 Dual - Band Wi - Fi 7 Router - Black",
+            "sku": "",
+            "price": 179.99,
+            "savings": 50.0,
+            "discount_percent": 27.779321073392964,
+            "priority_score": 409.08047841840494,
+            "reviews": 111,
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -165,6 +110,39 @@
             "priority_score": 366.0162626979584,
             "reviews": 50,
             "image_url": "images/6576883.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6553330",
+            "price": 1999.99,
+            "savings": 75.0,
+            "discount_percent": 3.7500187500937505,
+            "priority_score": 362.11783425611475,
+            "reviews": 212,
+            "image_url": "images/6553330.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Targus - Safe Fit Universal 7 - 8.5\u201d 360o Rotating Tablet Case - China Blue",
+            "sku": "6464510",
+            "price": 39.99,
+            "savings": 18.0,
+            "discount_percent": 45.0112528132033,
+            "priority_score": 344.8886661992818,
+            "reviews": 123,
+            "image_url": "images/6464510.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - MacBook Air 13 - inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Midnight",
+            "sku": "6565863",
+            "price": 1099.0,
+            "savings": 50.0,
+            "discount_percent": 4.549590536851683,
+            "priority_score": 329.0645884955146,
+            "reviews": 304,
+            "image_url": "images/6565863.jpg"
         },
         {
             "category": "Computers and Tablets",

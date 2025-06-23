@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-23T07:28:52.437928",
+    "last_updated": "2025-06-23T13:27:17.478371",
     "deals": [
         {
             "category": "Appliances",
@@ -19,8 +19,8 @@
             "price": 299.99,
             "savings": 120.0,
             "discount_percent": 40.00133337777926,
-            "priority_score": 725.2281777895153,
-            "reviews": 2718,
+            "priority_score": 725.2414402923389,
+            "reviews": 2719,
             "image_url": "images/6359269.jpg"
         },
         {
@@ -36,6 +36,17 @@
         },
         {
             "category": "Appliances",
+            "title": "Shark - Navigator Lift - Away Deluxe Upright Vacuum with Anti - Allergen Complete Seal - Blue",
+            "sku": "7775211",
+            "price": 199.99,
+            "savings": 70.0,
+            "discount_percent": 35.00175008750438,
+            "priority_score": 635.6078568996903,
+            "reviews": 7250,
+            "image_url": "images/7775211.jpg"
+        },
+        {
+            "category": "Appliances",
             "title": "Tineco - GO H2O XL Cordless Floor Washer - Grey",
             "sku": "6585782",
             "price": 299.99,
@@ -44,6 +55,28 @@
             "priority_score": 556.5715200717791,
             "reviews": 69,
             "image_url": "images/6585782.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "iRobot - Roomba Max 705 Vac Robot Vacuum + AutoEmpty Dock - Black",
+            "sku": "6618888",
+            "price": 899.99,
+            "savings": 150.0,
+            "discount_percent": 16.66685185390949,
+            "priority_score": 466.3824616417315,
+            "reviews": 9,
+            "image_url": "images/6618888.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Shark - CarpetXpert with Stainstriker Technology Corded Upright Deep Carpet and Upholstery Cleaner with Built - in Spot Remover - White",
+            "sku": "6549768",
+            "price": 299.99,
+            "savings": 50.0,
+            "discount_percent": 16.66722224074136,
+            "priority_score": 390.1226869013161,
+            "reviews": 308,
+            "image_url": "images/6549768.jpg"
         }
     ]
 }

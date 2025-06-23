@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-23T07:28:52.437928",
+    "last_updated": "2025-06-23T13:27:17.478371",
     "deals": [
         {
             "category": "TVs and Home Theater",
@@ -8,31 +8,9 @@
             "price": 499.98,
             "savings": 95.0,
             "discount_percent": 19.000760030401214,
-            "priority_score": 554.5582799977863,
-            "reviews": 1760,
+            "priority_score": 554.5787553750165,
+            "reviews": 1761,
             "image_url": "images/6278202.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "LG - 65\" Class C4 Series OLED evo 4K UHD Smart webOS TV (2024)",
-            "sku": "6578042",
-            "price": 1299.99,
-            "savings": 103.0,
-            "discount_percent": 7.92313787029131,
-            "priority_score": 496.86190308772063,
-            "reviews": 1059,
-            "image_url": "images/6578042.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "Bose - Smart Ultra Soundbar with Dolby Atmos and Voice Assistant - Black",
-            "sku": "6550611",
-            "price": 999.99,
-            "savings": 100.0,
-            "discount_percent": 10.00010000100001,
-            "priority_score": 479.1859536507935,
-            "reviews": 574,
-            "image_url": "images/6550611.jpg"
         }
     ]
 }
