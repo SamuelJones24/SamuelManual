@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-24T01:25:47.362886",
+    "last_updated": "2025-06-24T07:28:49.493748",
     "deals": [
         {
             "category": "Appliances",
@@ -25,17 +25,6 @@
         },
         {
             "category": "Appliances",
-            "title": "Shark - Navigator Lift - Away Deluxe Upright Vacuum with Anti - Allergen Complete Seal - Blue",
-            "sku": "7775211",
-            "price": 199.99,
-            "savings": 70.0,
-            "discount_percent": 35.00175008750438,
-            "priority_score": 635.6128306811258,
-            "reviews": 7251,
-            "image_url": "images/7775211.jpg"
-        },
-        {
-            "category": "Appliances",
             "title": "Samsung - Bespoke 29 Cu. Ft. 4 - Door Flex French Door Smart Refrigerator with AI Family Hub+ and AI Vision Inside - Stainless Steel",
             "sku": "6571681",
             "price": 3299.99,
@@ -44,6 +33,17 @@
             "priority_score": 617.599449538915,
             "reviews": 179,
             "image_url": "images/6571681.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Shark - Navigator Lift - Away Deluxe Upright Vacuum with Anti - Allergen Complete Seal - Blue",
+            "sku": "7775211",
+            "price": 189.99,
+            "savings": 60.0,
+            "discount_percent": 31.58060950576346,
+            "priority_score": 598.5071277724212,
+            "reviews": 7251,
+            "image_url": "images/7775211.jpg"
         },
         {
             "category": "Appliances",

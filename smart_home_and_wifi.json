@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-24T01:25:47.362886",
+    "last_updated": "2025-06-24T07:28:49.493748",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -44,6 +44,17 @@
             "priority_score": 427.29096856788385,
             "reviews": 315,
             "image_url": "images/6540358.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "TP - Link - Archer BE6500 Dual - Band Wi - Fi 7 Router - Black",
+            "sku": "6583791",
+            "price": 179.99,
+            "savings": 50.0,
+            "discount_percent": 27.779321073392964,
+            "priority_score": 409.08047841840494,
+            "reviews": 111,
+            "image_url": "images/6583791.jpg"
         },
         {
             "category": "Smart Home and Wifi",
