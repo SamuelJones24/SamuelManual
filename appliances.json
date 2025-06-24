@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-24T07:28:49.493748",
+    "last_updated": "2025-06-24T13:25:05.909684",
     "deals": [
         {
             "category": "Appliances",
@@ -36,17 +36,6 @@
         },
         {
             "category": "Appliances",
-            "title": "Shark - Navigator Lift - Away Deluxe Upright Vacuum with Anti - Allergen Complete Seal - Blue",
-            "sku": "7775211",
-            "price": 189.99,
-            "savings": 60.0,
-            "discount_percent": 31.58060950576346,
-            "priority_score": 598.5071277724212,
-            "reviews": 7251,
-            "image_url": "images/7775211.jpg"
-        },
-        {
-            "category": "Appliances",
             "title": "Tineco - GO H2O XL Cordless Floor Washer - Grey",
             "sku": "6585782",
             "price": 299.99,
@@ -66,17 +55,6 @@
             "priority_score": 466.3824616417315,
             "reviews": 9,
             "image_url": "images/6618888.jpg"
-        },
-        {
-            "category": "Appliances",
-            "title": "Shark - CarpetXpert with Stainstriker Technology Corded Upright Deep Carpet and Upholstery Cleaner with Built - in Spot Remover - White",
-            "sku": "6549768",
-            "price": 299.99,
-            "savings": 50.0,
-            "discount_percent": 16.66722224074136,
-            "priority_score": 390.1226869013161,
-            "reviews": 308,
-            "image_url": "images/6549768.jpg"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-24T07:28:49.493748",
+    "last_updated": "2025-06-24T13:25:05.909684",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -30,9 +30,20 @@
             "price": 399.99,
             "savings": 101.0,
             "discount_percent": 25.250631265781642,
-            "priority_score": 638.527688005003,
-            "reviews": 5445,
+            "priority_score": 638.5343101249193,
+            "reviews": 5446,
             "image_url": "images/6505727.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Sony - WH1000XM4 Wireless Noise - Cancelling Over - the - Ear Headphones - Midnight Blue",
+            "sku": "6428314",
+            "price": 299.99,
+            "savings": 70.0,
+            "discount_percent": 23.3341111370379,
+            "priority_score": 593.8005652340753,
+            "reviews": 11466,
+            "image_url": "images/6428314.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -52,8 +63,8 @@
             "price": 179.99,
             "savings": 70.0,
             "discount_percent": 38.89104950275015,
-            "priority_score": 545.3209532046689,
-            "reviews": 345,
+            "priority_score": 545.4250438282072,
+            "reviews": 346,
             "image_url": "images/6590116.jpg"
         },
         {
@@ -91,17 +102,6 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Denon - AVR - S970H 90W 7 Ch Bluetooth Capable HDR Compatible with HEOS and Dolby Atmos 8K Ultra HD AV Home Theater Receiver - Black",
-            "sku": "6519391",
-            "price": 899.0,
-            "savings": 100.0,
-            "discount_percent": 11.123470522803114,
-            "priority_score": 466.273971481568,
-            "reviews": 343,
-            "image_url": "images/6519391.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "Denon - AVR - S770H (75W X 7) 7.2 - Ch. with HEOS and Dolby Atmos 8K Ultra HD HDR Compatible AV Home Theater Receiver with Alexa - Black",
             "sku": "6551305",
             "price": 699.0,
@@ -124,23 +124,23 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "JBL - EON ONE Compact Portable Bluetooth Speaker and PA System - Black",
-            "sku": "6407390",
-            "price": 599.0,
-            "savings": 60.0,
-            "discount_percent": 10.01669449081803,
-            "priority_score": 338.9556600081769,
-            "reviews": 107,
-            "image_url": "images/6407390.jpg"
+            "title": "Sony - ULT FIELD 3 Wireless Speaker - Forest Gray",
+            "sku": "6620177",
+            "price": 199.99,
+            "savings": 51.0,
+            "discount_percent": 25.501275063753187,
+            "priority_score": 390.57996271498416,
+            "reviews": 86,
+            "image_url": "images/6620177.jpg"
         },
         {
             "category": "Audio & Headphones",
             "title": "Denon - AVR - S670H (75W X 5) 5.2 - Ch. with HEOS 8K Ultra HD and HDR Compatible AV Home Theater Receiver with Alexa - Black",
             "sku": "6551304",
             "price": 599.0,
-            "savings": 56.0,
-            "discount_percent": 9.348914858096828,
-            "priority_score": 322.22354456818493,
+            "savings": 59.0,
+            "discount_percent": 9.84974958263773,
+            "priority_score": 330.7277181908894,
             "reviews": 92,
             "image_url": "images/6551304.jpg"
         }

@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-24T07:28:49.493748",
+    "last_updated": "2025-06-24T13:25:05.909684",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -50,10 +50,10 @@
             "title": "Samsung - Galaxy Tab S10+ - 12.4\" 256GB - Wi - Fi - with S - Pen - Moonstone Gray",
             "sku": "6593196",
             "price": 999.99,
-            "savings": 154.0,
-            "discount_percent": 15.400154001540015,
-            "priority_score": 565.721237270097,
-            "reviews": 149,
+            "savings": 150.0,
+            "discount_percent": 15.000150001500016,
+            "priority_score": 555.960868490627,
+            "reviews": 150,
             "image_url": "images/6593196.jpg"
         },
         {
@@ -66,6 +66,17 @@
             "priority_score": 549.054541391758,
             "reviews": 1238,
             "image_url": "images/6501714.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 100.0,
+            "discount_percent": 33.33444448148272,
+            "priority_score": 535.8768305268368,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -91,25 +102,69 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
-            "sku": "6537888",
-            "price": 299.99,
-            "savings": 80.0,
-            "discount_percent": 26.66755558518617,
-            "priority_score": 462.54238604535396,
-            "reviews": 108,
-            "image_url": "images/6537888.jpg"
+            "title": "Apple - MacBook Pro 14 - inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
+            "sku": "6602748",
+            "price": 1999.0,
+            "savings": 99.95,
+            "discount_percent": 5.0,
+            "priority_score": 456.74488998035656,
+            "reviews": 618,
+            "image_url": "images/6602748.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "CORSAIR - MM200 Gaming Mouse Pad - Medium - Black",
+            "sku": "4384400",
+            "price": 16.99,
+            "savings": 7.0,
+            "discount_percent": 41.20070629782225,
+            "priority_score": 418.99258763945664,
+            "reviews": 2444,
+            "image_url": "images/4384400.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 256GB with OLED - Space Black",
+            "sku": "6533540",
+            "price": 1299.0,
+            "savings": 64.95,
+            "discount_percent": 5.0,
+            "priority_score": 416.59013875207495,
+            "reviews": 1415,
+            "image_url": "images/6533540.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "ASUS - ZenWiFi BE14000 Tri - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
+            "sku": "6594278",
+            "price": 799.99,
+            "savings": 100.0,
+            "discount_percent": 12.500156251953149,
+            "priority_score": 415.21389267921995,
+            "reviews": 68,
+            "image_url": "images/6594278.jpg"
         },
         {
             "category": "Computers and Tablets",
             "title": "TP - Link - Archer BE6500 Dual - Band Wi - Fi 7 Router - Black",
-            "sku": "",
+            "sku": "6583791",
             "price": 179.99,
             "savings": 50.0,
             "discount_percent": 27.779321073392964,
             "priority_score": 409.08047841840494,
             "reviews": 111,
-            "image_url": "images/.jpg"
+            "image_url": "images/6583791.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
+            "sku": "6533542",
+            "price": 1499.0,
+            "savings": 74.95,
+            "discount_percent": 5.0,
+            "priority_score": 403.1320754236242,
+            "reviews": 559,
+            "image_url": "images/6533542.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -121,6 +176,17 @@
             "priority_score": 369.711425931702,
             "reviews": 385,
             "image_url": "images/6467301.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 256GB with OLED - Space Black",
+            "sku": "5495362",
+            "price": 999.0,
+            "savings": 49.95,
+            "discount_percent": 5.0,
+            "priority_score": 368.42074426932504,
+            "reviews": 1128,
+            "image_url": "images/5495362.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -136,13 +202,24 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6553330",
+            "sku": "",
             "price": 1999.99,
             "savings": 75.0,
             "discount_percent": 3.7500187500937505,
-            "priority_score": 362.11783425611475,
-            "reviews": 212,
-            "image_url": "images/6553330.jpg"
+            "priority_score": 362.2867684104974,
+            "reviews": 213,
+            "image_url": "images/.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
+            "sku": "5495364",
+            "price": 1199.0,
+            "savings": 59.95,
+            "discount_percent": 5.0,
+            "priority_score": 345.87297473230757,
+            "reviews": 262,
+            "image_url": "images/5495364.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -157,14 +234,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6612971",
-            "price": 1299.99,
-            "savings": 75.0,
-            "discount_percent": 5.7692751482703715,
-            "priority_score": 253.84637574135186,
-            "reviews": 7,
-            "image_url": "images/6612971.jpg"
+            "title": "Razer - Kraken V4 Pro Wireless Gaming Headset for PC, Mac, Playstation, Nintendo Switch, Steam Deck, Mobile, and Tablet - Black",
+            "sku": "6589878",
+            "price": 399.99,
+            "savings": 48.0,
+            "discount_percent": 12.000300007500188,
+            "priority_score": 306.4328981099985,
+            "reviews": 125,
+            "image_url": "images/6589878.jpg"
         }
     ]
 }
