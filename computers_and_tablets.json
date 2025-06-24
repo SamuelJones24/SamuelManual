@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-23T19:56:03.888822",
+    "last_updated": "2025-06-24T01:25:47.362886",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -8,8 +8,8 @@
             "price": 1699.99,
             "savings": 500.0,
             "discount_percent": 29.41193771728069,
-            "priority_score": 1287.4274346892835,
-            "reviews": 48,
+            "priority_score": 1288.1560933307715,
+            "reviews": 49,
             "image_url": "images/6599654.jpg"
         },
         {
@@ -44,6 +44,17 @@
             "priority_score": 577.066078601699,
             "reviews": 176,
             "image_url": "images/6578701.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Samsung - Galaxy Tab S10+ - 12.4\" 256GB - Wi - Fi - with S - Pen - Moonstone Gray",
+            "sku": "6593196",
+            "price": 999.99,
+            "savings": 154.0,
+            "discount_percent": 15.400154001540015,
+            "priority_score": 565.721237270097,
+            "reviews": 149,
+            "image_url": "images/6593196.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -110,6 +121,17 @@
             "priority_score": 369.6178658895566,
             "reviews": 384,
             "image_url": "images/6467301.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Samsung - T7 4TB External USB 3.2 Gen 2 Portable SSD with Hardware Encryption - Titan Gray",
+            "sku": "6576883",
+            "price": 344.99,
+            "savings": 65.0,
+            "discount_percent": 18.841125829734196,
+            "priority_score": 366.0162626979584,
+            "reviews": 50,
+            "image_url": "images/6576883.jpg"
         },
         {
             "category": "Computers and Tablets",
