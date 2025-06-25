@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-24T13:25:05.909684",
+    "last_updated": "2025-06-25T01:26:29.991607",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -19,8 +19,8 @@
             "price": 499.99,
             "savings": 121.0,
             "discount_percent": 24.200484009680192,
-            "priority_score": 641.9992034678608,
-            "reviews": 2287,
+            "priority_score": 642.0149637372931,
+            "reviews": 2288,
             "image_url": "images/6219445.jpg"
         },
         {
@@ -30,8 +30,8 @@
             "price": 399.99,
             "savings": 101.0,
             "discount_percent": 25.250631265781642,
-            "priority_score": 638.5343101249193,
-            "reviews": 5446,
+            "priority_score": 638.54093102921,
+            "reviews": 5447,
             "image_url": "images/6505727.jpg"
         },
         {
@@ -41,8 +41,8 @@
             "price": 299.99,
             "savings": 70.0,
             "discount_percent": 23.3341111370379,
-            "priority_score": 593.8005652340753,
-            "reviews": 11466,
+            "priority_score": 593.8037104162026,
+            "reviews": 11467,
             "image_url": "images/6428314.jpg"
         },
         {
@@ -52,8 +52,8 @@
             "price": 159.99,
             "savings": 50.0,
             "discount_percent": 31.25195324707794,
-            "priority_score": 550.7014232574086,
-            "reviews": 3510,
+            "priority_score": 550.7116944737736,
+            "reviews": 3511,
             "image_url": "images/6520487.jpg"
         },
         {
@@ -63,8 +63,8 @@
             "price": 179.99,
             "savings": 70.0,
             "discount_percent": 38.89104950275015,
-            "priority_score": 545.4250438282072,
-            "reviews": 346,
+            "priority_score": 545.528834909969,
+            "reviews": 347,
             "image_url": "images/6590116.jpg"
         },
         {
@@ -140,8 +140,8 @@
             "price": 599.0,
             "savings": 59.0,
             "discount_percent": 9.84974958263773,
-            "priority_score": 330.7277181908894,
-            "reviews": 92,
+            "priority_score": 331.1134692051296,
+            "reviews": 93,
             "image_url": "images/6551304.jpg"
         }
     ]

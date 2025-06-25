@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-24T13:25:05.909684",
+    "last_updated": "2025-06-25T01:26:29.991607",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -63,8 +63,8 @@
             "price": 229.99,
             "savings": 70.0,
             "discount_percent": 30.436105917648593,
-            "priority_score": 549.054541391758,
-            "reviews": 1238,
+            "priority_score": 549.083639720099,
+            "reviews": 1239,
             "image_url": "images/6501714.jpg"
         },
         {
@@ -107,8 +107,8 @@
             "price": 1999.0,
             "savings": 99.95,
             "discount_percent": 5.0,
-            "priority_score": 456.74488998035656,
-            "reviews": 618,
+            "priority_score": 456.9192692532651,
+            "reviews": 621,
             "image_url": "images/6602748.jpg"
         },
         {
@@ -129,8 +129,8 @@
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 416.59013875207495,
-            "reviews": 1415,
+            "priority_score": 416.6410454309879,
+            "reviews": 1417,
             "image_url": "images/6533540.jpg"
         },
         {
@@ -140,8 +140,8 @@
             "price": 799.99,
             "savings": 100.0,
             "discount_percent": 12.500156251953149,
-            "priority_score": 415.21389267921995,
-            "reviews": 68,
+            "priority_score": 415.7328566833899,
+            "reviews": 69,
             "image_url": "images/6594278.jpg"
         },
         {
@@ -179,17 +179,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 256GB with OLED - Space Black",
-            "sku": "5495362",
-            "price": 999.0,
-            "savings": 49.95,
-            "discount_percent": 5.0,
-            "priority_score": 368.42074426932504,
-            "reviews": 1128,
-            "image_url": "images/5495362.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Samsung - T7 4TB External USB 3.2 Gen 2 Portable SSD with Hardware Encryption - Titan Gray",
             "sku": "6576883",
             "price": 344.99,
@@ -201,14 +190,25 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Apple - MacBook Air 15 - inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight",
+            "sku": "6565869",
+            "price": 1199.0,
+            "savings": 59.95,
+            "discount_percent": 5.0,
+            "priority_score": 362.4109929535273,
+            "reviews": 415,
+            "image_url": "images/6565869.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "",
+            "sku": "6553330",
             "price": 1999.99,
             "savings": 75.0,
             "discount_percent": 3.7500187500937505,
             "priority_score": 362.2867684104974,
             "reviews": 213,
-            "image_url": "images/.jpg"
+            "image_url": "images/6553330.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -239,9 +239,20 @@
             "price": 399.99,
             "savings": 48.0,
             "discount_percent": 12.000300007500188,
-            "priority_score": 306.4328981099985,
-            "reviews": 125,
+            "priority_score": 306.71801719180473,
+            "reviews": 126,
             "image_url": "images/6589878.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6612971",
+            "price": 1299.99,
+            "savings": 75.0,
+            "discount_percent": 5.7692751482703715,
+            "priority_score": 253.84637574135186,
+            "reviews": 7,
+            "image_url": "images/6612971.jpg"
         }
     ]
 }
