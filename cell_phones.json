@@ -1,16 +1,27 @@
 {
-    "last_updated": "2025-06-23T01:25:49.788462",
+    "last_updated": "2025-06-25T13:21:48.445091",
     "deals": [
         {
             "category": "Cell Phones",
-            "title": "OtterBox - Commuter Series Hard Shell for Samsung Galaxy S24 - Black",
-            "sku": "6567464",
-            "price": 49.99,
-            "savings": 24.0,
-            "discount_percent": 48.00960192038408,
-            "priority_score": 362.5332798215319,
-            "reviews": 112,
-            "image_url": "images/6567464.jpg"
+            "title": "Anker - Wall Charger (32W, 2 - Port) with 6 ft USB - C to Lightning Cable - White",
+            "sku": "6556747",
+            "price": 29.99,
+            "savings": 12.0,
+            "discount_percent": 40.01333777925976,
+            "priority_score": 330.1136007339975,
+            "reviews": 173,
+            "image_url": "images/6556747.jpg"
+        },
+        {
+            "category": "Cell Phones",
+            "title": "Samsung - Galaxy S25 Edge 512GB (Unlocked) - Titanium Jet Black",
+            "sku": "6624972",
+            "price": 1119.99,
+            "savings": 54.0,
+            "discount_percent": 4.821471620282324,
+            "priority_score": 190.15556047359567,
+            "reviews": 4,
+            "image_url": "images/6624972.jpg"
         }
     ]
 }

@@ -1,14 +1,25 @@
 {
-    "last_updated": "2025-06-25T07:28:46.360109",
+    "last_updated": "2025-06-25T13:21:48.445091",
     "deals": [
+        {
+            "category": "Video Games",
+            "title": "SteelSeries - Arctis Nova Pro Wireless Multi Gaming Headset for Xbox Series X|S, Xbox One - Black",
+            "sku": "6506344",
+            "price": 379.99,
+            "savings": 80.0,
+            "discount_percent": 21.053185610147633,
+            "priority_score": 527.8864027415592,
+            "reviews": 1452,
+            "image_url": "images/6506344.jpg"
+        },
         {
             "category": "Video Games",
             "title": "Turtle Beach - Stealth Ultra Wireless Controller with Charge Dock, 30 - Hour Battery, Designed for Xbox Series X|S, Windows PC, Android - Black",
             "sku": "6562064",
             "price": 219.99,
-            "savings": 65.0,
-            "discount_percent": 29.546797581708255,
-            "priority_score": 510.27139278310506,
+            "savings": 63.0,
+            "discount_percent": 28.637665348424928,
+            "priority_score": 501.72573161668845,
             "reviews": 630,
             "image_url": "images/6562064.jpg"
         },
@@ -22,6 +33,17 @@
             "priority_score": 419.360883497513,
             "reviews": 1061,
             "image_url": "images/6472018.jpg"
+        },
+        {
+            "category": "Video Games",
+            "title": "RDS Industries - Game Traveler Deluxe Zelda Tears of the Kingdom Travel Case for Nintendo Switch - Multi",
+            "sku": "6537255",
+            "price": 19.99,
+            "savings": 9.0,
+            "discount_percent": 45.02251125562782,
+            "priority_score": 332.06431718634315,
+            "reviews": 142,
+            "image_url": "images/6537255.jpg"
         },
         {
             "category": "Video Games",

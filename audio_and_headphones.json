@@ -1,28 +1,6 @@
 {
-    "last_updated": "2025-06-25T07:28:46.360109",
+    "last_updated": "2025-06-25T13:21:48.445091",
     "deals": [
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - Authentics 500 Smart Home Speaker - Black",
-            "sku": "6554782",
-            "price": 699.99,
-            "savings": 200.0,
-            "discount_percent": 28.571836740524866,
-            "priority_score": 715.2296277853229,
-            "reviews": 118,
-            "image_url": "images/6554782.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Sony - STRDH790 - 7.2 - Ch. with Dolby Atmos & Dolby Vision 4K Ultra HD HDR A/V Home Theater Receiver - Black",
-            "sku": "6219445",
-            "price": 499.99,
-            "savings": 121.0,
-            "discount_percent": 24.200484009680192,
-            "priority_score": 642.0149637372931,
-            "reviews": 2288,
-            "image_url": "images/6219445.jpg"
-        },
         {
             "category": "Audio & Headphones",
             "title": "Sony - WH1000XM5 Wireless Noise - Canceling Over - the - Ear Headphones - Black",
@@ -33,28 +11,6 @@
             "priority_score": 638.54093102921,
             "reviews": 5447,
             "image_url": "images/6505727.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Sony - WH1000XM4 Wireless Noise - Cancelling Over - the - Ear Headphones - Midnight Blue",
-            "sku": "6428314",
-            "price": 299.99,
-            "savings": 70.0,
-            "discount_percent": 23.3341111370379,
-            "priority_score": 593.8037104162026,
-            "reviews": 11467,
-            "image_url": "images/6428314.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Shokz - OpenRun Pro Premium Bone Conduction Open - Ear Sport Headphones - Steel Blue",
-            "sku": "6520487",
-            "price": 159.99,
-            "savings": 50.0,
-            "discount_percent": 31.25195324707794,
-            "priority_score": 550.7116944737736,
-            "reviews": 3511,
-            "image_url": "images/6520487.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -143,6 +99,17 @@
             "priority_score": 331.1134692051296,
             "reviews": 93,
             "image_url": "images/6551304.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - EON ONE Compact Portable Bluetooth Speaker and PA System - Black",
+            "sku": "6407390",
+            "price": 599.0,
+            "savings": 50.0,
+            "discount_percent": 8.347245409015025,
+            "priority_score": 310.60841459916185,
+            "reviews": 107,
+            "image_url": "images/6407390.jpg"
         }
     ]
 }
