@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-26T01:26:16.827103",
+    "last_updated": "2025-06-26T07:28:36.198535",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -16,10 +16,10 @@
             "category": "Audio & Headphones",
             "title": "Sony - WH1000XM4 Wireless Noise - Cancelling Over - the - Ear Headphones - Midnight Blue",
             "sku": "6428314",
-            "price": 299.99,
-            "savings": 70.0,
-            "discount_percent": 23.3341111370379,
-            "priority_score": 593.8037104162026,
+            "price": 299.0,
+            "savings": 69.01,
+            "discount_percent": 23.08026755852843,
+            "priority_score": 590.5544925236553,
             "reviews": 11467,
             "image_url": "images/6428314.jpg"
         },
