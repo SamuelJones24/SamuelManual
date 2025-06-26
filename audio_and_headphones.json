@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-25T13:21:48.445091",
+    "last_updated": "2025-06-25T19:55:41.510995",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -8,9 +8,31 @@
             "price": 399.99,
             "savings": 101.0,
             "discount_percent": 25.250631265781642,
-            "priority_score": 638.54093102921,
-            "reviews": 5447,
+            "priority_score": 638.5475507183214,
+            "reviews": 5448,
             "image_url": "images/6505727.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Sony - WH1000XM4 Wireless Noise - Cancelling Over - the - Ear Headphones - Midnight Blue",
+            "sku": "6428314",
+            "price": 299.99,
+            "savings": 70.0,
+            "discount_percent": 23.3341111370379,
+            "priority_score": 593.8037104162026,
+            "reviews": 11467,
+            "image_url": "images/6428314.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Shokz - OpenRun Pro Premium Bone Conduction Open - Ear Sport Headphones - Steel Blue",
+            "sku": "6520487",
+            "price": 159.99,
+            "savings": 50.0,
+            "discount_percent": 31.25195324707794,
+            "priority_score": 550.721962765949,
+            "reviews": 3512,
+            "image_url": "images/6520487.jpg"
         },
         {
             "category": "Audio & Headphones",
