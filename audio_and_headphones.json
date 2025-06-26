@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-26T07:28:36.198535",
+    "last_updated": "2025-06-26T13:24:13.969809",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -19,20 +19,20 @@
             "price": 299.0,
             "savings": 69.01,
             "discount_percent": 23.08026755852843,
-            "priority_score": 590.5544925236553,
-            "reviews": 11467,
+            "priority_score": 590.5576374315373,
+            "reviews": 11468,
             "image_url": "images/6428314.jpg"
         },
         {
             "category": "Audio & Headphones",
-            "title": "Shokz - OpenRun Pro Premium Bone Conduction Open - Ear Sport Headphones - Steel Blue",
-            "sku": "6520487",
+            "title": "Shokz - OpenRun Pro Premium Bone Conduction Open - Ear Sport Headphones - Black",
+            "sku": "6492430",
             "price": 159.99,
             "savings": 50.0,
             "discount_percent": 31.25195324707794,
             "priority_score": 550.721962765949,
             "reviews": 3512,
-            "image_url": "images/6520487.jpg"
+            "image_url": "images/6492430.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -85,8 +85,8 @@
             "price": 699.0,
             "savings": 100.0,
             "discount_percent": 14.306151645207441,
-            "priority_score": 439.3868961676903,
-            "reviews": 104,
+            "priority_score": 439.72876959011717,
+            "reviews": 105,
             "image_url": "images/6551305.jpg"
         },
         {
@@ -96,42 +96,20 @@
             "price": 899.99,
             "savings": 50.0,
             "discount_percent": 5.5556172846364955,
-            "priority_score": 427.6280812179956,
-            "reviews": 4078,
+            "priority_score": 427.63692234465395,
+            "reviews": 4079,
             "image_url": "images/6280563.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Sony - ULT FIELD 3 Wireless Speaker - Forest Gray",
-            "sku": "6620177",
-            "price": 199.99,
-            "savings": 51.0,
-            "discount_percent": 25.501275063753187,
-            "priority_score": 390.9921657846984,
-            "reviews": 87,
-            "image_url": "images/6620177.jpg"
         },
         {
             "category": "Audio & Headphones",
             "title": "Denon - AVR - S670H (75W X 5) 5.2 - Ch. with HEOS 8K Ultra HD and HDR Compatible AV Home Theater Receiver with Alexa - Black",
             "sku": "6551304",
             "price": 599.0,
-            "savings": 59.0,
-            "discount_percent": 9.84974958263773,
-            "priority_score": 331.1134692051296,
-            "reviews": 93,
-            "image_url": "images/6551304.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - EON ONE Compact Portable Bluetooth Speaker and PA System - Black",
-            "sku": "6407390",
-            "price": 599.0,
             "savings": 50.0,
             "discount_percent": 8.347245409015025,
-            "priority_score": 310.60841459916185,
-            "reviews": 107,
-            "image_url": "images/6407390.jpg"
+            "priority_score": 305.60094833701606,
+            "reviews": 93,
+            "image_url": "images/6551304.jpg"
         }
     ]
 }

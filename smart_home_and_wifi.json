@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-26T07:28:36.198535",
+    "last_updated": "2025-06-26T13:24:13.969809",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -17,9 +17,9 @@
             "title": "Arlo - Wireless Floodlight Camera - FB1001 - White",
             "sku": "6402543",
             "price": 249.99,
-            "savings": 71.0,
-            "discount_percent": 28.401136045441817,
-            "priority_score": 536.2253861951317,
+            "savings": 70.0,
+            "discount_percent": 28.00112004480179,
+            "priority_score": 532.2253061919316,
             "reviews": 1088,
             "image_url": "images/6402543.jpg"
         },
