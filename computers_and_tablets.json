@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-25T19:55:41.510995",
+    "last_updated": "2025-06-26T01:26:16.827103",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -118,8 +118,8 @@
             "price": 499.99,
             "savings": 75.0,
             "discount_percent": 15.000300006000119,
-            "priority_score": 484.4317632897144,
-            "reviews": 1329,
+            "priority_score": 484.4588714277979,
+            "reviews": 1330,
             "image_url": "images/6398057.jpg"
         },
         {
@@ -140,8 +140,8 @@
             "price": 1599.0,
             "savings": 79.95,
             "discount_percent": 5.0,
-            "priority_score": 435.040613729847,
-            "reviews": 1027,
+            "priority_score": 435.0756816723492,
+            "reviews": 1028,
             "image_url": "images/6602741.jpg"
         },
         {
@@ -180,13 +180,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Samsung - T7 4TB External USB 3.2 Gen 2 Portable SSD with Hardware Encryption - Titan Gray",
-            "sku": "6576883",
+            "sku": "",
             "price": 344.99,
             "savings": 65.0,
             "discount_percent": 18.841125829734196,
             "priority_score": 366.0162626979584,
             "reviews": 50,
-            "image_url": "images/6576883.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -195,20 +195,9 @@
             "price": 1199.0,
             "savings": 59.95,
             "discount_percent": 5.0,
-            "priority_score": 362.5839783020221,
-            "reviews": 417,
+            "priority_score": 362.6701608424838,
+            "reviews": 418,
             "image_url": "images/6565869.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6553330",
-            "price": 1999.99,
-            "savings": 75.0,
-            "discount_percent": 3.7500187500937505,
-            "priority_score": 362.4549149902052,
-            "reviews": 214,
-            "image_url": "images/6553330.jpg"
         },
         {
             "category": "Computers and Tablets",
