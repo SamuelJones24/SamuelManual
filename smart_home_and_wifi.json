@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-26T19:57:58.209785",
+    "last_updated": "2025-06-27T01:27:46.015713",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -22,17 +22,6 @@
             "priority_score": 441.14380554054475,
             "reviews": 11,
             "image_url": "images/6582063.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "ASUS - ZenWiFi BE5000 Dual - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
-            "sku": "6594274",
-            "price": 349.99,
-            "savings": 70.0,
-            "discount_percent": 20.000571444898423,
-            "priority_score": 394.7484711964926,
-            "reviews": 72,
-            "image_url": "images/6594274.jpg"
         }
     ]
 }

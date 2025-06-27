@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-26T19:57:58.209785",
+    "last_updated": "2025-06-27T01:27:46.015713",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -129,8 +129,8 @@
             "price": 1999.0,
             "savings": 99.95,
             "discount_percent": 5.0,
-            "priority_score": 457.03505547155623,
-            "reviews": 623,
+            "priority_score": 457.15047117331545,
+            "reviews": 625,
             "image_url": "images/6602748.jpg"
         },
         {
@@ -191,13 +191,13 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
-            "sku": "6554318",
+            "sku": "",
             "price": 599.99,
             "savings": 75.0,
             "discount_percent": 12.500208336805613,
             "priority_score": 410.6213542741726,
             "reviews": 242,
-            "image_url": "images/6554318.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -212,14 +212,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "6533542",
-            "price": 1499.0,
-            "savings": 74.95,
-            "discount_percent": 5.0,
-            "priority_score": 403.1320754236242,
-            "reviews": 559,
-            "image_url": "images/6533542.jpg"
+            "title": "ASUS - ZenWiFi BE5000 Dual - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
+            "sku": "6594274",
+            "price": 349.99,
+            "savings": 70.0,
+            "discount_percent": 20.000571444898423,
+            "priority_score": 394.7484711964926,
+            "reviews": 72,
+            "image_url": "images/6594274.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -245,6 +245,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 256GB with OLED - Space Black",
+            "sku": "5495362",
+            "price": 999.0,
+            "savings": 49.95,
+            "discount_percent": 5.0,
+            "priority_score": 368.51645607079706,
+            "reviews": 1131,
+            "image_url": "images/5495362.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Samsung - T7 4TB External USB 3.2 Gen 2 Portable SSD with Hardware Encryption - Titan Gray",
             "sku": "6576883",
             "price": 344.99,
@@ -253,17 +264,6 @@
             "priority_score": 366.0162626979584,
             "reviews": 50,
             "image_url": "images/6576883.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - MacBook Air 15 - inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight",
-            "sku": "6565869",
-            "price": 1199.0,
-            "savings": 59.95,
-            "discount_percent": 5.0,
-            "priority_score": 362.7561379416531,
-            "reviews": 419,
-            "image_url": "images/6565869.jpg"
         },
         {
             "category": "Computers and Tablets",
