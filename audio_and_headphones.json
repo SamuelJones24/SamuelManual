@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-26T13:24:13.969809",
+    "last_updated": "2025-06-26T19:57:58.209785",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -11,6 +11,17 @@
             "priority_score": 638.5541691926994,
             "reviews": 5449,
             "image_url": "images/6505727.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Sennheiser - MOMEMTUM 4 Wireless Adaptive Noise - Canceling Over - The - Ear Headphones - Black",
+            "sku": "6514466",
+            "price": 449.99,
+            "savings": 124.0,
+            "discount_percent": 27.55616791484255,
+            "priority_score": 638.4285522884918,
+            "reviews": 1101,
+            "image_url": "images/6514466.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -41,8 +52,8 @@
             "price": 179.99,
             "savings": 70.0,
             "discount_percent": 38.89104950275015,
-            "priority_score": 545.528834909969,
-            "reviews": 347,
+            "priority_score": 545.6323281689921,
+            "reviews": 348,
             "image_url": "images/6590116.jpg"
         },
         {

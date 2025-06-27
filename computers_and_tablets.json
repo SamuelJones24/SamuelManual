@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-26T13:24:13.969809",
+    "last_updated": "2025-06-26T19:57:58.209785",
     "deals": [
+        {
+            "category": "Computers and Tablets",
+            "title": "Samsung - 49\" Odyssey OLED G9 (G93SD) Dual - QHD 240Hz 0.03ms G - Sync Compatible Curved Glare Free Gaming Monitor - Silver",
+            "sku": "6599654",
+            "price": 1699.99,
+            "savings": 500.0,
+            "discount_percent": 29.41193771728069,
+            "priority_score": 1288.1560933307715,
+            "reviews": 49,
+            "image_url": "images/6599654.jpg"
+        },
         {
             "category": "Computers and Tablets",
             "title": "TP - Link - Deco BE65 Pro BE11000 Whole Home Tri - Band Wi - Fi 7 Mesh Router System with two 5 - Gig Ports (3 - pack) - White",
@@ -44,6 +55,17 @@
             "priority_score": 577.066078601699,
             "reviews": 176,
             "image_url": "images/6578701.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "CORSAIR - VENGEANCE RGB PRO SL 32GB (2x16GB) DDR4 3600MHz C18 UDIMM Desktop Memory - White",
+            "sku": "6457798",
+            "price": 172.99,
+            "savings": 63.0,
+            "discount_percent": 36.41829007457078,
+            "priority_score": 558.7545364358481,
+            "reviews": 1042,
+            "image_url": "images/6457798.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -96,8 +118,8 @@
             "price": 999.99,
             "savings": 119.0,
             "discount_percent": 11.900119001190012,
-            "priority_score": 478.460713489077,
-            "reviews": 150,
+            "priority_score": 478.6987828420397,
+            "reviews": 151,
             "image_url": "images/6593196.jpg"
         },
         {
@@ -107,8 +129,8 @@
             "price": 1999.0,
             "savings": 99.95,
             "discount_percent": 5.0,
-            "priority_score": 456.9772088256001,
-            "reviews": 622,
+            "priority_score": 457.03505547155623,
+            "reviews": 623,
             "image_url": "images/6602748.jpg"
         },
         {
@@ -124,6 +146,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Apple - MacBook Pro 14 - inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Space Black",
+            "sku": "6602741",
+            "price": 1599.0,
+            "savings": 79.95,
+            "discount_percent": 5.0,
+            "priority_score": 435.18068138558135,
+            "reviews": 1031,
+            "image_url": "images/6602741.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Dune",
             "sku": "6583060",
             "price": 279.99,
@@ -135,6 +168,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 256GB with OLED - Space Black",
+            "sku": "6533540",
+            "price": 1299.0,
+            "savings": 64.95,
+            "discount_percent": 5.0,
+            "priority_score": 416.71727098106953,
+            "reviews": 1420,
+            "image_url": "images/6533540.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "ASUS - ZenWiFi BE14000 Tri - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
             "sku": "6594278",
             "price": 799.99,
@@ -143,6 +187,17 @@
             "priority_score": 415.7328566833899,
             "reviews": 69,
             "image_url": "images/6594278.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
+            "sku": "6554318",
+            "price": 599.99,
+            "savings": 75.0,
+            "discount_percent": 12.500208336805613,
+            "priority_score": 410.6213542741726,
+            "reviews": 242,
+            "image_url": "images/6554318.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -228,8 +283,8 @@
             "price": 269.99,
             "savings": 50.0,
             "discount_percent": 18.519204414978333,
-            "priority_score": 355.2908880798591,
-            "reviews": 90,
+            "priority_score": 355.685070976317,
+            "reviews": 91,
             "image_url": "images/6620191.jpg"
         },
         {
