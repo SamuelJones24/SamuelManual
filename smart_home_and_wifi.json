@@ -1,6 +1,28 @@
 {
-    "last_updated": "2025-06-27T01:27:46.015713",
+    "last_updated": "2025-06-27T07:28:13.379999",
     "deals": [
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Arlo - Essential 1 - Camera Indoor Wired 2K Security Camera (2nd Generation) with Automated Privacy Shield - White",
+            "sku": "6553151",
+            "price": 79.99,
+            "savings": 50.0,
+            "discount_percent": 62.50781347668459,
+            "priority_score": 582.7229404348631,
+            "reviews": 111,
+            "image_url": "images/6553151.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Arlo - Essential 1 - Camera Outdoor Wireless 2K Security Camera (2nd Generation) with Color Night Vision - White",
+            "sku": "6553153",
+            "price": 99.99,
+            "savings": 50.0,
+            "discount_percent": 50.00500050005001,
+            "priority_score": 574.4570005877479,
+            "reviews": 503,
+            "image_url": "images/6553153.jpg"
+        },
         {
             "category": "Smart Home and Wifi",
             "title": "Arlo - Wireless Floodlight Camera - FB1001 - White",
@@ -14,6 +36,17 @@
         },
         {
             "category": "Smart Home and Wifi",
+            "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
+            "sku": "6559342",
+            "price": 449.99,
+            "savings": 60.0,
+            "discount_percent": 13.333629636214136,
+            "priority_score": 468.84652783323827,
+            "reviews": 2498,
+            "image_url": "images/6559342.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
             "title": "Arlo - Pro 5S 2K Indoor/Outdoor Wireless Spotlight Security Camera - White",
             "sku": "6582063",
             "price": 329.99,
@@ -22,6 +55,17 @@
             "priority_score": 441.14380554054475,
             "reviews": 11,
             "image_url": "images/6582063.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
+            "sku": "6567807",
+            "price": 319.99,
+            "savings": 50.0,
+            "discount_percent": 15.625488296509266,
+            "priority_score": 399.6546141324312,
+            "reviews": 464,
+            "image_url": "images/6567807.jpg"
         }
     ]
 }

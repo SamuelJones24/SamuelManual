@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-27T01:27:46.015713",
+    "last_updated": "2025-06-27T07:28:13.379999",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -137,10 +137,10 @@
             "category": "Computers and Tablets",
             "title": "SteelSeries - Alias USB Microphone",
             "sku": "6555805",
-            "price": 158.99,
-            "savings": 51.0,
-            "discount_percent": 32.077489150261016,
-            "priority_score": 443.34756423443207,
+            "price": 160.99,
+            "savings": 53.0,
+            "discount_percent": 32.92129945959376,
+            "priority_score": 451.5666157810958,
             "reviews": 150,
             "image_url": "images/6555805.jpg"
         },
@@ -154,17 +154,6 @@
             "priority_score": 435.18068138558135,
             "reviews": 1031,
             "image_url": "images/6602741.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Dune",
-            "sku": "6583060",
-            "price": 279.99,
-            "savings": 60.0,
-            "discount_percent": 21.429336762027216,
-            "priority_score": 420.1741635278157,
-            "reviews": 210,
-            "image_url": "images/6583060.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -191,13 +180,13 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
-            "sku": "",
+            "sku": "6554318",
             "price": 599.99,
             "savings": 75.0,
             "discount_percent": 12.500208336805613,
             "priority_score": 410.6213542741726,
             "reviews": 242,
-            "image_url": "images/.jpg"
+            "image_url": "images/6554318.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -209,6 +198,17 @@
             "priority_score": 409.08047841840494,
             "reviews": 111,
             "image_url": "images/6583791.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
+            "sku": "6533542",
+            "price": 1499.0,
+            "savings": 74.95,
+            "discount_percent": 5.0,
+            "priority_score": 403.1320754236242,
+            "reviews": 559,
+            "image_url": "images/6533542.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -239,8 +239,8 @@
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 369.711425931702,
-            "reviews": 385,
+            "priority_score": 369.80474390361024,
+            "reviews": 386,
             "image_url": "images/6467301.jpg"
         },
         {
@@ -279,24 +279,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Alienware - AW2725DM 27\" IPS LED QHD 180Hz 1ms FreeSync and G - Sync Gaming Monitor with HDR (HDMI, DisplayPort) - Black",
-            "sku": "6620191",
+            "sku": "",
             "price": 269.99,
             "savings": 50.0,
             "discount_percent": 18.519204414978333,
-            "priority_score": 355.685070976317,
-            "reviews": 91,
-            "image_url": "images/6620191.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "5495364",
-            "price": 1199.0,
-            "savings": 59.95,
-            "discount_percent": 5.0,
-            "priority_score": 345.87297473230757,
-            "reviews": 262,
-            "image_url": "images/5495364.jpg"
+            "priority_score": 356.0749923525924,
+            "reviews": 92,
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
