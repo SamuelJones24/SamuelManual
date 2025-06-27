@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-27T07:28:13.379999",
+    "last_updated": "2025-06-27T13:24:30.268966",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -14,24 +14,13 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Sennheiser - MOMEMTUM 4 Wireless Adaptive Noise - Canceling Over - The - Ear Headphones - Black",
-            "sku": "6514466",
-            "price": 449.99,
-            "savings": 124.0,
-            "discount_percent": 27.55616791484255,
-            "priority_score": 638.4285522884918,
-            "reviews": 1101,
-            "image_url": "images/6514466.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "Sony - WH1000XM4 Wireless Noise - Cancelling Over - the - Ear Headphones - Midnight Blue",
             "sku": "6428314",
             "price": 299.0,
             "savings": 69.01,
             "discount_percent": 23.08026755852843,
-            "priority_score": 590.5576374315373,
-            "reviews": 11468,
+            "priority_score": 590.5607820652218,
+            "reviews": 11469,
             "image_url": "images/6428314.jpg"
         },
         {
@@ -41,31 +30,9 @@
             "price": 159.99,
             "savings": 50.0,
             "discount_percent": 31.25195324707794,
-            "priority_score": 550.721962765949,
-            "reviews": 3512,
+            "priority_score": 550.7322281355991,
+            "reviews": 3513,
             "image_url": "images/6492430.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Shokz - OpenRun Pro 2 Bone Conduction Open - Ear Sports Headphones - Steel Blue",
-            "sku": "6590116",
-            "price": 179.99,
-            "savings": 70.0,
-            "discount_percent": 38.89104950275015,
-            "priority_score": 545.6323281689921,
-            "reviews": 348,
-            "image_url": "images/6590116.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Marshall - Middleton Portable Bluetooth Speaker - Black and Brass",
-            "sku": "6534102",
-            "price": 299.99,
-            "savings": 90.0,
-            "discount_percent": 30.001000033334446,
-            "priority_score": 533.2370755902964,
-            "reviews": 279,
-            "image_url": "images/6534102.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -74,8 +41,8 @@
             "price": 449.99,
             "savings": 100.0,
             "discount_percent": 22.222716060356895,
-            "priority_score": 495.4895660854576,
-            "reviews": 165,
+            "priority_score": 495.70618761363585,
+            "reviews": 166,
             "image_url": "images/6554783.jpg"
         },
         {
@@ -88,6 +55,17 @@
             "priority_score": 494.5930095430356,
             "reviews": 740,
             "image_url": "images/6522549.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Sennheiser - MOMEMTUM 4 Wireless Adaptive Noise - Canceling Over - The - Ear Headphones - Black",
+            "sku": "6514466",
+            "price": 449.99,
+            "savings": 70.0,
+            "discount_percent": 15.555901242249828,
+            "priority_score": 470.4272189255281,
+            "reviews": 1101,
+            "image_url": "images/6514466.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -113,14 +91,14 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Denon - AVR - S670H (75W X 5) 5.2 - Ch. with HEOS 8K Ultra HD and HDR Compatible AV Home Theater Receiver with Alexa - Black",
-            "sku": "6551304",
-            "price": 599.0,
-            "savings": 50.0,
-            "discount_percent": 8.347245409015025,
-            "priority_score": 305.60094833701606,
-            "reviews": 93,
-            "image_url": "images/6551304.jpg"
+            "title": "Sony - ULT FIELD 3 Wireless Speaker - Forest Gray",
+            "sku": "6620177",
+            "price": 199.99,
+            "savings": 51.0,
+            "discount_percent": 25.501275063753187,
+            "priority_score": 390.9921657846984,
+            "reviews": 87,
+            "image_url": "images/6620177.jpg"
         }
     ]
 }

@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-27T07:28:13.379999",
+    "last_updated": "2025-06-27T13:24:30.268966",
     "deals": [
+        {
+            "category": "Smart Home and Wifi",
+            "title": "TP - Link - Deco BE65 Pro BE11000 Whole Home Tri - Band Wi - Fi 7 Mesh Router System with two 5 - Gig Ports (3 - pack) - White",
+            "sku": "6578378",
+            "price": 599.99,
+            "savings": 200.0,
+            "discount_percent": 33.3338888981483,
+            "priority_score": 759.8674558548215,
+            "reviews": 211,
+            "image_url": "images/6578378.jpg"
+        },
         {
             "category": "Smart Home and Wifi",
             "title": "Arlo - Essential 1 - Camera Indoor Wired 2K Security Camera (2nd Generation) with Automated Privacy Shield - White",
@@ -19,8 +30,8 @@
             "price": 99.99,
             "savings": 50.0,
             "discount_percent": 50.00500050005001,
-            "priority_score": 574.4570005877479,
-            "reviews": 503,
+            "priority_score": 574.5284919412289,
+            "reviews": 504,
             "image_url": "images/6553153.jpg"
         },
         {
@@ -33,6 +44,17 @@
             "priority_score": 532.2253061919316,
             "reviews": 1088,
             "image_url": "images/6402543.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "Google - Nest Wi - Fi Video Doorbell - Battery Operated - Ash",
+            "sku": "6473259",
+            "price": 179.99,
+            "savings": 51.0,
+            "discount_percent": 28.334907494860822,
+            "priority_score": 511.48771248529977,
+            "reviews": 1677,
+            "image_url": "images/6473259.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -63,8 +85,8 @@
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
-            "priority_score": 399.6546141324312,
-            "reviews": 464,
+            "priority_score": 399.88655947213147,
+            "reviews": 467,
             "image_url": "images/6567807.jpg"
         }
     ]

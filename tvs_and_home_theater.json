@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-27T07:28:13.379999",
+    "last_updated": "2025-06-27T13:24:30.268966",
     "deals": [
         {
             "category": "TVs and Home Theater",
@@ -11,6 +11,17 @@
             "priority_score": 554.5787553750165,
             "reviews": 1761,
             "image_url": "images/6278202.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "Sonos - Arc Ultra Soundbar - White",
+            "sku": "6597166",
+            "price": 999.0,
+            "savings": 99.0,
+            "discount_percent": 9.90990990990991,
+            "priority_score": 471.33166742372384,
+            "reviews": 494,
+            "image_url": "images/6597166.jpg"
         },
         {
             "category": "TVs and Home Theater",
