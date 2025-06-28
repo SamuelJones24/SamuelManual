@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-28T07:26:17.333917",
+    "last_updated": "2025-06-28T13:17:38.541995",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -19,8 +19,8 @@
             "price": 299.99,
             "savings": 70.0,
             "discount_percent": 23.3341111370379,
-            "priority_score": 593.8320047200464,
-            "reviews": 11476,
+            "priority_score": 593.8382893299284,
+            "reviews": 11478,
             "image_url": "images/6428314.jpg"
         },
         {
@@ -30,20 +30,9 @@
             "price": 159.99,
             "savings": 50.0,
             "discount_percent": 31.25195324707794,
-            "priority_score": 550.7630067260224,
-            "reviews": 3516,
+            "priority_score": 550.7732604221887,
+            "reviews": 3517,
             "image_url": "images/6492430.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Shokz - OpenRun Pro 2 Bone Conduction Open - Ear Sports Headphones - Steel Blue",
-            "sku": "6590116",
-            "price": 179.99,
-            "savings": 70.0,
-            "discount_percent": 38.89104950275015,
-            "priority_score": 545.8384280213647,
-            "reviews": 350,
-            "image_url": "images/6590116.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -55,6 +44,17 @@
             "priority_score": 495.70618761363585,
             "reviews": 166,
             "image_url": "images/6554783.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Shokz - OpenRun Pro Mini Premium Bone Conduction Open - Ear Sport Headphones - Black",
+            "sku": "6522549",
+            "price": 159.99,
+            "savings": 50.0,
+            "discount_percent": 31.25195324707794,
+            "priority_score": 494.5930095430356,
+            "reviews": 740,
+            "image_url": "images/6522549.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -85,9 +85,20 @@
             "price": 199.99,
             "savings": 51.0,
             "discount_percent": 25.501275063753187,
-            "priority_score": 392.20124132373337,
-            "reviews": 90,
+            "priority_score": 392.59542422019126,
+            "reviews": 91,
             "image_url": "images/6620177.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - EON ONE Compact Portable Bluetooth Speaker and PA System - Black",
+            "sku": "6407390",
+            "price": 599.0,
+            "savings": 50.0,
+            "discount_percent": 8.347245409015025,
+            "priority_score": 310.60841459916185,
+            "reviews": 107,
+            "image_url": "images/6407390.jpg"
         }
     ]
 }
