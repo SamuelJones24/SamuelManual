@@ -1,16 +1,16 @@
 {
-    "last_updated": "2025-06-27T13:24:30.268966",
+    "last_updated": "2025-06-28T01:23:40.447245",
     "deals": [
         {
             "category": "Smart Home and Wifi",
-            "title": "TP - Link - Deco BE65 Pro BE11000 Whole Home Tri - Band Wi - Fi 7 Mesh Router System with two 5 - Gig Ports (3 - pack) - White",
-            "sku": "6578378",
-            "price": 599.99,
-            "savings": 200.0,
-            "discount_percent": 33.3338888981483,
-            "priority_score": 759.8674558548215,
-            "reviews": 211,
-            "image_url": "images/6578378.jpg"
+            "title": "TP - Link - Deco XE75 Pro AXE5400 Tri - Band Wi - Fi 6E Whole Home Mesh System (3 - Pack) - White",
+            "sku": "6508223",
+            "price": 399.99,
+            "savings": 150.0,
+            "discount_percent": 37.50093752343808,
+            "priority_score": 729.7109453455198,
+            "reviews": 824,
+            "image_url": "images/6508223.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -52,8 +52,8 @@
             "price": 179.99,
             "savings": 51.0,
             "discount_percent": 28.334907494860822,
-            "priority_score": 511.48771248529977,
-            "reviews": 1677,
+            "priority_score": 511.5092003477299,
+            "reviews": 1678,
             "image_url": "images/6473259.jpg"
         },
         {
@@ -80,13 +80,35 @@
         },
         {
             "category": "Smart Home and Wifi",
+            "title": "ASUS - ZenWiFi BE14000 Tri - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
+            "sku": "6594278",
+            "price": 799.99,
+            "savings": 100.0,
+            "discount_percent": 12.500156251953149,
+            "priority_score": 416.2444592473828,
+            "reviews": 70,
+            "image_url": "images/6594278.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "TP - Link - Archer BE6500 Dual - Band Wi - Fi 7 Router - Black",
+            "sku": "6583791",
+            "price": 179.99,
+            "savings": 50.0,
+            "discount_percent": 27.779321073392964,
+            "priority_score": 409.71885572108334,
+            "reviews": 113,
+            "image_url": "images/6583791.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
             "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
             "sku": "6567807",
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
-            "priority_score": 399.88655947213147,
-            "reviews": 467,
+            "priority_score": 400.0403651466713,
+            "reviews": 469,
             "image_url": "images/6567807.jpg"
         }
     ]

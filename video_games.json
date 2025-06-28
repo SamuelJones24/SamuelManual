@@ -1,6 +1,28 @@
 {
-    "last_updated": "2025-06-27T19:56:13.537576",
+    "last_updated": "2025-06-28T01:23:40.447245",
     "deals": [
+        {
+            "category": "Video Games",
+            "title": "Turtle Beach - Stealth Ultra Wireless Controller with Charge Dock, 30 - Hour Battery, Designed for Xbox Series X|S, Windows PC, Android - Black",
+            "sku": "6562064",
+            "price": 219.99,
+            "savings": 63.0,
+            "discount_percent": 28.637665348424928,
+            "priority_score": 501.7828454465522,
+            "reviews": 631,
+            "image_url": "images/6562064.jpg"
+        },
+        {
+            "category": "Video Games",
+            "title": "PowerA - Dual Charging Station for Xbox Series X|S - Black",
+            "sku": "6472018",
+            "price": 29.99,
+            "savings": 14.0,
+            "discount_percent": 46.68222740913638,
+            "priority_score": 419.3948292656868,
+            "reviews": 1062,
+            "image_url": "images/6472018.jpg"
+        },
         {
             "category": "Video Games",
             "title": "RDS Industries - Game Traveler Deluxe Zelda Tears of the Kingdom Travel Case for Nintendo Switch - Multi",
@@ -22,6 +44,17 @@
             "priority_score": 322.1725648489005,
             "reviews": 38,
             "image_url": "images/6595736.jpg"
+        },
+        {
+            "category": "Video Games",
+            "title": "Dragon Age: The Veilguard Deluxe - Xbox Series X",
+            "sku": "6595737",
+            "price": 39.99,
+            "savings": 20.0,
+            "discount_percent": 50.012503125781436,
+            "priority_score": 303.1265582787696,
+            "reviews": 22,
+            "image_url": "images/6595737.jpg"
         }
     ]
 }
