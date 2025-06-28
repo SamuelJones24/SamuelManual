@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-27T13:24:30.268966",
+    "last_updated": "2025-06-27T19:56:13.537576",
     "deals": [
         {
             "category": "Appliances",
@@ -8,8 +8,8 @@
             "price": 289.99,
             "savings": 107.0,
             "discount_percent": 36.89782406289872,
-            "priority_score": 636.8710047300137,
-            "reviews": 741,
+            "priority_score": 636.9195803279586,
+            "reviews": 742,
             "image_url": "images/6470678.jpg"
         },
         {
@@ -19,8 +19,8 @@
             "price": 3299.99,
             "savings": 200.0,
             "discount_percent": 6.060624426134625,
-            "priority_score": 617.7992693077532,
-            "reviews": 180,
+            "priority_score": 617.9979881356405,
+            "reviews": 181,
             "image_url": "images/6571681.jpg"
         },
         {
@@ -41,8 +41,8 @@
             "price": 899.99,
             "savings": 150.0,
             "discount_percent": 16.66685185390949,
-            "priority_score": 469.82004973547987,
-            "reviews": 10,
+            "priority_score": 472.9583217875763,
+            "reviews": 11,
             "image_url": "images/6618888.jpg"
         }
     ]

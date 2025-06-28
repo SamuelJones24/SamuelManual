@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-27T13:24:30.268966",
+    "last_updated": "2025-06-27T19:56:13.537576",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -8,8 +8,8 @@
             "price": 399.99,
             "savings": 101.0,
             "discount_percent": 25.250631265781642,
-            "priority_score": 638.5607864527899,
-            "reviews": 5450,
+            "priority_score": 638.5806309517898,
+            "reviews": 5453,
             "image_url": "images/6505727.jpg"
         },
         {
@@ -19,8 +19,8 @@
             "price": 299.0,
             "savings": 69.01,
             "discount_percent": 23.08026755852843,
-            "priority_score": 590.5607820652218,
-            "reviews": 11469,
+            "priority_score": 590.5765011223555,
+            "reviews": 11474,
             "image_url": "images/6428314.jpg"
         },
         {
@@ -30,31 +30,9 @@
             "price": 159.99,
             "savings": 50.0,
             "discount_percent": 31.25195324707794,
-            "priority_score": 550.7322281355991,
-            "reviews": 3513,
+            "priority_score": 550.7424905843872,
+            "reviews": 3514,
             "image_url": "images/6492430.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - Authentics 300 Smart Home Speaker - Black",
-            "sku": "6554783",
-            "price": 449.99,
-            "savings": 100.0,
-            "discount_percent": 22.222716060356895,
-            "priority_score": 495.70618761363585,
-            "reviews": 166,
-            "image_url": "images/6554783.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Shokz - OpenRun Pro Mini Premium Bone Conduction Open - Ear Sport Headphones - Black",
-            "sku": "6522549",
-            "price": 159.99,
-            "savings": 50.0,
-            "discount_percent": 31.25195324707794,
-            "priority_score": 494.5930095430356,
-            "reviews": 740,
-            "image_url": "images/6522549.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -63,8 +41,8 @@
             "price": 449.99,
             "savings": 70.0,
             "discount_percent": 15.555901242249828,
-            "priority_score": 470.4272189255281,
-            "reviews": 1101,
+            "priority_score": 470.4599331010337,
+            "reviews": 1102,
             "image_url": "images/6514466.jpg"
         },
         {
@@ -74,31 +52,9 @@
             "price": 699.0,
             "savings": 100.0,
             "discount_percent": 14.306151645207441,
-            "priority_score": 439.72876959011717,
-            "reviews": 105,
+            "priority_score": 440.06743288606594,
+            "reviews": 106,
             "image_url": "images/6551305.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Bose - Bass Module 700 Wireless Subwoofer - Black",
-            "sku": "6280563",
-            "price": 899.99,
-            "savings": 50.0,
-            "discount_percent": 5.5556172846364955,
-            "priority_score": 427.63692234465395,
-            "reviews": 4079,
-            "image_url": "images/6280563.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Sony - ULT FIELD 3 Wireless Speaker - Forest Gray",
-            "sku": "6620177",
-            "price": 199.99,
-            "savings": 51.0,
-            "discount_percent": 25.501275063753187,
-            "priority_score": 390.9921657846984,
-            "reviews": 87,
-            "image_url": "images/6620177.jpg"
         }
     ]
 }
