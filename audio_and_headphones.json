@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-29T07:26:41.687791",
+    "last_updated": "2025-06-29T13:22:53.637439",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -36,24 +36,13 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Shokz - OpenRun Pro 2 Bone Conduction Open - Ear Sports Headphones - Steel Blue",
-            "sku": "6590116",
-            "price": 179.99,
-            "savings": 70.0,
-            "discount_percent": 38.89104950275015,
-            "priority_score": 545.8384280213647,
-            "reviews": 350,
-            "image_url": "images/6590116.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "JBL - Authentics 300 Smart Home Speaker - Black",
             "sku": "6554783",
             "price": 449.99,
             "savings": 100.0,
             "discount_percent": 22.222716060356895,
-            "priority_score": 495.70618761363585,
-            "reviews": 166,
+            "priority_score": 495.9215158712535,
+            "reviews": 167,
             "image_url": "images/6554783.jpg"
         },
         {
@@ -99,17 +88,6 @@
             "priority_score": 392.59542422019126,
             "reviews": 91,
             "image_url": "images/6620177.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - EON ONE Compact Portable Bluetooth Speaker and PA System - Black",
-            "sku": "6407390",
-            "price": 599.0,
-            "savings": 50.0,
-            "discount_percent": 8.347245409015025,
-            "priority_score": 310.60841459916185,
-            "reviews": 107,
-            "image_url": "images/6407390.jpg"
         }
     ]
 }

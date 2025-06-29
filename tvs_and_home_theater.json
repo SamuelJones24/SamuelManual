@@ -1,16 +1,38 @@
 {
-    "last_updated": "2025-06-29T07:26:41.687791",
+    "last_updated": "2025-06-29T13:22:53.637439",
     "deals": [
         {
             "category": "TVs and Home Theater",
+            "title": "Samsung - 55\u201d Class S95D Series OLED 4K Glare - Free Smart Tizen TV (2024)",
+            "sku": "6576559",
+            "price": 1899.99,
+            "savings": 250.0,
+            "discount_percent": 13.157963989284156,
+            "priority_score": 749.0627418992862,
+            "reviews": 160,
+            "image_url": "images/6576559.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
             "title": "Panasonic - Streaming 4K Ultra HD Hi - Res Audio with Dolby Vision 7.1 Channel DVD/CD/3D Wi - Fi Built - In Blu - Ray Player, DP - UB820 - K - Black",
-            "sku": "",
+            "sku": "6278202",
             "price": 499.98,
             "savings": 95.0,
             "discount_percent": 19.000760030401214,
-            "priority_score": 554.6401118559696,
-            "reviews": 1764,
-            "image_url": "images/.jpg"
+            "priority_score": 554.6605408432177,
+            "reviews": 1765,
+            "image_url": "images/6278202.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "Hisense - 65\" Class U8 Series Mini - LED QLED UHD 4K HDR Smart Google TV (2025)",
+            "sku": "6621215",
+            "price": 1299.99,
+            "savings": 57.0,
+            "discount_percent": 4.384649112685482,
+            "priority_score": 249.01229446485274,
+            "reviews": 22,
+            "image_url": "images/6621215.jpg"
         }
     ]
 }
