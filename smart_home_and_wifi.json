@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-06-28T20:03:39.507288",
+    "last_updated": "2025-06-29T01:24:54.007324",
     "deals": [
-        {
-            "category": "Smart Home and Wifi",
-            "title": "TP - Link - Deco BE65 Pro BE11000 Whole Home Tri - Band Wi - Fi 7 Mesh Router System with two 5 - Gig Ports (3 - pack) - White",
-            "sku": "6578378",
-            "price": 599.99,
-            "savings": 200.0,
-            "discount_percent": 33.3338888981483,
-            "priority_score": 759.8674558548215,
-            "reviews": 211,
-            "image_url": "images/6578378.jpg"
-        },
         {
             "category": "Smart Home and Wifi",
             "title": "Arlo - Essential 1 - Camera Indoor Wired 2K Security Camera (2nd Generation) with Automated Privacy Shield - White",
@@ -58,14 +47,14 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
-            "sku": "6554318",
-            "price": 599.99,
-            "savings": 75.0,
-            "discount_percent": 12.500208336805613,
-            "priority_score": 410.7694751231002,
-            "reviews": 243,
-            "image_url": "images/6554318.jpg"
+            "title": "TP - Link - Archer BE6500 Dual - Band Wi - Fi 7 Router - Black",
+            "sku": "6583791",
+            "price": 179.99,
+            "savings": 50.0,
+            "discount_percent": 27.779321073392964,
+            "priority_score": 410.0338566405742,
+            "reviews": 114,
+            "image_url": "images/6583791.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -74,20 +63,9 @@
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
-            "priority_score": 400.11702272286595,
-            "reviews": 470,
+            "priority_score": 400.19351771659234,
+            "reviews": 471,
             "image_url": "images/6567807.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6553330",
-            "price": 1999.99,
-            "savings": 75.0,
-            "discount_percent": 3.7500187500937505,
-            "priority_score": 362.4549149902052,
-            "reviews": 214,
-            "image_url": "images/6553330.jpg"
         }
     ]
 }

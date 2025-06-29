@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-28T20:03:39.507288",
+    "last_updated": "2025-06-29T01:24:54.007324",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -8,9 +8,20 @@
             "price": 1699.99,
             "savings": 500.0,
             "discount_percent": 29.41193771728069,
-            "priority_score": 1288.1560933307715,
-            "reviews": 49,
+            "priority_score": 1288.8703221356907,
+            "reviews": 50,
             "image_url": "images/6599654.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "TP - Link - Deco BE65 Pro BE11000 Whole Home Tri - Band Wi - Fi 7 Mesh Router System with two 5 - Gig Ports (3 - pack) - White",
+            "sku": "6578378",
+            "price": 599.99,
+            "savings": 200.0,
+            "discount_percent": 33.3338888981483,
+            "priority_score": 759.8674558548215,
+            "reviews": 211,
+            "image_url": "images/6578378.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -135,17 +146,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 256GB with OLED - Space Black",
-            "sku": "6533540",
-            "price": 1299.0,
-            "savings": 64.95,
-            "discount_percent": 5.0,
-            "priority_score": 416.91975502739547,
-            "reviews": 1428,
-            "image_url": "images/6533540.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "ASUS - ZenWiFi BE14000 Tri - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
             "sku": "6594278",
             "price": 799.99,
@@ -157,25 +157,25 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
+            "sku": "6554318",
+            "price": 599.99,
+            "savings": 75.0,
+            "discount_percent": 12.500208336805613,
+            "priority_score": 410.7694751231002,
+            "reviews": 243,
+            "image_url": "images/6554318.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "TP - Link - Archer BE6500 Dual - Band Wi - Fi 7 Router - Black",
-            "sku": "6583791",
+            "sku": "",
             "price": 179.99,
             "savings": 50.0,
             "discount_percent": 27.779321073392964,
             "priority_score": 410.0338566405742,
             "reviews": 114,
-            "image_url": "images/6583791.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "6533542",
-            "price": 1499.0,
-            "savings": 74.95,
-            "discount_percent": 5.0,
-            "priority_score": 403.3887838099698,
-            "reviews": 563,
-            "image_url": "images/6533542.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -190,47 +190,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Canon - PP - 301 Photo Plus II High - Glossy Photo 3.95\" x 5.9\" 100 - Count Paper - white",
-            "sku": "5786365",
-            "price": 23.99,
-            "savings": 11.0,
-            "discount_percent": 45.85243851604835,
-            "priority_score": 388.1737716189421,
-            "reviews": 565,
-            "image_url": "images/5786365.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Canon - PP - 301 Photo Plus II High - Glossy Photo 8.5\" x 11.02\" 20 - Count Paper - white",
-            "sku": "5786311",
-            "price": 16.99,
-            "savings": 7.0,
-            "discount_percent": 41.20070629782225,
-            "priority_score": 374.69751332507315,
-            "reviews": 715,
-            "image_url": "images/5786311.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Blue",
             "sku": "6467301",
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 370.2677461028802,
-            "reviews": 391,
+            "priority_score": 370.35963755646515,
+            "reviews": 392,
             "image_url": "images/6467301.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 256GB with OLED - Space Black",
-            "sku": "5495362",
-            "price": 999.0,
-            "savings": 49.95,
-            "discount_percent": 5.0,
-            "priority_score": 368.70712105766455,
-            "reviews": 1137,
-            "image_url": "images/5495362.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -245,25 +212,36 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6553330",
+            "price": 1999.99,
+            "savings": 75.0,
+            "discount_percent": 3.7500187500937505,
+            "priority_score": 362.4549149902052,
+            "reviews": 214,
+            "image_url": "images/6553330.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Alienware - AW2725DM 27\" IPS LED QHD 180Hz 1ms FreeSync and G - Sync Gaming Monitor with HDR (HDMI, DisplayPort) - Black",
             "sku": "6620191",
             "price": 269.99,
             "savings": 50.0,
             "discount_percent": 18.519204414978333,
-            "priority_score": 356.84241228316534,
-            "reviews": 94,
+            "priority_score": 357.59384312956985,
+            "reviews": 96,
             "image_url": "images/6620191.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "5495364",
-            "price": 1199.0,
-            "savings": 59.95,
-            "discount_percent": 5.0,
-            "priority_score": 346.14621373626403,
-            "reviews": 264,
-            "image_url": "images/5495364.jpg"
+            "title": "AMD - Ryzen 7 9700X 8 - Core - 16 - Thread 3.8 GHz (5.5 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Silver",
+            "sku": "6589136",
+            "price": 359.0,
+            "savings": 54.0,
+            "discount_percent": 15.041782729805014,
+            "priority_score": 339.8785771663976,
+            "reviews": 76,
+            "image_url": "images/6589136.jpg"
         },
         {
             "category": "Computers and Tablets",
