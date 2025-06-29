@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-28T07:26:17.333917",
+    "last_updated": "2025-06-28T20:03:39.507288",
     "deals": [
         {
             "category": "TVs and Home Theater",
@@ -8,31 +8,9 @@
             "price": 499.98,
             "savings": 95.0,
             "discount_percent": 19.000760030401214,
-            "priority_score": 554.6196712909441,
-            "reviews": 1763,
+            "priority_score": 554.6401118559696,
+            "reviews": 1764,
             "image_url": "images/6278202.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "Sonos - Arc Ultra Soundbar - White",
-            "sku": "6597166",
-            "price": 999.0,
-            "savings": 99.0,
-            "discount_percent": 9.90990990990991,
-            "priority_score": 471.54959785125163,
-            "reviews": 497,
-            "image_url": "images/6597166.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "Samsung - 75\u201d Class DU8000 Series Crystal UHD Smart Tizen TV (2024)",
-            "sku": "6575124",
-            "price": 899.99,
-            "savings": 110.0,
-            "discount_percent": 12.22235802620029,
-            "priority_score": 449.3098014950814,
-            "reviews": 105,
-            "image_url": "images/6575124.jpg"
         }
     ]
 }

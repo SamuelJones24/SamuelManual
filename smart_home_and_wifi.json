@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-28T13:17:38.541995",
+    "last_updated": "2025-06-28T20:03:39.507288",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -11,17 +11,6 @@
             "priority_score": 759.8674558548215,
             "reviews": 211,
             "image_url": "images/6578378.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "TP - Link - Deco XE75 Pro AXE5400 Tri - Band Wi - Fi 6E Whole Home Mesh System (3 - Pack) - White",
-            "sku": "6508223",
-            "price": 399.99,
-            "savings": 150.0,
-            "discount_percent": 37.50093752343808,
-            "priority_score": 729.7546369026766,
-            "reviews": 825,
-            "image_url": "images/6508223.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -58,17 +47,6 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
-            "sku": "6398057",
-            "price": 499.99,
-            "savings": 75.0,
-            "discount_percent": 15.000300006000119,
-            "priority_score": 484.51302665722494,
-            "reviews": 1332,
-            "image_url": "images/6398057.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
             "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
             "sku": "6559342",
             "price": 449.99,
@@ -77,17 +55,6 @@
             "priority_score": 468.84652783323827,
             "reviews": 2498,
             "image_url": "images/6559342.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "ASUS - ZenWiFi BE14000 Tri - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
-            "sku": "6594278",
-            "price": 799.99,
-            "savings": 100.0,
-            "discount_percent": 12.500156251953149,
-            "priority_score": 416.2444592473828,
-            "reviews": 70,
-            "image_url": "images/6594278.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -102,36 +69,14 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "TP - Link - Archer BE6500 Dual - Band Wi - Fi 7 Router - Black",
-            "sku": "6583791",
-            "price": 179.99,
-            "savings": 50.0,
-            "discount_percent": 27.779321073392964,
-            "priority_score": 409.71885572108334,
-            "reviews": 113,
-            "image_url": "images/6583791.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
             "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
             "sku": "6567807",
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
-            "priority_score": 400.0403651466713,
-            "reviews": 469,
+            "priority_score": 400.11702272286595,
+            "reviews": 470,
             "image_url": "images/6567807.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "ASUS - ZenWiFi BE5000 Dual - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
-            "sku": "6594274",
-            "price": 349.99,
-            "savings": 70.0,
-            "discount_percent": 20.000571444898423,
-            "priority_score": 394.7484711964926,
-            "reviews": 72,
-            "image_url": "images/6594274.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -143,17 +88,6 @@
             "priority_score": 362.4549149902052,
             "reviews": 214,
             "image_url": "images/6553330.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6612971",
-            "price": 1299.99,
-            "savings": 75.0,
-            "discount_percent": 5.7692751482703715,
-            "priority_score": 253.84637574135186,
-            "reviews": 7,
-            "image_url": "images/6612971.jpg"
         }
     ]
 }

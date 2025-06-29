@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-28T13:17:38.541995",
+    "last_updated": "2025-06-28T20:03:39.507288",
     "deals": [
+        {
+            "category": "Appliances",
+            "title": "Shark - Pet Cordless Stick Vacuum with XL Dust Cup, LED Headlights - Blue Iris",
+            "sku": "6359269",
+            "price": 299.99,
+            "savings": 120.0,
+            "discount_percent": 40.00133337777926,
+            "priority_score": 725.3473651145007,
+            "reviews": 2727,
+            "image_url": "images/6359269.jpg"
+        },
         {
             "category": "Appliances",
             "title": "Shark - Stratos MultiFLEX Cordless Stick Vacuum with Clean Sense IQ and Odor Neutralizer, DuoClean Powerfins HairPro - Ash Purple",
@@ -47,13 +58,24 @@
         },
         {
             "category": "Appliances",
+            "title": "Shark - PowerDetect Clean & Empty Cordless Stick Vacuum & Auto - Empty System with Powerful Suction - Dark Gray",
+            "sku": "",
+            "price": 549.99,
+            "savings": 119.0,
+            "discount_percent": 21.636757031946036,
+            "priority_score": 547.0193601981664,
+            "reviews": 261,
+            "image_url": "images/.jpg"
+        },
+        {
+            "category": "Appliances",
             "title": "iRobot - Roomba Max 705 Vac Robot Vacuum + AutoEmpty Dock - Black",
             "sku": "6618888",
             "price": 899.99,
             "savings": 150.0,
             "discount_percent": 16.66685185390949,
-            "priority_score": 472.9583217875763,
-            "reviews": 11,
+            "priority_score": 481.0065241597604,
+            "reviews": 14,
             "image_url": "images/6618888.jpg"
         }
     ]

@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-28T07:26:17.333917",
+    "last_updated": "2025-06-28T20:03:39.507288",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -14,36 +14,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "TP - Link - Deco BE65 Pro BE11000 Whole Home Tri - Band Wi - Fi 7 Mesh Router System with two 5 - Gig Ports (3 - pack) - White",
-            "sku": "6578378",
-            "price": 599.99,
-            "savings": 200.0,
-            "discount_percent": 33.3338888981483,
-            "priority_score": 759.8674558548215,
-            "reviews": 211,
-            "image_url": "images/6578378.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "TP - Link - Deco XE75 Pro AXE5400 Tri - Band Wi - Fi 6E Whole Home Mesh System (3 - Pack) - White",
-            "sku": "",
+            "sku": "6508223",
             "price": 399.99,
             "savings": 150.0,
             "discount_percent": 37.50093752343808,
-            "priority_score": 729.7109453455198,
-            "reviews": 824,
-            "image_url": "images/.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
-            "sku": "6485246",
-            "price": 119.99,
-            "savings": 60.0,
-            "discount_percent": 50.00416701391784,
-            "priority_score": 613.3462181117383,
-            "reviews": 850,
-            "image_url": "images/6485246.jpg"
+            "priority_score": 729.7982755964723,
+            "reviews": 826,
+            "image_url": "images/6508223.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -77,6 +55,17 @@
             "priority_score": 549.083639720099,
             "reviews": 1239,
             "image_url": "images/6501714.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 100.0,
+            "discount_percent": 33.33444448148272,
+            "priority_score": 535.8768305268368,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -118,9 +107,20 @@
             "price": 1999.0,
             "savings": 99.95,
             "discount_percent": 5.0,
-            "priority_score": 457.49451870442755,
-            "reviews": 631,
+            "priority_score": 457.6084757534852,
+            "reviews": 633,
             "image_url": "images/6602748.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - MacBook Pro 14 - inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Space Black",
+            "sku": "6602741",
+            "price": 1599.0,
+            "savings": 79.95,
+            "discount_percent": 5.0,
+            "priority_score": 435.7011431732702,
+            "reviews": 1046,
+            "image_url": "images/6602741.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -140,8 +140,8 @@
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 416.8439566610972,
-            "reviews": 1425,
+            "priority_score": 416.91975502739547,
+            "reviews": 1428,
             "image_url": "images/6533540.jpg"
         },
         {
@@ -157,24 +157,13 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
-            "sku": "6554318",
-            "price": 599.99,
-            "savings": 75.0,
-            "discount_percent": 12.500208336805613,
-            "priority_score": 410.7694751231002,
-            "reviews": 243,
-            "image_url": "images/6554318.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "TP - Link - Archer BE6500 Dual - Band Wi - Fi 7 Router - Black",
             "sku": "6583791",
             "price": 179.99,
             "savings": 50.0,
             "discount_percent": 27.779321073392964,
-            "priority_score": 409.71885572108334,
-            "reviews": 113,
+            "priority_score": 410.0338566405742,
+            "reviews": 114,
             "image_url": "images/6583791.jpg"
         },
         {
@@ -212,14 +201,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Canon - PP - 301 Photo Plus II Glossy Photo 5.12\" x 7.1\" 20 - Count Paper - white",
-            "sku": "5786342",
-            "price": 10.99,
-            "savings": 5.0,
-            "discount_percent": 45.49590536851683,
-            "priority_score": 381.722489508993,
-            "reviews": 679,
-            "image_url": "images/5786342.jpg"
+            "title": "Canon - PP - 301 Photo Plus II High - Glossy Photo 8.5\" x 11.02\" 20 - Count Paper - white",
+            "sku": "5786311",
+            "price": 16.99,
+            "savings": 7.0,
+            "discount_percent": 41.20070629782225,
+            "priority_score": 374.69751332507315,
+            "reviews": 715,
+            "image_url": "images/5786311.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -228,8 +217,8 @@
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 370.17561993268384,
-            "reviews": 390,
+            "priority_score": 370.2677461028802,
+            "reviews": 391,
             "image_url": "images/6467301.jpg"
         },
         {
@@ -239,8 +228,8 @@
             "price": 999.0,
             "savings": 49.95,
             "discount_percent": 5.0,
-            "priority_score": 368.643677987617,
-            "reviews": 1135,
+            "priority_score": 368.70712105766455,
+            "reviews": 1137,
             "image_url": "images/5495362.jpg"
         },
         {
@@ -253,17 +242,6 @@
             "priority_score": 366.0162626979584,
             "reviews": 50,
             "image_url": "images/6576883.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6553330",
-            "price": 1999.99,
-            "savings": 75.0,
-            "discount_percent": 3.7500187500937505,
-            "priority_score": 362.4549149902052,
-            "reviews": 214,
-            "image_url": "images/6553330.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -283,8 +261,8 @@
             "price": 1199.0,
             "savings": 59.95,
             "discount_percent": 5.0,
-            "priority_score": 346.00985298396137,
-            "reviews": 263,
+            "priority_score": 346.14621373626403,
+            "reviews": 264,
             "image_url": "images/5495364.jpg"
         },
         {
