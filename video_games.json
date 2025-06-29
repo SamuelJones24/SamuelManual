@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-29T01:24:54.007324",
+    "last_updated": "2025-06-29T07:26:41.687791",
     "deals": [
         {
             "category": "Video Games",
@@ -25,6 +25,17 @@
         },
         {
             "category": "Video Games",
+            "title": "RDS Industries - Game Traveler Deluxe Zelda Tears of the Kingdom Travel Case for Nintendo Switch - Multi",
+            "sku": "6537255",
+            "price": 19.99,
+            "savings": 9.0,
+            "discount_percent": 45.02251125562782,
+            "priority_score": 332.06431718634315,
+            "reviews": 142,
+            "image_url": "images/6537255.jpg"
+        },
+        {
+            "category": "Video Games",
             "title": "Dragon Age: The Veilguard Deluxe - PlayStation 5",
             "sku": "6595736",
             "price": 39.99,
@@ -33,6 +44,17 @@
             "priority_score": 322.1725648489005,
             "reviews": 38,
             "image_url": "images/6595736.jpg"
+        },
+        {
+            "category": "Video Games",
+            "title": "Dragon Age: The Veilguard Deluxe - Xbox Series X",
+            "sku": "6595737",
+            "price": 39.99,
+            "savings": 20.0,
+            "discount_percent": 50.012503125781436,
+            "priority_score": 303.1265582787696,
+            "reviews": 22,
+            "image_url": "images/6595737.jpg"
         }
     ]
 }
