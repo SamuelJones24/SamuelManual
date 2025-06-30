@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-30T07:28:42.520116",
+    "last_updated": "2025-06-30T13:23:38.187756",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -19,20 +19,20 @@
             "price": 449.99,
             "savings": 100.0,
             "discount_percent": 22.222716060356895,
-            "priority_score": 495.9215158712535,
-            "reviews": 167,
+            "priority_score": 496.1355662088391,
+            "reviews": 168,
             "image_url": "images/6554783.jpg"
         },
         {
             "category": "Audio & Headphones",
-            "title": "Sony - ULT FIELD 3 Wireless Speaker - Forest Gray",
-            "sku": "6620177",
-            "price": 199.99,
-            "savings": 51.0,
-            "discount_percent": 25.501275063753187,
-            "priority_score": 392.59542422019126,
-            "reviews": 91,
-            "image_url": "images/6620177.jpg"
+            "title": "Samsung - HW - S700D 3.1 Channel S - Series Soundbar with Wireless Subwoofer, Dolby Atmos and Q - Symphony - Titan Black",
+            "sku": "6577566",
+            "price": 399.99,
+            "savings": 80.0,
+            "discount_percent": 20.00050001250031,
+            "priority_score": 451.4577871312964,
+            "reviews": 201,
+            "image_url": "images/6577566.jpg"
         }
     ]
 }

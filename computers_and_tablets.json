@@ -1,27 +1,27 @@
 {
-    "last_updated": "2025-06-30T07:28:42.520116",
+    "last_updated": "2025-06-30T13:23:38.187756",
     "deals": [
         {
             "category": "Computers and Tablets",
-            "title": "TP - Link - Deco XE75 Pro AXE5400 Tri - Band Wi - Fi 6E Whole Home Mesh System (3 - Pack) - White",
-            "sku": "6508223",
-            "price": 399.99,
-            "savings": 150.0,
-            "discount_percent": 37.50093752343808,
-            "priority_score": 729.7982755964723,
-            "reviews": 826,
-            "image_url": "images/6508223.jpg"
+            "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
+            "sku": "6485246",
+            "price": 119.99,
+            "savings": 60.0,
+            "discount_percent": 50.00416701391784,
+            "priority_score": 613.4308833525464,
+            "reviews": 852,
+            "image_url": "images/6485246.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "ASUS - Vivobook 14 14\" FHD Laptop - Intel Core i5 - 12GB Memory - 256GB SSD - Quiet Blue",
-            "sku": "6612931",
-            "price": 499.99,
-            "savings": 170.0,
-            "discount_percent": 34.000680013600274,
-            "priority_score": 666.201587904091,
-            "reviews": 75,
-            "image_url": "images/6612931.jpg"
+            "title": "Epson - WorkForce Pro WF - 3820 Wireless All - in - One Printer - Black",
+            "sku": "6426722",
+            "price": 199.99,
+            "savings": 70.0,
+            "discount_percent": 35.00175008750438,
+            "priority_score": 594.4442388872528,
+            "reviews": 2315,
+            "image_url": "images/6426722.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -36,58 +36,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
-            "sku": "6537888",
-            "price": 299.99,
+            "title": "ASUS - ZenWiFi BE14000 Tri - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
+            "sku": "6594278",
+            "price": 799.99,
             "savings": 100.0,
-            "discount_percent": 33.33444448148272,
-            "priority_score": 535.8768305268368,
-            "reviews": 108,
-            "image_url": "images/6537888.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro 13\" (11th Edition), Pro 9, and Pro 8 - Black",
-            "sku": "6583049",
-            "price": 279.99,
-            "savings": 83.0,
-            "discount_percent": 29.64391585413765,
-            "priority_score": 507.4175906347682,
-            "reviews": 211,
-            "image_url": "images/6583049.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - MacBook Pro 14 - inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
-            "sku": "6602748",
-            "price": 1999.0,
-            "savings": 99.95,
-            "discount_percent": 5.0,
-            "priority_score": 457.6653195414882,
-            "reviews": 634,
-            "image_url": "images/6602748.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Logitech - Folio Touch Keyboard Case with Trackpad for iPad Air 11 - inch - Latest Model (M2 &M3), iPad Air (4th & 5th gen) - Graphite",
-            "sku": "6435279",
-            "price": 199.99,
-            "savings": 48.0,
-            "discount_percent": 24.001200060003,
-            "priority_score": 424.58533018932553,
-            "reviews": 1228,
-            "image_url": "images/6435279.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Dune",
-            "sku": "6583060",
-            "price": 279.99,
-            "savings": 60.0,
-            "discount_percent": 21.429336762027216,
-            "priority_score": 420.3446951742161,
-            "reviews": 211,
-            "image_url": "images/6583060.jpg"
+            "discount_percent": 12.500156251953149,
+            "priority_score": 416.2444592473828,
+            "reviews": 70,
+            "image_url": "images/6594278.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -99,17 +55,6 @@
             "priority_score": 409.5125266472247,
             "reviews": 1332,
             "image_url": "images/6398057.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "ASUS - ZenWiFi BE5000 Dual - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
-            "sku": "6594274",
-            "price": 349.99,
-            "savings": 70.0,
-            "discount_percent": 20.000571444898423,
-            "priority_score": 394.7484711964926,
-            "reviews": 72,
-            "image_url": "images/6594274.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -125,13 +70,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Samsung - T7 4TB External USB 3.2 Gen 2 Portable SSD with Hardware Encryption - Titan Gray",
-            "sku": "",
+            "sku": "6576883",
             "price": 344.99,
             "savings": 65.0,
             "discount_percent": 18.841125829734196,
             "priority_score": 366.0162626979584,
             "reviews": 50,
-            "image_url": "images/.jpg"
+            "image_url": "images/6576883.jpg"
         },
         {
             "category": "Computers and Tablets",

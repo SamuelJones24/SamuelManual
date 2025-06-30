@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-30T07:28:42.520116",
+    "last_updated": "2025-06-30T13:23:38.187756",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -11,17 +11,6 @@
             "priority_score": 468.84652783323827,
             "reviews": 2498,
             "image_url": "images/6559342.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "ASUS - ZenWiFi BE14000 Tri - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
-            "sku": "6594278",
-            "price": 799.99,
-            "savings": 100.0,
-            "discount_percent": 12.500156251953149,
-            "priority_score": 416.2444592473828,
-            "reviews": 70,
-            "image_url": "images/6594278.jpg"
         },
         {
             "category": "Smart Home and Wifi",
