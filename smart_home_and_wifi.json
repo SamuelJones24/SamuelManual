@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-30T01:25:32.007408",
+    "last_updated": "2025-06-30T07:28:42.520116",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -14,6 +14,17 @@
         },
         {
             "category": "Smart Home and Wifi",
+            "title": "ASUS - ZenWiFi BE14000 Tri - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
+            "sku": "6594278",
+            "price": 799.99,
+            "savings": 100.0,
+            "discount_percent": 12.500156251953149,
+            "priority_score": 416.2444592473828,
+            "reviews": 70,
+            "image_url": "images/6594278.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
             "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
             "sku": "6567807",
             "price": 319.99,
@@ -22,17 +33,6 @@
             "priority_score": 400.19351771659234,
             "reviews": 471,
             "image_url": "images/6567807.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "ASUS - ZenWiFi BE5000 Dual - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
-            "sku": "6594274",
-            "price": 349.99,
-            "savings": 70.0,
-            "discount_percent": 20.000571444898423,
-            "priority_score": 394.7484711964926,
-            "reviews": 72,
-            "image_url": "images/6594274.jpg"
         }
     ]
 }
