@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-29T19:53:34.059497",
+    "last_updated": "2025-06-30T01:25:32.007408",
     "deals": [
+        {
+            "category": "Appliances",
+            "title": "Tineco - Floor Washer Pet Cordless Mop & Vacuum Cleaner - 5 Series - Black",
+            "sku": "6585781",
+            "price": 499.99,
+            "savings": 180.0,
+            "discount_percent": 36.00072001440029,
+            "priority_score": 719.7492140440019,
+            "reviews": 145,
+            "image_url": "images/6585781.jpg"
+        },
         {
             "category": "Appliances",
             "title": "Levoit - PlasmaPro 400s Smart Air Purifier - White",
@@ -44,6 +55,17 @@
             "priority_score": 485.5208303008059,
             "reviews": 16,
             "image_url": "images/6618888.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "NutriBullet - Ultra Personal Blender NB50500 - Gray",
+            "sku": "6553390",
+            "price": 164.99,
+            "savings": 57.0,
+            "discount_percent": 34.5475483362628,
+            "priority_score": 456.92161473275405,
+            "reviews": 111,
+            "image_url": "images/6553390.jpg"
         },
         {
             "category": "Appliances",

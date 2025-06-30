@@ -1,72 +1,6 @@
 {
-    "last_updated": "2025-06-29T19:53:34.059497",
+    "last_updated": "2025-06-30T01:25:32.007408",
     "deals": [
-        {
-            "category": "Smart Home and Wifi",
-            "title": "TP - Link - Deco BE65 Pro BE11000 Whole Home Tri - Band Wi - Fi 7 Mesh Router System with two 5 - Gig Ports (3 - pack) - White",
-            "sku": "6578378",
-            "price": 599.99,
-            "savings": 200.0,
-            "discount_percent": 33.3338888981483,
-            "priority_score": 760.0371849963875,
-            "reviews": 212,
-            "image_url": "images/6578378.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "TP - Link - Deco XE75 Pro AXE5400 Tri - Band Wi - Fi 6E Whole Home Mesh System (3 - Pack) - White",
-            "sku": "6508223",
-            "price": 399.99,
-            "savings": 150.0,
-            "discount_percent": 37.50093752343808,
-            "priority_score": 729.7982755964723,
-            "reviews": 826,
-            "image_url": "images/6508223.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Arlo - Essential 1 - Camera Indoor Wired 2K Security Camera (2nd Generation) with Automated Privacy Shield - White",
-            "sku": "6553151",
-            "price": 79.99,
-            "savings": 50.0,
-            "discount_percent": 62.50781347668459,
-            "priority_score": 582.7229404348631,
-            "reviews": 111,
-            "image_url": "images/6553151.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Arlo - Essential 1 - Camera Outdoor Wireless 2K Security Camera (2nd Generation) with Color Night Vision - White",
-            "sku": "6553153",
-            "price": 99.99,
-            "savings": 50.0,
-            "discount_percent": 50.00500050005001,
-            "priority_score": 574.5284919412289,
-            "reviews": 504,
-            "image_url": "images/6553153.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Arlo - Wireless Floodlight Camera - FB1001 - White",
-            "sku": "6402543",
-            "price": 249.99,
-            "savings": 70.0,
-            "discount_percent": 28.00112004480179,
-            "priority_score": 532.2253061919316,
-            "reviews": 1088,
-            "image_url": "images/6402543.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
-            "sku": "6398057",
-            "price": 499.99,
-            "savings": 75.0,
-            "discount_percent": 15.000300006000119,
-            "priority_score": 484.51302665722494,
-            "reviews": 1332,
-            "image_url": "images/6398057.jpg"
-        },
         {
             "category": "Smart Home and Wifi",
             "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
@@ -77,39 +11,6 @@
             "priority_score": 468.84652783323827,
             "reviews": 2498,
             "image_url": "images/6559342.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "ASUS - ZenWiFi BE14000 Tri - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
-            "sku": "6594278",
-            "price": 799.99,
-            "savings": 100.0,
-            "discount_percent": 12.500156251953149,
-            "priority_score": 416.2444592473828,
-            "reviews": 70,
-            "image_url": "images/6594278.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Nighthawk BE19000 Tri - band Wi - Fi Router - Black",
-            "sku": "6554318",
-            "price": 599.99,
-            "savings": 75.0,
-            "discount_percent": 12.500208336805613,
-            "priority_score": 410.7694751231002,
-            "reviews": 243,
-            "image_url": "images/6554318.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "TP - Link - Archer BE6500 Dual - Band Wi - Fi 7 Router - Black",
-            "sku": "6583791",
-            "price": 179.99,
-            "savings": 50.0,
-            "discount_percent": 27.779321073392964,
-            "priority_score": 410.3461302451541,
-            "reviews": 115,
-            "image_url": "images/6583791.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -132,28 +33,6 @@
             "priority_score": 394.7484711964926,
             "reviews": 72,
             "image_url": "images/6594274.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6553330",
-            "price": 1999.99,
-            "savings": 75.0,
-            "discount_percent": 3.7500187500937505,
-            "priority_score": 362.6222813045555,
-            "reviews": 215,
-            "image_url": "images/6553330.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6612971",
-            "price": 1299.99,
-            "savings": 75.0,
-            "discount_percent": 5.7692751482703715,
-            "priority_score": 253.84637574135186,
-            "reviews": 7,
-            "image_url": "images/6612971.jpg"
         }
     ]
 }

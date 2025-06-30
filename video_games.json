@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-29T19:53:34.059497",
+    "last_updated": "2025-06-30T01:25:32.007408",
     "deals": [
         {
             "category": "Video Games",
@@ -22,28 +22,6 @@
             "priority_score": 332.06431718634315,
             "reviews": 142,
             "image_url": "images/6537255.jpg"
-        },
-        {
-            "category": "Video Games",
-            "title": "Dragon Age: The Veilguard Deluxe - PlayStation 5",
-            "sku": "6595736",
-            "price": 39.99,
-            "savings": 20.0,
-            "discount_percent": 50.012503125781436,
-            "priority_score": 322.1725648489005,
-            "reviews": 38,
-            "image_url": "images/6595736.jpg"
-        },
-        {
-            "category": "Video Games",
-            "title": "Dragon Age: The Veilguard Deluxe - Xbox Series X",
-            "sku": "6595737",
-            "price": 39.99,
-            "savings": 20.0,
-            "discount_percent": 50.012503125781436,
-            "priority_score": 303.1265582787696,
-            "reviews": 22,
-            "image_url": "images/6595737.jpg"
         }
     ]
 }

@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-29T13:22:53.637439",
+    "last_updated": "2025-06-30T01:25:32.007408",
     "deals": [
+        {
+            "category": "TVs and Home Theater",
+            "title": "Samsung - HW - Q930D/ZA 9.1.4 Channel Q - Series Soundbar with Wireless Subwoofer and Rear Speakers, Dolby Atmos and Q - Symphony - Black",
+            "sku": "6570311",
+            "price": 1399.99,
+            "savings": 280.0,
+            "discount_percent": 20.000142858163272,
+            "priority_score": 863.871167017119,
+            "reviews": 284,
+            "image_url": "images/6570311.jpg"
+        },
         {
             "category": "TVs and Home Theater",
             "title": "Samsung - 55\u201d Class S95D Series OLED 4K Glare - Free Smart Tizen TV (2024)",
@@ -25,6 +36,39 @@
         },
         {
             "category": "TVs and Home Theater",
+            "title": "Samsung - HW - S700D 3.1 Channel S - Series Soundbar with Wireless Subwoofer, Dolby Atmos and Q - Symphony - Titan Black",
+            "sku": "6577566",
+            "price": 399.99,
+            "savings": 80.0,
+            "discount_percent": 20.00050001250031,
+            "priority_score": 451.4577871312964,
+            "reviews": 201,
+            "image_url": "images/6577566.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "LG - 65\" Class C4 Series OLED evo 4K UHD Smart webOS TV (2024)",
+            "sku": "",
+            "price": 1299.99,
+            "savings": 73.0,
+            "discount_percent": 5.615427810983161,
+            "priority_score": 426.13086508876256,
+            "reviews": 1083,
+            "image_url": "images/.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "TCL - 75\" Class QM5K Series 4K UHD HDR QD - Mini LED Smart TV with Google TV (2025)",
+            "sku": "6625834",
+            "price": 699.99,
+            "savings": 100.0,
+            "discount_percent": 14.285918370262433,
+            "priority_score": 296.4295918513122,
+            "reviews": 1,
+            "image_url": "images/6625834.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
             "title": "Hisense - 65\" Class U8 Series Mini - LED QLED UHD 4K HDR Smart Google TV (2025)",
             "sku": "6621215",
             "price": 1299.99,
@@ -33,6 +77,28 @@
             "priority_score": 249.01229446485274,
             "reviews": 22,
             "image_url": "images/6621215.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "TCL - 65\" Class QM5K Series 4K UHD HDR QD - Mini LED Smart TV with Google TV (2025)",
+            "sku": "6625874",
+            "price": 499.99,
+            "savings": 50.0,
+            "discount_percent": 10.00020000400008,
+            "priority_score": 225.0010000200004,
+            "reviews": 7,
+            "image_url": "images/6625874.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "TCL - 55\" Class QM5K Series 4K UHD HDR QD - Mini LED Smart TV with Google TV (2025)",
+            "sku": "6625835",
+            "price": 379.99,
+            "savings": 50.0,
+            "discount_percent": 13.158241006342273,
+            "priority_score": 190.79120503171137,
+            "reviews": 1,
+            "image_url": "images/6625835.jpg"
         }
     ]
 }

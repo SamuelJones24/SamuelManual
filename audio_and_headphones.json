@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-29T19:53:34.059497",
+    "last_updated": "2025-06-30T01:25:32.007408",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -14,39 +14,6 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Sony - WH1000XM4 Wireless Noise - Cancelling Over - the - Ear Headphones - Midnight Blue",
-            "sku": "6428314",
-            "price": 299.99,
-            "savings": 70.0,
-            "discount_percent": 23.3341111370379,
-            "priority_score": 593.8445728449308,
-            "reviews": 11480,
-            "image_url": "images/6428314.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Shokz - OpenRun Pro Premium Bone Conduction Open - Ear Sport Headphones - Steel Blue",
-            "sku": "6520487",
-            "price": 159.99,
-            "savings": 50.0,
-            "discount_percent": 31.25195324707794,
-            "priority_score": 550.8040040319679,
-            "reviews": 3520,
-            "image_url": "images/6520487.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Shokz - OpenRun Pro 2 Bone Conduction Open - Ear Sports Headphones - Steel Blue",
-            "sku": "6590116",
-            "price": 179.99,
-            "savings": 70.0,
-            "discount_percent": 38.89104950275015,
-            "priority_score": 545.9410379796832,
-            "reviews": 351,
-            "image_url": "images/6590116.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "JBL - Authentics 300 Smart Home Speaker - Black",
             "sku": "6554783",
             "price": 449.99,
@@ -55,28 +22,6 @@
             "priority_score": 495.9215158712535,
             "reviews": 167,
             "image_url": "images/6554783.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Shokz - OpenRun Pro Mini Premium Bone Conduction Open - Ear Sport Headphones - Black",
-            "sku": "6522549",
-            "price": 159.99,
-            "savings": 50.0,
-            "discount_percent": 31.25195324707794,
-            "priority_score": 494.64165065090975,
-            "reviews": 741,
-            "image_url": "images/6522549.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Denon - AVR - S770H (75W X 7) 7.2 - Ch. with HEOS and Dolby Atmos 8K Ultra HD HDR Compatible AV Home Theater Receiver with Alexa - Black",
-            "sku": "6551305",
-            "price": 699.0,
-            "savings": 100.0,
-            "discount_percent": 14.306151645207441,
-            "priority_score": 440.06743288606594,
-            "reviews": 106,
-            "image_url": "images/6551305.jpg"
         },
         {
             "category": "Audio & Headphones",
