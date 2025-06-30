@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-29T13:22:53.637439",
+    "last_updated": "2025-06-29T19:53:34.059497",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -19,20 +19,31 @@
             "price": 299.99,
             "savings": 70.0,
             "discount_percent": 23.3341111370379,
-            "priority_score": 593.8414312242658,
-            "reviews": 11479,
+            "priority_score": 593.8445728449308,
+            "reviews": 11480,
             "image_url": "images/6428314.jpg"
         },
         {
             "category": "Audio & Headphones",
-            "title": "Shokz - OpenRun Pro Premium Bone Conduction Open - Ear Sport Headphones - Black",
-            "sku": "6492430",
+            "title": "Shokz - OpenRun Pro Premium Bone Conduction Open - Ear Sport Headphones - Steel Blue",
+            "sku": "6520487",
             "price": 159.99,
             "savings": 50.0,
             "discount_percent": 31.25195324707794,
-            "priority_score": 550.7835112041314,
-            "reviews": 3518,
-            "image_url": "images/6492430.jpg"
+            "priority_score": 550.8040040319679,
+            "reviews": 3520,
+            "image_url": "images/6520487.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Shokz - OpenRun Pro 2 Bone Conduction Open - Ear Sports Headphones - Steel Blue",
+            "sku": "6590116",
+            "price": 179.99,
+            "savings": 70.0,
+            "discount_percent": 38.89104950275015,
+            "priority_score": 545.9410379796832,
+            "reviews": 351,
+            "image_url": "images/6590116.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -52,8 +63,8 @@
             "price": 159.99,
             "savings": 50.0,
             "discount_percent": 31.25195324707794,
-            "priority_score": 494.5930095430356,
-            "reviews": 740,
+            "priority_score": 494.64165065090975,
+            "reviews": 741,
             "image_url": "images/6522549.jpg"
         },
         {
@@ -66,17 +77,6 @@
             "priority_score": 440.06743288606594,
             "reviews": 106,
             "image_url": "images/6551305.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Bose - Bass Module 700 Wireless Subwoofer - Black",
-            "sku": "6280563",
-            "price": 899.99,
-            "savings": 50.0,
-            "discount_percent": 5.5556172846364955,
-            "priority_score": 427.645761304635,
-            "reviews": 4080,
-            "image_url": "images/6280563.jpg"
         },
         {
             "category": "Audio & Headphones",
