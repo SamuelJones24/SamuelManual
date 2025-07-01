@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-01T07:26:52.598763",
+    "last_updated": "2025-07-01T13:24:59.596075",
     "deals": [
         {
             "category": "Appliances",
@@ -25,6 +25,17 @@
         },
         {
             "category": "Appliances",
+            "title": "Whirlpool - 24.5 Cu. Ft. French Door Refrigerator with Two - Tier Freezer Storage - Fingerprint Resistant Stainless Steel",
+            "sku": "6595028",
+            "price": 2199.99,
+            "savings": 200.0,
+            "discount_percent": 9.09095041341097,
+            "priority_score": 612.9657450205822,
+            "reviews": 103,
+            "image_url": "images/6595028.jpg"
+        },
+        {
+            "category": "Appliances",
             "title": "iRobot - Roomba Max 705 Vac Robot Vacuum + AutoEmpty Dock - Black",
             "sku": "6618888",
             "price": 899.99,
@@ -33,6 +44,17 @@
             "priority_score": 491.3824616417315,
             "reviews": 19,
             "image_url": "images/6618888.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "NutriBullet - Ultra Personal Blender NB50500 - Gray",
+            "sku": "6553390",
+            "price": 164.99,
+            "savings": 57.0,
+            "discount_percent": 34.5475483362628,
+            "priority_score": 456.92161473275405,
+            "reviews": 111,
+            "image_url": "images/6553390.jpg"
         },
         {
             "category": "Appliances",

@@ -1,38 +1,27 @@
 {
-    "last_updated": "2025-07-01T07:26:52.598763",
+    "last_updated": "2025-07-01T13:24:59.596075",
     "deals": [
         {
             "category": "Audio & Headphones",
-            "title": "Samsung - HW - Q930D/ZA 9.1.4 Channel Q - Series Soundbar with Wireless Subwoofer and Rear Speakers, Dolby Atmos and Q - Symphony - Black",
-            "sku": "6570311",
-            "price": 1399.99,
-            "savings": 280.0,
-            "discount_percent": 20.000142858163272,
-            "priority_score": 863.871167017119,
-            "reviews": 284,
-            "image_url": "images/6570311.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Sony - WH1000XM5 Wireless Noise - Canceling Over - the - Ear Headphones - Black",
-            "sku": "6505727",
+            "title": "Samsung - HW - S700D 3.1 Channel S - Series Soundbar with Wireless Subwoofer, Dolby Atmos and Q - Symphony - Titan Black",
+            "sku": "6577566",
             "price": 399.99,
-            "savings": 101.0,
-            "discount_percent": 25.250631265781642,
-            "priority_score": 638.6202872240885,
-            "reviews": 5459,
-            "image_url": "images/6505727.jpg"
+            "savings": 80.0,
+            "discount_percent": 20.00050001250031,
+            "priority_score": 451.63589799213094,
+            "reviews": 202,
+            "image_url": "images/6577566.jpg"
         },
         {
             "category": "Audio & Headphones",
-            "title": "JBL - Authentics 300 Smart Home Speaker - Black",
-            "sku": "6554783",
-            "price": 449.99,
-            "savings": 100.0,
-            "discount_percent": 22.222716060356895,
-            "priority_score": 496.1355662088391,
-            "reviews": 168,
-            "image_url": "images/6554783.jpg"
+            "title": "Yamaha - RX - V4A 5.2 - channel AV Receiver with 8K HDMI and MusicCast - Black",
+            "sku": "6422262",
+            "price": 549.95,
+            "savings": 65.0,
+            "discount_percent": 11.81925629602691,
+            "priority_score": 405.5515685489295,
+            "reviews": 403,
+            "image_url": "images/6422262.jpg"
         }
     ]
 }

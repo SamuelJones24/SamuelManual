@@ -1,6 +1,28 @@
 {
-    "last_updated": "2025-07-01T07:26:52.598763",
+    "last_updated": "2025-07-01T13:24:59.596075",
     "deals": [
+        {
+            "category": "Computers and Tablets",
+            "title": "SteelSeries - Arctis Nova Pro Wired Multi Gaming Headset for PC, PS5, PS4, Switch - Black",
+            "sku": "6506214",
+            "price": 279.99,
+            "savings": 105.0,
+            "discount_percent": 37.50133933354762,
+            "priority_score": 628.526479971787,
+            "reviews": 604,
+            "image_url": "images/6506214.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "HP - LaserJet Pro 4301fdw Wireless Color All - in - One Laser Printer - White/Blue",
+            "sku": "6539792",
+            "price": 779.99,
+            "savings": 150.0,
+            "discount_percent": 19.231015782253618,
+            "priority_score": 619.5710273863324,
+            "reviews": 489,
+            "image_url": "images/6539792.jpg"
+        },
         {
             "category": "Computers and Tablets",
             "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
@@ -14,25 +36,91 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Epson - WorkForce Pro WF - 3820 Wireless All - in - One Printer - Black",
-            "sku": "6426722",
-            "price": 199.99,
-            "savings": 70.0,
-            "discount_percent": 35.00175008750438,
-            "priority_score": 594.4442388872528,
-            "reviews": 2315,
-            "image_url": "images/6426722.jpg"
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 100.0,
+            "discount_percent": 33.33444448148272,
+            "priority_score": 535.8768305268368,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "ASUS - ZenWiFi BE14000 Tri - Band Mesh Wi - Fi 7 System (3 - Pack) - White",
-            "sku": "6594278",
-            "price": 799.99,
+            "title": "HP - Smart Tank 5101 Wireless All - In - One Supertank Inkjet Printer with up to 2 Years of Ink Included - White",
+            "sku": "6527565",
+            "price": 259.99,
+            "savings": 70.0,
+            "discount_percent": 26.92411246586407,
+            "priority_score": 529.5202447800331,
+            "reviews": 1172,
+            "image_url": "images/6527565.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro 13\" (11th Edition), Pro 9, and Pro 8 - Black",
+            "sku": "6583049",
+            "price": 279.99,
+            "savings": 83.0,
+            "discount_percent": 29.64391585413765,
+            "priority_score": 507.4175906347682,
+            "reviews": 211,
+            "image_url": "images/6583049.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "SteelSeries - Arctis Nova 7 Wireless Gaming Headset for PC, PS5, and PS4 - Black",
+            "sku": "6515802",
+            "price": 199.99,
+            "savings": 55.0,
+            "discount_percent": 27.501375068753436,
+            "priority_score": 498.5825574336309,
+            "reviews": 1054,
+            "image_url": "images/6515802.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "SteelSeries - Aerox 9 Wireless Ultra Lightweight Honeycomb Water Resistant RGB Optical Gaming Mouse With 18 Programmable Buttons - Wireless - Black",
+            "sku": "6501463",
+            "price": 189.99,
+            "savings": 60.0,
+            "discount_percent": 31.58060950576346,
+            "priority_score": 478.87602226112483,
+            "reviews": 262,
+            "image_url": "images/6501463.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "CORSAIR - K100 RGB Full - size Wired Mechanical OPX Linear Switch Gaming Keyboard with Elgato Stream Deck Software Integration - Black",
+            "sku": "6424866",
+            "price": 289.99,
+            "savings": 50.0,
+            "discount_percent": 17.241973861167626,
+            "priority_score": 440.7697281409514,
+            "reviews": 1161,
+            "image_url": "images/6424866.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Dune",
+            "sku": "6583060",
+            "price": 279.99,
+            "savings": 60.0,
+            "discount_percent": 21.429336762027216,
+            "priority_score": 420.3446951742161,
+            "reviews": 211,
+            "image_url": "images/6583060.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6583240",
+            "price": 899.99,
             "savings": 100.0,
-            "discount_percent": 12.500156251953149,
-            "priority_score": 416.2444592473828,
-            "reviews": 70,
-            "image_url": "images/6594278.jpg"
+            "discount_percent": 11.111234569272991,
+            "priority_score": 418.6452217477903,
+            "reviews": 91,
+            "image_url": "images/6583240.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -44,6 +132,17 @@
             "priority_score": 409.5125266472247,
             "reviews": 1332,
             "image_url": "images/6398057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "AMD - Ryzen 7 7800X3D 8 - Core - 16 - Thread 4.2 GHz (5.0 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black",
+            "sku": "6537139",
+            "price": 449.0,
+            "savings": 51.0,
+            "discount_percent": 11.358574610244988,
+            "priority_score": 402.5814745284524,
+            "reviews": 861,
+            "image_url": "images/6537139.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -69,6 +168,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (2 - pack) - White",
+            "sku": "6553442",
+            "price": 299.99,
+            "savings": 50.0,
+            "discount_percent": 16.66722224074136,
+            "priority_score": 349.7913982725016,
+            "reviews": 100,
+            "image_url": "images/6553442.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
             "sku": "6553330",
             "price": 1999.99,
@@ -77,17 +187,6 @@
             "priority_score": 306.5388433114245,
             "reviews": 216,
             "image_url": "images/6553330.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6583240",
-            "price": 899.99,
-            "savings": 50.0,
-            "discount_percent": 5.5556172846364955,
-            "priority_score": 290.86713532460783,
-            "reviews": 91,
-            "image_url": "images/6583240.jpg"
         },
         {
             "category": "Computers and Tablets",

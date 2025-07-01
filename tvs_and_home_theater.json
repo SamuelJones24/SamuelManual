@@ -1,27 +1,27 @@
 {
-    "last_updated": "2025-07-01T07:26:52.598763",
+    "last_updated": "2025-07-01T13:24:59.596075",
     "deals": [
         {
             "category": "TVs and Home Theater",
             "title": "Samsung - HW - Q930D/ZA 9.1.4 Channel Q - Series Soundbar with Wireless Subwoofer and Rear Speakers, Dolby Atmos and Q - Symphony - Black",
-            "sku": "",
+            "sku": "6570311",
             "price": 1399.99,
             "savings": 280.0,
             "discount_percent": 20.000142858163272,
             "priority_score": 863.871167017119,
             "reviews": 284,
-            "image_url": "images/.jpg"
+            "image_url": "images/6570311.jpg"
         },
         {
             "category": "TVs and Home Theater",
             "title": "Samsung - 75\u201d Class DU8000 Series Crystal UHD Smart Tizen TV (2024)",
-            "sku": "6575124",
+            "sku": "",
             "price": 899.99,
-            "savings": 160.0,
-            "discount_percent": 17.777975310836787,
-            "priority_score": 577.4265512142126,
+            "savings": 200.0,
+            "discount_percent": 22.222469138545982,
+            "priority_score": 679.6490203527586,
             "reviews": 106,
-            "image_url": "images/6575124.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "TVs and Home Theater",
@@ -36,17 +36,6 @@
         },
         {
             "category": "TVs and Home Theater",
-            "title": "Samsung - HW - S700D 3.1 Channel S - Series Soundbar with Wireless Subwoofer, Dolby Atmos and Q - Symphony - Titan Black",
-            "sku": "6577566",
-            "price": 399.99,
-            "savings": 80.0,
-            "discount_percent": 20.00050001250031,
-            "priority_score": 451.4577871312964,
-            "reviews": 201,
-            "image_url": "images/6577566.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
             "title": "TCL - 75\" Class QM5K Series 4K UHD HDR QD - Mini LED Smart TV with Google TV (2025)",
             "sku": "6625834",
             "price": 699.99,
@@ -55,6 +44,17 @@
             "priority_score": 296.4295918513122,
             "reviews": 1,
             "image_url": "images/6625834.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "TCL - 50\" Class QM5K Series 4K UHD HDR QD - Mini LED Smart TV with Google TV (2025)",
+            "sku": "6625833",
+            "price": 349.99,
+            "savings": 50.0,
+            "discount_percent": 14.286122460641732,
+            "priority_score": 269.1028771934216,
+            "reviews": 14,
+            "image_url": "images/6625833.jpg"
         },
         {
             "category": "TVs and Home Theater",
@@ -74,8 +74,8 @@
             "price": 379.99,
             "savings": 50.0,
             "discount_percent": 13.158241006342273,
-            "priority_score": 190.79120503171137,
-            "reviews": 1,
+            "priority_score": 205.41526754974026,
+            "reviews": 2,
             "image_url": "images/6625835.jpg"
         }
     ]

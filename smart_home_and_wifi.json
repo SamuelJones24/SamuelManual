@@ -1,14 +1,14 @@
 {
-    "last_updated": "2025-07-01T07:26:52.598763",
+    "last_updated": "2025-07-01T13:24:59.596075",
     "deals": [
         {
             "category": "Smart Home and Wifi",
             "title": "Philips - Hue 75\" Play Gradient Lightstrip - White and Color Ambiance",
             "sku": "6427731",
             "price": 329.99,
-            "savings": 65.0,
-            "discount_percent": 19.697566592927057,
-            "priority_score": 481.266224720503,
+            "savings": 68.0,
+            "discount_percent": 20.606685051062154,
+            "priority_score": 491.81181701117845,
             "reviews": 1105,
             "image_url": "images/6427731.jpg"
         },
@@ -22,17 +22,6 @@
             "priority_score": 468.8609576698069,
             "reviews": 2499,
             "image_url": "images/6559342.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
-            "sku": "6567807",
-            "price": 319.99,
-            "savings": 50.0,
-            "discount_percent": 15.625488296509266,
-            "priority_score": 400.19351771659234,
-            "reviews": 471,
-            "image_url": "images/6567807.jpg"
         }
     ]
 }
