@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-06-30T13:23:38.187756",
+    "last_updated": "2025-06-30T20:02:12.477018",
     "deals": [
-        {
-            "category": "TVs and Home Theater",
-            "title": "Samsung - HW - Q930D/ZA 9.1.4 Channel Q - Series Soundbar with Wireless Subwoofer and Rear Speakers, Dolby Atmos and Q - Symphony - Black",
-            "sku": "6570311",
-            "price": 1399.99,
-            "savings": 280.0,
-            "discount_percent": 20.000142858163272,
-            "priority_score": 863.871167017119,
-            "reviews": 284,
-            "image_url": "images/6570311.jpg"
-        },
         {
             "category": "TVs and Home Theater",
             "title": "Samsung - 75\u201d Class DU8000 Series Crystal UHD Smart Tizen TV (2024)",
@@ -26,13 +15,13 @@
         {
             "category": "TVs and Home Theater",
             "title": "Panasonic - Streaming 4K Ultra HD Hi - Res Audio with Dolby Vision 7.1 Channel DVD/CD/3D Wi - Fi Built - In Blu - Ray Player, DP - UB820 - K - Black",
-            "sku": "",
+            "sku": "6278202",
             "price": 499.98,
             "savings": 95.0,
             "discount_percent": 19.000760030401214,
             "priority_score": 554.6605408432177,
             "reviews": 1765,
-            "image_url": "images/.jpg"
+            "image_url": "images/6278202.jpg"
         },
         {
             "category": "TVs and Home Theater",
@@ -43,7 +32,7 @@
             "discount_percent": 9.091074383170602,
             "priority_score": 332.95151909293315,
             "reviews": 180,
-            "image_url": "Image Not Available"
+            "image_url": "images/6535708.jpg"
         },
         {
             "category": "TVs and Home Theater",
@@ -74,8 +63,8 @@
             "price": 499.99,
             "savings": 50.0,
             "discount_percent": 10.00020000400008,
-            "priority_score": 229.24912505605818,
-            "reviews": 8,
+            "priority_score": 233.04920239218444,
+            "reviews": 9,
             "image_url": "images/6625874.jpg"
         },
         {
