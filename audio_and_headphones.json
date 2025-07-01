@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-06-30T20:02:12.477018",
+    "last_updated": "2025-07-01T01:23:45.078305",
     "deals": [
-        {
-            "category": "Audio & Headphones",
-            "title": "Samsung - HW - Q930D/ZA 9.1.4 Channel Q - Series Soundbar with Wireless Subwoofer and Rear Speakers, Dolby Atmos and Q - Symphony - Black",
-            "sku": "6570311",
-            "price": 1399.99,
-            "savings": 280.0,
-            "discount_percent": 20.000142858163272,
-            "priority_score": 863.871167017119,
-            "reviews": 284,
-            "image_url": "images/6570311.jpg"
-        },
         {
             "category": "Audio & Headphones",
             "title": "Sony - WH1000XM5 Wireless Noise - Canceling Over - the - Ear Headphones - Black",
@@ -19,8 +8,8 @@
             "price": 399.99,
             "savings": 101.0,
             "discount_percent": 25.250631265781642,
-            "priority_score": 638.6070733107617,
-            "reviews": 5457,
+            "priority_score": 638.6136808725686,
+            "reviews": 5458,
             "image_url": "images/6505727.jpg"
         },
         {

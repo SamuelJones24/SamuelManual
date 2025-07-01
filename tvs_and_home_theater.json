@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-06-30T20:02:12.477018",
+    "last_updated": "2025-07-01T01:23:45.078305",
     "deals": [
+        {
+            "category": "TVs and Home Theater",
+            "title": "Samsung - HW - Q930D/ZA 9.1.4 Channel Q - Series Soundbar with Wireless Subwoofer and Rear Speakers, Dolby Atmos and Q - Symphony - Black",
+            "sku": "6570311",
+            "price": 1399.99,
+            "savings": 280.0,
+            "discount_percent": 20.000142858163272,
+            "priority_score": 863.871167017119,
+            "reviews": 284,
+            "image_url": "images/6570311.jpg"
+        },
         {
             "category": "TVs and Home Theater",
             "title": "Samsung - 75\u201d Class DU8000 Series Crystal UHD Smart Tizen TV (2024)",
@@ -22,6 +33,17 @@
             "priority_score": 554.6605408432177,
             "reviews": 1765,
             "image_url": "images/6278202.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "Samsung - HW - S700D 3.1 Channel S - Series Soundbar with Wireless Subwoofer, Dolby Atmos and Q - Symphony - Titan Black",
+            "sku": "",
+            "price": 399.99,
+            "savings": 80.0,
+            "discount_percent": 20.00050001250031,
+            "priority_score": 451.4577871312964,
+            "reviews": 201,
+            "image_url": "images/.jpg"
         },
         {
             "category": "TVs and Home Theater",

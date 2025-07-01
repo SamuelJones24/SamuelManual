@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-30T20:02:12.477018",
+    "last_updated": "2025-07-01T01:23:45.078305",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -47,25 +47,36 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
+            "sku": "6398057",
+            "price": 499.99,
+            "savings": 50.0,
+            "discount_percent": 10.00020000400008,
+            "priority_score": 409.5125266472247,
+            "reviews": 1332,
+            "image_url": "images/6398057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver",
             "sku": "6467298",
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 370.35963755646515,
-            "reviews": 392,
+            "priority_score": 370.45129548640944,
+            "reviews": 393,
             "image_url": "images/6467298.jpg"
         },
         {
             "category": "Computers and Tablets",
             "title": "Samsung - T7 4TB External USB 3.2 Gen 2 Portable SSD with Hardware Encryption - Titan Gray",
-            "sku": "",
+            "sku": "6576883",
             "price": 344.99,
             "savings": 65.0,
             "discount_percent": 18.841125829734196,
             "priority_score": 366.0162626979584,
             "reviews": 50,
-            "image_url": "images/.jpg"
+            "image_url": "images/6576883.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -88,17 +99,6 @@
             "priority_score": 290.86713532460783,
             "reviews": 91,
             "image_url": "images/6583240.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6612971",
-            "price": 1299.99,
-            "savings": 50.0,
-            "discount_percent": 3.8461834321802475,
-            "priority_score": 194.23091716090124,
-            "reviews": 7,
-            "image_url": "images/6612971.jpg"
         }
     ]
 }
