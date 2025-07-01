@@ -1,16 +1,16 @@
 {
-    "last_updated": "2025-07-01T01:23:45.078305",
+    "last_updated": "2025-07-01T07:26:52.598763",
     "deals": [
         {
             "category": "TVs and Home Theater",
             "title": "Samsung - HW - Q930D/ZA 9.1.4 Channel Q - Series Soundbar with Wireless Subwoofer and Rear Speakers, Dolby Atmos and Q - Symphony - Black",
-            "sku": "6570311",
+            "sku": "",
             "price": 1399.99,
             "savings": 280.0,
             "discount_percent": 20.000142858163272,
             "priority_score": 863.871167017119,
             "reviews": 284,
-            "image_url": "images/6570311.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "TVs and Home Theater",
@@ -37,24 +37,13 @@
         {
             "category": "TVs and Home Theater",
             "title": "Samsung - HW - S700D 3.1 Channel S - Series Soundbar with Wireless Subwoofer, Dolby Atmos and Q - Symphony - Titan Black",
-            "sku": "",
+            "sku": "6577566",
             "price": 399.99,
             "savings": 80.0,
             "discount_percent": 20.00050001250031,
             "priority_score": 451.4577871312964,
             "reviews": 201,
-            "image_url": "images/.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "Escort - MAX 360 MKII Radar and Laser Detector, works with Apple CarPlay/Android Auto - Black",
-            "sku": "6535708",
-            "price": 549.99,
-            "savings": 50.0,
-            "discount_percent": 9.091074383170602,
-            "priority_score": 332.95151909293315,
-            "reviews": 180,
-            "image_url": "images/6535708.jpg"
+            "image_url": "images/6577566.jpg"
         },
         {
             "category": "TVs and Home Theater",
@@ -66,17 +55,6 @@
             "priority_score": 296.4295918513122,
             "reviews": 1,
             "image_url": "images/6625834.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "TCL - 50\" Class QM5K Series 4K UHD HDR QD - Mini LED Smart TV with Google TV (2025)",
-            "sku": "6625833",
-            "price": 349.99,
-            "savings": 50.0,
-            "discount_percent": 14.286122460641732,
-            "priority_score": 269.1028771934216,
-            "reviews": 14,
-            "image_url": "images/6625833.jpg"
         },
         {
             "category": "TVs and Home Theater",
