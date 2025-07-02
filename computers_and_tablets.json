@@ -1,16 +1,16 @@
 {
-    "last_updated": "2025-07-02T07:28:32.658811",
+    "last_updated": "2025-07-02T13:25:10.680544",
     "deals": [
         {
             "category": "Computers and Tablets",
             "title": "SteelSeries - Arctis Nova Pro Wired Multi Gaming Headset for PC, PS5, PS4, Switch - Black",
-            "sku": "6506214",
+            "sku": "",
             "price": 279.99,
             "savings": 105.0,
             "discount_percent": 37.50133933354762,
             "priority_score": 628.5860462545619,
             "reviews": 605,
-            "image_url": "images/6506214.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -113,25 +113,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6583240",
-            "price": 899.99,
-            "savings": 100.0,
-            "discount_percent": 11.111234569272991,
-            "priority_score": 418.6452217477903,
-            "reviews": 91,
-            "image_url": "images/6583240.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
-            "sku": "",
+            "sku": "6398057",
             "price": 499.99,
             "savings": 50.0,
             "discount_percent": 10.00020000400008,
             "priority_score": 409.5125266472247,
             "reviews": 1332,
-            "image_url": "images/.jpg"
+            "image_url": "images/6398057.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -154,17 +143,6 @@
             "priority_score": 370.45129548640944,
             "reviews": 393,
             "image_url": "images/6467298.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Samsung - T7 4TB External USB 3.2 Gen 2 Portable SSD with Hardware Encryption - Titan Gray",
-            "sku": "6576883",
-            "price": 344.99,
-            "savings": 65.0,
-            "discount_percent": 18.841125829734196,
-            "priority_score": 366.0162626979584,
-            "reviews": 50,
-            "image_url": "images/6576883.jpg"
         },
         {
             "category": "Computers and Tablets",

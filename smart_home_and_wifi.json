@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-07-02T07:28:32.658811",
+    "last_updated": "2025-07-02T13:25:10.680544",
     "deals": [
+        {
+            "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
+            "sku": "6553443",
+            "price": 429.99,
+            "savings": 130.0,
+            "discount_percent": 30.233261238633457,
+            "priority_score": 567.364494029257,
+            "reviews": 75,
+            "image_url": "images/6553443.jpg"
+        },
         {
             "category": "Smart Home and Wifi",
             "title": "Philips - Hue 75\" Play Gradient Lightstrip - White and Color Ambiance",
@@ -25,14 +36,14 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
-            "sku": "6398057",
-            "price": 499.99,
-            "savings": 50.0,
-            "discount_percent": 10.00020000400008,
-            "priority_score": 409.5125266472247,
-            "reviews": 1332,
-            "image_url": "images/6398057.jpg"
+            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6583240",
+            "price": 899.99,
+            "savings": 100.0,
+            "discount_percent": 11.111234569272991,
+            "priority_score": 418.6452217477903,
+            "reviews": 91,
+            "image_url": "images/6583240.jpg"
         }
     ]
 }
