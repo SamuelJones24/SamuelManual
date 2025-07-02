@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-02T01:27:41.701151",
+    "last_updated": "2025-07-02T07:28:32.658811",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -25,14 +25,14 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6553330",
-            "price": 1999.99,
+            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
+            "sku": "6398057",
+            "price": 499.99,
             "savings": 50.0,
-            "discount_percent": 2.5000125000625,
-            "priority_score": 306.7046706197356,
-            "reviews": 217,
-            "image_url": "images/6553330.jpg"
+            "discount_percent": 10.00020000400008,
+            "priority_score": 409.5125266472247,
+            "reviews": 1332,
+            "image_url": "images/6398057.jpg"
         }
     ]
 }

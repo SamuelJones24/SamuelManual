@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-02T01:27:41.701151",
+    "last_updated": "2025-07-02T07:28:32.658811",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -52,9 +52,9 @@
             "price": 259.99,
             "savings": 70.0,
             "discount_percent": 26.92411246586407,
-            "priority_score": 529.5202447800331,
-            "reviews": 1172,
-            "image_url": "Image Not Available"
+            "priority_score": 529.5509796570717,
+            "reviews": 1173,
+            "image_url": "images/6527565.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -76,7 +76,7 @@
             "discount_percent": 27.501375068753436,
             "priority_score": 498.5825574336309,
             "reviews": 1054,
-            "image_url": "Image Not Available"
+            "image_url": "images/6515802.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -125,13 +125,13 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
-            "sku": "6398057",
+            "sku": "",
             "price": 499.99,
             "savings": 50.0,
             "discount_percent": 10.00020000400008,
             "priority_score": 409.5125266472247,
             "reviews": 1332,
-            "image_url": "images/6398057.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -164,7 +164,7 @@
             "discount_percent": 18.841125829734196,
             "priority_score": 366.0162626979584,
             "reviews": 50,
-            "image_url": "Image Not Available"
+            "image_url": "images/6576883.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -180,13 +180,13 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "",
+            "sku": "6553330",
             "price": 1999.99,
             "savings": 50.0,
             "discount_percent": 2.5000125000625,
             "priority_score": 306.7046706197356,
             "reviews": 217,
-            "image_url": "images/.jpg"
+            "image_url": "images/6553330.jpg"
         },
         {
             "category": "Computers and Tablets",
