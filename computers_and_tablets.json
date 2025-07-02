@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-01T13:24:59.596075",
+    "last_updated": "2025-07-01T19:56:51.500411",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -8,8 +8,8 @@
             "price": 279.99,
             "savings": 105.0,
             "discount_percent": 37.50133933354762,
-            "priority_score": 628.526479971787,
-            "reviews": 604,
+            "priority_score": 628.5860462545619,
+            "reviews": 605,
             "image_url": "images/6506214.jpg"
         },
         {
@@ -158,13 +158,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Samsung - T7 4TB External USB 3.2 Gen 2 Portable SSD with Hardware Encryption - Titan Gray",
-            "sku": "6576883",
+            "sku": "",
             "price": 344.99,
             "savings": 65.0,
             "discount_percent": 18.841125829734196,
             "priority_score": 366.0162626979584,
             "reviews": 50,
-            "image_url": "images/6576883.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -184,8 +184,8 @@
             "price": 1999.99,
             "savings": 50.0,
             "discount_percent": 2.5000125000625,
-            "priority_score": 306.5388433114245,
-            "reviews": 216,
+            "priority_score": 306.7046706197356,
+            "reviews": 217,
             "image_url": "images/6553330.jpg"
         },
         {
