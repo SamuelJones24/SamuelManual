@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-02T13:25:10.680544",
+    "last_updated": "2025-07-02T19:57:51.747975",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -33,17 +33,6 @@
             "priority_score": 468.8609576698069,
             "reviews": 2499,
             "image_url": "images/6559342.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6583240",
-            "price": 899.99,
-            "savings": 100.0,
-            "discount_percent": 11.111234569272991,
-            "priority_score": 418.6452217477903,
-            "reviews": 91,
-            "image_url": "images/6583240.jpg"
         }
     ]
 }

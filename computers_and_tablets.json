@@ -1,16 +1,27 @@
 {
-    "last_updated": "2025-07-02T13:25:10.680544",
+    "last_updated": "2025-07-02T19:57:51.747975",
     "deals": [
         {
             "category": "Computers and Tablets",
+            "title": "ASUS - Vivobook 14 14\" FHD Laptop - Intel Core i5 - 12GB Memory - 256GB SSD - Quiet Blue",
+            "sku": "6612931",
+            "price": 499.99,
+            "savings": 170.0,
+            "discount_percent": 34.000680013600274,
+            "priority_score": 666.6730635853739,
+            "reviews": 76,
+            "image_url": "images/6612931.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "SteelSeries - Arctis Nova Pro Wired Multi Gaming Headset for PC, PS5, PS4, Switch - Black",
-            "sku": "",
+            "sku": "6506214",
             "price": 279.99,
             "savings": 105.0,
             "discount_percent": 37.50133933354762,
             "priority_score": 628.5860462545619,
             "reviews": 605,
-            "image_url": "images/.jpg"
+            "image_url": "images/6506214.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -52,8 +63,8 @@
             "price": 259.99,
             "savings": 70.0,
             "discount_percent": 26.92411246586407,
-            "priority_score": 529.5509796570717,
-            "reviews": 1173,
+            "priority_score": 529.6123709502294,
+            "reviews": 1175,
             "image_url": "images/6527565.jpg"
         },
         {
@@ -91,6 +102,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "CORSAIR - MM300 PRO Gaming Mouse Pad with Premium Spill - Proof Cloth - Extended - Black",
+            "sku": "6428299",
+            "price": 32.99,
+            "savings": 18.0,
+            "discount_percent": 54.56198848135798,
+            "priority_score": 459.49390101354294,
+            "reviews": 1343,
+            "image_url": "images/6428299.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "CORSAIR - K100 RGB Full - size Wired Mechanical OPX Linear Switch Gaming Keyboard with Elgato Stream Deck Software Integration - Black",
             "sku": "6424866",
             "price": 289.99,
@@ -102,6 +124,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
+            "sku": "5900264",
+            "price": 29.99,
+            "savings": 12.0,
+            "discount_percent": 40.01333777925976,
+            "priority_score": 434.6827344143909,
+            "reviews": 3159,
+            "image_url": "images/5900264.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Dune",
             "sku": "6583060",
             "price": 279.99,
@@ -110,6 +143,17 @@
             "priority_score": 420.3446951742161,
             "reviews": 211,
             "image_url": "images/6583060.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6583240",
+            "price": 899.99,
+            "savings": 100.0,
+            "discount_percent": 11.111234569272991,
+            "priority_score": 418.6452217477903,
+            "reviews": 91,
+            "image_url": "images/6583240.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -143,6 +187,17 @@
             "priority_score": 370.45129548640944,
             "reviews": 393,
             "image_url": "images/6467298.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Samsung - T7 4TB External USB 3.2 Gen 2 Portable SSD with Hardware Encryption - Titan Gray",
+            "sku": "6576883",
+            "price": 344.99,
+            "savings": 65.0,
+            "discount_percent": 18.841125829734196,
+            "priority_score": 366.0162626979584,
+            "reviews": 50,
+            "image_url": "images/6576883.jpg"
         },
         {
             "category": "Computers and Tablets",
