@@ -1,27 +1,16 @@
 {
-    "last_updated": "2025-07-03T07:30:19.814471",
+    "last_updated": "2025-07-03T13:24:22.853864",
     "deals": [
         {
             "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
-            "sku": "6553443",
-            "price": 429.99,
-            "savings": 130.0,
-            "discount_percent": 30.233261238633457,
-            "priority_score": 567.364494029257,
-            "reviews": 75,
-            "image_url": "images/6553443.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Philips - Hue 75\" Play Gradient Lightstrip - White and Color Ambiance",
-            "sku": "6427731",
-            "price": 329.99,
-            "savings": 68.0,
-            "discount_percent": 20.606685051062154,
-            "priority_score": 491.81181701117845,
-            "reviews": 1105,
-            "image_url": "images/6427731.jpg"
+            "title": "Google - Nest Doorbell Wired (2nd Generation) - Snow",
+            "sku": "6517931",
+            "price": 179.99,
+            "savings": 59.0,
+            "discount_percent": 32.7795988666037,
+            "priority_score": 526.8395324793624,
+            "reviews": 889,
+            "image_url": "images/6517931.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -36,14 +25,25 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
-            "sku": "6567807",
-            "price": 319.99,
+            "title": "Philips - Hue 75\" Play Gradient Lightstrip - White and Color Ambiance",
+            "sku": "6427731",
+            "price": 329.99,
+            "savings": 60.0,
+            "discount_percent": 18.1823691627019,
+            "priority_score": 463.6902375693772,
+            "reviews": 1105,
+            "image_url": "images/6427731.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
+            "sku": "6553443",
+            "price": 429.99,
             "savings": 50.0,
-            "discount_percent": 15.625488296509266,
-            "priority_score": 400.19351771659234,
-            "reviews": 471,
-            "image_url": "images/6567807.jpg"
+            "discount_percent": 11.628177399474406,
+            "priority_score": 314.33907483346167,
+            "reviews": 75,
+            "image_url": "images/6553443.jpg"
         }
     ]
 }

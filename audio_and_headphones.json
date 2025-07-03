@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-03T07:30:19.814471",
+    "last_updated": "2025-07-03T13:24:22.853864",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -14,14 +14,58 @@
         },
         {
             "category": "Audio & Headphones",
+            "title": "JBL - PartyBox Club 120 Portable Wireless Party Speaker - Black",
+            "sku": "6576524",
+            "price": 449.95,
+            "savings": 100.0,
+            "discount_percent": 22.2246916324036,
+            "priority_score": 517.083576645145,
+            "reviews": 301,
+            "image_url": "images/6576524.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Denon - AVR - S970H 90W 7 Ch Bluetooth Capable HDR Compatible with HEOS and Dolby Atmos 8K Ultra HD AV Home Theater Receiver - Black",
+            "sku": "6519391",
+            "price": 899.0,
+            "savings": 117.0,
+            "discount_percent": 13.014460511679642,
+            "priority_score": 509.93800824931634,
+            "reviews": 345,
+            "image_url": "images/6519391.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
             "title": "Yamaha - RX - V4A 5.2 - channel AV Receiver with 8K HDMI and MusicCast - Black",
             "sku": "6422262",
             "price": 549.95,
-            "savings": 65.0,
-            "discount_percent": 11.81925629602691,
-            "priority_score": 405.5515685489295,
+            "savings": 50.0,
+            "discount_percent": 9.091735612328392,
+            "priority_score": 361.91396513043685,
             "reviews": 403,
             "image_url": "images/6422262.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Sony - ULT FIELD 3 Wireless Speaker - Forest Gray",
+            "sku": "6620177",
+            "price": 199.99,
+            "savings": 48.0,
+            "discount_percent": 24.001200060003,
+            "priority_score": 331.09264908143433,
+            "reviews": 91,
+            "image_url": "images/6620177.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - Tour One M3 Aviator - Black",
+            "sku": "6623867",
+            "price": 449.95,
+            "savings": 50.0,
+            "discount_percent": 11.1123458162018,
+            "priority_score": 205.561729081009,
+            "reviews": 3,
+            "image_url": "images/6623867.jpg"
         }
     ]
 }
