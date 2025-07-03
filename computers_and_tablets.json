@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-03T01:29:08.508700",
+    "last_updated": "2025-07-03T07:30:19.814471",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -10,18 +10,7 @@
             "discount_percent": 34.000680013600274,
             "priority_score": 666.6730635853739,
             "reviews": 76,
-            "image_url": "Image Not Available"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "SteelSeries - Arctis Nova Pro Wired Multi Gaming Headset for PC, PS5, PS4, Switch - Black",
-            "sku": "6506214",
-            "price": 279.99,
-            "savings": 105.0,
-            "discount_percent": 37.50133933354762,
-            "priority_score": 628.5860462545619,
-            "reviews": 605,
-            "image_url": "images/6506214.jpg"
+            "image_url": "images/6612931.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -54,7 +43,7 @@
             "discount_percent": 33.33444448148272,
             "priority_score": 535.8768305268368,
             "reviews": 108,
-            "image_url": "Image Not Available"
+            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -88,17 +77,6 @@
             "priority_score": 498.5825574336309,
             "reviews": 1054,
             "image_url": "images/6515802.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "SteelSeries - Aerox 9 Wireless Ultra Lightweight Honeycomb Water Resistant RGB Optical Gaming Mouse With 18 Programmable Buttons - Wireless - Black",
-            "sku": "6501463",
-            "price": 189.99,
-            "savings": 60.0,
-            "discount_percent": 31.58060950576346,
-            "priority_score": 478.87602226112483,
-            "reviews": 262,
-            "image_url": "images/6501463.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -142,7 +120,7 @@
             "discount_percent": 21.429336762027216,
             "priority_score": 420.3446951742161,
             "reviews": 211,
-            "image_url": "Image Not Available"
+            "image_url": "images/6583060.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -186,7 +164,18 @@
             "discount_percent": 5.0,
             "priority_score": 370.45129548640944,
             "reviews": 393,
-            "image_url": "Image Not Available"
+            "image_url": "images/6467298.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Samsung - T7 4TB External USB 3.2 Gen 2 Portable SSD with Hardware Encryption - Titan Gray",
+            "sku": "6576883",
+            "price": 344.99,
+            "savings": 65.0,
+            "discount_percent": 18.841125829734196,
+            "priority_score": 366.0162626979584,
+            "reviews": 50,
+            "image_url": "images/6576883.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -208,7 +197,7 @@
             "discount_percent": 2.5000125000625,
             "priority_score": 306.7046706197356,
             "reviews": 217,
-            "image_url": "Image Not Available"
+            "image_url": "images/6553330.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -219,7 +208,7 @@
             "discount_percent": 3.8461834321802475,
             "priority_score": 198.47904219695903,
             "reviews": 8,
-            "image_url": "Image Not Available"
+            "image_url": "images/6612971.jpg"
         }
     ]
 }
