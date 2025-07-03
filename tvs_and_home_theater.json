@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-02T19:57:51.747975",
+    "last_updated": "2025-07-03T01:29:08.508700",
     "deals": [
         {
             "category": "TVs and Home Theater",
@@ -10,7 +10,7 @@
             "discount_percent": 20.000142858163272,
             "priority_score": 863.871167017119,
             "reviews": 284,
-            "image_url": "images/6570311.jpg"
+            "image_url": "Image Not Available"
         },
         {
             "category": "TVs and Home Theater",
@@ -26,24 +26,13 @@
         {
             "category": "TVs and Home Theater",
             "title": "Panasonic - Streaming 4K Ultra HD Hi - Res Audio with Dolby Vision 7.1 Channel DVD/CD/3D Wi - Fi Built - In Blu - Ray Player, DP - UB820 - K - Black",
-            "sku": "",
+            "sku": "6278202",
             "price": 499.98,
             "savings": 95.0,
             "discount_percent": 19.000760030401214,
             "priority_score": 554.6605408432177,
             "reviews": 1765,
-            "image_url": "images/.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "Samsung - HW - S700D 3.1 Channel S - Series Soundbar with Wireless Subwoofer, Dolby Atmos and Q - Symphony - Titan Black",
-            "sku": "6577566",
-            "price": 399.99,
-            "savings": 80.0,
-            "discount_percent": 20.00050001250031,
-            "priority_score": 451.63589799213094,
-            "reviews": 202,
-            "image_url": "images/6577566.jpg"
+            "image_url": "images/6278202.jpg"
         },
         {
             "category": "TVs and Home Theater",
@@ -54,7 +43,7 @@
             "discount_percent": 14.285918370262433,
             "priority_score": 296.4295918513122,
             "reviews": 1,
-            "image_url": "images/6625834.jpg"
+            "image_url": "Image Not Available"
         },
         {
             "category": "TVs and Home Theater",
@@ -70,13 +59,13 @@
         {
             "category": "TVs and Home Theater",
             "title": "TCL - 65\" Class QM5K Series 4K UHD HDR QD - Mini LED Smart TV with Google TV (2025)",
-            "sku": "6625874",
+            "sku": "",
             "price": 499.99,
             "savings": 50.0,
             "discount_percent": 10.00020000400008,
             "priority_score": 233.04920239218444,
             "reviews": 9,
-            "image_url": "images/6625874.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "TVs and Home Theater",
