@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-07-04T01:25:35.138921",
+    "last_updated": "2025-07-04T07:28:14.077865",
     "deals": [
-        {
-            "category": "Computers and Tablets",
-            "title": "ASUS - Vivobook 14 14\" FHD Laptop - Intel Core i5 - 12GB Memory - 256GB SSD - Quiet Blue",
-            "sku": "6612931",
-            "price": 499.99,
-            "savings": 170.0,
-            "discount_percent": 34.000680013600274,
-            "priority_score": 666.6730635853739,
-            "reviews": 76,
-            "image_url": "images/6612931.jpg"
-        },
         {
             "category": "Computers and Tablets",
             "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
@@ -30,31 +19,9 @@
             "price": 449.0,
             "savings": 79.0,
             "discount_percent": 17.59465478841871,
-            "priority_score": 489.8454614961803,
-            "reviews": 863,
+            "priority_score": 489.88718200519577,
+            "reviews": 864,
             "image_url": "images/6537139.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "CORSAIR - MM300 PRO Gaming Mouse Pad with Premium Spill - Proof Cloth - Extended - Black",
-            "sku": "6428299",
-            "price": 32.99,
-            "savings": 18.0,
-            "discount_percent": 54.56198848135798,
-            "priority_score": 459.49390101354294,
-            "reviews": 1343,
-            "image_url": "images/6428299.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
-            "sku": "5900264",
-            "price": 29.99,
-            "savings": 12.0,
-            "discount_percent": 40.01333777925976,
-            "priority_score": 434.6827344143909,
-            "reviews": 3159,
-            "image_url": "images/5900264.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -124,14 +91,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (2 - pack) - White",
-            "sku": "6553442",
-            "price": 299.99,
+            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
+            "sku": "6553443",
+            "price": 429.99,
             "savings": 50.0,
-            "discount_percent": 16.66722224074136,
-            "priority_score": 349.7913982725016,
-            "reviews": 100,
-            "image_url": "images/6553442.jpg"
+            "discount_percent": 11.628177399474406,
+            "priority_score": 314.33907483346167,
+            "reviews": 75,
+            "image_url": "images/6553443.jpg"
         },
         {
             "category": "Computers and Tablets",
