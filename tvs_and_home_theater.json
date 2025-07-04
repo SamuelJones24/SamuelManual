@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-03T19:54:42.008174",
+    "last_updated": "2025-07-04T01:25:35.138921",
     "deals": [
         {
             "category": "TVs and Home Theater",
@@ -11,17 +11,6 @@
             "priority_score": 863.871167017119,
             "reviews": 284,
             "image_url": "images/6570311.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "Samsung - 75\u201d Class DU8000 Series Crystal UHD Smart Tizen TV (2024)",
-            "sku": "6575124",
-            "price": 899.99,
-            "savings": 200.0,
-            "discount_percent": 22.222469138545982,
-            "priority_score": 679.6490203527586,
-            "reviews": 106,
-            "image_url": "images/6575124.jpg"
         },
         {
             "category": "TVs and Home Theater",

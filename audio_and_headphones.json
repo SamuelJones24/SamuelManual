@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-03T19:54:42.008174",
+    "last_updated": "2025-07-04T01:25:35.138921",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -33,17 +33,6 @@
             "priority_score": 427.6545980990005,
             "reviews": 4081,
             "image_url": "images/6280563.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - BAR 500 5.1ch Soundbar with Multibeam and Dolby Atmos - Black",
-            "sku": "",
-            "price": 649.99,
-            "savings": 50.0,
-            "discount_percent": 7.69242603732365,
-            "priority_score": 387.9656196275972,
-            "reviews": 1009,
-            "image_url": "images/.jpg"
         },
         {
             "category": "Audio & Headphones",
