@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-03T13:24:22.853864",
+    "last_updated": "2025-07-03T19:54:42.008174",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -30,8 +30,8 @@
             "price": 449.0,
             "savings": 79.0,
             "discount_percent": 17.59465478841871,
-            "priority_score": 489.80369267156743,
-            "reviews": 862,
+            "priority_score": 489.8454614961803,
+            "reviews": 863,
             "image_url": "images/6537139.jpg"
         },
         {
@@ -110,6 +110,17 @@
             "priority_score": 366.0162626979584,
             "reviews": 50,
             "image_url": "images/6576883.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
+            "sku": "6598715",
+            "price": 349.99,
+            "savings": 68.0,
+            "discount_percent": 19.429126546472755,
+            "priority_score": 363.38196687308755,
+            "reviews": 36,
+            "image_url": "images/6598715.jpg"
         },
         {
             "category": "Computers and Tablets",

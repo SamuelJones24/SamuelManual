@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-07-03T13:24:22.853864",
+    "last_updated": "2025-07-03T19:54:42.008174",
     "deals": [
-        {
-            "category": "Audio & Headphones",
-            "title": "Samsung - HW - Q930D/ZA 9.1.4 Channel Q - Series Soundbar with Wireless Subwoofer and Rear Speakers, Dolby Atmos and Q - Symphony - Black",
-            "sku": "6570311",
-            "price": 1399.99,
-            "savings": 280.0,
-            "discount_percent": 20.000142858163272,
-            "priority_score": 863.871167017119,
-            "reviews": 284,
-            "image_url": "images/6570311.jpg"
-        },
         {
             "category": "Audio & Headphones",
             "title": "JBL - PartyBox Club 120 Portable Wireless Party Speaker - Black",
@@ -19,8 +8,8 @@
             "price": 449.95,
             "savings": 100.0,
             "discount_percent": 22.2246916324036,
-            "priority_score": 517.083576645145,
-            "reviews": 301,
+            "priority_score": 517.2028077488418,
+            "reviews": 302,
             "image_url": "images/6576524.jpg"
         },
         {
@@ -33,6 +22,28 @@
             "priority_score": 509.93800824931634,
             "reviews": 345,
             "image_url": "images/6519391.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Bose - Bass Module 700 Wireless Subwoofer - Black",
+            "sku": "6280563",
+            "price": 899.99,
+            "savings": 50.0,
+            "discount_percent": 5.5556172846364955,
+            "priority_score": 427.6545980990005,
+            "reviews": 4081,
+            "image_url": "images/6280563.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - BAR 500 5.1ch Soundbar with Multibeam and Dolby Atmos - Black",
+            "sku": "",
+            "price": 649.99,
+            "savings": 50.0,
+            "discount_percent": 7.69242603732365,
+            "priority_score": 387.9656196275972,
+            "reviews": 1009,
+            "image_url": "images/.jpg"
         },
         {
             "category": "Audio & Headphones",
