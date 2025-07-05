@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-07-04T19:55:02.720038",
+    "last_updated": "2025-07-05T01:23:16.150648",
     "deals": [
-        {
-            "category": "Computers and Tablets",
-            "title": "ASUS - Vivobook 14 14\" FHD Laptop - Intel Core i5 - 12GB Memory - 256GB SSD - Quiet Blue",
-            "sku": "6612931",
-            "price": 499.99,
-            "savings": 170.0,
-            "discount_percent": 34.000680013600274,
-            "priority_score": 670.6600189355538,
-            "reviews": 85,
-            "image_url": "images/6612931.jpg"
-        },
         {
             "category": "Computers and Tablets",
             "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
@@ -25,36 +14,25 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
-            "sku": "6537888",
-            "price": 299.99,
-            "savings": 100.0,
-            "discount_percent": 33.33444448148272,
-            "priority_score": 535.8768305268368,
-            "reviews": 108,
-            "image_url": "images/6537888.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "AMD - Ryzen 7 7800X3D 8 - Core - 16 - Thread 4.2 GHz (5.0 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black",
             "sku": "6537139",
             "price": 449.0,
             "savings": 79.0,
             "discount_percent": 17.59465478841871,
-            "priority_score": 489.9704785226394,
-            "reviews": 866,
+            "priority_score": 490.05358311245357,
+            "reviews": 868,
             "image_url": "images/6537139.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
-            "sku": "5900264",
-            "price": 29.99,
-            "savings": 12.0,
-            "discount_percent": 40.01333777925976,
-            "priority_score": 434.7055546467385,
-            "reviews": 3161,
-            "image_url": "images/5900264.jpg"
+            "title": "CORSAIR - MM300 PRO Gaming Mouse Pad with Premium Spill - Proof Cloth - Extended - Black",
+            "sku": "6428299",
+            "price": 32.99,
+            "savings": 18.0,
+            "discount_percent": 54.56198848135798,
+            "priority_score": 459.54753280933187,
+            "reviews": 1345,
+            "image_url": "images/6428299.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -80,14 +58,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Canon - PP - 301 Photo Plus II Glossy Photo 5.12\" x 7.1\" 20 - Count Paper - white",
-            "sku": "5786342",
-            "price": 10.99,
-            "savings": 5.0,
-            "discount_percent": 45.49590536851683,
-            "priority_score": 381.7754908058523,
-            "reviews": 680,
-            "image_url": "images/5786342.jpg"
+            "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver",
+            "sku": "6467298",
+            "price": 1299.0,
+            "savings": 64.95,
+            "discount_percent": 5.0,
+            "priority_score": 370.81561551359124,
+            "reviews": 397,
+            "image_url": "images/6467298.jpg"
         },
         {
             "category": "Computers and Tablets",

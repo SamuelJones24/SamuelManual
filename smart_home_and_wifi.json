@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-04T19:55:02.720038",
+    "last_updated": "2025-07-05T01:23:16.150648",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -33,17 +33,6 @@
             "priority_score": 468.9186193543861,
             "reviews": 2503,
             "image_url": "images/6559342.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
-            "sku": "6553443",
-            "price": 429.99,
-            "savings": 50.0,
-            "discount_percent": 11.628177399474406,
-            "priority_score": 314.33907483346167,
-            "reviews": 75,
-            "image_url": "images/6553443.jpg"
         }
     ]
 }
