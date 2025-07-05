@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-07-05T01:23:16.150648",
+    "last_updated": "2025-07-05T07:28:33.606857",
     "deals": [
+        {
+            "category": "Audio & Headphones",
+            "title": "Samsung - HW - Q930D/ZA 9.1.4 Channel Q - Series Soundbar with Wireless Subwoofer and Rear Speakers, Dolby Atmos and Q - Symphony - Black",
+            "sku": "6570311",
+            "price": 1399.99,
+            "savings": 280.0,
+            "discount_percent": 20.000142858163272,
+            "priority_score": 864.1233874577085,
+            "reviews": 286,
+            "image_url": "images/6570311.jpg"
+        },
         {
             "category": "Audio & Headphones",
             "title": "Yamaha - RX - V6A 7.2 - channel AV Receiver with 8K HDMI and MusicCast - Black",

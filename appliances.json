@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-07-05T01:23:16.150648",
+    "last_updated": "2025-07-05T07:28:33.606857",
     "deals": [
-        {
-            "category": "Appliances",
-            "title": "Keurig - K - Elite Single Serve K - Cup Pod Coffee Maker - Brushed Silver",
-            "sku": "6203569",
-            "price": 209.99,
-            "savings": 80.0,
-            "discount_percent": 38.09705224058288,
-            "priority_score": 658.5616302114556,
-            "reviews": 5123,
-            "image_url": "images/6203569.jpg"
-        },
         {
             "category": "Appliances",
             "title": "Levoit - PlasmaPro 400s Smart Air Purifier - White",

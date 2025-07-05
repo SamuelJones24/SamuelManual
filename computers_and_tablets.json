@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-05T01:23:16.150648",
+    "last_updated": "2025-07-05T07:28:33.606857",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -8,20 +8,20 @@
             "price": 119.99,
             "savings": 60.0,
             "discount_percent": 50.00416701391784,
-            "priority_score": 613.5575097296178,
-            "reviews": 855,
+            "priority_score": 613.5996199224016,
+            "reviews": 856,
             "image_url": "images/6485246.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "AMD - Ryzen 7 7800X3D 8 - Core - 16 - Thread 4.2 GHz (5.0 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black",
-            "sku": "6537139",
-            "price": 449.0,
-            "savings": 79.0,
-            "discount_percent": 17.59465478841871,
-            "priority_score": 490.05358311245357,
-            "reviews": 868,
-            "image_url": "images/6537139.jpg"
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 100.0,
+            "discount_percent": 33.33444448148272,
+            "priority_score": 535.8768305268368,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -52,9 +52,20 @@
             "price": 499.99,
             "savings": 50.0,
             "discount_percent": 10.00020000400008,
-            "priority_score": 409.5666006843733,
-            "reviews": 1334,
+            "priority_score": 409.5936073318517,
+            "reviews": 1335,
             "image_url": "images/6398057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Canon - PP - 301 Photo Plus II Glossy Photo 5.12\" x 7.1\" 20 - Count Paper - white",
+            "sku": "5786342",
+            "price": 10.99,
+            "savings": 5.0,
+            "discount_percent": 45.49590536851683,
+            "priority_score": 381.7754908058523,
+            "reviews": 680,
+            "image_url": "images/5786342.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -63,8 +74,8 @@
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 370.81561551359124,
-            "reviews": 397,
+            "priority_score": 370.9061234055587,
+            "reviews": 398,
             "image_url": "images/6467298.jpg"
         },
         {
@@ -91,14 +102,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (2 - pack) - White",
-            "sku": "6553442",
-            "price": 299.99,
+            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
+            "sku": "6553443",
+            "price": 429.99,
             "savings": 50.0,
-            "discount_percent": 16.66722224074136,
-            "priority_score": 350.4986243832873,
-            "reviews": 102,
-            "image_url": "images/6553442.jpg"
+            "discount_percent": 11.628177399474406,
+            "priority_score": 314.33907483346167,
+            "reviews": 75,
+            "image_url": "images/6553443.jpg"
         },
         {
             "category": "Computers and Tablets",
