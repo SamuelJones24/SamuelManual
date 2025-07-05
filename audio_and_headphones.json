@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-07-04T13:23:47.920852",
+    "last_updated": "2025-07-04T19:55:02.720038",
     "deals": [
+        {
+            "category": "Audio & Headphones",
+            "title": "Yamaha - RX - V6A 7.2 - channel AV Receiver with 8K HDMI and MusicCast - Black",
+            "sku": "6422266",
+            "price": 799.95,
+            "savings": 200.0,
+            "discount_percent": 25.001562597662353,
+            "priority_score": 753.4965967982816,
+            "reviews": 563,
+            "image_url": "images/6422266.jpg"
+        },
         {
             "category": "Audio & Headphones",
             "title": "Denon - AVR - S970H 90W 7 Ch Bluetooth Capable HDR Compatible with HEOS and Dolby Atmos 8K Ultra HD AV Home Theater Receiver - Black",
@@ -11,6 +22,17 @@
             "priority_score": 642.8590316086045,
             "reviews": 345,
             "image_url": "images/6519391.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - PartyBox Club 120 Portable Wireless Party Speaker - Black",
+            "sku": "6576524",
+            "price": 449.95,
+            "savings": 100.0,
+            "discount_percent": 22.2246916324036,
+            "priority_score": 518.2585136335742,
+            "reviews": 311,
+            "image_url": "images/6576524.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -30,8 +52,8 @@
             "price": 199.99,
             "savings": 51.0,
             "discount_percent": 25.501275063753187,
-            "priority_score": 393.7527655270396,
-            "reviews": 94,
+            "priority_score": 394.13043783679484,
+            "reviews": 95,
             "image_url": "images/6620177.jpg"
         },
         {

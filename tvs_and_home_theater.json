@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-04T13:23:47.920852",
+    "last_updated": "2025-07-04T19:55:02.720038",
     "deals": [
         {
             "category": "TVs and Home Theater",
@@ -8,8 +8,8 @@
             "price": 1399.99,
             "savings": 280.0,
             "discount_percent": 20.000142858163272,
-            "priority_score": 863.9974977102761,
-            "reviews": 285,
+            "priority_score": 864.1233874577085,
+            "reviews": 286,
             "image_url": "images/6570311.jpg"
         },
         {
@@ -19,8 +19,8 @@
             "price": 499.98,
             "savings": 95.0,
             "discount_percent": 19.000760030401214,
-            "priority_score": 554.7217584692676,
-            "reviews": 1768,
+            "priority_score": 554.7421412762651,
+            "reviews": 1769,
             "image_url": "images/.jpg"
         },
         {
@@ -30,8 +30,8 @@
             "price": 649.99,
             "savings": 50.0,
             "discount_percent": 7.69242603732365,
-            "priority_score": 387.9656196275972,
-            "reviews": 1009,
+            "priority_score": 388.036969553976,
+            "reviews": 1011,
             "image_url": "images/6532530.jpg"
         },
         {
@@ -41,8 +41,8 @@
             "price": 1299.99,
             "savings": 53.0,
             "discount_percent": 4.076954438111063,
-            "priority_score": 378.80265105276874,
-            "reviews": 1094,
+            "priority_score": 379.0651990803399,
+            "reviews": 1102,
             "image_url": "images/6578042.jpg"
         },
         {
@@ -63,31 +63,9 @@
             "price": 349.99,
             "savings": 50.0,
             "discount_percent": 14.286122460641732,
-            "priority_score": 273.61718333446714,
-            "reviews": 16,
+            "priority_score": 275.67873733926643,
+            "reviews": 17,
             "image_url": "images/6625833.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "TCL - 65\" Class QM5K Series 4K UHD HDR QD - Mini LED Smart TV with Google TV (2025)",
-            "sku": "6625874",
-            "price": 499.99,
-            "savings": 50.0,
-            "discount_percent": 10.00020000400008,
-            "priority_score": 236.48679048593283,
-            "reviews": 10,
-            "image_url": "images/6625874.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "TCL - 55\" Class QM5K Series 4K UHD HDR QD - Mini LED Smart TV with Google TV (2025)",
-            "sku": "6625835",
-            "price": 379.99,
-            "savings": 50.0,
-            "discount_percent": 13.158241006342273,
-            "priority_score": 215.79120503171137,
-            "reviews": 3,
-            "image_url": "images/6625835.jpg"
         }
     ]
 }

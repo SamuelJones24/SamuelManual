@@ -1,6 +1,28 @@
 {
-    "last_updated": "2025-07-04T07:28:14.077865",
+    "last_updated": "2025-07-04T19:55:02.720038",
     "deals": [
+        {
+            "category": "Computers and Tablets",
+            "title": "ASUS - Vivobook 14 14\" FHD Laptop - Intel Core i5 - 12GB Memory - 256GB SSD - Quiet Blue",
+            "sku": "6612931",
+            "price": 499.99,
+            "savings": 170.0,
+            "discount_percent": 34.000680013600274,
+            "priority_score": 670.6600189355538,
+            "reviews": 85,
+            "image_url": "images/6612931.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
+            "sku": "6485246",
+            "price": 119.99,
+            "savings": 60.0,
+            "discount_percent": 50.00416701391784,
+            "priority_score": 613.5575097296178,
+            "reviews": 855,
+            "image_url": "images/6485246.jpg"
+        },
         {
             "category": "Computers and Tablets",
             "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
@@ -19,9 +41,20 @@
             "price": 449.0,
             "savings": 79.0,
             "discount_percent": 17.59465478841871,
-            "priority_score": 489.88718200519577,
-            "reviews": 864,
+            "priority_score": 489.9704785226394,
+            "reviews": 866,
             "image_url": "images/6537139.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
+            "sku": "5900264",
+            "price": 29.99,
+            "savings": 12.0,
+            "discount_percent": 40.01333777925976,
+            "priority_score": 434.7055546467385,
+            "reviews": 3161,
+            "image_url": "images/5900264.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -30,8 +63,8 @@
             "price": 279.99,
             "savings": 60.0,
             "discount_percent": 21.429336762027216,
-            "priority_score": 420.3446951742161,
-            "reviews": 211,
+            "priority_score": 420.5144243157821,
+            "reviews": 212,
             "image_url": "images/6583060.jpg"
         },
         {
@@ -41,8 +74,8 @@
             "price": 499.99,
             "savings": 50.0,
             "discount_percent": 10.00020000400008,
-            "priority_score": 409.539573799615,
-            "reviews": 1333,
+            "priority_score": 409.5666006843733,
+            "reviews": 1334,
             "image_url": "images/6398057.jpg"
         },
         {
@@ -58,24 +91,13 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver",
-            "sku": "6467298",
-            "price": 1299.0,
-            "savings": 64.95,
-            "discount_percent": 5.0,
-            "priority_score": 370.45129548640944,
-            "reviews": 393,
-            "image_url": "images/6467298.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Samsung - T7 4TB External USB 3.2 Gen 2 Portable SSD with Hardware Encryption - Titan Gray",
             "sku": "6576883",
             "price": 344.99,
             "savings": 65.0,
             "discount_percent": 18.841125829734196,
-            "priority_score": 366.0162626979584,
-            "reviews": 50,
+            "priority_score": 366.7166221021983,
+            "reviews": 51,
             "image_url": "images/6576883.jpg"
         },
         {
@@ -85,20 +107,20 @@
             "price": 349.99,
             "savings": 68.0,
             "discount_percent": 19.429126546472755,
-            "priority_score": 363.38196687308755,
-            "reviews": 36,
+            "priority_score": 365.28068820392,
+            "reviews": 38,
             "image_url": "images/6598715.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
-            "sku": "6553443",
-            "price": 429.99,
+            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (2 - pack) - White",
+            "sku": "6553442",
+            "price": 299.99,
             "savings": 50.0,
-            "discount_percent": 11.628177399474406,
-            "priority_score": 314.33907483346167,
-            "reviews": 75,
-            "image_url": "images/6553443.jpg"
+            "discount_percent": 16.66722224074136,
+            "priority_score": 350.4986243832873,
+            "reviews": 102,
+            "image_url": "images/6553442.jpg"
         },
         {
             "category": "Computers and Tablets",
