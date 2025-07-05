@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-05T07:28:33.606857",
+    "last_updated": "2025-07-05T13:23:40.156648",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -8,9 +8,20 @@
             "price": 119.99,
             "savings": 60.0,
             "discount_percent": 50.00416701391784,
-            "priority_score": 613.5996199224016,
-            "reviews": 856,
+            "priority_score": 613.6416810070778,
+            "reviews": 857,
             "image_url": "images/6485246.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6583240",
+            "price": 899.99,
+            "savings": 163.0,
+            "discount_percent": 18.111312347914975,
+            "priority_score": 579.6456106410002,
+            "reviews": 91,
+            "image_url": "images/6583240.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -25,6 +36,28 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "HP - Smart Tank 5101 Wireless All - In - One Supertank Inkjet Printer with up to 2 Years of Ink Included - White",
+            "sku": "6527565",
+            "price": 259.99,
+            "savings": 70.0,
+            "discount_percent": 26.92411246586407,
+            "priority_score": 529.8873459239609,
+            "reviews": 1184,
+            "image_url": "images/6527565.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "AMD - Ryzen 7 7800X3D 8 - Core - 16 - Thread 4.2 GHz (5.0 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black",
+            "sku": "6537139",
+            "price": 449.0,
+            "savings": 79.0,
+            "discount_percent": 17.59465478841871,
+            "priority_score": 490.1364966570652,
+            "reviews": 870,
+            "image_url": "images/6537139.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "CORSAIR - MM300 PRO Gaming Mouse Pad with Premium Spill - Proof Cloth - Extended - Black",
             "sku": "6428299",
             "price": 32.99,
@@ -33,6 +66,17 @@
             "priority_score": 459.54753280933187,
             "reviews": 1345,
             "image_url": "images/6428299.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
+            "sku": "5900264",
+            "price": 29.99,
+            "savings": 12.0,
+            "discount_percent": 40.01333777925976,
+            "priority_score": 434.71695935071415,
+            "reviews": 3162,
+            "image_url": "images/5900264.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -55,6 +99,17 @@
             "priority_score": 409.5936073318517,
             "reviews": 1335,
             "image_url": "images/6398057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
+            "sku": "6598715",
+            "price": 349.99,
+            "savings": 76.0,
+            "discount_percent": 21.714906140175433,
+            "priority_score": 392.70958617243343,
+            "reviews": 38,
+            "image_url": "images/6598715.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -91,28 +146,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
-            "sku": "6598715",
-            "price": 349.99,
-            "savings": 68.0,
-            "discount_percent": 19.429126546472755,
-            "priority_score": 365.28068820392,
-            "reviews": 38,
-            "image_url": "images/6598715.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
-            "sku": "6553443",
-            "price": 429.99,
-            "savings": 50.0,
-            "discount_percent": 11.628177399474406,
-            "priority_score": 314.33907483346167,
-            "reviews": 75,
-            "image_url": "images/6553443.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
             "sku": "6553330",
             "price": 1999.99,
@@ -124,14 +157,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6583240",
-            "price": 899.99,
-            "savings": 50.0,
-            "discount_percent": 5.5556172846364955,
-            "priority_score": 290.86713532460783,
-            "reviews": 91,
-            "image_url": "images/6583240.jpg"
+            "title": "AMD - Ryzen 7 9700X 8 - Core - 16 - Thread 3.8 GHz (5.5 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Silver",
+            "sku": "6589136",
+            "price": 359.0,
+            "savings": 48.0,
+            "discount_percent": 13.370473537604457,
+            "priority_score": 294.15962298499744,
+            "reviews": 79,
+            "image_url": "images/6589136.jpg"
         },
         {
             "category": "Computers and Tablets",
