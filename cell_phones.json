@@ -1,16 +1,38 @@
 {
-    "last_updated": "2025-06-26T07:28:36.198535",
+    "last_updated": "2025-07-06T01:22:54.019751",
     "deals": [
         {
             "category": "Cell Phones",
-            "title": "Samsung - Galaxy S25 Edge 512GB (Unlocked) - Titanium Jet Black",
-            "sku": "6624972",
-            "price": 1119.99,
-            "savings": 54.0,
-            "discount_percent": 4.821471620282324,
-            "priority_score": 190.15556047359567,
-            "reviews": 4,
-            "image_url": "images/6624972.jpg"
+            "title": "Lively\u00ae - Jitterbug Smart4 Smartphone for Seniors - Black",
+            "sku": "6557140",
+            "price": 119.99,
+            "savings": 66.0,
+            "discount_percent": 55.00458371530961,
+            "priority_score": 621.0789791820748,
+            "reviews": 377,
+            "image_url": "images/6557140.jpg"
+        },
+        {
+            "category": "Cell Phones",
+            "title": "Lively\u00ae - Jitterbug Flip2 Cell Phone for Seniors - Red",
+            "sku": "6538307",
+            "price": 79.99,
+            "savings": 32.0,
+            "discount_percent": 40.00500062507813,
+            "priority_score": 466.6950221037546,
+            "reviews": 2533,
+            "image_url": "images/6538307.jpg"
+        },
+        {
+            "category": "Cell Phones",
+            "title": "Lively\u00ae - Lively Mobile2 All - in - One Medical Alert - Black",
+            "sku": "6572484",
+            "price": 79.99,
+            "savings": 45.0,
+            "discount_percent": 56.257032129016125,
+            "priority_score": 418.1470821707215,
+            "reviews": 82,
+            "image_url": "images/6572484.jpg"
         }
     ]
 }

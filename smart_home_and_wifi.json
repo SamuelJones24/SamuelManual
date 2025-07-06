@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-05T20:01:38.738507",
+    "last_updated": "2025-07-06T01:22:54.019751",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -30,8 +30,8 @@
             "price": 449.99,
             "savings": 60.0,
             "discount_percent": 13.333629636214136,
-            "priority_score": 468.93302038313493,
-            "reviews": 2504,
+            "priority_score": 468.9474156641172,
+            "reviews": 2505,
             "image_url": "images/6559342.jpg"
         },
         {
@@ -44,6 +44,17 @@
             "priority_score": 400.42203406300405,
             "reviews": 474,
             "image_url": "images/6567807.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6553330",
+            "price": 1999.99,
+            "savings": 50.0,
+            "discount_percent": 2.5000125000625,
+            "priority_score": 306.7046706197356,
+            "reviews": 217,
+            "image_url": "images/6553330.jpg"
         }
     ]
 }
