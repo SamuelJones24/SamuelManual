@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-05T13:23:40.156648",
+    "last_updated": "2025-07-05T20:01:38.738507",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -22,17 +22,6 @@
             "priority_score": 753.4965967982816,
             "reviews": 563,
             "image_url": "images/6422266.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - PartyBox Club 120 Portable Wireless Party Speaker - Black",
-            "sku": "6576524",
-            "price": 449.95,
-            "savings": 100.0,
-            "discount_percent": 22.2246916324036,
-            "priority_score": 518.2585136335742,
-            "reviews": 311,
-            "image_url": "images/6576524.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -74,8 +63,8 @@
             "price": 549.95,
             "savings": 50.0,
             "discount_percent": 9.091735612328392,
-            "priority_score": 361.91396513043685,
-            "reviews": 403,
+            "priority_score": 362.00313050594167,
+            "reviews": 404,
             "image_url": "images/6422262.jpg"
         }
     ]

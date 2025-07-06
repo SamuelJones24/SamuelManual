@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-05T13:23:40.156648",
+    "last_updated": "2025-07-05T20:01:38.738507",
     "deals": [
         {
             "category": "Appliances",
@@ -52,8 +52,8 @@
             "price": 399.99,
             "savings": 50.0,
             "discount_percent": 12.500312507812694,
-            "priority_score": 395.43687788318516,
-            "reviews": 637,
+            "priority_score": 395.49336556273835,
+            "reviews": 638,
             "image_url": "images/6514613.jpg"
         }
     ]

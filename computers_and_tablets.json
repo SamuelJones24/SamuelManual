@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-07-05T13:23:40.156648",
+    "last_updated": "2025-07-05T20:01:38.738507",
     "deals": [
+        {
+            "category": "Computers and Tablets",
+            "title": "ASUS - Vivobook 14 14\" FHD Laptop - Intel Core i5 - 12GB Memory - 256GB SSD - Quiet Blue",
+            "sku": "6612931",
+            "price": 499.99,
+            "savings": 170.0,
+            "discount_percent": 34.000680013600274,
+            "priority_score": 670.6600189355538,
+            "reviews": 85,
+            "image_url": "images/6612931.jpg"
+        },
         {
             "category": "Computers and Tablets",
             "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
@@ -14,17 +25,6 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6583240",
-            "price": 899.99,
-            "savings": 163.0,
-            "discount_percent": 18.111312347914975,
-            "priority_score": 579.6456106410002,
-            "reviews": 91,
-            "image_url": "images/6583240.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
             "sku": "6537888",
             "price": 299.99,
@@ -33,17 +33,6 @@
             "priority_score": 535.8768305268368,
             "reviews": 108,
             "image_url": "images/6537888.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "HP - Smart Tank 5101 Wireless All - In - One Supertank Inkjet Printer with up to 2 Years of Ink Included - White",
-            "sku": "6527565",
-            "price": 259.99,
-            "savings": 70.0,
-            "discount_percent": 26.92411246586407,
-            "priority_score": 529.8873459239609,
-            "reviews": 1184,
-            "image_url": "images/6527565.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -63,8 +52,8 @@
             "price": 32.99,
             "savings": 18.0,
             "discount_percent": 54.56198848135798,
-            "priority_score": 459.54753280933187,
-            "reviews": 1345,
+            "priority_score": 459.5743188306315,
+            "reviews": 1346,
             "image_url": "images/6428299.jpg"
         },
         {
@@ -77,17 +66,6 @@
             "priority_score": 434.71695935071415,
             "reviews": 3162,
             "image_url": "images/5900264.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Dune",
-            "sku": "6583060",
-            "price": 279.99,
-            "savings": 60.0,
-            "discount_percent": 21.429336762027216,
-            "priority_score": 420.5144243157821,
-            "reviews": 212,
-            "image_url": "images/6583060.jpg"
         },
         {
             "category": "Computers and Tablets",
