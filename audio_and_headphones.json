@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-06T07:24:43.443747",
+    "last_updated": "2025-07-06T13:23:11.099743",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -25,6 +25,17 @@
         },
         {
             "category": "Audio & Headphones",
+            "title": "JBL - PartyBox Club 120 Portable Wireless Party Speaker - Black",
+            "sku": "6576524",
+            "price": 449.95,
+            "savings": 100.0,
+            "discount_percent": 22.2246916324036,
+            "priority_score": 518.3739293353334,
+            "reviews": 312,
+            "image_url": "images/6576524.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
             "title": "JBL - Tour Pro 3 True Wireless Noise Cancelling Earbuds - Black",
             "sku": "6590287",
             "price": 329.95,
@@ -44,17 +55,6 @@
             "priority_score": 427.66343272881124,
             "reviews": 4082,
             "image_url": "images/6280563.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Sony - ULT FIELD 3 Wireless Speaker - Forest Gray",
-            "sku": "6620177",
-            "price": 199.99,
-            "savings": 51.0,
-            "discount_percent": 25.501275063753187,
-            "priority_score": 394.8741214216461,
-            "reviews": 97,
-            "image_url": "images/6620177.jpg"
         },
         {
             "category": "Audio & Headphones",

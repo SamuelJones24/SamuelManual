@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-06T07:24:43.443747",
+    "last_updated": "2025-07-06T13:23:11.099743",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -11,17 +11,6 @@
             "priority_score": 670.6600189355538,
             "reviews": 85,
             "image_url": "images/6612931.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
-            "sku": "6485246",
-            "price": 119.99,
-            "savings": 60.0,
-            "discount_percent": 50.00416701391784,
-            "priority_score": 613.6416810070778,
-            "reviews": 857,
-            "image_url": "images/6485246.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -52,20 +41,20 @@
             "price": 449.0,
             "savings": 79.0,
             "discount_percent": 17.59465478841871,
-            "priority_score": 490.1364966570652,
-            "reviews": 870,
+            "priority_score": 490.1778820615167,
+            "reviews": 871,
             "image_url": "images/6537139.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "CORSAIR - MM300 PRO Gaming Mouse Pad with Premium Spill - Proof Cloth - Extended - Black",
-            "sku": "6428299",
-            "price": 32.99,
-            "savings": 18.0,
-            "discount_percent": 54.56198848135798,
-            "priority_score": 459.5743188306315,
-            "reviews": 1346,
-            "image_url": "images/6428299.jpg"
+            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
+            "sku": "6598715",
+            "price": 349.99,
+            "savings": 93.0,
+            "discount_percent": 26.57218777679362,
+            "priority_score": 450.9959943555243,
+            "reviews": 38,
+            "image_url": "images/6598715.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -102,36 +91,47 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
-            "sku": "6598715",
-            "price": 349.99,
-            "savings": 76.0,
-            "discount_percent": 21.714906140175433,
-            "priority_score": 392.70958617243343,
-            "reviews": 38,
-            "image_url": "images/6598715.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Apple - iMac 24 - inch All - in - One - M4 chip - Built for Apple Intelligence - 8 Core CPU - 8 Core GPU - 16GB Memory - 256GB SSD - Silver",
             "sku": "6467298",
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 370.9061234055587,
-            "reviews": 398,
+            "priority_score": 370.99640474436814,
+            "reviews": 399,
             "image_url": "images/6467298.jpg"
         },
         {
             "category": "Computers and Tablets",
             "title": "Samsung - T7 4TB External USB 3.2 Gen 2 Portable SSD with Hardware Encryption - Titan Gray",
-            "sku": "6576883",
+            "sku": "",
             "price": 344.99,
             "savings": 65.0,
             "discount_percent": 18.841125829734196,
             "priority_score": 366.7166221021983,
             "reviews": 51,
-            "image_url": "images/6576883.jpg"
+            "image_url": "images/.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (2 - pack) - White",
+            "sku": "6553442",
+            "price": 299.99,
+            "savings": 50.0,
+            "discount_percent": 16.66722224074136,
+            "priority_score": 350.4986243832873,
+            "reviews": 102,
+            "image_url": "images/6553442.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "AMD - Ryzen 7 9700X 8 - Core - 16 - Thread 3.8 GHz (5.5 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Silver",
+            "sku": "6589136",
+            "price": 359.0,
+            "savings": 50.0,
+            "discount_percent": 13.92757660167131,
+            "priority_score": 327.6860853805406,
+            "reviews": 79,
+            "image_url": "images/6589136.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -143,17 +143,6 @@
             "priority_score": 306.7046706197356,
             "reviews": 217,
             "image_url": "images/6553330.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "AMD - Ryzen 7 9700X 8 - Core - 16 - Thread 3.8 GHz (5.5 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Silver",
-            "sku": "6589136",
-            "price": 359.0,
-            "savings": 48.0,
-            "discount_percent": 13.370473537604457,
-            "priority_score": 294.15962298499744,
-            "reviews": 79,
-            "image_url": "images/6589136.jpg"
         },
         {
             "category": "Computers and Tablets",
