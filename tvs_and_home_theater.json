@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-06T13:23:11.099743",
+    "last_updated": "2025-07-06T20:00:04.635896",
     "deals": [
         {
             "category": "TVs and Home Theater",
@@ -11,17 +11,6 @@
             "priority_score": 864.1233874577085,
             "reviews": 286,
             "image_url": "images/6570311.jpg"
-        },
-        {
-            "category": "TVs and Home Theater",
-            "title": "Panasonic - Streaming 4K Ultra HD Hi - Res Audio with Dolby Vision 7.1 Channel DVD/CD/3D Wi - Fi Built - In Blu - Ray Player, DP - UB820 - K - Black",
-            "sku": "6278202",
-            "price": 499.98,
-            "savings": 95.0,
-            "discount_percent": 19.000760030401214,
-            "priority_score": 554.7421412762651,
-            "reviews": 1769,
-            "image_url": "images/6278202.jpg"
         },
         {
             "category": "TVs and Home Theater",
@@ -55,6 +44,17 @@
             "priority_score": 321.4295918513122,
             "reviews": 3,
             "image_url": "images/6625834.jpg"
+        },
+        {
+            "category": "TVs and Home Theater",
+            "title": "TCL - 50\" Class QM5K Series 4K UHD HDR QD - Mini LED Smart TV with Google TV (2025)",
+            "sku": "6625833",
+            "price": 349.99,
+            "savings": 50.0,
+            "discount_percent": 14.286122460641732,
+            "priority_score": 279.4788146753927,
+            "reviews": 19,
+            "image_url": "images/6625833.jpg"
         },
         {
             "category": "TVs and Home Theater",

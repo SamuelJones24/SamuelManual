@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-06T13:23:11.099743",
+    "last_updated": "2025-07-06T20:00:04.635896",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -11,6 +11,17 @@
             "priority_score": 670.6600189355538,
             "reviews": 85,
             "image_url": "images/6612931.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "SteelSeries - Aerox 3 Super Light Honeycomb Wireless RGB Optical Gaming Mouse - Wireless - Onyx",
+            "sku": "6485246",
+            "price": 119.99,
+            "savings": 60.0,
+            "discount_percent": 50.00416701391784,
+            "priority_score": 613.6416810070778,
+            "reviews": 857,
+            "image_url": "images/6485246.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -47,6 +58,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "CORSAIR - MM300 PRO Gaming Mouse Pad with Premium Spill - Proof Cloth - Extended - Black",
+            "sku": "6428299",
+            "price": 32.99,
+            "savings": 18.0,
+            "discount_percent": 54.56198848135798,
+            "priority_score": 459.6010849736204,
+            "reviews": 1347,
+            "image_url": "images/6428299.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
             "sku": "6598715",
             "price": 349.99,
@@ -55,17 +77,6 @@
             "priority_score": 450.9959943555243,
             "reviews": 38,
             "image_url": "images/6598715.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
-            "sku": "5900264",
-            "price": 29.99,
-            "savings": 12.0,
-            "discount_percent": 40.01333777925976,
-            "priority_score": 434.71695935071415,
-            "reviews": 3162,
-            "image_url": "images/5900264.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -85,8 +96,8 @@
             "price": 499.99,
             "savings": 50.0,
             "discount_percent": 10.00020000400008,
-            "priority_score": 409.62059377233425,
-            "reviews": 1336,
+            "priority_score": 409.6475600360369,
+            "reviews": 1337,
             "image_url": "images/6398057.jpg"
         },
         {
@@ -96,8 +107,8 @@
             "price": 1299.0,
             "savings": 64.95,
             "discount_percent": 5.0,
-            "priority_score": 370.99640474436814,
-            "reviews": 399,
+            "priority_score": 371.086460661373,
+            "reviews": 400,
             "image_url": "images/6467298.jpg"
         },
         {
