@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-06T20:00:04.635896",
+    "last_updated": "2025-07-07T01:23:30.793917",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -25,14 +25,25 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "JBL - PartyBox Club 120 Portable Wireless Party Speaker - Black",
-            "sku": "6576524",
-            "price": 449.95,
-            "savings": 100.0,
-            "discount_percent": 22.2246916324036,
-            "priority_score": 518.4889768843086,
-            "reviews": 313,
-            "image_url": "images/6576524.jpg"
+            "title": "Shokz - OpenRun Bone Conduction Open - Ear Endurance Headphones - Black",
+            "sku": "6492431",
+            "price": 129.95,
+            "savings": 50.0,
+            "discount_percent": 38.47633705271258,
+            "priority_score": 586.128420948484,
+            "reviews": 3443,
+            "image_url": "images/6492431.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Shokz - OpenRun Mini Bone Conduction Open - Ear Endurance Headphones - Black",
+            "sku": "6492432",
+            "price": 129.95,
+            "savings": 50.0,
+            "discount_percent": 38.47633705271258,
+            "priority_score": 552.1090233111747,
+            "reviews": 1340,
+            "image_url": "images/6492432.jpg"
         },
         {
             "category": "Audio & Headphones",
