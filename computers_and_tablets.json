@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-07T01:23:30.793917",
+    "last_updated": "2025-07-07T07:27:08.951263",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -58,6 +58,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
+            "sku": "6398057",
+            "price": 499.99,
+            "savings": 50.0,
+            "discount_percent": 10.00020000400008,
+            "priority_score": 409.6475600360369,
+            "reviews": 1337,
+            "image_url": "images/6398057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 750 Series AX5200 Tri - Band Mesh Wi - Fi 6 System (2 - pack) - White",
             "sku": "6553442",
             "price": 299.99,
@@ -70,13 +81,13 @@
         {
             "category": "Computers and Tablets",
             "title": "AMD - Ryzen 7 9700X 8 - Core - 16 - Thread 3.8 GHz (5.5 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Silver",
-            "sku": "",
+            "sku": "6589136",
             "price": 359.0,
             "savings": 50.0,
             "discount_percent": 13.92757660167131,
             "priority_score": 327.6860853805406,
             "reviews": 79,
-            "image_url": "images/.jpg"
+            "image_url": "images/6589136.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -92,13 +103,13 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6553330",
+            "sku": "",
             "price": 1999.99,
             "savings": 50.0,
             "discount_percent": 2.5000125000625,
             "priority_score": 306.7046706197356,
             "reviews": 217,
-            "image_url": "images/6553330.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",

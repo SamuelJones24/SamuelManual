@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-07T01:23:30.793917",
+    "last_updated": "2025-07-07T07:27:08.951263",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -11,17 +11,6 @@
             "priority_score": 526.8800348710665,
             "reviews": 890,
             "image_url": "images/6517931.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Philips - Hue Ambiance Gradient Bluetooth Lightstrip 80 - inch Base Kit - Multi",
-            "sku": "6478171",
-            "price": 197.99,
-            "savings": 79.0,
-            "discount_percent": 39.90100510126774,
-            "priority_score": 524.6675386859192,
-            "reviews": 102,
-            "image_url": "images/6478171.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -47,28 +36,6 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "Philips - Hue A19 75W Smart LED Starter Kit - White and Color Ambiance",
-            "sku": "6472224",
-            "price": 219.99,
-            "savings": 65.0,
-            "discount_percent": 29.546797581708255,
-            "priority_score": 464.6273236827012,
-            "reviews": 177,
-            "image_url": "images/6472224.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
-            "sku": "6398057",
-            "price": 499.99,
-            "savings": 50.0,
-            "discount_percent": 10.00020000400008,
-            "priority_score": 409.6475600360369,
-            "reviews": 1337,
-            "image_url": "images/6398057.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
             "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
             "sku": "6567807",
             "price": 319.99,
@@ -77,6 +44,17 @@
             "priority_score": 400.4978855652449,
             "reviews": 475,
             "image_url": "images/6567807.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6553330",
+            "price": 1999.99,
+            "savings": 50.0,
+            "discount_percent": 2.5000125000625,
+            "priority_score": 306.7046706197356,
+            "reviews": 217,
+            "image_url": "images/6553330.jpg"
         }
     ]
 }
