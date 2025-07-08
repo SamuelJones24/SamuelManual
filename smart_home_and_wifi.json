@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-07T07:27:08.951263",
+    "last_updated": "2025-07-07T19:53:57.427491",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -14,6 +14,17 @@
         },
         {
             "category": "Smart Home and Wifi",
+            "title": "Philips - Hue 75\" Play Gradient Lightstrip - White and Color Ambiance",
+            "sku": "6427731",
+            "price": 329.99,
+            "savings": 72.0,
+            "discount_percent": 21.818842995242278,
+            "priority_score": 505.9703062302541,
+            "reviews": 1108,
+            "image_url": "images/6427731.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
             "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
             "sku": "6559342",
             "price": 374.99,
@@ -25,36 +36,14 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "Philips - Hue 75\" Play Gradient Lightstrip - White and Color Ambiance",
-            "sku": "6427731",
-            "price": 329.99,
-            "savings": 65.0,
-            "discount_percent": 19.697566592927057,
-            "priority_score": 481.363924218678,
-            "reviews": 1108,
-            "image_url": "images/6427731.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
             "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
             "sku": "6567807",
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
-            "priority_score": 400.4978855652449,
-            "reviews": 475,
+            "priority_score": 400.57357788268405,
+            "reviews": 476,
             "image_url": "images/6567807.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6553330",
-            "price": 1999.99,
-            "savings": 50.0,
-            "discount_percent": 2.5000125000625,
-            "priority_score": 306.7046706197356,
-            "reviews": 217,
-            "image_url": "images/6553330.jpg"
         }
     ]
 }
