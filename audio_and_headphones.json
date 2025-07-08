@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-07-07T19:53:57.427491",
+    "last_updated": "2025-07-08T01:23:47.938780",
     "deals": [
-        {
-            "category": "Audio & Headphones",
-            "title": "Denon - AVR - S970H 90W 7 Ch Bluetooth Capable HDR Compatible with HEOS and Dolby Atmos 8K Ultra HD AV Home Theater Receiver - Black",
-            "sku": "6519391",
-            "price": 899.0,
-            "savings": 300.0,
-            "discount_percent": 33.37041156840934,
-            "priority_score": 977.7177635329648,
-            "reviews": 345,
-            "image_url": "images/6519391.jpg"
-        },
         {
             "category": "Audio & Headphones",
             "title": "Yamaha - RX - V6A 7.2 - channel AV Receiver with 8K HDMI and MusicCast - Black",
@@ -25,28 +14,6 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Shokz - OpenRun Bone Conduction Open - Ear Endurance Headphones - Black",
-            "sku": "6492431",
-            "price": 129.95,
-            "savings": 50.0,
-            "discount_percent": 38.47633705271258,
-            "priority_score": 586.128420948484,
-            "reviews": 3443,
-            "image_url": "images/6492431.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Shokz - OpenRun Mini Bone Conduction Open - Ear Endurance Headphones - Black",
-            "sku": "6492432",
-            "price": 129.95,
-            "savings": 50.0,
-            "discount_percent": 38.47633705271258,
-            "priority_score": 552.1359091685674,
-            "reviews": 1341,
-            "image_url": "images/6492432.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "JBL - Tour Pro 3 True Wireless Noise Cancelling Earbuds - Black",
             "sku": "6590287",
             "price": 329.95,
@@ -55,28 +22,6 @@
             "priority_score": 506.96153083222737,
             "reviews": 81,
             "image_url": "images/6590287.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Bose - Bass Module 700 Wireless Subwoofer - Black",
-            "sku": "6280563",
-            "price": 899.99,
-            "savings": 50.0,
-            "discount_percent": 5.5556172846364955,
-            "priority_score": 427.66343272881124,
-            "reviews": 4082,
-            "image_url": "images/6280563.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - BAR 500 5.1ch Soundbar with Multibeam and Dolby Atmos - Black",
-            "sku": "6532530",
-            "price": 649.99,
-            "savings": 50.0,
-            "discount_percent": 7.69242603732365,
-            "priority_score": 388.0725916566467,
-            "reviews": 1012,
-            "image_url": "images/6532530.jpg"
         },
         {
             "category": "Audio & Headphones",

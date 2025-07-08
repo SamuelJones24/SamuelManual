@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-07T19:53:57.427491",
+    "last_updated": "2025-07-08T01:23:47.938780",
     "deals": [
         {
             "category": "Cell Phones",
@@ -22,6 +22,17 @@
             "priority_score": 466.6950221037546,
             "reviews": 2533,
             "image_url": "images/6538307.jpg"
+        },
+        {
+            "category": "Cell Phones",
+            "title": "Anker - Power Bank (20000mAh, 200W, 3 - Port) - Black",
+            "sku": "6553396",
+            "price": 139.99,
+            "savings": 50.0,
+            "discount_percent": 35.71683691692263,
+            "priority_score": 454.1433799103245,
+            "reviews": 129,
+            "image_url": "images/6553396.jpg"
         },
         {
             "category": "Cell Phones",
