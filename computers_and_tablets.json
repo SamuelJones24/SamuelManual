@@ -1,28 +1,6 @@
 {
-    "last_updated": "2025-07-08T01:23:47.938780",
+    "last_updated": "2025-07-08T07:29:28.314376",
     "deals": [
-        {
-            "category": "Computers and Tablets",
-            "title": "Samsung - T7 Shield 2TB External USB 3.2 Gen 2 Rugged SSD IP65 Water Resistant - Black",
-            "sku": "6501714",
-            "price": 229.99,
-            "savings": 70.0,
-            "discount_percent": 30.436105917648593,
-            "priority_score": 549.4310007615584,
-            "reviews": 1251,
-            "image_url": "images/6501714.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
-            "sku": "6537888",
-            "price": 299.99,
-            "savings": 100.0,
-            "discount_percent": 33.33444448148272,
-            "priority_score": 535.8768305268368,
-            "reviews": 108,
-            "image_url": "images/6537888.jpg"
-        },
         {
             "category": "Computers and Tablets",
             "title": "AMD - Ryzen 7 7800X3D 8 - Core - 16 - Thread 4.2 GHz (5.0 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black",
@@ -36,14 +14,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Speck - Balance Folio Case for Apple iPad Air 11\"(latest M3/M2), iPad Pro 11\"(3rd/2nd/1st Gen) & iPad Air 10.9\"(5th/4th Gen) - Black/White",
-            "sku": "6514563",
-            "price": 37.49,
-            "savings": 17.5,
-            "discount_percent": 46.6791144305148,
-            "priority_score": 422.1034195255904,
-            "reviews": 943,
-            "image_url": "images/6514563.jpg"
+            "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Dune",
+            "sku": "6583060",
+            "price": 279.99,
+            "savings": 60.0,
+            "discount_percent": 21.429336762027216,
+            "priority_score": 420.85150504987257,
+            "reviews": 214,
+            "image_url": "images/6583060.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -59,13 +37,13 @@
         {
             "category": "Computers and Tablets",
             "title": "AMD - Ryzen 7 9700X 8 - Core - 16 - Thread 3.8 GHz (5.5 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Silver",
-            "sku": "",
+            "sku": "6589136",
             "price": 359.0,
             "savings": 53.0,
             "discount_percent": 14.763231197771587,
             "priority_score": 337.86435836104204,
             "reviews": 79,
-            "image_url": "images/.jpg"
+            "image_url": "images/6589136.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -77,17 +55,6 @@
             "priority_score": 324.6683426105292,
             "reviews": 269,
             "image_url": "images/5495364.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi + Cellular 256GB with OLED - Space Black (Unlocked)",
-            "sku": "6533675",
-            "price": 1449.0,
-            "savings": 50.0,
-            "discount_percent": 3.450655624568668,
-            "priority_score": 298.68797419015965,
-            "reviews": 152,
-            "image_url": "images/6533675.jpg"
         }
     ]
 }
