@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-09T07:26:33.081768",
+    "last_updated": "2025-07-09T13:22:51.914247",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -11,17 +11,6 @@
             "priority_score": 753.4965967982816,
             "reviews": 563,
             "image_url": "images/6422266.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - Tour Pro 3 True Wireless Noise Cancelling Earbuds - Black",
-            "sku": "6590287",
-            "price": 329.95,
-            "savings": 99.0,
-            "discount_percent": 30.004546143355054,
-            "priority_score": 506.96153083222737,
-            "reviews": 81,
-            "image_url": "images/6590287.jpg"
         },
         {
             "category": "Audio & Headphones",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-09T07:26:33.081768",
+    "last_updated": "2025-07-09T13:22:51.914247",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -25,6 +25,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "NETGEAR - Nighthawk AX3000 Dual - Band Mesh Wi - Fi System (3 - pack) - Black",
+            "sku": "6577902",
+            "price": 199.99,
+            "savings": 72.0,
+            "discount_percent": 36.0018000900045,
+            "priority_score": 477.2410758736467,
+            "reviews": 69,
+            "image_url": "images/6577902.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Dune",
             "sku": "6583060",
             "price": 279.99,
@@ -36,25 +47,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "6533542",
-            "price": 1399.0,
-            "savings": 50.0,
-            "discount_percent": 3.5739814152966405,
-            "priority_score": 347.4917906491903,
-            "reviews": 581,
-            "image_url": "images/6533542.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
             "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "",
+            "sku": "5495364",
             "price": 1099.0,
             "savings": 50.0,
             "discount_percent": 4.549590536851683,
             "priority_score": 324.6683426105292,
             "reviews": 269,
-            "image_url": "images/.jpg"
+            "image_url": "images/5495364.jpg"
         }
     ]
 }
