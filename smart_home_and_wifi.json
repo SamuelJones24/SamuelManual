@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-08T07:29:28.314376",
+    "last_updated": "2025-07-08T19:57:45.101679",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -14,12 +14,23 @@
         },
         {
             "category": "Smart Home and Wifi",
+            "title": "STARLINK - Mini Kit AC Dual Band Wi - Fi System - White",
+            "sku": "6589861",
+            "price": 499.99,
+            "savings": 100.0,
+            "discount_percent": 20.00040000800016,
+            "priority_score": 509.8099356094698,
+            "reviews": 335,
+            "image_url": "images/6589861.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
             "title": "Philips - Hue 75\" Play Gradient Lightstrip - White and Color Ambiance",
             "sku": "6427731",
             "price": 329.99,
-            "savings": 72.0,
-            "discount_percent": 21.818842995242278,
-            "priority_score": 505.9703062302541,
+            "savings": 73.0,
+            "discount_percent": 22.12188248128731,
+            "priority_score": 509.48550366047925,
             "reviews": 1108,
             "image_url": "images/6427731.jpg"
         },

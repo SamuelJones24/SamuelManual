@@ -1,28 +1,6 @@
 {
-    "last_updated": "2025-07-08T07:29:28.314376",
+    "last_updated": "2025-07-08T19:57:45.101679",
     "deals": [
-        {
-            "category": "Cell Phones",
-            "title": "Lively\u00ae - Jitterbug Smart4 Smartphone for Seniors - Black",
-            "sku": "6557140",
-            "price": 119.99,
-            "savings": 66.0,
-            "discount_percent": 55.00458371530961,
-            "priority_score": 621.0789791820748,
-            "reviews": 377,
-            "image_url": "images/6557140.jpg"
-        },
-        {
-            "category": "Cell Phones",
-            "title": "Lively\u00ae - Jitterbug Flip2 Cell Phone for Seniors - Red",
-            "sku": "6538307",
-            "price": 79.99,
-            "savings": 32.0,
-            "discount_percent": 40.00500062507813,
-            "priority_score": 466.6950221037546,
-            "reviews": 2533,
-            "image_url": "images/6538307.jpg"
-        },
         {
             "category": "Cell Phones",
             "title": "Anker - Power Bank (20000mAh, 200W, 3 - Port) - Black",
@@ -36,14 +14,14 @@
         },
         {
             "category": "Cell Phones",
-            "title": "Lively\u00ae - Lively Mobile2 All - in - One Medical Alert - Black",
-            "sku": "6572484",
-            "price": 79.99,
-            "savings": 45.0,
-            "discount_percent": 56.257032129016125,
-            "priority_score": 418.1470821707215,
-            "reviews": 82,
-            "image_url": "images/6572484.jpg"
+            "title": "Samsung - Galaxy S24 FE 128GB (Unlocked) - Graphite",
+            "sku": "6599405",
+            "price": 649.99,
+            "savings": 49.0,
+            "discount_percent": 7.538577516577178,
+            "priority_score": 324.3594105373486,
+            "reviews": 283,
+            "image_url": "images/6599405.jpg"
         }
     ]
 }

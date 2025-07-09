@@ -1,16 +1,27 @@
 {
-    "last_updated": "2025-07-08T07:29:28.314376",
+    "last_updated": "2025-07-08T19:57:45.101679",
     "deals": [
         {
             "category": "Computers and Tablets",
-            "title": "AMD - Ryzen 7 7800X3D 8 - Core - 16 - Thread 4.2 GHz (5.0 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Black",
-            "sku": "6537139",
-            "price": 449.0,
-            "savings": 79.0,
-            "discount_percent": 17.59465478841871,
-            "priority_score": 490.2192200328296,
-            "reviews": 872,
-            "image_url": "images/6537139.jpg"
+            "title": "Samsung - T7 Shield 2TB External USB 3.2 Gen 2 Rugged SSD IP65 Water Resistant - Black",
+            "sku": "6501714",
+            "price": 229.99,
+            "savings": 70.0,
+            "discount_percent": 30.436105917648593,
+            "priority_score": 549.4310007615584,
+            "reviews": 1251,
+            "image_url": "images/6501714.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
+            "sku": "6537888",
+            "price": 299.99,
+            "savings": 100.0,
+            "discount_percent": 33.33444448148272,
+            "priority_score": 535.8768305268368,
+            "reviews": 108,
+            "image_url": "images/6537888.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -33,17 +44,6 @@
             "priority_score": 347.4917906491903,
             "reviews": 581,
             "image_url": "images/6533542.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "AMD - Ryzen 7 9700X 8 - Core - 16 - Thread 3.8 GHz (5.5 GHz Max Boost) Socket AM5 Unlocked Desktop Processor - Silver",
-            "sku": "6589136",
-            "price": 359.0,
-            "savings": 53.0,
-            "discount_percent": 14.763231197771587,
-            "priority_score": 337.86435836104204,
-            "reviews": 79,
-            "image_url": "images/6589136.jpg"
         },
         {
             "category": "Computers and Tablets",
