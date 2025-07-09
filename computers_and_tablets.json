@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-09T01:24:23.069008",
+    "last_updated": "2025-07-09T07:26:33.081768",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -48,13 +48,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "5495364",
+            "sku": "",
             "price": 1099.0,
             "savings": 50.0,
             "discount_percent": 4.549590536851683,
             "priority_score": 324.6683426105292,
             "reviews": 269,
-            "image_url": "images/5495364.jpg"
+            "image_url": "images/.jpg"
         }
     ]
 }

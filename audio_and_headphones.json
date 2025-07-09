@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-07-09T01:24:23.069008",
+    "last_updated": "2025-07-09T07:26:33.081768",
     "deals": [
+        {
+            "category": "Audio & Headphones",
+            "title": "Yamaha - RX - V6A 7.2 - channel AV Receiver with 8K HDMI and MusicCast - Black",
+            "sku": "6422266",
+            "price": 799.95,
+            "savings": 200.0,
+            "discount_percent": 25.001562597662353,
+            "priority_score": 753.4965967982816,
+            "reviews": 563,
+            "image_url": "images/6422266.jpg"
+        },
         {
             "category": "Audio & Headphones",
             "title": "JBL - Tour Pro 3 True Wireless Noise Cancelling Earbuds - Black",
