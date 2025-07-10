@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-09T13:22:51.914247",
+    "last_updated": "2025-07-09T19:55:06.741613",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -14,24 +14,13 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "Philips - Hue 75\" Play Gradient Lightstrip - White and Color Ambiance",
-            "sku": "6427731",
-            "price": 329.99,
-            "savings": 76.0,
-            "discount_percent": 23.031000939422405,
-            "priority_score": 520.0310959511547,
-            "reviews": 1108,
-            "image_url": "images/6427731.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
             "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
             "sku": "6559342",
             "price": 374.99,
             "savings": 60.0,
             "discount_percent": 16.000426678044747,
-            "priority_score": 482.2957904110722,
-            "reviews": 2506,
+            "priority_score": 482.3101742102747,
+            "reviews": 2507,
             "image_url": "images/6559342.jpg"
         },
         {
