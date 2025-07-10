@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-09T19:55:06.741613",
+    "last_updated": "2025-07-10T01:24:14.359651",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -26,13 +26,13 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Nighthawk AX3000 Dual - Band Mesh Wi - Fi System (3 - pack) - Black",
-            "sku": "6577902",
+            "sku": "",
             "price": 199.99,
             "savings": 72.0,
             "discount_percent": 36.0018000900045,
             "priority_score": 477.2410758736467,
             "reviews": 69,
-            "image_url": "images/6577902.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -48,13 +48,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "",
+            "sku": "5495364",
             "price": 1099.0,
             "savings": 50.0,
             "discount_percent": 4.549590536851683,
             "priority_score": 324.8016787181052,
             "reviews": 270,
-            "image_url": "images/.jpg"
+            "image_url": "images/5495364.jpg"
         }
     ]
 }

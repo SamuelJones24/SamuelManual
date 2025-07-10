@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-07-09T19:55:06.741613",
+    "last_updated": "2025-07-10T01:24:14.359651",
     "deals": [
-        {
-            "category": "Appliances",
-            "title": "Samsung - Bespoke 29 Cu. Ft. 4 - Door Flex French Door Smart Refrigerator with AI Family Hub+ and AI Vision Inside - Stainless Steel",
-            "sku": "6571681",
-            "price": 3299.99,
-            "savings": 200.0,
-            "discount_percent": 6.060624426134625,
-            "priority_score": 618.5876586435809,
-            "reviews": 184,
-            "image_url": "images/6571681.jpg"
-        },
         {
             "category": "Appliances",
             "title": "Keurig - K - Iced Single Serve K - Cup Pod Coffee Maker - Gray",
@@ -22,6 +11,17 @@
             "priority_score": 514.0044548378451,
             "reviews": 466,
             "image_url": "images/6534142.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Samsung - 1.7 Cu. Ft. Over - the - Range Microwave - Stainless Steel",
+            "sku": "6396300",
+            "price": 279.99,
+            "savings": 50.0,
+            "discount_percent": 17.857780635022678,
+            "priority_score": 463.1074343547756,
+            "reviews": 1981,
+            "image_url": "images/6396300.jpg"
         },
         {
             "category": "Appliances",
