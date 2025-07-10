@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-07-10T07:28:10.464944",
+    "last_updated": "2025-07-10T13:22:07.597376",
     "deals": [
+        {
+            "category": "Computers and Tablets",
+            "title": "Crucial - Pro 64GB Kit (2x32GB) DDR4 3200MHz C22 UDIMM Desktop Memory Kit - Black",
+            "sku": "6543930",
+            "price": 291.99,
+            "savings": 166.0,
+            "discount_percent": 56.85126202952156,
+            "priority_score": 808.7673031011351,
+            "reviews": 207,
+            "image_url": "images/6543930.jpg"
+        },
         {
             "category": "Computers and Tablets",
             "title": "Samsung - T7 Shield 2TB External USB 3.2 Gen 2 Rugged SSD IP65 Water Resistant - Black",
@@ -37,13 +48,24 @@
         {
             "category": "Computers and Tablets",
             "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Dune",
-            "sku": "6583060",
+            "sku": "",
             "price": 279.99,
             "savings": 60.0,
             "discount_percent": 21.429336762027216,
             "priority_score": 421.01887136422283,
             "reviews": 215,
-            "image_url": "images/6583060.jpg"
+            "image_url": "images/.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "ARRIS - SURFboard G20 DOCSIS 3.1 Cable Modem & Wi - Fi 6 Router Combo - Black",
+            "sku": "6589630",
+            "price": 249.0,
+            "savings": 54.0,
+            "discount_percent": 21.686746987951807,
+            "priority_score": 329.5227838411844,
+            "reviews": 22,
+            "image_url": "images/6589630.jpg"
         },
         {
             "category": "Computers and Tablets",

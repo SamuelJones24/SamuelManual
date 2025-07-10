@@ -1,16 +1,16 @@
 {
-    "last_updated": "2025-07-07T07:27:08.951263",
+    "last_updated": "2025-07-10T13:22:07.597376",
     "deals": [
         {
             "category": "Video Games",
-            "title": "RDS Industries - Game Traveler Deluxe Zelda Tears of the Kingdom Travel Case for Nintendo Switch - Multi",
-            "sku": "6537255",
-            "price": 19.99,
-            "savings": 9.0,
-            "discount_percent": 45.02251125562782,
-            "priority_score": 332.06431718634315,
-            "reviews": 142,
-            "image_url": "images/6537255.jpg"
+            "title": "Infinity Game Board - Other",
+            "sku": "6538280",
+            "price": 499.99,
+            "savings": 100.0,
+            "discount_percent": 20.00040000800016,
+            "priority_score": 483.94080015545285,
+            "reviews": 163,
+            "image_url": "images/6538280.jpg"
         }
     ]
 }

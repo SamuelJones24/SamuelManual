@@ -1,27 +1,16 @@
 {
-    "last_updated": "2025-07-10T07:28:10.464944",
+    "last_updated": "2025-07-10T13:22:07.597376",
     "deals": [
         {
             "category": "Audio & Headphones",
-            "title": "Yamaha - RX - V6A 7.2 - channel AV Receiver with 8K HDMI and MusicCast - Black",
-            "sku": "6422266",
-            "price": 799.95,
-            "savings": 200.0,
-            "discount_percent": 25.001562597662353,
-            "priority_score": 753.4965967982816,
-            "reviews": 563,
-            "image_url": "images/6422266.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "Yamaha - RX - V4A 5.2 - channel AV Receiver with 8K HDMI and MusicCast - Black",
-            "sku": "6422262",
-            "price": 549.95,
-            "savings": 50.0,
-            "discount_percent": 9.091735612328392,
-            "priority_score": 362.00313050594167,
-            "reviews": 404,
-            "image_url": "images/6422262.jpg"
+            "title": "JBL - Tour One M2 True Adaptive Noise Cancelling Headphones - Black",
+            "sku": "6582670",
+            "price": 329.95,
+            "savings": 172.0,
+            "discount_percent": 52.12911047128353,
+            "priority_score": 720.7419571007858,
+            "reviews": 24,
+            "image_url": "images/6582670.jpg"
         }
     ]
 }

@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-07-10T07:28:10.464944",
+    "last_updated": "2025-07-10T13:22:07.597376",
     "deals": [
+        {
+            "category": "Appliances",
+            "title": "Levoit - PlasmaPro 400s Smart Air Purifier - White",
+            "sku": "6470678",
+            "price": 289.99,
+            "savings": 107.0,
+            "discount_percent": 36.89782406289872,
+            "priority_score": 637.0165356982317,
+            "reviews": 744,
+            "image_url": "images/6470678.jpg"
+        },
         {
             "category": "Appliances",
             "title": "Keurig - K - Iced Single Serve K - Cup Pod Coffee Maker - Gray",
@@ -11,17 +22,6 @@
             "priority_score": 514.0044548378451,
             "reviews": 466,
             "image_url": "images/6534142.jpg"
-        },
-        {
-            "category": "Appliances",
-            "title": "Samsung - 1.7 Cu. Ft. Over - the - Range Microwave - Stainless Steel",
-            "sku": "6396300",
-            "price": 279.99,
-            "savings": 50.0,
-            "discount_percent": 17.857780635022678,
-            "priority_score": 463.1074343547756,
-            "reviews": 1981,
-            "image_url": "images/6396300.jpg"
         },
         {
             "category": "Appliances",

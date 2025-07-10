@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-10T07:28:10.464944",
+    "last_updated": "2025-07-10T13:22:07.597376",
     "deals": [
         {
             "category": "Cell Phones",
@@ -11,17 +11,6 @@
             "priority_score": 454.1433799103245,
             "reviews": 129,
             "image_url": "images/6553396.jpg"
-        },
-        {
-            "category": "Cell Phones",
-            "title": "Samsung - Galaxy S24 FE 128GB (Unlocked) - Graphite",
-            "sku": "6599405",
-            "price": 649.99,
-            "savings": 49.0,
-            "discount_percent": 7.538577516577178,
-            "priority_score": 324.4861852760342,
-            "reviews": 284,
-            "image_url": "images/6599405.jpg"
         }
     ]
 }
