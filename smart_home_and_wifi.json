@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-10T01:24:14.359651",
+    "last_updated": "2025-07-10T07:28:10.464944",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -33,17 +33,6 @@
             "priority_score": 482.3101742102747,
             "reviews": 2507,
             "image_url": "images/6559342.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Nighthawk AX3000 Dual - Band Mesh Wi - Fi System (3 - pack) - Black",
-            "sku": "6577902",
-            "price": 199.99,
-            "savings": 72.0,
-            "discount_percent": 36.0018000900045,
-            "priority_score": 477.2410758736467,
-            "reviews": 69,
-            "image_url": "images/6577902.jpg"
         },
         {
             "category": "Smart Home and Wifi",
