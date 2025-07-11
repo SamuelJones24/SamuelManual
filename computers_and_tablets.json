@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-11T07:26:46.250400",
+    "last_updated": "2025-07-11T13:22:52.232688",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -19,8 +19,8 @@
             "price": 229.99,
             "savings": 70.0,
             "discount_percent": 30.436105917648593,
-            "priority_score": 549.4310007615584,
-            "reviews": 1251,
+            "priority_score": 549.5173208091962,
+            "reviews": 1254,
             "image_url": "images/6501714.jpg"
         },
         {
@@ -37,13 +37,13 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Nighthawk AX3000 Dual - Band Mesh Wi - Fi System (3 - pack) - Black",
-            "sku": "",
+            "sku": "6577902",
             "price": 199.99,
             "savings": 72.0,
             "discount_percent": 36.0018000900045,
             "priority_score": 477.2410758736467,
             "reviews": 69,
-            "image_url": "images/.jpg"
+            "image_url": "images/6577902.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -63,8 +63,8 @@
             "price": 1399.0,
             "savings": 50.0,
             "discount_percent": 3.5739814152966405,
-            "priority_score": 347.4917906491903,
-            "reviews": 581,
+            "priority_score": 347.61552104848363,
+            "reviews": 583,
             "image_url": "images/6533542.jpg"
         },
         {
@@ -85,8 +85,8 @@
             "price": 1099.0,
             "savings": 50.0,
             "discount_percent": 4.549590536851683,
-            "priority_score": 324.8016787181052,
-            "reviews": 270,
+            "priority_score": 324.9345237155169,
+            "reviews": 271,
             "image_url": "images/5495364.jpg"
         }
     ]

@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-11T07:26:46.250400",
+    "last_updated": "2025-07-11T13:22:52.232688",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -14,14 +14,14 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Yamaha - RX - V4A 5.2 - channel AV Receiver with 8K HDMI and MusicCast - Black",
-            "sku": "6422262",
-            "price": 549.95,
-            "savings": 50.0,
-            "discount_percent": 9.091735612328392,
-            "priority_score": 362.00313050594167,
-            "reviews": 404,
-            "image_url": "images/6422262.jpg"
+            "title": "Denon - AVR - S670H (75W X 5) 5.2 - Ch. with HEOS 8K Ultra HD and HDR Compatible AV Home Theater Receiver with Alexa - Black",
+            "sku": "6551304",
+            "price": 599.0,
+            "savings": 104.0,
+            "discount_percent": 17.362270450751254,
+            "priority_score": 459.05774246203,
+            "reviews": 94,
+            "image_url": "images/6551304.jpg"
         }
     ]
 }
