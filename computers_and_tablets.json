@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-10T13:22:07.597376",
+    "last_updated": "2025-07-10T19:55:39.815516",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -48,12 +48,23 @@
         {
             "category": "Computers and Tablets",
             "title": "Microsoft - Surface Slim Pen (2nd Edition) and Pro Keyboard for Pro (11th Edition), Pro 9, and Pro 8 - Dune",
-            "sku": "",
+            "sku": "6583060",
             "price": 279.99,
             "savings": 60.0,
             "discount_percent": 21.429336762027216,
             "priority_score": 421.01887136422283,
             "reviews": 215,
+            "image_url": "images/6583060.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
+            "sku": "",
+            "price": 1399.0,
+            "savings": 50.0,
+            "discount_percent": 3.5739814152966405,
+            "priority_score": 347.4917906491903,
+            "reviews": 581,
             "image_url": "images/.jpg"
         },
         {

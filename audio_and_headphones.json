@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-10T13:22:07.597376",
+    "last_updated": "2025-07-10T19:55:39.815516",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -11,6 +11,17 @@
             "priority_score": 720.7419571007858,
             "reviews": 24,
             "image_url": "images/6582670.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Yamaha - RX - V4A 5.2 - channel AV Receiver with 8K HDMI and MusicCast - Black",
+            "sku": "6422262",
+            "price": 549.95,
+            "savings": 50.0,
+            "discount_percent": 9.091735612328392,
+            "priority_score": 362.00313050594167,
+            "reviews": 404,
+            "image_url": "images/6422262.jpg"
         }
     ]
 }

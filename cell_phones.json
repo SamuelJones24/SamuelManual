@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-07-10T13:22:07.597376",
+    "last_updated": "2025-07-10T19:55:39.815516",
     "deals": [
+        {
+            "category": "Cell Phones",
+            "title": "Samsung - Galaxy S25+ 256GB (Unlocked) - Navy",
+            "sku": "6612718",
+            "price": 999.99,
+            "savings": 300.0,
+            "discount_percent": 30.00030000300003,
+            "priority_score": 924.4334981024981,
+            "reviews": 125,
+            "image_url": "images/6612718.jpg"
+        },
         {
             "category": "Cell Phones",
             "title": "Anker - Power Bank (20000mAh, 200W, 3 - Port) - Black",
