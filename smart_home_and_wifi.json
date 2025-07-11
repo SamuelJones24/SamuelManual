@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-10T19:55:39.815516",
+    "last_updated": "2025-07-11T01:24:26.041189",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -14,6 +14,17 @@
         },
         {
             "category": "Smart Home and Wifi",
+            "title": "Philips - Hue 75\" Play Gradient Lightstrip - White and Color Ambiance",
+            "sku": "6427731",
+            "price": 329.99,
+            "savings": 77.0,
+            "discount_percent": 23.334040425467435,
+            "priority_score": 523.5462933813799,
+            "reviews": 1108,
+            "image_url": "images/6427731.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
             "title": "Google - Nest Cam 3 Pack Indoor/Outdoor Wire Free Security Cameras - Snow",
             "sku": "6559342",
             "price": 374.99,
@@ -22,6 +33,17 @@
             "priority_score": 482.3101742102747,
             "reviews": 2507,
             "image_url": "images/6559342.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Nighthawk AX3000 Dual - Band Mesh Wi - Fi System (3 - pack) - Black",
+            "sku": "6577902",
+            "price": 199.99,
+            "savings": 72.0,
+            "discount_percent": 36.0018000900045,
+            "priority_score": 477.2410758736467,
+            "reviews": 69,
+            "image_url": "images/6577902.jpg"
         },
         {
             "category": "Smart Home and Wifi",
