@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-12T01:22:24.368070",
+    "last_updated": "2025-07-12T07:25:53.967005",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -19,8 +19,8 @@
             "price": 229.99,
             "savings": 70.0,
             "discount_percent": 30.436105917648593,
-            "priority_score": 549.6034347602251,
-            "reviews": 1257,
+            "priority_score": 549.6320937812184,
+            "reviews": 1258,
             "image_url": "images/6501714.jpg"
         },
         {
@@ -37,13 +37,13 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Nighthawk AX3000 Dual - Band Mesh Wi - Fi System (3 - pack) - Black",
-            "sku": "",
+            "sku": "6577902",
             "price": 199.99,
             "savings": 72.0,
             "discount_percent": 36.0018000900045,
             "priority_score": 477.2410758736467,
             "reviews": 69,
-            "image_url": "images/.jpg"
+            "image_url": "images/6577902.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -81,13 +81,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "5495364",
+            "sku": "",
             "price": 1099.0,
             "savings": 50.0,
             "discount_percent": 4.549590536851683,
             "priority_score": 325.0668812072547,
             "reviews": 272,
-            "image_url": "images/5495364.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -110,28 +110,6 @@
             "priority_score": 299.61879684513406,
             "reviews": 156,
             "image_url": "images/6533675.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6583240",
-            "price": 899.99,
-            "savings": 50.0,
-            "discount_percent": 5.5556172846364955,
-            "priority_score": 291.25705670088325,
-            "reviews": 92,
-            "image_url": "images/6583240.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6612971",
-            "price": 1299.99,
-            "savings": 50.0,
-            "discount_percent": 3.8461834321802475,
-            "priority_score": 198.47904219695903,
-            "reviews": 8,
-            "image_url": "images/6612971.jpg"
         }
     ]
 }

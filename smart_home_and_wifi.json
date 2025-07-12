@@ -1,17 +1,6 @@
 {
-    "last_updated": "2025-07-12T01:22:24.368070",
+    "last_updated": "2025-07-12T07:25:53.967005",
     "deals": [
-        {
-            "category": "Smart Home and Wifi",
-            "title": "Philips - Hue Ambiance Gradient Bluetooth Lightstrip 80 - inch Base Kit - Multi",
-            "sku": "6478171",
-            "price": 197.99,
-            "savings": 79.0,
-            "discount_percent": 39.90100510126774,
-            "priority_score": 525.016018459866,
-            "reviews": 103,
-            "image_url": "images/6478171.jpg"
-        },
         {
             "category": "Smart Home and Wifi",
             "title": "Philips - Hue 75\" Play Gradient Lightstrip - White and Color Ambiance",
@@ -19,8 +8,8 @@
             "price": 329.99,
             "savings": 77.0,
             "discount_percent": 23.334040425467435,
-            "priority_score": 523.5462933813799,
-            "reviews": 1108,
+            "priority_score": 523.5788011582739,
+            "reviews": 1109,
             "image_url": "images/6427731.jpg"
         },
         {
@@ -36,17 +25,6 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "NETGEAR - Nighthawk AX3000 Dual - Band Mesh Wi - Fi System (3 - pack) - Black",
-            "sku": "6577902",
-            "price": 199.99,
-            "savings": 72.0,
-            "discount_percent": 36.0018000900045,
-            "priority_score": 477.2410758736467,
-            "reviews": 69,
-            "image_url": "images/6577902.jpg"
-        },
-        {
-            "category": "Smart Home and Wifi",
             "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
             "sku": "6567807",
             "price": 319.99,
@@ -55,6 +33,28 @@
             "priority_score": 401.0990224144112,
             "reviews": 483,
             "image_url": "images/6567807.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6583240",
+            "price": 899.99,
+            "savings": 50.0,
+            "discount_percent": 5.5556172846364955,
+            "priority_score": 291.64280771512347,
+            "reviews": 93,
+            "image_url": "images/6583240.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6612971",
+            "price": 1299.99,
+            "savings": 50.0,
+            "discount_percent": 3.8461834321802475,
+            "priority_score": 198.47904219695903,
+            "reviews": 8,
+            "image_url": "images/6612971.jpg"
         }
     ]
 }
