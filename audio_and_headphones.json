@@ -1,28 +1,6 @@
 {
-    "last_updated": "2025-07-12T07:25:53.967005",
+    "last_updated": "2025-07-12T13:21:22.257881",
     "deals": [
-        {
-            "category": "Audio & Headphones",
-            "title": "Denon - AVR - S970H 90W 7 Ch Bluetooth Capable HDR Compatible with HEOS and Dolby Atmos 8K Ultra HD AV Home Theater Receiver - Black",
-            "sku": "6519391",
-            "price": 899.0,
-            "savings": 304.0,
-            "discount_percent": 33.815350389321466,
-            "priority_score": 988.3570297424155,
-            "reviews": 349,
-            "image_url": "images/6519391.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
-            "title": "JBL - Tour One M2 True Adaptive Noise Cancelling Headphones - Black",
-            "sku": "6582670",
-            "price": 329.95,
-            "savings": 172.0,
-            "discount_percent": 52.12911047128353,
-            "priority_score": 720.7419571007858,
-            "reviews": 24,
-            "image_url": "images/6582670.jpg"
-        },
         {
             "category": "Audio & Headphones",
             "title": "Shokz - OpenRun Bone Conduction Open - Ear Endurance Headphones - Black",
@@ -47,6 +25,17 @@
         },
         {
             "category": "Audio & Headphones",
+            "title": "JBL - Tune 770NC Adaptive Noise Cancelling Wireless Over - Ear Headphone - Black",
+            "sku": "6572446",
+            "price": 149.95,
+            "savings": 50.0,
+            "discount_percent": 33.34444814938313,
+            "priority_score": 469.04116926991196,
+            "reviews": 272,
+            "image_url": "images/6572446.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
             "title": "Denon - AVR - S670H (75W X 5) 5.2 - Ch. with HEOS 8K Ultra HD and HDR Compatible AV Home Theater Receiver with Alexa - Black",
             "sku": "6551304",
             "price": 599.0,
@@ -55,6 +44,17 @@
             "priority_score": 459.43541477178513,
             "reviews": 95,
             "image_url": "images/6551304.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Yamaha - RX - V4A 5.2 - channel AV Receiver with 8K HDMI and MusicCast - Black",
+            "sku": "6422262",
+            "price": 549.95,
+            "savings": 50.0,
+            "discount_percent": 9.091735612328392,
+            "priority_score": 362.00313050594167,
+            "reviews": 404,
+            "image_url": "images/6422262.jpg"
         }
     ]
 }

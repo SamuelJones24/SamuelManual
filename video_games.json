@@ -1,14 +1,14 @@
 {
-    "last_updated": "2025-07-12T07:25:53.967005",
+    "last_updated": "2025-07-12T13:21:22.257881",
     "deals": [
         {
             "category": "Video Games",
             "title": "Infinity Game Board - Other",
             "sku": "6538280",
             "price": 499.99,
-            "savings": 100.0,
-            "discount_percent": 20.00040000800016,
-            "priority_score": 483.94080015545285,
+            "savings": 115.0,
+            "discount_percent": 23.000460009200182,
+            "priority_score": 528.941100161453,
             "reviews": 163,
             "image_url": "images/6538280.jpg"
         },

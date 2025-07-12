@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-12T07:25:53.967005",
+    "last_updated": "2025-07-12T13:21:22.257881",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -14,13 +14,24 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "SwissGear - Commander USB ScanSmart Laptop Backpack - Black",
+            "sku": "6557009",
+            "price": 139.99,
+            "savings": 68.0,
+            "discount_percent": 48.57489820701478,
+            "priority_score": 596.558469337096,
+            "reviews": 417,
+            "image_url": "images/6557009.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "Samsung - T7 Shield 2TB External USB 3.2 Gen 2 Rugged SSD IP65 Water Resistant - Black",
             "sku": "6501714",
             "price": 229.99,
             "savings": 70.0,
             "discount_percent": 30.436105917648593,
-            "priority_score": 549.6320937812184,
-            "reviews": 1258,
+            "priority_score": 549.660730047925,
+            "reviews": 1259,
             "image_url": "images/6501714.jpg"
         },
         {
@@ -69,6 +80,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "Brother - MFC - L3780CDW Wireless Digital Color All - in - One Printer with Laser Quality Output and Refresh Subscription Eligibility - White",
+            "sku": "6560840",
+            "price": 569.99,
+            "savings": 70.0,
+            "discount_percent": 12.280917209073843,
+            "priority_score": 374.96744867885025,
+            "reviews": 122,
+            "image_url": "images/6560840.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "ARRIS - SURFboard G20 DOCSIS 3.1 Cable Modem & Wi - Fi 6 Router Combo - Black",
             "sku": "6589630",
             "price": 249.0,
@@ -81,13 +103,13 @@
         {
             "category": "Computers and Tablets",
             "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "",
+            "sku": "5495364",
             "price": 1099.0,
             "savings": 50.0,
             "discount_percent": 4.549590536851683,
             "priority_score": 325.0668812072547,
             "reviews": 272,
-            "image_url": "images/.jpg"
+            "image_url": "images/5495364.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -96,8 +118,8 @@
             "price": 1999.99,
             "savings": 50.0,
             "discount_percent": 2.5000125000625,
-            "priority_score": 306.86973899034183,
-            "reviews": 218,
+            "priority_score": 307.03405533842897,
+            "reviews": 219,
             "image_url": "images/6553330.jpg"
         },
         {
@@ -110,6 +132,28 @@
             "priority_score": 299.61879684513406,
             "reviews": 156,
             "image_url": "images/6533675.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6583240",
+            "price": 899.99,
+            "savings": 50.0,
+            "discount_percent": 5.5556172846364955,
+            "priority_score": 291.64280771512347,
+            "reviews": 93,
+            "image_url": "images/6583240.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6612971",
+            "price": 1299.99,
+            "savings": 50.0,
+            "discount_percent": 3.8461834321802475,
+            "priority_score": 198.47904219695903,
+            "reviews": 8,
+            "image_url": "images/6612971.jpg"
         }
     ]
 }
