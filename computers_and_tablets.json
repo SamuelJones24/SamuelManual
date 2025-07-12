@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-11T19:55:23.900471",
+    "last_updated": "2025-07-12T01:22:24.368070",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -8,8 +8,8 @@
             "price": 291.99,
             "savings": 166.0,
             "discount_percent": 56.85126202952156,
-            "priority_score": 808.9402884496299,
-            "reviews": 208,
+            "priority_score": 809.1124480892609,
+            "reviews": 209,
             "image_url": "images/6543930.jpg"
         },
         {
@@ -58,6 +58,17 @@
         },
         {
             "category": "Computers and Tablets",
+            "title": "NETGEAR - Nighthawk AX6000 Wi - Fi 6 Router with DOCIS 3.1 Cable Modem - Black",
+            "sku": "6398057",
+            "price": 499.99,
+            "savings": 50.0,
+            "discount_percent": 10.00020000400008,
+            "priority_score": 409.7014321536288,
+            "reviews": 1339,
+            "image_url": "images/6398057.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
             "title": "ARRIS - SURFboard G20 DOCSIS 3.1 Cable Modem & Wi - Fi 6 Router Combo - Black",
             "sku": "6589630",
             "price": 249.0,
@@ -77,6 +88,50 @@
             "priority_score": 325.0668812072547,
             "reviews": 272,
             "image_url": "images/5495364.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6553330",
+            "price": 1999.99,
+            "savings": 50.0,
+            "discount_percent": 2.5000125000625,
+            "priority_score": 306.86973899034183,
+            "reviews": 218,
+            "image_url": "images/6553330.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "Apple - 13 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi + Cellular 256GB with OLED - Space Black (Unlocked)",
+            "sku": "6533675",
+            "price": 1449.0,
+            "savings": 50.0,
+            "discount_percent": 3.450655624568668,
+            "priority_score": 299.61879684513406,
+            "reviews": 156,
+            "image_url": "images/6533675.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6583240",
+            "price": 899.99,
+            "savings": 50.0,
+            "discount_percent": 5.5556172846364955,
+            "priority_score": 291.25705670088325,
+            "reviews": 92,
+            "image_url": "images/6583240.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6612971",
+            "price": 1299.99,
+            "savings": 50.0,
+            "discount_percent": 3.8461834321802475,
+            "priority_score": 198.47904219695903,
+            "reviews": 8,
+            "image_url": "images/6612971.jpg"
         }
     ]
 }
