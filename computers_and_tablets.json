@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-12T13:21:22.257881",
+    "last_updated": "2025-07-12T20:02:05.506468",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -19,20 +19,9 @@
             "price": 139.99,
             "savings": 68.0,
             "discount_percent": 48.57489820701478,
-            "priority_score": 596.558469337096,
-            "reviews": 417,
+            "priority_score": 596.6446518775576,
+            "reviews": 418,
             "image_url": "images/6557009.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Samsung - T7 Shield 2TB External USB 3.2 Gen 2 Rugged SSD IP65 Water Resistant - Black",
-            "sku": "6501714",
-            "price": 229.99,
-            "savings": 70.0,
-            "discount_percent": 30.436105917648593,
-            "priority_score": 549.660730047925,
-            "reviews": 1259,
-            "image_url": "images/6501714.jpg"
         },
         {
             "category": "Computers and Tablets",

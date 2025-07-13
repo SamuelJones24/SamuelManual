@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-12T13:21:22.257881",
+    "last_updated": "2025-07-12T20:02:05.506468",
     "deals": [
         {
             "category": "Cell Phones",
@@ -8,8 +8,8 @@
             "price": 999.99,
             "savings": 300.0,
             "discount_percent": 30.00030000300003,
-            "priority_score": 925.5606953407115,
-            "reviews": 129,
+            "priority_score": 926.1113529989615,
+            "reviews": 131,
             "image_url": "images/6612718.jpg"
         }
     ]
