@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-12T20:02:05.506468",
+    "last_updated": "2025-07-13T01:23:53.509682",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -25,14 +25,14 @@
         },
         {
             "category": "Computers and Tablets",
-            "title": "Microsoft - Surface Thunderbolt 4 Dock - Black",
-            "sku": "6537888",
-            "price": 299.99,
-            "savings": 100.0,
-            "discount_percent": 33.33444448148272,
-            "priority_score": 535.8768305268368,
-            "reviews": 108,
-            "image_url": "images/6537888.jpg"
+            "title": "Samsung - T7 Shield 2TB External USB 3.2 Gen 2 Rugged SSD IP65 Water Resistant - Black",
+            "sku": "6501714",
+            "price": 229.99,
+            "savings": 70.0,
+            "discount_percent": 30.436105917648593,
+            "priority_score": 549.660730047925,
+            "reviews": 1259,
+            "image_url": "images/6501714.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -103,13 +103,13 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 970 Series BE27000 Quad - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6553330",
+            "sku": "",
             "price": 1999.99,
             "savings": 50.0,
             "discount_percent": 2.5000125000625,
             "priority_score": 307.03405533842897,
             "reviews": 219,
-            "image_url": "images/6553330.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
