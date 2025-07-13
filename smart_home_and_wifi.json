@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-13T07:25:00.321064",
+    "last_updated": "2025-07-13T13:23:03.646858",
     "deals": [
         {
             "category": "Smart Home and Wifi",
@@ -14,14 +14,14 @@
         },
         {
             "category": "Smart Home and Wifi",
-            "title": "Philips - Hue 75\" Play Gradient Lightstrip - White and Color Ambiance",
-            "sku": "6427731",
-            "price": 329.99,
-            "savings": 77.0,
-            "discount_percent": 23.334040425467435,
-            "priority_score": 523.5788011582739,
-            "reviews": 1109,
-            "image_url": "images/6427731.jpg"
+            "title": "Philips - Hue Ambiance Gradient Bluetooth Lightstrip 80 - inch Base Kit - Multi",
+            "sku": "6478171",
+            "price": 197.99,
+            "savings": 79.0,
+            "discount_percent": 39.90100510126774,
+            "priority_score": 525.016018459866,
+            "reviews": 103,
+            "image_url": "images/6478171.jpg"
         },
         {
             "category": "Smart Home and Wifi",
@@ -36,13 +36,24 @@
         },
         {
             "category": "Smart Home and Wifi",
+            "title": "Philips - Hue 75\" Play Gradient Lightstrip - White and Color Ambiance",
+            "sku": "6427731",
+            "price": 329.99,
+            "savings": 65.0,
+            "discount_percent": 19.697566592927057,
+            "priority_score": 481.396431995572,
+            "reviews": 1109,
+            "image_url": "images/6427731.jpg"
+        },
+        {
+            "category": "Smart Home and Wifi",
             "title": "Skylight - Calendar: 15 Inch Touchscreen Smart Calendar and Chore Chart - White",
             "sku": "6567807",
             "price": 319.99,
             "savings": 50.0,
             "discount_percent": 15.625488296509266,
-            "priority_score": 401.24775407269084,
-            "reviews": 485,
+            "priority_score": 401.32189053460485,
+            "reviews": 486,
             "image_url": "images/6567807.jpg"
         }
     ]

@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-13T07:25:00.321064",
+    "last_updated": "2025-07-13T13:23:03.646858",
     "deals": [
         {
             "category": "Cell Phones",
@@ -11,6 +11,39 @@
             "priority_score": 926.3835609025299,
             "reviews": 132,
             "image_url": "images/6612718.jpg"
+        },
+        {
+            "category": "Cell Phones",
+            "title": "Speck - ClickLock Wallet for Apple iPhones with MagSafe - Black",
+            "sku": "6550529",
+            "price": 29.99,
+            "savings": 15.0,
+            "discount_percent": 50.016672224074696,
+            "priority_score": 384.42315873474104,
+            "reviews": 288,
+            "image_url": "images/6550529.jpg"
+        },
+        {
+            "category": "Cell Phones",
+            "title": "Anker - Powerport III Nano Pro Duo 40W Fast Wall Charger (2x 20W USB - C) for iPhone 15 and Samsung - White",
+            "sku": "6482800",
+            "price": 24.99,
+            "savings": 10.0,
+            "discount_percent": 40.016006402561025,
+            "priority_score": 370.16229781391314,
+            "reviews": 589,
+            "image_url": "images/6482800.jpg"
+        },
+        {
+            "category": "Cell Phones",
+            "title": "Samsung - Galaxy S25 Ultra Clear Case - Transparent",
+            "sku": "6608581",
+            "price": 24.99,
+            "savings": 15.0,
+            "discount_percent": 60.02400960384154,
+            "priority_score": 351.882662360812,
+            "reviews": 50,
+            "image_url": "images/6608581.jpg"
         }
     ]
 }

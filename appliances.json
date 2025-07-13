@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-13T07:25:00.321064",
+    "last_updated": "2025-07-13T13:23:03.646858",
     "deals": [
         {
             "category": "Appliances",
@@ -55,6 +55,17 @@
             "priority_score": 395.606076204532,
             "reviews": 640,
             "image_url": "images/6514613.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Blueair - Blue Pure 211i Max 3000 Sq. Ft HEPASilent Smart Extra - Large Room Air Purifier - White/Gray",
+            "sku": "6532153",
+            "price": 349.99,
+            "savings": 50.0,
+            "discount_percent": 14.286122460641732,
+            "priority_score": 392.8023218847145,
+            "reviews": 462,
+            "image_url": "images/6532153.jpg"
         }
     ]
 }

@@ -1,6 +1,50 @@
 {
-    "last_updated": "2025-07-13T07:25:00.321064",
+    "last_updated": "2025-07-13T13:23:03.646858",
     "deals": [
+        {
+            "category": "Audio & Headphones",
+            "title": "Bose - Bass Module 700 Wireless Subwoofer - Black",
+            "sku": "6280563",
+            "price": 899.99,
+            "savings": 250.0,
+            "discount_percent": 27.77808642318248,
+            "priority_score": 938.7846108878575,
+            "reviews": 4083,
+            "image_url": "images/6280563.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Denon - AVR - S970H 90W 7 Ch Bluetooth Capable HDR Compatible with HEOS and Dolby Atmos 8K Ultra HD AV Home Theater Receiver - Black",
+            "sku": "6519391",
+            "price": 899.0,
+            "savings": 260.0,
+            "discount_percent": 28.9210233592881,
+            "priority_score": 875.8853945922488,
+            "reviews": 349,
+            "image_url": "images/6519391.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "JBL - Authentics 300 Smart Home Speaker - Black",
+            "sku": "6554783",
+            "price": 499.95,
+            "savings": 215.0,
+            "discount_percent": 43.00430043004301,
+            "priority_score": 830.2562755536576,
+            "reviews": 169,
+            "image_url": "images/6554783.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Yamaha - RX - V6A 7.2 - channel AV Receiver with 8K HDMI and MusicCast - Black",
+            "sku": "6422266",
+            "price": 799.95,
+            "savings": 200.0,
+            "discount_percent": 25.001562597662353,
+            "priority_score": 753.4965967982816,
+            "reviews": 563,
+            "image_url": "images/6422266.jpg"
+        },
         {
             "category": "Audio & Headphones",
             "title": "Shokz - OpenRun Bone Conduction Open - Ear Endurance Headphones - Black",
@@ -14,14 +58,36 @@
         },
         {
             "category": "Audio & Headphones",
+            "title": "Bose - SoundLink Max Portable Bluetooth Speaker - Black",
+            "sku": "6577664",
+            "price": 399.99,
+            "savings": 100.0,
+            "discount_percent": 25.00062501562539,
+            "priority_score": 554.125798245019,
+            "reviews": 573,
+            "image_url": "images/6577664.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
             "title": "Shokz - OpenRun Mini Bone Conduction Open - Ear Endurance Headphones - Black",
             "sku": "6492432",
             "price": 129.95,
             "savings": 50.0,
             "discount_percent": 38.47633705271258,
-            "priority_score": 552.1896208330319,
-            "reviews": 1343,
+            "priority_score": 552.2164466996626,
+            "reviews": 1344,
             "image_url": "images/6492432.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Bose - Ultra Open - Ear True Wireless Open Earbuds - White Smoke",
+            "sku": "6568950",
+            "price": 299.0,
+            "savings": 70.0,
+            "discount_percent": 23.411371237458194,
+            "priority_score": 509.4417817571049,
+            "reviews": 1093,
+            "image_url": "images/6568950.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -39,9 +105,9 @@
             "title": "Denon - AVR - S670H (75W X 5) 5.2 - Ch. with HEOS 8K Ultra HD and HDR Compatible AV Home Theater Receiver with Alexa - Black",
             "sku": "6551304",
             "price": 599.0,
-            "savings": 104.0,
-            "discount_percent": 17.362270450751254,
-            "priority_score": 459.43541477178513,
+            "savings": 105.0,
+            "discount_percent": 17.529215358931552,
+            "priority_score": 462.27013931268664,
             "reviews": 95,
             "image_url": "images/6551304.jpg"
         },
@@ -55,6 +121,17 @@
             "priority_score": 362.00313050594167,
             "reviews": 404,
             "image_url": "images/6422262.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Ultimate Ears - WONDERBOOM PLAY Portable Wireless Bluetooth Mini Speaker with Waterproof, Dustproof and Floatable design - Black",
+            "sku": "6585546",
+            "price": 89.99,
+            "savings": 40.0,
+            "discount_percent": 44.4493832648072,
+            "priority_score": 344.54633763051123,
+            "reviews": 37,
+            "image_url": "images/6585546.jpg"
         }
     ]
 }

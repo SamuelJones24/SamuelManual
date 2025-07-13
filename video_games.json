@@ -1,16 +1,16 @@
 {
-    "last_updated": "2025-07-13T07:25:00.321064",
+    "last_updated": "2025-07-13T13:23:03.646858",
     "deals": [
         {
             "category": "Video Games",
-            "title": "Infinity Game Board - Other",
-            "sku": "6538280",
-            "price": 499.99,
-            "savings": 115.0,
-            "discount_percent": 23.000460009200182,
-            "priority_score": 528.941100161453,
-            "reviews": 163,
-            "image_url": "images/6538280.jpg"
+            "title": "Quest 3S 256GB \u2014 Get Batman: Arkham Shadow and a 3 - Month Trial of Meta Horizon+ Included \u2014 All - In - One Headset - White",
+            "sku": "6596936",
+            "price": 399.99,
+            "savings": 70.0,
+            "discount_percent": 17.500437510937772,
+            "priority_score": 453.13067661165155,
+            "reviews": 520,
+            "image_url": "images/6596936.jpg"
         },
         {
             "category": "Video Games",
@@ -22,6 +22,17 @@
             "priority_score": 419.59783567042143,
             "reviews": 1068,
             "image_url": "images/6472018.jpg"
+        },
+        {
+            "category": "Video Games",
+            "title": "Quest 3S 128GB \u2014 Dive into Mixed Reality \u2014 Get a 3 - Month Trial of Meta Horizon+ Included - White",
+            "sku": "6622623",
+            "price": 299.0,
+            "savings": 49.0,
+            "discount_percent": 16.387959866220736,
+            "priority_score": 306.97181516813123,
+            "reviews": 83,
+            "image_url": "images/6622623.jpg"
         }
     ]
 }

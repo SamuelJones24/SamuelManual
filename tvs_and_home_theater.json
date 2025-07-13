@@ -1,14 +1,25 @@
 {
-    "last_updated": "2025-07-13T07:25:00.321064",
+    "last_updated": "2025-07-13T13:23:03.646858",
     "deals": [
+        {
+            "category": "TVs and Home Theater",
+            "title": "Sonos - Beam (Gen 2) 5.0 Channel Smart Soundbar with Dolby Atmos - Black",
+            "sku": "6476041",
+            "price": 499.0,
+            "savings": 115.0,
+            "discount_percent": 23.04609218436874,
+            "priority_score": 637.3272576374088,
+            "reviews": 3289,
+            "image_url": "images/6476041.jpg"
+        },
         {
             "category": "TVs and Home Theater",
             "title": "Panasonic - Streaming 4K Ultra HD Hi - Res Audio with Dolby Vision 7.1 Channel DVD/CD/3D Wi - Fi Built - In Blu - Ray Player, DP - UB820 - K - Black",
             "sku": "6278202",
             "price": 499.98,
-            "savings": 74.0,
-            "discount_percent": 14.800592023680947,
-            "priority_score": 491.802380640872,
+            "savings": 89.0,
+            "discount_percent": 17.80071202848114,
+            "priority_score": 536.802980664873,
             "reviews": 1772,
             "image_url": "images/6278202.jpg"
         }
