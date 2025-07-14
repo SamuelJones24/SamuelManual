@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-13T20:00:15.495914",
+    "last_updated": "2025-07-14T01:28:38.264301",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -47,17 +47,6 @@
         },
         {
             "category": "Audio & Headphones",
-            "title": "Sonos - Beam (Gen 2) 5.0 Channel Smart Soundbar with Dolby Atmos - Black",
-            "sku": "6476041",
-            "price": 499.0,
-            "savings": 115.0,
-            "discount_percent": 23.04609218436874,
-            "priority_score": 637.3272576374088,
-            "reviews": 3289,
-            "image_url": "images/6476041.jpg"
-        },
-        {
-            "category": "Audio & Headphones",
             "title": "Shokz - OpenRun Bone Conduction Open - Ear Endurance Headphones - Black",
             "sku": "6492431",
             "price": 129.95,
@@ -66,6 +55,17 @@
             "priority_score": 586.128420948484,
             "reviews": 3443,
             "image_url": "images/6492431.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Sony - WHCH720N Wireless Noise Canceling Headphones - Black",
+            "sku": "6533162",
+            "price": 179.99,
+            "savings": 60.0,
+            "discount_percent": 33.33518528807156,
+            "priority_score": 562.9391490786217,
+            "reviews": 2120,
+            "image_url": "images/6533162.jpg"
         },
         {
             "category": "Audio & Headphones",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-13T20:00:15.495914",
+    "last_updated": "2025-07-14T01:28:38.264301",
     "deals": [
         {
             "category": "Appliances",
@@ -44,6 +44,17 @@
             "priority_score": 462.7291179693575,
             "reviews": 126,
             "image_url": "images/6583865.jpg"
+        },
+        {
+            "category": "Appliances",
+            "title": "Google - Nest Learning Thermostat (4th gen) with Nest Temperature Sensor (2nd gen) - Polished Obsidian",
+            "sku": "6587626",
+            "price": 279.99,
+            "savings": 61.0,
+            "discount_percent": 21.78649237472767,
+            "priority_score": 437.24909768489454,
+            "reviews": 304,
+            "image_url": "images/6587626.jpg"
         },
         {
             "category": "Appliances",

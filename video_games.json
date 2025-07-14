@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-07-13T20:00:15.495914",
+    "last_updated": "2025-07-14T01:28:38.264301",
     "deals": [
+        {
+            "category": "Video Games",
+            "title": "Samsung - 990 PRO 2TB Internal SSD PCIe Gen 4x4 NVMe with Heatsink for PS5",
+            "sku": "6523590",
+            "price": 209.99,
+            "savings": 60.0,
+            "discount_percent": 28.572789180437162,
+            "priority_score": 502.9546045268406,
+            "reviews": 777,
+            "image_url": "images/6523590.jpg"
+        },
         {
             "category": "Video Games",
             "title": "Infinity Game Board - Other",
@@ -19,8 +30,8 @@
             "price": 399.99,
             "savings": 70.0,
             "discount_percent": 17.500437510937772,
-            "priority_score": 453.13067661165155,
-            "reviews": 520,
+            "priority_score": 453.199837468936,
+            "reviews": 521,
             "image_url": "images/6596936.jpg"
         },
         {
