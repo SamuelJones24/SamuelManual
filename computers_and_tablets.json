@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-13T13:23:03.646858",
+    "last_updated": "2025-07-13T20:00:15.495914",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -26,13 +26,13 @@
         {
             "category": "Computers and Tablets",
             "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6583240",
+            "sku": "",
             "price": 899.99,
             "savings": 200.0,
             "discount_percent": 22.222469138545982,
             "priority_score": 674.977066984671,
             "reviews": 93,
-            "image_url": "images/6583240.jpg"
+            "image_url": "images/.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -41,8 +41,8 @@
             "price": 229.99,
             "savings": 70.0,
             "discount_percent": 30.436105917648593,
-            "priority_score": 549.660730047925,
-            "reviews": 1259,
+            "priority_score": 549.6893435964485,
+            "reviews": 1260,
             "image_url": "images/6501714.jpg"
         },
         {
@@ -74,20 +74,20 @@
             "price": 249.99,
             "savings": 60.0,
             "discount_percent": 24.000960038401537,
-            "priority_score": 442.1913712232662,
-            "reviews": 271,
+            "priority_score": 442.323728715004,
+            "reviews": 272,
             "image_url": "images/6570417.jpg"
         },
         {
             "category": "Computers and Tablets",
-            "title": "Speck - Balance Folio Case for Apple iPad Air 11\"(latest M3/M2), iPad Pro 11\"(3rd/2nd/1st Gen) & iPad Air 10.9\"(5th/4th Gen) - Black/White",
-            "sku": "",
-            "price": 37.49,
-            "savings": 17.5,
-            "discount_percent": 46.6791144305148,
-            "priority_score": 422.21785867825406,
-            "reviews": 946,
-            "image_url": "images/.jpg"
+            "title": "PNY - 16GB Attach\u00e9 4 Type A USB 2.0 Flash Drive 5 - Pack - Black",
+            "sku": "5900264",
+            "price": 29.99,
+            "savings": 12.0,
+            "discount_percent": 40.01333777925976,
+            "priority_score": 434.76254213848404,
+            "reviews": 3166,
+            "image_url": "images/5900264.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -121,17 +121,6 @@
             "priority_score": 374.96744867885025,
             "reviews": 122,
             "image_url": "images/6560840.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "Apple - 11 - inch iPad Pro M4 chip Built for Apple Intelligence Wi - Fi 512GB with OLED - Space Black",
-            "sku": "5495364",
-            "price": 1099.0,
-            "savings": 50.0,
-            "discount_percent": 4.549590536851683,
-            "priority_score": 325.1987547582716,
-            "reviews": 273,
-            "image_url": "images/5495364.jpg"
         },
         {
             "category": "Computers and Tablets",

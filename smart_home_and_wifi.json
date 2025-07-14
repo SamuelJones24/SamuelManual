@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-07-13T13:23:03.646858",
+    "last_updated": "2025-07-13T20:00:15.495914",
     "deals": [
+        {
+            "category": "Smart Home and Wifi",
+            "title": "NETGEAR - Orbi 770 Series BE11000 Tri - band Mesh Wi - Fi 7 System (3 - pack) - White",
+            "sku": "6583240",
+            "price": 899.99,
+            "savings": 200.0,
+            "discount_percent": 22.222469138545982,
+            "priority_score": 674.977066984671,
+            "reviews": 93,
+            "image_url": "images/6583240.jpg"
+        },
         {
             "category": "Smart Home and Wifi",
             "title": "Google - Nest Doorbell Wired (2nd Generation) - Snow",

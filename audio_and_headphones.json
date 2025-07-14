@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-13T13:23:03.646858",
+    "last_updated": "2025-07-13T20:00:15.495914",
     "deals": [
         {
             "category": "Audio & Headphones",
@@ -19,8 +19,8 @@
             "price": 899.0,
             "savings": 260.0,
             "discount_percent": 28.9210233592881,
-            "priority_score": 875.8853945922488,
-            "reviews": 349,
+            "priority_score": 875.9882973040545,
+            "reviews": 350,
             "image_url": "images/6519391.jpg"
         },
         {
@@ -44,6 +44,17 @@
             "priority_score": 753.4965967982816,
             "reviews": 563,
             "image_url": "images/6422266.jpg"
+        },
+        {
+            "category": "Audio & Headphones",
+            "title": "Sonos - Beam (Gen 2) 5.0 Channel Smart Soundbar with Dolby Atmos - Black",
+            "sku": "6476041",
+            "price": 499.0,
+            "savings": 115.0,
+            "discount_percent": 23.04609218436874,
+            "priority_score": 637.3272576374088,
+            "reviews": 3289,
+            "image_url": "images/6476041.jpg"
         },
         {
             "category": "Audio & Headphones",
@@ -85,8 +96,8 @@
             "price": 299.0,
             "savings": 70.0,
             "discount_percent": 23.411371237458194,
-            "priority_score": 509.4417817571049,
-            "reviews": 1093,
+            "priority_score": 509.5076582613042,
+            "reviews": 1095,
             "image_url": "images/6568950.jpg"
         },
         {

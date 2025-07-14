@@ -1,6 +1,17 @@
 {
-    "last_updated": "2025-07-13T13:23:03.646858",
+    "last_updated": "2025-07-13T20:00:15.495914",
     "deals": [
+        {
+            "category": "Video Games",
+            "title": "Infinity Game Board - Other",
+            "sku": "6538280",
+            "price": 499.99,
+            "savings": 100.0,
+            "discount_percent": 20.00040000800016,
+            "priority_score": 483.94080015545285,
+            "reviews": 163,
+            "image_url": "images/6538280.jpg"
+        },
         {
             "category": "Video Games",
             "title": "Quest 3S 256GB \u2014 Get Batman: Arkham Shadow and a 3 - Month Trial of Meta Horizon+ Included \u2014 All - In - One Headset - White",
