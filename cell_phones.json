@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-14T01:28:38.264301",
+    "last_updated": "2025-07-14T07:27:28.549100",
     "deals": [
         {
             "category": "Cell Phones",
@@ -14,14 +14,14 @@
         },
         {
             "category": "Cell Phones",
-            "title": "Lively\u00ae - Jitterbug Flip2 Cell Phone for Seniors - Red",
-            "sku": "6538307",
+            "title": "Lively\u00ae - Jitterbug Flip2 Cell Phone for Seniors - Gray",
+            "sku": "6538309",
             "price": 79.99,
             "savings": 32.0,
             "discount_percent": 40.00500062507813,
             "priority_score": 466.79451837656825,
             "reviews": 2540,
-            "image_url": "images/6538307.jpg"
+            "image_url": "images/6538309.jpg"
         },
         {
             "category": "Cell Phones",
@@ -33,39 +33,6 @@
             "priority_score": 418.1470821707215,
             "reviews": 82,
             "image_url": "images/6572484.jpg"
-        },
-        {
-            "category": "Cell Phones",
-            "title": "Speck - ClickLock Wallet for Apple iPhones with MagSafe - Black",
-            "sku": "6550529",
-            "price": 29.99,
-            "savings": 15.0,
-            "discount_percent": 50.016672224074696,
-            "priority_score": 384.42315873474104,
-            "reviews": 288,
-            "image_url": "images/6550529.jpg"
-        },
-        {
-            "category": "Cell Phones",
-            "title": "Anker - Powerport III Nano Pro Duo 40W Fast Wall Charger (2x 20W USB - C) for iPhone 15 and Samsung - White",
-            "sku": "6482800",
-            "price": 24.99,
-            "savings": 10.0,
-            "discount_percent": 40.016006402561025,
-            "priority_score": 370.16229781391314,
-            "reviews": 589,
-            "image_url": "images/6482800.jpg"
-        },
-        {
-            "category": "Cell Phones",
-            "title": "Samsung - Galaxy S25 Ultra Clear Case - Transparent",
-            "sku": "6608581",
-            "price": 24.99,
-            "savings": 15.0,
-            "discount_percent": 60.02400960384154,
-            "priority_score": 351.882662360812,
-            "reviews": 50,
-            "image_url": "images/6608581.jpg"
         }
     ]
 }

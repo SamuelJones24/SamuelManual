@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-14T01:28:38.264301",
+    "last_updated": "2025-07-14T07:27:28.549100",
     "deals": [
         {
             "category": "Computers and Tablets",
@@ -37,13 +37,24 @@
         {
             "category": "Computers and Tablets",
             "title": "Speck - Balance Folio Case for Apple iPad Air 11\"(latest M3/M2), iPad Pro 11\"(3rd/2nd/1st Gen) & iPad Air 10.9\"(5th/4th Gen) - Black/White",
-            "sku": "6514563",
+            "sku": "",
             "price": 49.99,
             "savings": 30.0,
             "discount_percent": 60.01200240048009,
             "priority_score": 487.2165225881499,
             "reviews": 946,
-            "image_url": "images/6514563.jpg"
+            "image_url": "images/.jpg"
+        },
+        {
+            "category": "Computers and Tablets",
+            "title": "NETGEAR - Orbi 660 Series AX3800 Tri - Band Mesh Wi - Fi 6 System (3 - pack) - White",
+            "sku": "6598715",
+            "price": 349.99,
+            "savings": 99.0,
+            "discount_percent": 28.28652247207063,
+            "priority_score": 472.48081473253717,
+            "reviews": 39,
+            "image_url": "images/6598715.jpg"
         },
         {
             "category": "Computers and Tablets",
@@ -143,17 +154,6 @@
             "priority_score": 312.52701704757675,
             "reviews": 49,
             "image_url": "images/6612700.jpg"
-        },
-        {
-            "category": "Computers and Tablets",
-            "title": "NETGEAR - Orbi 870 Series BE21000 Tri - Band Mesh Wi - Fi 7 System (3 - pack) - White",
-            "sku": "6612971",
-            "price": 1299.99,
-            "savings": 50.0,
-            "discount_percent": 3.8461834321802475,
-            "priority_score": 202.2791195330853,
-            "reviews": 9,
-            "image_url": "images/6612971.jpg"
         }
     ]
 }
